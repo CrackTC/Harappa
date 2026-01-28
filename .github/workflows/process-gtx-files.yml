@@ -1,0 +1,103 @@
+name: Process GTX Files
+
+on:
+  push:
+    paths:
+      - "gtx/**"
+  pull_request:
+    types: [closed]
+    paths:
+      - "gtx/**"
+
+jobs:
+  process-gtx:
+    if: github.event_name == 'push' || (github.event_name == 'pull_request' && github.event.pull_request.merged == true)
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Configure Git
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+
+      - name: Get changed GTX files
+        id: changed-files
+        run: |
+          if [ "${{ github.event_name }}" == "pull_request" ]; then
+            CHANGED_FILES=$(git diff --name-only HEAD~1 HEAD -- gtx/)
+          else
+            if [ "${{ github.event.before }}" == "0000000000000000000000000000000000000000" ]; then
+              CHANGED_FILES=$(git diff --name-only HEAD~1 HEAD -- gtx/ 2>/dev/null || git ls-files gtx/)
+            else
+              CHANGED_FILES=$(git diff --name-only ${{ github.event.before }} ${{ github.sha }} -- gtx/)
+            fi
+          fi
+
+          echo "Changed files:"
+          echo "$CHANGED_FILES"
+
+          echo "CHANGED_FILES<<EOF" >> $GITHUB_ENV
+          echo "$CHANGED_FILES" >> $GITHUB_ENV
+          echo "EOF" >> $GITHUB_ENV
+
+      - name: Install dotnet
+        uses: actions/setup-dotnet@v5
+        with:
+          dotnet-version: '10.0.x'
+
+      - name: Build Roco
+        run: |
+          curl -O https://raw.githubusercontent.com/CrackTC/Roco/refs/heads/main/Roco.cs
+          dotnet publish Roco.cs
+          mv artifacts/Roco/Roco ./Roco
+
+      - name: Process changed GTX files
+        run: |
+          if [ -z "$CHANGED_FILES" ]; then
+            echo "No GTX files changed"
+            exit 0
+          fi
+
+          echo "$CHANGED_FILES" | while IFS= read -r file; do
+            if [ -n "$file" ] && [ -f "$file" ]; then
+              echo "Processing $file..."
+              ./Roco "$file"
+            fi
+          done
+
+      - name: Upload to Cloudflare R2
+        if: env.CHANGED_FILES != ''
+        run: |
+          # Configure AWS CLI for Cloudflare R2
+          aws configure set aws_access_key_id ${{ secrets.R2_ACCESS_KEY_ID }}
+          aws configure set aws_secret_access_key ${{ secrets.R2_SECRET_ACCESS_KEY }}
+          aws configure set region auto
+
+          # Upload only changed unity3d files to R2
+          for file in $(ls gtx/*.unity3d 2>/dev/null); do
+            if [ -n "$file" ] && [ -f "$file" ]; then
+              aws s3 cp "$file" s3://${{ secrets.R2_BUCKET_NAME }}/unity3d/ \
+                --endpoint-url ${{ secrets.R2_ENDPOINT_URL }}
+              echo "Uploaded: $file"
+            fi
+          done
+          echo "Changed files uploaded to Cloudflare R2"
+
+      - name: Commit and push changes
+        run: |
+          mkdir -p unity3d
+          mv gtx/*.unity3d unity3d/ 2>/dev/null || true
+          if [ -n "$(git status --porcelain unity3d/)" ]; then
+            git add unity3d/
+            git commit -m "Auto-generate unity3d files from GTX changes [skip ci]"
+            git push
+            echo "Changes committed and pushed"
+          else
+            echo "No changes to commit"
+          fi

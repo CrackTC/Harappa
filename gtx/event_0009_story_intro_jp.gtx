@@ -1,0 +1,30 @@
+event_0009_story_intro_title^なし|event_0009_story_intro_synopsis^なし|event_0009_story_intro_1000_102mis^あっ、{$P$}さんっ！
+よかった、ちょうど日焼け止めを探して……て？|event_0009_story_intro_1001_102mis^ふえやぁっ！　間違えました、ごめんなさい！
+{$P$}さんを探してたんですっ！|event_0009_story_intro_1002_p^そ、そうですか。
+どうかしたんですか？|event_0009_story_intro_1003_102mis^はい！　社長さんが、
+{$P$}さんを呼んでるんです。|event_0009_story_intro_1004_102mis^何でも、大切なお話があるんだとか。|event_0009_story_intro_1005_p^大切な話……何だろう。
+とにかく、社長に話を聞きに行ってきます。|event_0009_story_intro_1006_102mis^よろしくお願いしますね！
+いってらっしゃーい♪|event_0009_story_intro_1007_null^そして……。|event_0009_story_intro_1008_p^社長、音無さん、おはようございます。
+あれ？　音無さん、どうして落ちこんでるんですか？|event_0009_story_intro_1009_101kot^うう、実は……。さっき、1日かけて作ったデータを、
+うっかり消してしまいまして……。|event_0009_story_intro_1010_p^そ、そうですか、災難でしたね……。
+俺に手伝えることがあったら、言ってください。|event_0009_story_intro_1011_101kot^はい、ありがとうございます……
+ううっ、{$P$}さんお優しい……。|event_0009_story_intro_1012_p^それはそうと、社長。
+大切な話というのは……。|event_0009_story_intro_1013_president^うむ！　先日は、『クレシェンドブルー』の
+プロデュース、ご苦労だったね。|event_0009_story_intro_1014_president^おかげで、公演は大成功だった！　君にはやはり、
+プロデューサーとしての才能があるようだ。|event_0009_story_intro_1015_president^アイドル達と真摯に向き合う、
+その気持ちを、これからも忘れないでほしい。|event_0009_story_intro_1016_p^はいっ！|event_0009_story_intro_1017_president^君を見ていると、若いころの私を思い出すよ。
+そう、あれは、数十年前のことだ……。|event_0009_story_intro_1018_101kot^あの、社長？　できれば、そろそろ
+本題に入って頂いた方が……時間もありますし。|event_0009_story_intro_1019_president^おっと、そうだったね。おっほん。
+今日、君を呼んだのは他でもない。|event_0009_story_intro_1020_president^実は君に、新しいユニットを
+担当してほしいと考えているのだよ！|event_0009_story_intro_1021_president^その名も、『乙女ストーム！』だ！|event_0009_story_intro_1022_p^『乙女ストーム！』……！|event_0009_story_intro_1023_president^メンバーは、七尾百合子君、伊吹翼君、
+望月杏奈君、真壁瑞希君。|event_0009_story_intro_1024_president^そしてリーダーは、春日未来君だ！
+どうだね、引き受けてくれるかね？|event_0009_story_intro_1025_p^もちろんです！
+……それにしても、独特なユニット名ですね。|event_0009_story_intro_1026_president^ああ。覚えやすいだろう？
+我ながら、このネーミングには手応えを感じているよ。|event_0009_story_intro_1027_president^劇場に嵐を巻き起こしてほしい、
+という思いを込めてつけたユニット名だ。|event_0009_story_intro_1028_president^君達なら、必ずや、素晴らしい公演にできるはずだ！
+期待しているよ！|event_0009_story_intro_1029_p^はい！　任せてください！|event_0009_story_intro_1030_p^それじゃ、俺はこれから劇場に戻って、
+メンバーにユニット結成について知らせてきます。|event_0009_story_intro_1031_p^じゃあ、行きますけど……。
+あの、音無さん、頑張ってください……。|event_0009_story_intro_1032_101kot^ううっ、ありがとうございます……。
+{$P$}さんも、頑張ってくださいね！|event_0009_story_intro_1033_p^はい！|event_0009_story_intro_1034_p^（『乙女ストーム！』か。
+ずいぶんと個性的なメンバーが集まったユニットだな）|event_0009_story_intro_1035_p^（ユニットという名の、輝きの競演。
+新たなプラチナスターシアターの開演だ！）

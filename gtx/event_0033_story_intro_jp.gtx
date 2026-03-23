@@ -1,0 +1,25 @@
+event_0033_story_intro_title^プロローグ|event_0033_story_intro_synopsis^イベントコミュのプロローグです|event_0033_story_intro_1000_p^おはようございます。
+なんだか、今日はムワッとしますね……。|event_0033_story_intro_1001_102mis^うう、そうなんです。
+ちょっと、エアコンの調子が悪いみたいで……。|event_0033_story_intro_1002_p^これから暑くなる時期なのに、困りましたね。
+社長に相談してきましょうか。|event_0033_story_intro_1003_102mis^いいんですか？|event_0033_story_intro_1004_p^ええ、ちょうど届けたい書類があったので。
+それじゃ、いってきます。|event_0033_story_intro_1005_102mis^{$P$}さん、
+ありがとうございます！　いってらっしゃーい♪|event_0033_story_intro_1006_null^そして……|event_0033_story_intro_1007_101kot^お疲れさまです、{$P$}さん。
+何か急用ですか？|event_0033_story_intro_1008_p^劇場のエアコンが調子悪くて……。
+社長、業者さんに修理をお願いしてもいいですか？|event_0033_story_intro_1009_president^なるほど、状況はわかった。
+だが、業者さんに連絡する必要はないよ。|event_0033_story_intro_1010_president^そういう時は、私の出番だ！|event_0033_story_intro_1011_101kot^社長、またそんな事を……。そう言って、
+事務所のエアコンも直らなかったじゃないですか。|event_0033_story_intro_1012_president^いやいや、画期的な方法を編み出したのだよ。
+今度こそ大丈夫だ！|event_0033_story_intro_1013_p^社長にそんな特技が……！
+それじゃあすみませんが、修理お願いします！|event_0033_story_intro_1014_president^ふふふ、時代はDIYだよ、君！
+任せてくれたまえ！|event_0033_story_intro_1015_president^ところで、話は変わるが……ちょうど良かった。
+君に、大事な話があったのだよ。|event_0033_story_intro_1016_p^大事な話？
+もしかして……！|event_0033_story_intro_1017_president^ああ、君に任せたいユニットがあってね。
+その名も、『エターナルハーモニー』だ！|event_0033_story_intro_1018_101kot^ステキなユニット名ですよね。社長がオペラを
+見ていて、ピンときたユニット名らしいですよ！|event_0033_story_intro_1019_president^メンバーは、如月千早君、徳川まつり君、
+エミリー君、豊川風花君、ジュリア君の5人だ！|event_0033_story_intro_1020_president^どうだね、引き受けてくれるかね？|event_0033_story_intro_1021^もちろんです！|event_0033_story_intro_2000_p^もちろんです。
+ぜひ、プロデュースさせてください！|event_0033_story_intro_2001_president^うむ！　実に頼もしい返事だ！|event_0033_story_intro_2002_president^これからも、アイドル達と二人三脚……
+いや、五十三人五十四脚……。|event_0033_story_intro_2003_president^あっ、それとも、私と音無君と青羽君も入れて
+五十六人五十七脚かな？　いやいや、早坂君も……。|event_0033_story_intro_2004_president^……とにかく、
+そんな感じで劇場の発展につとめてもらいたい！|event_0033_story_intro_2005_p^はいっ！|event_0033_story_intro_2006_101kot^頑張ってくださいね、{$P$}さん！
+事務所も忙しくなりそうですよ～。ふふっ。|event_0033_story_intro_2007_p^ありがとうございます、音無さん。
+よろしくお願いします！|event_0033_story_intro_2008_p^（エターナルハーモニーか……。その名の通り、
+永遠に語り継がれるような公演にしたいな！）

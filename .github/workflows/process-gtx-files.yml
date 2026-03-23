@@ -1,17 +1,12 @@
 name: Process GTX Files
 
 on:
-  push:
-    paths:
-      - "gtx/**"
-  pull_request:
-    types: [closed]
-    paths:
-      - "gtx/**"
+  schedule:
+    - cron: "0 0 * * *" # Runs daily at midnight
+  workflow_dispatch:
 
 jobs:
   process-gtx:
-    if: github.event_name == 'push' || (github.event_name == 'pull_request' && github.event.pull_request.merged == true)
     runs-on: ubuntu-latest
 
     steps:
@@ -26,63 +21,27 @@ jobs:
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
 
-      - name: Get changed GTX files
-        id: changed-files
-        run: |
-          if [ "${{ github.event_name }}" == "pull_request" ]; then
-            CHANGED_FILES=$(git diff --name-only HEAD~1 HEAD -- gtx/)
-          else
-            if [ "${{ github.event.before }}" == "0000000000000000000000000000000000000000" ]; then
-              CHANGED_FILES=$(git diff --name-only HEAD~1 HEAD -- gtx/ 2>/dev/null || git ls-files gtx/)
-            else
-              CHANGED_FILES=$(git diff --name-only ${{ github.event.before }} ${{ github.sha }} -- gtx/)
-            fi
-          fi
-
-          echo "Changed files:"
-          echo "$CHANGED_FILES"
-
-          echo "CHANGED_FILES<<EOF" >> $GITHUB_ENV
-          echo "$CHANGED_FILES" >> $GITHUB_ENV
-          echo "EOF" >> $GITHUB_ENV
-
       - name: Install dotnet
         uses: actions/setup-dotnet@v5
         with:
-          dotnet-version: '10.0.x'
+          dotnet-version: "10.0.x"
 
-      - name: Build Roco
+      - name: Fetch files from Paratranz and generate GTX files
+        run: dotnet build/FetchParatranz.cs ${{ secrets.PARATRANZ_TOKEN }} gtx
+
+      - name: Check for changes and upload to Cloudflare R2
         run: |
-          curl -O https://raw.githubusercontent.com/CrackTC/Roco/refs/heads/main/Roco.cs
-          dotnet publish Roco.cs
-          mv artifacts/Roco/Roco ./Roco
+          CHANGED_FILES=$(git status --porcelain gtx/ | awk '{print $2}' | base64 -w 0)
 
-      - name: Process changed GTX files
-        run: |
-          if [ -z "$CHANGED_FILES" ]; then
-            echo "No GTX files changed"
-            exit 0
-          fi
-
-          echo "$CHANGED_FILES" | while IFS= read -r file; do
-            if [ -n "$file" ] && [ -f "$file" ]; then
-              echo "Processing $file..."
-              ./Roco "$file"
-            fi
-          done
-
-      - name: Upload to Cloudflare R2
-        if: env.CHANGED_FILES != ''
-        run: |
           # Configure AWS CLI for Cloudflare R2
           aws configure set aws_access_key_id ${{ secrets.R2_ACCESS_KEY_ID }}
           aws configure set aws_secret_access_key ${{ secrets.R2_SECRET_ACCESS_KEY }}
           aws configure set region auto
 
-          # Upload only changed unity3d files to R2
-          for file in $(ls gtx/*.unity3d 2>/dev/null); do
-            if [ -n "$file" ] && [ -f "$file" ]; then
-              aws s3 cp "$file" s3://${{ secrets.R2_BUCKET_NAME }}/unity3d/ \
+          # Upload only changed gtx files to R2
+          for file in $(echo $CHANGED_FILES | base64 -d); do
+            if [ -f "$file" ]; then
+              aws s3 cp "$file" s3://${{ secrets.R2_BUCKET_NAME }}/ \
                 --endpoint-url ${{ secrets.R2_ENDPOINT_URL }}
               echo "Uploaded: $file"
             fi
@@ -91,13 +50,11 @@ jobs:
 
       - name: Commit and push changes
         run: |
-          mkdir -p unity3d
-          mv gtx/*.unity3d unity3d/ 2>/dev/null || true
-          if [ -n "$(git status --porcelain unity3d/)" ]; then
-            git add unity3d/
-            git commit -m "Auto-generate unity3d files from GTX changes [skip ci]"
-            git push
-            echo "Changes committed and pushed"
+          if [ -n "$(git status --porcelain gtx/)" ]; then
+             echo "Changes detected in GTX files. Committing and pushing to GitHub."
+             git add gtx/
+             git commit -m "Update GTX files from Paratranz"
+             git push origin HEAD:main
           else
-            echo "No changes to commit"
+             echo "No changes detected in GTX files. Skipping commit and push."
           fi

@@ -54,7 +54,7 @@ zip.Entries.ToList()
 
             var key = csv.GetField<string>(0);
             var value = csv.GetField<string>(1);
-            if (csv.TryGetField<string>(2, out var translation))
+            if (csv.TryGetField<string>(2, out var translation) && !string.IsNullOrEmpty(translation))
                 value = translation;
             writer.Write($"{key}^{value}");
         }

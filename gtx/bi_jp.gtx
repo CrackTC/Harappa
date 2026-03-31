@@ -35,7 +35,7 @@ ld_connection_error_message_-10401^发生了认证错误
 无法申请加入|ld_connection_error_message_-41114^未找到交流室
 返回标题中|ld_connection_error_message_-41115^交流室已被解散
 返回标题中|ld_connection_error_message_-41116^由于有其他成员参选了交流室拥有者
-无法成为交流室拥有者|ld_connection_error_message_-41201^已领取知名度报酬|ld_connection_error_message_-41203^没有可以领取的报酬|ld_connection_error_message_-41301^有游玩中的歌曲|ld_connection_error_message_-41302^Live券不足|ld_connection_error_message_-41303^Live已结束|ld_connection_error_message_-41304^这首歌曲的公开期限已截止|ld_connection_error_message_-41306^由于购买限制，现在无法游玩这首歌曲|ld_connection_error_message_-41307^发生了错误
+无法成为交流室拥有者|ld_connection_error_message_-41201^已领取知名度报酬|ld_connection_error_message_-41203^没有可以领取的报酬|ld_connection_error_message_-41301^有游玩中的歌曲|ld_connection_error_message_-41302^LIVE券不足|ld_connection_error_message_-41303^LIVE已结束|ld_connection_error_message_-41304^这首歌曲的公开期限已截止|ld_connection_error_message_-41306^由于购买限制，现在无法游玩这首歌曲|ld_connection_error_message_-41307^发生了错误
 返回标题中|ld_connection_error_message_-41400^邮件错误|ld_connection_error_message_-41401^已经读过邮件|ld_connection_error_message_-41402^已经回复过邮件|ld_connection_error_message_-41403^无法回复邮件|ld_connection_error_message_-41600^博客错误|ld_connection_error_message_-41801^卡片Lv和技能Lv均已达到上限|ld_connection_error_message_-41904^由于正在维护
 无法购买服装|ld_connection_error_message_-41905^由于未满足购买条件
 无法购买服装|ld_connection_error_message_-41906^服装数据发生更新
@@ -68,8 +68,8 @@ ld_connection_error_message_-10401^发生了认证错误
 返回标题中|ld_connection_error_message_-42512^由于超出了交换期限
 操作失败|ld_connection_error_message_-42513^由于超出行动举办期限
 交换失败|ld_connection_error_message_-42515^数据发生了更新
-返回标题中|ld_connection_error_message_-42516^没有有效的期间限定Auto Live PASS|ld_connection_error_message_-42517^道具使用失败
-返回标题中|ld_connection_error_message_-42524^Live Skip次数不足|ld_connection_error_message_-42525^有效的Live Skip次数不足|ld_connection_error_message_-42531^由于部分道具将超出持有上限，无法购买|ld_connection_error_message_-42532^由于交换上限发生了变更，操作失败
+返回标题中|ld_connection_error_message_-42516^没有有效的期间限定AUTO LIVE PASS|ld_connection_error_message_-42517^道具使用失败
+返回标题中|ld_connection_error_message_-42524^LIVE SKIP次数不足|ld_connection_error_message_-42525^有效的LIVE SKIP次数不足|ld_connection_error_message_-42531^由于部分道具将超出持有上限，无法购买|ld_connection_error_message_-42532^由于交换上限发生了变更，操作失败
 返回标题中|ld_connection_error_message_-42601^百万宝石不足|ld_connection_error_message_-42701^由于发生了通讯错误，返回标题中
 ※先前的工作结果将被正确保存|ld_connection_error_message_-42702^由于连续工作开放期限已截止
 操作失败
@@ -115,8 +115,8 @@ ld_connection_error_message_-10401^发生了认证错误
 返回小游戏首页中|ld_connection_error_message_-44601^由于期限截止，操作失败
 返回标题中|ld_connection_error_message_-44606^由于超出使用期限，使用失败
 返回标题中|ld_connection_error_message_-45001^活动已经结束|ld_connection_error_message_-45002^硬币不足|ld_connection_error_message_-46001^未在活动举办时间内|ld_connection_error_message_-46002^游玩活动歌曲所需的
-道具数不足。|ld_connection_error_message_-46003^由于未在活动举办时间内，Live开演失败
-返回标题中|ld_connection_error_message_-46004^未完成巡回准备|ld_connection_error_message_-46005^无法使用Live券|ld_connection_error_message_-46006^花费不足|ld_connection_error_message_-46007^指定的花费倍率无效|ld_connection_error_message_-46008^由于正在举办活动，无法解散
+道具数不足。|ld_connection_error_message_-46003^由于未在活动举办时间内，LIVE开演失败
+返回标题中|ld_connection_error_message_-46004^未完成巡回准备|ld_connection_error_message_-46005^无法使用LIVE券|ld_connection_error_message_-46006^花费不足|ld_connection_error_message_-46007^指定的花费倍率无效|ld_connection_error_message_-46008^由于正在举办活动，无法解散
 ※如果「只有拥有者」加入了交流室，可以解散交流室|ld_connection_error_message_-46011^该剧情已经解锁过
 返回标题中|ld_connection_error_message_-46014^交换期限已截止
 返回标题中|ld_connection_error_message_-46015^由于正在进行统计，无法进行退出和除名操作|ld_connection_error_message_-46022^排名统计中|ld_connection_error_message_-46023^已到达交换次数上限|ld_connection_error_message_-46024^硬币不足|ld_connection_error_message_-46025^那一天的活动Talk已经全部解锁|ld_connection_error_message_-46026^回忆拼图不足|ld_connection_error_message_-46027^未在活动Talk举办时间内|ld_connection_error_message_-46028^未在指定道具的使用时间内|ld_connection_error_message_-46029^未在活动Talk结束时间内|ld_connection_error_message_-46030^未在活动举办时间内
@@ -126,7 +126,7 @@ ld_connection_error_message_-10401^发生了认证错误
 返回标题中|ld_connection_error_message_-46050^交换期限已截止
 返回标题中|ld_connection_error_message_-47001^未在举办时间内|ld_connection_error_message_-47002^未在投票时间内|ld_connection_error_message_-47003^未满足投票条件|ld_connection_error_message_-47004^此功能正在维护中
 返回标题中|ld_connection_error_message_-47006^无法向投票对象之外投票|ld_connection_error_message_-47007^无效的投票|ld_connection_error_message_-48104^由于通讯失败，返回标题中
-※先前的Offer结果已被正常处理|ld_connection_error_message_-49001^未持有交换用的票券|ld_connection_error_message_-49002^已经进行过交换|ld_connection_error_message_-49003^已经交换过指定的服装|ld_connection_error_message_-49004^未在卡片交换时间内|ld_connection_error_message_-49101^由于Promotion活动的进行顺序有误
+※先前的OFFER结果已被正常处理|ld_connection_error_message_-49001^未持有交换用的票券|ld_connection_error_message_-49002^已经进行过交换|ld_connection_error_message_-49003^已经交换过指定的服装|ld_connection_error_message_-49004^未在卡片交换时间内|ld_connection_error_message_-49101^由于Promotion活动的进行顺序有误
 操作失败
 返回标题中|ld_connection_error_message_-49102^Promotion活动内容不足
 返回标题中|ld_connection_error_message_-49103^已经设定了Promotion活动内容
@@ -158,9 +158,9 @@ ld_connection_error_message_-10401^发生了认证错误
 为了更新数据，将返回标题|ld_connection_error_message_-60605^无法仅使用付费百万宝石进行交换|ld_connection_error_message_-69002^参加未完成
 请通过剧场横幅参加|ld_connection_error_message_-69004^该账号无法进行游玩
 如果您对此没有头绪
-请联系我们的支持中心，抱歉|common_title^剧场时光|common_value_0s1^{0}/{1}|common_value_canma^{0:#,0}|common_value_0^{0}|common_value_color_0^<color=#FF0098FF>{0}</color>|common_value_color_up^<color=#00A0E9FF>{0}</color>|common_value_color_down^<color=#FF004FFF>{0}</color>|common_unknown_01^？|common_unknown_02^？？|common_unknown_03^？？？|common_none_03^0|common_string_size_over^{0}…|common_sort_ask^升序|common_sort_desc^降序|common_sort_get^获得时间|common_nsd_button^排序|common_fan_001^{0}人|common_fan_010^{0}万人|common_fan_011^{0}万{1}人|common_fan_100^{0}亿人|common_fan_101^{0}亿{1}人|common_fan_110^{0}亿{1}万人|common_fan_111^{0}亿{1}万{2}人|common_parts_00^【|common_parts_01^】|common_parts_02^【{0}】|common_parts_03^<color=#FF0000>(-{0})</color>|common_unit_000^{0}天|common_unit_001^{0}小时|common_unit_002^{0}分钟|common_unit_003^{0}次|common_unit_004^{0}个|common_unit_005^{0}个|common_unit_006^{0}枚|common_unit_007^{0}年{1}月{2}日|common_unit_008^{0}件|common_unit_009^{0}以上|common_unit_010^{0}次以上|common_unit_011^{0:#,0}资金|common_unit_012^{0}pt|common_unit_013^{0}个|common_unit_014^{0}%|common_unit_015^{0}/{1}/{2}|common_unit_016^<color=#ff0000>{0}</color>|common_unit_017^{0}位|common_unit_018^{0}话|common_prof_00^{0}cm|common_prof_01^{0}岁|common_prof_02^{0}kg|common_prof_03^{0}月{1}日|common_prof_04^{0} / {1} / {2}|common_awakening_rarity^{0}＋|common_type_00^Princess|common_type_01^Fairy|common_type_02^Angel|common_type_03^所有类型|common_type_04^全|common_type_05^All|common_type_ex^Ex|common_type_extra^Ex|common_param_00^Vocal|common_param_01^Dance|common_param_02^Visual|common_param_03^生命值|common_param_04^总Appeal值|common_rarity_1^N|common_rarity_2^R|common_rarity_3^SR|common_rarity_4^SSR|common_new^New|common_square^■|common_header_00_00^Lv|common_header_00_01^{0}/{1}|common_header_01_00^体力|common_header_01_01^剩余 {0:D2}:{1:D2}|common_header_01_02^MAX|common_header_01_03^{0}/{1}|common_header_02_00^制作人槽|common_header_popup_title_00^使用道具|common_footer_00^剧场|common_footer_01^偶像|common_footer_02^剧情|common_footer_03^Live|common_footer_04^工作|common_footer_05^扭蛋|common_footer_06^导航|common_footer_10^组合编成|common_footer_11^课程|common_footer_12^觉醒|common_footer_13^MASTER课程|common_footer_14^卡片一览|common_footer_14_b^卡片/服装|common_footer_15^偶像详情|common_footer_16^礼物|common_footer_20^主线|common_footer_21^偶像|common_footer_22^其它|common_footer_23^活动|common_footer_24^特殊|common_footer_25^嘉宾|common_footer_26^Offer|common_footer_40^Offer|common_footer_lock_00^Lv5解锁|common_asset_downloader_0^数据下载中|common_asset_downloader_1^请在通讯环境良好的场所进行|common_topics_default_tip_title^能量饮料|common_topics_default_tip_msg^可以使用能量饮料
+请联系我们的支持中心，抱歉|common_title^剧场时光|common_value_0s1^{0}/{1}|common_value_canma^{0:#,0}|common_value_0^{0}|common_value_color_0^<color=#FF0098FF>{0}</color>|common_value_color_up^<color=#00A0E9FF>{0}</color>|common_value_color_down^<color=#FF004FFF>{0}</color>|common_unknown_01^？|common_unknown_02^？？|common_unknown_03^？？？|common_none_03^0|common_string_size_over^{0}…|common_sort_ask^升序|common_sort_desc^降序|common_sort_get^获得时间|common_nsd_button^排序|common_fan_001^{0}人|common_fan_010^{0}万人|common_fan_011^{0}万{1}人|common_fan_100^{0}亿人|common_fan_101^{0}亿{1}人|common_fan_110^{0}亿{1}万人|common_fan_111^{0}亿{1}万{2}人|common_parts_00^【|common_parts_01^】|common_parts_02^【{0}】|common_parts_03^<color=#FF0000>(-{0})</color>|common_unit_000^{0}天|common_unit_001^{0}小时|common_unit_002^{0}分钟|common_unit_003^{0}次|common_unit_004^{0}个|common_unit_005^{0}个|common_unit_006^{0}枚|common_unit_007^{0}年{1}月{2}日|common_unit_008^{0}件|common_unit_009^{0}以上|common_unit_010^{0}次以上|common_unit_011^{0:#,0}资金|common_unit_012^{0}pt|common_unit_013^{0}个|common_unit_014^{0}%|common_unit_015^{0}/{1}/{2}|common_unit_016^<color=#ff0000>{0}</color>|common_unit_017^{0}位|common_unit_018^{0}话|common_prof_00^{0}cm|common_prof_01^{0}岁|common_prof_02^{0}kg|common_prof_03^{0}月{1}日|common_prof_04^{0} / {1} / {2}|common_awakening_rarity^{0}＋|common_type_00^Princess|common_type_01^Fairy|common_type_02^Angel|common_type_03^所有类型|common_type_04^全|common_type_05^All|common_type_ex^Ex|common_type_extra^Ex|common_param_00^VOCAL|common_param_01^DANCE|common_param_02^VISUAL|common_param_03^生命值|common_param_04^总APPEAL值|common_rarity_1^N|common_rarity_2^R|common_rarity_3^SR|common_rarity_4^SSR|common_new^New|common_square^■|common_header_00_00^Lv|common_header_00_01^{0}/{1}|common_header_01_00^体力|common_header_01_01^剩余 {0:D2}:{1:D2}|common_header_01_02^MAX|common_header_01_03^{0}/{1}|common_header_02_00^制作人槽|common_header_popup_title_00^使用道具|common_footer_00^剧场|common_footer_01^偶像|common_footer_02^剧情|common_footer_03^LIVE|common_footer_04^工作|common_footer_05^扭蛋|common_footer_06^导航|common_footer_10^组合编成|common_footer_11^课程|common_footer_12^觉醒|common_footer_13^MASTER课程|common_footer_14^卡片一览|common_footer_14_b^卡片/服装|common_footer_15^偶像详情|common_footer_16^礼物|common_footer_20^主线|common_footer_21^偶像|common_footer_22^其它|common_footer_23^活动|common_footer_24^特殊|common_footer_25^嘉宾|common_footer_26^OFFER|common_footer_40^OFFER|common_footer_lock_00^Lv5解锁|common_asset_downloader_0^数据下载中|common_asset_downloader_1^请在通讯环境良好的场所进行|common_topics_default_tip_title^能量饮料|common_topics_default_tip_msg^可以使用能量饮料
 回复体力|common_topics_default_rumor_title^剧场的秘密①|common_topics_default_rumor_msg^据说到了晚上
-不知从何处会传来声音|common_topics_default_comic_title^剧场① Let's LIVE!!|common_popup_btn_ok^OK|common_popup_btn_yes^是|common_popup_btn_no^否|common_popup_btn_cancel^取消|common_popup_btn_back^返回|common_popup_btn_close^关闭|common_popup_btn_decide^决定|common_popup_btn_title^返回标题|common_popup_btn_retry^重试|common_popup_btn_top^前往首页|common_popup_btn_live^前往Live|common_popup_btn_skip^跳过|common_popup_btn_next^下一个|common_popup_btn_prev^上一个|common_popup_btn_home^前往剧场|common_popup_btn_reset^重置|common_popup_btn_blog^前往博客|common_popup_voice_dl_title^语音数据下载|common_popup_voice_dl_message^要播放语音吗？|common_popup_voice_dl_warning_00^选择播放语音时，
+不知从何处会传来声音|common_topics_default_comic_title^剧场① Let's LIVE!!|common_popup_btn_ok^OK|common_popup_btn_yes^是|common_popup_btn_no^否|common_popup_btn_cancel^取消|common_popup_btn_back^返回|common_popup_btn_close^关闭|common_popup_btn_decide^决定|common_popup_btn_title^返回标题|common_popup_btn_retry^重试|common_popup_btn_top^前往首页|common_popup_btn_live^前往LIVE|common_popup_btn_skip^跳过|common_popup_btn_next^下一个|common_popup_btn_prev^上一个|common_popup_btn_home^前往剧场|common_popup_btn_reset^重置|common_popup_btn_blog^前往博客|common_popup_voice_dl_title^语音数据下载|common_popup_voice_dl_message^要播放语音吗？|common_popup_voice_dl_warning_00^选择播放语音时，
 将会下载必要的语音数据|common_popup_voice_dl_warning_01^剧情的语音数据会在由于游戏重启等
 移动到标题界面时删除|common_popup_voice_dl_btn_1^不播放语音|common_popup_voice_dl_btn_2^播放语音|common_popup_error_title^错误|common_popup_error_msg_0^发生了未知的错误
 ErrorCode [{0}]|common_popup_error_msg_1^{0}
@@ -196,7 +196,7 @@ ErrorCode [{0}]|common_popup_error_btn_0^重试|common_popup_network_error_title
 
 {0}|common_popup_title^确认|common_popup_data_dl_00^数据下载|common_popup_data_dl_01^数据发生了更新
 返回标题中|common_popup_01^数据读取失败
-请从标题界面重新开始Live|common_popup_04^通讯错误|common_popup_05^通讯中发生了错误|common_popup_10^進行途中のデータが存在しますが、開催期間外となりましたので終了します|common_confirm_att_pu_title_00^トラッキング許可にご協力をお願いします|common_confirm_att_pu_title_01^详情|common_confirm_att_pu_label_0^トラッキング許可方法|common_confirm_att_pu_msg_00^たくさんあるアプリの中から本アプリを選んでいただき
+请从标题界面重新开始LIVE|common_popup_04^通讯错误|common_popup_05^通讯中发生了错误|common_popup_10^進行途中のデータが存在しますが、開催期間外となりましたので終了します|common_confirm_att_pu_title_00^トラッキング許可にご協力をお願いします|common_confirm_att_pu_title_01^详情|common_confirm_att_pu_label_0^トラッキング許可方法|common_confirm_att_pu_msg_00^たくさんあるアプリの中から本アプリを選んでいただき
 ありがとうございます。
 「次へ」を押すとトラッキング許可のダイアログが表示されます。
 許可をすることでゲーム外であなたが興味を示しそうな
@@ -232,29 +232,29 @@ Developed by Bandai Namco Studios Inc.|title_03^Ver.{0}|title_04^ID:{0}|title_05
 
 本アプリと連携しているバンダイナムコIDを
 ご入力ください|title_maintenance_00^维护|title_maintenance_01^现在正在维护中
-详情请查看公告|title_live_restart_00^Live恢复确认|title_live_restart_01^游戏在Live途中被关闭
-要从中途恢复Live吗？
-（将不会消耗体力或Live券）|title_live_restart_01_b^游戏在Live途中被关闭
-要从中途恢复Live吗？
-（将不会消耗体力、Live券、资金等）|title_live_restart_01_c^游戏在Live途中被关闭
-要从中途恢复Live吗？
-※将不会消耗体力、Live券、资金等
-※运行不稳定时，推荐切换为2D进行游玩|title_live_restart_02^将不恢复Live直接前往剧场
-如果不从此处恢复Live，之后将无法恢复
-（将不会返还已经消耗的体力和Live券）
+详情请查看公告|title_live_restart_00^LIVE恢复确认|title_live_restart_01^游戏在LIVE途中被关闭
+要从中途恢复LIVE吗？
+（将不会消耗体力或LIVE券）|title_live_restart_01_b^游戏在LIVE途中被关闭
+要从中途恢复LIVE吗？
+（将不会消耗体力、LIVE券、资金等）|title_live_restart_01_c^游戏在LIVE途中被关闭
+要从中途恢复LIVE吗？
+※将不会消耗体力、LIVE券、资金等
+※运行不稳定时，推荐切换为2D进行游玩|title_live_restart_02^将不恢复LIVE直接前往剧场
+如果不从此处恢复LIVE，之后将无法恢复
+（将不会返还已经消耗的体力和LIVE券）
 
-确定吗？|title_live_restart_02_b^将不恢复Live直接前往剧场
-如果不从此处恢复Live，之后将无法恢复
-（将不会返还已经消耗的体力、Live券、资金）
+确定吗？|title_live_restart_02_b^将不恢复LIVE直接前往剧场
+如果不从此处恢复LIVE，之后将无法恢复
+（将不会返还已经消耗的体力、LIVE券、资金）
 
-确定吗？|title_live_restart_03^Live恢复出错|title_live_restart_04^恢复Live失败
+确定吗？|title_live_restart_03^LIVE恢复出错|title_live_restart_04^恢复LIVE失败
 将前往剧场|title_live_restart_05^由于不是今天的数据
-无法恢复Live
+无法恢复LIVE
 将前往剧场|title_job_restart_00^工作恢复确认|title_job_restart_01^游戏在工作途中被关闭
 要从头开始工作吗？
 （将不会消耗体力）|title_job_restart_02^将不恢复工作直接前往剧场
 如果不从此处恢复工作，之后将无法恢复
-（将不会返还已经消耗的体力、Live券）
+（将不会返还已经消耗的体力、LIVE券）
 
 确定吗？|title_job_restart_03^工作恢复出错|title_job_restart_04^恢复工作失败
 将前往剧场|title_start_00^开始游戏|title_start_01^要继承账号数据开始游戏时请选择「继承账号数据」

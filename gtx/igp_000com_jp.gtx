@@ -1,22 +1,22 @@
-igp_000com_intro_1000_null_a^ある日……|igp_000com_intro_1001_se_a^♪～|igp_000com_intro_1002_p_a^あれ、社長から電話だ……
-はい、{$P$}です！|igp_000com_intro_1003_president_a^やあ、君！　少々聞きたいんだが、
-この後、時間はあるかね？|igp_000com_intro_1004_p_a^はい！　大丈夫ですが、何かありましたか？|igp_000com_intro_1005_president_a^実は、折り入って君に相談したい事があってね。
-すぐに事務所まで来てもらえないだろうか。|igp_000com_intro_1006_p_a^折り入って……？
-わかりました、すぐに伺います！|igp_000com_intro_1007_president_a^よろしく頼んだよ！|igp_000com_intro_1008_p_a^（社長の呼び出しを受けて、事務所にやってきた。
-随分改まった様子だったけど、何の話だろう……）|igp_000com_intro_1009_president_a^早速来てくれてありがとう。常々思っていたが、
-君の行動力や早さは、称賛に値するね！|igp_000com_intro_1010_p_a^ありがとうございます。それで社長、
-折り入って相談というのは……？|igp_000com_intro_1011_president_a^実は君とアイドル諸君に、ビッグニュースがあってね！
-まずは、これを見てくれたまえ。|igp_000com_intro_1012_p_a^封書ですね。
-これは……『参加資格』？|igp_000com_intro_1013_president_a^うむ！　これによると、大手メディアや広告代理店等の
-合同主催で、ある大会が開かれる事になったそうだ。|igp_000com_intro_1014_president_a^古今東西のアイドルが一同に集い、今この瞬間、
-最も輝いているアイドルが誰であるかを競い合う……。|igp_000com_intro_1015_president_a^アイドル業界を揺るがすその大会……
-名称を、『iGP（アイドルグランプリ）』という！|igp_000com_intro_1016_p_a^iGP（アイドルグランプリ）……！|igp_000com_intro_1017_president_a^すごい話だよ、君！　メディアや広告代理店の合同主催
-ともなれば、優勝者には成功が約束されたも同然だ。|igp_000com_intro_1018_p_a^そうですね。ここで優勝すれば、
-名実共にトップアイドルという事に……。|igp_000com_intro_1023_president_a^我が765プロが誇る劇場のアイドル諸君も、
-これまで、日々研鑽を重ねてきた……。|igp_000com_intro_1024_president_a^ここでひとつ、挑戦してみてはどうかと思ってね。
-それで、君を呼んだ訳だよ。|igp_000com_intro_1025_p_a^劇場のアイドル達を、iGPに……！？|igp_000com_intro_1026_president_a^今の君やアイドル諸君なら、
-挑戦する資格は十分あるはずだ。|igp_000com_intro_1027_president_a^ただし、出場するのはひとりだ。同じ事務所から、
-複数同時には出場できない事になっていてね。|igp_000com_intro_1028_president_a^大会に挑戦するという事は、今まで以上に
+igp_000com_intro_1000_null_a^某一天……|igp_000com_intro_1001_se_a^♪～|igp_000com_intro_1002_p_a^咦，是社长打来的电话……
+您好，我是{$P$}！|igp_000com_intro_1003_president_a^哟，你！我想问一下，
+这之后，你有时间吗？|igp_000com_intro_1004_p_a^有的！我这边没问题，请问有什么事吗？|igp_000com_intro_1005_president_a^其实，我有件重要的事情想和你商量
+能请你立刻来一趟事务所吗|igp_000com_intro_1006_p_a^重要的事情……？
+明白了，我这就过去！|igp_000com_intro_1007_president_a^那就拜托你了！|igp_000com_intro_1008_p_a^（接到社长的传唤，我来到了事务所
+他平时难得这么严肃，到底要谈什么呢……）|igp_000com_intro_1009_president_a^感谢你能这么快赶来。我一直都觉得，
+你的行动力和效率实在值得称赞！|igp_000com_intro_1010_p_a^谢谢您的夸奖。那么社长，
+您说有重要的事情商量是指……？|igp_000com_intro_1011_president_a^其实对于你和各位偶像来说，有一个大新闻！
+首先，请看看这个|igp_000com_intro_1012_p_a^是一封信啊
+这是……『参赛资格』？|igp_000com_intro_1013_president_a^嗯！据上面所说，大型媒体和广告代理商等机构
+将联合主办一场大赛|igp_000com_intro_1014_president_a^来自天南海北的偶像将齐聚一堂，共同角逐出此时此刻
+最闪耀的偶像究竟是谁……|igp_000com_intro_1015_president_a^这场足以撼动偶像业界的大赛……
+其名为『iGP（偶像大奖赛）』！|igp_000com_intro_1016_p_a^iGP（偶像大奖赛）……！|igp_000com_intro_1017_president_a^这是了不得的事啊，你！既然是媒体和广告代理商联合主办
+优胜者的成功简直就等同于得到了保证一样|igp_000com_intro_1018_p_a^是啊。如果能在这里拿下优胜，
+就能成为名副其实的顶级偶像……|igp_000com_intro_1023_president_a^我们765Pro引以为傲的剧场的偶像諸君们，
+至今为止也一直在日复一日地刻苦钻研……|igp_000com_intro_1024_president_a^所以我想，是时候让她们去挑战一下了。
+这就是我把你叫来的原因。|igp_000com_intro_1025_p_a^让剧场的偶像们去参加iGP……！？|igp_000com_intro_1026_president_a^如果是现在的你和各位偶像，
+绝对有充足的资格去挑战。|igp_000com_intro_1027_president_a^只不过，参赛者只有一名。规定同一家事务所，
+不能有多人同时参赛。|igp_000com_intro_1028_president_a^大会に挑戦するという事は、今まで以上に
 アイドルと密な関係を築かなければなるまい……。|igp_000com_intro_1029_president_a^アイドルと二人三脚でレッスンや仕事を重ね、
 全ての大会を着実に勝ち進んでいく努力が必要だ。|igp_000com_intro_1030_p_a^二人三脚……。|igp_000com_intro_1031_president_a^だが、常にアイドル達の傍にいる君になら任せられる。
 予選大会への挑戦者を選び、そして……|igp_000com_intro_1032_president_a^アイドルを、頂点へと導いてくれたまえ！|igp_000com_intro_1033_p_a^社長……わかりました！

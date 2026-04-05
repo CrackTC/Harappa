@@ -218,18 +218,18 @@ Developed by Bandai Namco Studios Inc.|title_03^Ver.{0}|title_04^ID:{0}|title_05
 可在万代南梦宫ID的网站内进行设置|title_menu_popup_41^前往网站|title_menu_popup_49^认证错误　【{0}】
 发生了认证错误
 无法从此设备访问
-可能已经在其他设备上继承了账号|title_menu_popup_50^账号继承绑定完成|title_menu_popup_51^账号继承绑定已完成|title_menu_popup_52^データ引き継ぎ登録失敗|title_menu_popup_53^データ引き継ぎ登録に失敗しました
+可能已经在其他设备上继承了账号|title_menu_popup_50^账号继承绑定完成|title_menu_popup_51^账号继承绑定已完成|title_menu_popup_52^账号继承绑定失败|title_menu_popup_53^账号继承绑定失败
 
-なお、以前のゲームデータを引き継ぐにはアプリケーションを再インストールする必要があります|title_menu_popup_54^データ引き継ぎ完了|title_menu_popup_55^データ引き継ぎが完了しました
+另外，要继承之前的游戏数据，需要重新安装应用程序|title_menu_popup_54^账号继承绑定完成|title_menu_popup_55^账号继承绑定已完成
 
-ライブ設定が初期化されています
-再度設定を行ってください|title_menu_popup_56^データ引き継ぎ失敗|title_menu_popup_57^データ引き継ぎに失敗しました|title_menu_popup_58^ご入力いただいたバンダイナムコIDは
-既に他の端末と連携されています|title_menu_popup_59^ご入力いただいたバンダイナムコIDと
-すでに連携されています|title_menu_popup_60^ご入力いただいたバンダイナムコIDには
-本アプリのデータが連携されておりません
+live设定已初始化
+请重新进行设定|title_menu_popup_56^账号继承绑定失败|title_menu_popup_57^账号继承绑定失败|title_menu_popup_58^输入的万代南梦宫账号
+已经与其他设备绑定|title_menu_popup_59^与输入的万代南梦宫账号
+已经完成绑定|title_menu_popup_60^所输入的万代南梦宫账号
+尚未关联本应用的数据
 
-本アプリと連携しているバンダイナムコIDを
-ご入力ください|title_maintenance_00^维护|title_maintenance_01^现在正在维护中
+请输入与本应用完成关联的
+万代南梦宫账号|title_maintenance_00^维护|title_maintenance_01^现在正在维护中
 详情请查看公告|title_live_restart_00^LIVE恢复确认|title_live_restart_01^游戏在LIVE途中被关闭
 要从中途恢复LIVE吗？
 （将不会消耗体力或LIVE券）|title_live_restart_01_b^游戏在LIVE途中被关闭
@@ -276,45 +276,45 @@ Developed by Bandai Namco Studios Inc.|title_03^Ver.{0}|title_04^ID:{0}|title_05
 200MB以上的空闲容量
 
 来游玩游戏|title_important_announce_title^重要公告|title_connection_error_0^通讯错误|title_connection_error_1^通讯失败|title_user_custom_title_bg_error_0^错误|title_user_custom_title_bg_error_1^由于读取标题插图失败
-已自动变更为默认设置|title_userdata_delete_error^删除账户失败|title_consent_module_pu_title^关于用户信息的使用|title_consent_module_pu_tab1^概要|title_consent_module_pu_tab2^分析|title_consent_module_pu_tab3^广告投放|title_consent_module_pu_check1^分析|title_consent_module_pu_check2^广告投放|title_consent_module_pu_button1^全部拒绝|title_consent_module_pu_button2^接受选择的项目|title_consent_module_pu_button3^全部接受|title_consent_module_maintenance_pu_title^错误|title_consent_module_maintenance_pu_msg^此功能正在维护中|title_consent_module_timeout_pu_title^错误|title_consent_module_timeout_pu_msg^通讯失败|title_termsofservice_pu_title^使用条款同意确认|title_termsofservice_pu_footer00^不同意|title_termsofservice_pu_footer01^同意|title_termsofservice_pu_btn00^使用条款|title_termsofservice_pu_btn01^隐私政策|title_termsofservice_pu_btn02^全球许可|title_termsofservice_pu_msg00^利用規約、プライバシーポリシー、グローバルコンセントに
-同意してから本サービスをご利用ください。
-また、未成年の方は、法定代理人（ご両親等）の同意が必要です。
-※ないようがわからないときは
-おうちのひとにがめんをみせてください。|title_termsofservice_pu_msg01_1^利用規約が更新されました。
-同意してから本サービスをご利用ください。
-また、未成年の方は、法定代理人（ご両親等）の同意が必要です。
-※ないようがわからないときは
-おうちのひとにがめんをみせてください。|title_termsofservice_pu_msg01_2^プライバシーポリシーが更新されました。
-同意してから本サービスをご利用ください。
-また、未成年の方は、法定代理人（ご両親等）の同意が必要です。
-※ないようがわからないときは
-おうちのひとにがめんをみせてください。|title_termsofservice_pu_msg01_3^利用規約、プライバシーポリシーが更新されました。
-同意してから本サービスをご利用ください。
-また、未成年の方は、法定代理人（ご両親等）の同意が必要です。
-※ないようがわからないときは
-おうちのひとにがめんをみせてください。|title_termsofservice_pu_msg01_4^グローバルコンセントが更新されました。
-同意してから本サービスをご利用ください。
-また、未成年の方は、法定代理人（ご両親等）の同意が必要です。
-※ないようがわからないときは
-おうちのひとにがめんをみせてください。|title_termsofservice_pu_msg01_5^利用規約、グローバルコンセントが更新されました。
-同意してから本サービスをご利用ください。
-また、未成年の方は、法定代理人（ご両親等）の同意が必要です。
-※ないようがわからないときは
-おうちのひとにがめんをみせてください。|title_termsofservice_pu_msg01_6^プライバシーポリシー、グローバルコンセントが更新されました。
-同意してから本サービスをご利用ください。
-また、未成年の方は、法定代理人（ご両親等）の同意が必要です。
-※ないようがわからないときは
-おうちのひとにがめんをみせてください。|title_termsofservice_pu_msg01_7^利用規約、プライバシーポリシー、グローバルコンセントが
-更新されました。
-同意してから本サービスをご利用ください。
-また、未成年の方は、法定代理人（ご両親等）の同意が必要です。
-※ないようがわからないときは
-おうちのひとにがめんをみせてください。|title_termsofservice_pu_msg02^データ引き継ぎが行われました。
-利用規約、プライバシーポリシー、グローバルコンセントに
-同意してから本サービスをご利用ください。
-また、未成年の方は、法定代理人（ご両親等）の同意が必要です。
-※ないようがわからないときは
-おうちのひとにがめんをみせてください。|title_sst_pu_titme^确认|title_sst_pu_message^要启动摄影棚吗？
+已自动变更为默认设置|title_userdata_delete_error^删除账户失败|title_consent_module_pu_title^关于用户信息的使用|title_consent_module_pu_tab1^概要|title_consent_module_pu_tab2^分析|title_consent_module_pu_tab3^广告投放|title_consent_module_pu_check1^分析|title_consent_module_pu_check2^广告投放|title_consent_module_pu_button1^全部拒绝|title_consent_module_pu_button2^接受选择的项目|title_consent_module_pu_button3^全部接受|title_consent_module_maintenance_pu_title^错误|title_consent_module_maintenance_pu_msg^此功能正在维护中|title_consent_module_timeout_pu_title^错误|title_consent_module_timeout_pu_msg^通讯失败|title_termsofservice_pu_title^使用条款同意确认|title_termsofservice_pu_footer00^不同意|title_termsofservice_pu_footer01^同意|title_termsofservice_pu_btn00^使用条款|title_termsofservice_pu_btn01^隐私政策|title_termsofservice_pu_btn02^全球许可|title_termsofservice_pu_msg00^请先同意使用条款、隐私政策、全球用户同意书后，
+再使用本服务。
+此外，未成年用户需获得法定代理人（如父母等）的同意。
+※ 若不明白内容时，
+请将内容拿给家中大人看。|title_termsofservice_pu_msg01_1^使用条款已更新，
+请再同意后使用本服务。
+此外，未成年用户需获得法定代理人（如父母等）的同意。
+※ 若不明白内容时，
+请将内容拿给家中大人看。|title_termsofservice_pu_msg01_2^隐私政策已更新，
+请再同意后使用本服务。
+此外，未成年用户需获得法定代理人（如父母等）的同意。
+※ 若不明白内容时，
+请将内容拿给家中大人看。|title_termsofservice_pu_msg01_3^使用条款、隐私政策已更新，
+请再同意后使用本服务。
+此外，未成年用户需获得法定代理人（如父母等）的同意。
+※ 若不明白内容时，
+请将内容拿给家中大人看。|title_termsofservice_pu_msg01_4^全球用户同意书已更新，
+请再同意后使用本服务。
+此外，未成年用户需获得法定代理人（如父母等）的同意。
+※ 若不明白内容时，
+请将内容拿给家中大人看。|title_termsofservice_pu_msg01_5^使用条款、全球用户同意书已更新，
+请再同意后使用本服务。
+此外，未成年用户需获得法定代理人（如父母等）的同意。
+※ 若不明白内容时，
+请将内容拿给家中大人看。|title_termsofservice_pu_msg01_6^隐私政策、全球用户同意书已更新，
+请再同意后使用本服务。
+此外，未成年用户需获得法定代理人（如父母等）的同意。
+※ 若不明白内容时，
+请将内容拿给家中大人看。|title_termsofservice_pu_msg01_7^使用条款、隐私政策、全球用户同意书
+已更新，
+请再同意后使用本服务。
+此外，未成年用户需获得法定代理人（如父母等）的同意。
+※ 若不明白内容时，
+请将内容拿给家中大人看。|title_termsofservice_pu_msg02^账号继承绑定已完成。
+请先同意使用条款、隐私政策、全球用户同意书后，
+再使用本服务。
+此外，未成年用户需获得法定代理人（如父母等）的同意。
+※ 若不明白内容时，
+请将内容拿给家中大人看。|title_sst_pu_titme^确认|title_sst_pu_message^要启动摄影棚吗？
 
 ※摄影棚也可以通过选择「剧场＞设施移动」后
 点击右上角的「摄影棚」菜单来启动|title_sst_pu_chkbox_text^下次不再显示|title_sst_pu_in_text_warning_message^从标题界面启动时，将无法获得登录奖励等

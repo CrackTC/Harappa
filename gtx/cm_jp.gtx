@@ -7681,7 +7681,7 @@ Off Vocalは、「コミュ＞イベント＞思い出」で「思い出ピー�
 よろしいですか？|present_popup_receive_01^プレゼントを古いものから{0}件まで受け取ります
 （受け取り期限の近いものから優先して受け取ります）
 よろしいですか？|present_popup_receive_02^领取了以下的礼物|present_popup_receive_10^百万宝石 {0}个|present_popup_receive_11^{0}资金|present_popup_receive_12^LIVE券 {0}枚|present_popup_receive_13^扭蛋硬币pt {0}pt|present_popup_receive_14^扭蛋券 {0}枚|present_popup_receive_15^体力回复道具 {0}个|present_popup_receive_16^觉醒道具 {0}个|present_popup_receive_17^课程道具 {0}个|present_popup_receive_18^MASTER课程道具 {0}个|present_popup_receive_19^卡片 {0}张|present_popup_receive_20^称号 {0}个|present_popup_receive_21^服装 {0}件|present_popup_receive_22^由于已经拥有而被转换为了道具|present_popup_receive_23^已经持有的卡片已转换为道具|present_popup_receive_new_1^百万宝石 {0}个|present_popup_receive_new_2^{0}资金|present_popup_receive_new_3^LIVE券 {0}枚|present_popup_receive_new_4^扭蛋硬币pt {0}pt|present_popup_receive_new_5^扭蛋券 {0}枚|present_popup_receive_new_6^体力回复道具 {0}个|present_popup_receive_new_7^觉醒道具 {0}个|present_popup_receive_new_8^课程道具 {0}个|present_popup_receive_new_9^MASTER课程道具 {0}个|present_popup_receive_new_10^{0}pt|present_popup_receive_new_11^{0}枚|present_popup_receive_new_12^活动用道具 {0}个|present_popup_receive_new_13^自选券 {0}枚|present_popup_receive_new_14^活动公演权 {0}个|present_popup_receive_new_15^ピース {0}個|present_popup_receive_new_16^ドリームフラワー {0}個|present_popup_receive_new_17^活动剧情解锁道具 {0}个|present_popup_receive_new_18^PST MASTER课程道具 {0}个|present_popup_receive_new_19^FES限定MASTER课程道具 {0}个|present_popup_receive_new_20^投票券 {0}枚|present_popup_error_00^プレゼントが見つかりませんでした
-受け取り期限が過ぎているなどの原因が考えられます|present_popup_max_title^所持上限|present_popup_max_00^由于到达持有上限，部分礼物无法领取|present_popup_max_01^由于到达持有上限，无法领取|present_pop_title^礼物|present_pop_tab_0^领取|present_pop_button_0^排序|present_pop_button_1^全部领取|present_pop_button_3^领取|present_pop_msg_0^到期的礼物会自动消失|present_pop_msg_1^没有可以领取的礼物|present_pop_msg_2^获得时间 {0:D2}月{1:D2}日 {2:D2}点{3:D2}分|present_pop_tab_1^历史|present_pop_button_4^礼物|present_pop_button_5^扭蛋|present_pop_msg_3^最多显示500条1周内领取的礼物|present_pop_msg_4^最多显示500条1周内的白金扭蛋结果|present_pop_msg_5^暂无礼物领取历史|present_pop_msg_6^暂无扭蛋历史|present_pop_msg_7^领取时间 {0:D2}月{1:D2}日 {2:D2}点{3:D2}分|present_pop_rarity_0^ノーマル|present_pop_rarity_1^レア|present_pop_rarity_2^Sレア|present_pop_rarity_3^SSレア|present_pop_error_0^由于到达持有上限，以下的道具未被领取|present_pop_msg_8^礼物领取|present_pop_msg_9^领取了礼物|present_pop_msg_10^所持済みのカードのためアイテムに変換されました|present_pop_msg_11^将从领取列表顶部开始按顺序领取{0}份礼物
+受け取り期限が過ぎているなどの原因が考えられます|present_popup_max_title^所持上限|present_popup_max_00^由于到达持有上限，部分礼物无法领取|present_popup_max_01^由于到达持有上限，无法领取|present_pop_title^礼物|present_pop_tab_0^领取|present_pop_button_0^排序|present_pop_button_1^全部领取|present_pop_button_3^领取|present_pop_msg_0^到期的礼物会自动消失|present_pop_msg_1^没有可以领取的礼物|present_pop_msg_2^获得时间 {0:D2}月{1:D2}日 {2:D2}点{3:D2}分|present_pop_tab_1^历史|present_pop_button_4^礼物|present_pop_button_5^扭蛋|present_pop_msg_3^最多显示500条1周内领取的礼物|present_pop_msg_4^最多显示500条1周内的白金扭蛋结果|present_pop_msg_5^暂无礼物领取历史|present_pop_msg_6^暂无扭蛋历史|present_pop_msg_7^领取时间 {0:D2}月{1:D2}日 {2:D2}点{3:D2}分|present_pop_rarity_0^ノーマル|present_pop_rarity_1^レア|present_pop_rarity_2^Sレア|present_pop_rarity_3^SSレア|present_pop_error_0^由于到达持有上限，以下的道具未被领取|present_pop_msg_8^礼物领取|present_pop_msg_9^领取了礼物|present_pop_msg_10^由于已经持有，卡片已被转换为道具|present_pop_msg_11^将从领取列表顶部开始按顺序领取{0}份礼物
 （临近领取期限的将优先被领取）
 确定吗？|present_pop_msg_12^将从领取列表顶部开始按顺序领取{0}份礼物
 确定吗？|present_pop_msg_13^领取了以下的礼物
@@ -8579,7 +8579,7 @@ CLEAR|live_sr_popup_dtl_04^SCORE <color=#FF0098FF>{0}</color> 以上|live_sr_pop
 なお、一部の特別なアイテムは、自動的に使用されるアイテムには含まれておりません。
  
 ■自動使用予定アイテム確認について
-ライブチケット所持枚数がMAXに到達するか、所持枚数がMAXをオーバーする手前までお仕事を実行する際に使用する予定のアイテム个数が表示されます。
+ライブチケット所持枚数がMAXに到達するか、所持枚数がMAXをオーバーする手前までお仕事を実行する際に使用する予定のアイテム個数が表示されます。
 
 なお、自然回復やレベルアップ、当日限定ドリンクの消費期限切れ等により、自動的に使用される予定のアイテム数が増減する場合があります。
 
@@ -8608,7 +8608,7 @@ CLEAR|live_sr_popup_dtl_04^SCORE <color=#FF0098FF>{0}</color> 以上|live_sr_pop
  
 ■ミリオンジュエルについて
 自動的に元気を回復するためにミリオンジュエルを消費する場合は、無償ミリオンジュエルから優先的に使用されます。
-ミリオンジュエルを消費して元気を回復する際は、1回につきミリオンジュエル50个を消費して、元気を全回復することができます。
+ミリオンジュエルを消費して元気を回復する際は、1回につきミリオンジュエル50個を消費して、元気を全回復することができます。
 ミリオンジュエルより優先度の高いアイテムが不足している場合、ミリオンジュエルが自動で消費される場合がありますのでご注意ください。
  
 ※本機能は特定のイベント期間中のみご利用いただける特別な機能となります。|jobv_popup_toggle_00^OFF|jobv_popup_toggle_01^ON|jobv_popup_toggle_02^常にON|jobv_popup_auto_recovery_fixed_on_msg^本イベント期間中はデフォルトで「常にON」が選択された状態になります
@@ -11012,11 +11012,11 @@ ALLSTARS|navi_lesson_wear_change_popup_warning^仅显示可以更改训练服的
 オプション|navi_consent_module_opt_out_pu_warning^各項目をチェックすると同意、
 チェックを外すと
 同意撤回になります|navi_consent_module_opt_out_pu_button^同意を更新|navi_consent_module_opt_out_maintenance_pu_title^错误|navi_consent_module_opt_out_maintenance_pu_msg^本機能は現在メンテナンス中です|navi_support_privacy_policy^プライバシー
-ポリシー|navi_support_privacy_policy_pu_title^プライバシーポリシー|navi_back2title_popup_title_00^确认|navi_back2title_popup_msg_00^要返回标题界面吗？|navi_gallery_label_0^ヒミツ|navi_gallery_label_1^剧场幕后|navi_gallery_label_2^四格|navi_gallery_label_3^ホワイトボード|navi_gallery_label_4^CH@T|navi_gallery_list_popup_title^一覧|navi_gallery_whiteboard_label_0^{0:D4}年{1:D2}月{2:D2}日|navi_dl_00^下载|navi_dl_01^将要下载游戏数据
+ポリシー|navi_support_privacy_policy_pu_title^プライバシーポリシー|navi_back2title_popup_title_00^确认|navi_back2title_popup_msg_00^要返回标题界面吗？|navi_gallery_label_0^秘密|navi_gallery_label_1^剧场幕后|navi_gallery_label_2^四格|navi_gallery_label_3^白板|navi_gallery_label_4^CH@T|navi_gallery_list_popup_title^一览|navi_gallery_whiteboard_label_0^{0:D4}年{1:D2}月{2:D2}日|navi_dl_00^下载|navi_dl_01^将要下载游戏数据
 确认吗？（大小{0}MB）
 
 ※请在信号良好的地方进行下载
-　推荐在Wi-Fi环境下下载|navi_dl_02^ダウンロード中|navi_dl_03^完了|navi_dl_04^ゲームデータのダウンロードが完了しました|navi_dl_05^ダウンロード済みです|navi_dl_06^下载|navi_dl_07^ダウンロードする容量を確認しています
+　推荐在Wi-Fi环境下下载|navi_dl_02^下载中|navi_dl_03^完了|navi_dl_04^ゲームデータのダウンロードが完了しました|navi_dl_05^ダウンロード済みです|navi_dl_06^下载|navi_dl_07^ダウンロードする容量を確認しています
 しばらくおまちください|navi_dl_08^下载|navi_dl_09^お使いの端末の空き容量が不足しております
 空き容量の確認をお願い申し上げます|navi_send_present^已经以礼物形式发放|navi_dl_30^下载|navi_dl_31^ダウンロードする容量を確認しています
 しばらくおまちください|navi_dl_32^下载|navi_dl_33^将要下载游戏数据

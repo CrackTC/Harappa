@@ -6617,7 +6617,7 @@ Princess|common_param_05^Lv|common_param_06^技能|common_param_07^技能Lv|comm
 イベント専用ページへ移動します|common_check_no_get_event_pt_pu_msg_07^中断したプロモーション活動、
 もしくは開催中のエレガントステージがあります
 イベント専用ページへ移動します|common_check_no_get_event_pt_pu_btn_00^前往活动|common_song_download_pu_title^下载|common_song_download_pu_msg^将要下载歌曲|common_result_idol_bonus_msg_00^<size=14>×</size><size=16>{0:#.##}</size>|common_getitem_pu_msg_0^获得了以下的道具|common_getitem_pu_msg_1^解锁了以下的歌曲|common_getitem_pu_msg_2^获得了以下的服装|common_getitem_pu_msg_3^获得了以下的称号|common_getitem_pu_msg_4^以下的道具已经直接发放到库存|common_getitem_pu_msg_5^以下的道具已经以礼物形式发放|common_getitem_pu_msg_6^领取了以下的卡片|common_getitem_pu_msg_7^以下的卡片已经以礼物形式发放|common_getitem_pu_msg_8^获得了以下的卡片|common_getitem_pu_msg_99^获得了以下的报酬|common_getitem_pu_item_warning_0^最大所持数を超えた分は加算されませんでした|common_getitem_pu_warning_0^获得的道具可以从礼物中领取|common_getitem_pu_warning_1^道具将直接发放|common_getitem_pu_warning_2^服装将直接发放|common_getitem_pu_warning_3^已经以礼物形式发放|common_getitem_pu_warning_4^已直接发放|common_getitem_pu_warning_5^卡片已直接发放|common_costume_icon_possesion^<size=14>×</size>{0}|common_defalut_p_call_text^{0}P|common_costume_exchange_confirm_pu_title^交換衣装の確認|common_costume_exchange_confirm_pu_msg^以下の衣装と交換します
-本当によろしいですか？|common_costume_exchange_result_pu_title^交换结果|common_costume_exchange_result_pu_msg^以下の衣装を獲得しました！|common_costume_exchange_result_pu_warning^服装将直接发放|common_costume_exchange_done^已交换|greeting_title^バレンタインデー|greeting_desc^特別なコミュが閲覧できます|greeting_filter_title_1^排序|greeting_confirm_pu_title^みんなに会いに行く|greeting_confirm_pu_message^みんなに会いに行きますか？
+本当によろしいですか？|common_costume_exchange_result_pu_title^交换结果|common_costume_exchange_result_pu_msg^以下の衣装を獲得しました！|common_costume_exchange_result_pu_warning^服装将直接发放|common_costume_exchange_done^已交换|greeting_title^ホワイトデー|greeting_desc^特別なコミュが閲覧できます|greeting_filter_title_1^排序|greeting_confirm_pu_title^みんなに会いに行く|greeting_confirm_pu_message^みんなに会いに行きますか？
 まだ見ていないコミュが優先再生されます|greeting_confirm_pu_warning^表示されているアイドルのコミュが再生されます|greeting_play_continuous^みんなに会いに行く|tutorial_name_input_00^名前入力|tutorial_name_input_01^プロデューサー名を入力してください|tutorial_name_input_02^请输入最多{0}个字符
 制作人名之后可以变更|tutorial_name_input_10^名前確認|tutorial_name_input_11^{0}P でよろしいですか？|tutorial_name_input_12^好的|tutorial_name_input_13^取消|tutorial_title_0044^确认|tutorial_text_0044^先に進みますか？
 もう一度練習しますか？|tutorial_popup_btn_0044_retry^もう一度|tutorial_popup_btn_0044_end^先へ進む|tutorial_pu_text_0020^説明画面を閉じますか？|tutorial_pu_text_0021^次へ進みますか？|tutorial_pu_check_text_00^下次不再显示|tutorial_tips_title^765プロライブ劇場|tutorial_tips_00^765プロ新プロジェクトとして立ち上がった劇場です
@@ -6967,7 +6967,7 @@ SPボタンをタッチするとSPアタックが発生します|tutorial_info80
 解放済みの楽曲の中から1曲をセレクトしてくれます|tutorial_info91_05_title^アイドル達が決めてくれるおまかせ公演！|tutorial_info91_05^ライブに関する設定をぜんぶアイドル達が決めてくれます
 どんな楽曲やユニットになるかわくわくしちゃいますね|tutorial_info91_06_title^課題曲やイベント楽曲を選曲したい時は？|tutorial_info91_06^スライドパネルのジャケットをタッチすると、対象楽曲をすぐに
 選曲できます！
-スライドパネルはタッチやスワイプで表示をスライドできます|tutorial_info92_00_title^アイテムデイとは|tutorial_info92_00^日替わりで指定されるタイプのライブやお仕事をすることで
+スライドパネルはタッチやスワイプで表示をスライドできます|tutorial_info92_00_title^道具日是什么|tutorial_info92_00^日替わりで指定されるタイプのライブやお仕事をすることで
 該当するタイプのアイテムやカードのみを獲得することができます|tutorial_info93_00_title^Birthday Live|tutorial_info93_00^「蝶々むすび」または誕生日アイドルの「ソロ曲」で
 Birthday Liveが開催できます|tutorial_info93_01_title^Birthday Live|tutorial_info93_01^誕生日のアイドルをセンターにして、Birthday Liveを開催しよう！
 条件を満たしていると、ライブ開演ボタンの表記が変化！|tutorial_info93_02_title^Birthday Liveコミュについて|tutorial_info93_02^Birthday LiveのLIVE REPORTは誕生日限定の特別なコメントに！
@@ -7009,11 +7009,11 @@ Birthday Liveが開催できます|tutorial_info93_01_title^Birthday Live|tutori
 SSR+まで育成すると「ドリーム・プレリュード+」も獲得！|tutorial_info101_01_title^4周年記念カードを育成しよう！|tutorial_info101_01^アナザーアピールは1st, 2nd, 3rdカードと同じアピールです
 いずれかを☆３にすることで解放することができます|tutorial_info101_02_title^トレーニングptを獲得しよう|tutorial_info101_02^育成にはライブやお仕事で獲得できるトレーニングptが必要です|tutorial_info101_03_title^トレーニングptを獲得しよう|tutorial_info101_03^トレーニングミッションがあります！
 達成するとトレーニングptを多く獲得できますよ！|tutorial_info101_04_title^覚醒ミッションについて|tutorial_info101_04^SSR+に育成する前に覚醒ミッションを達成する必要があります|tutorial_info101_05_title^トレーニングを完了すると？|tutorial_info101_05^アイドルからお礼のメッセージが届きます♪|tutorial_info101_06_title^未所持の4周年記念カードを獲得♪|tutorial_info101_06^4thカードを☆１に育成するごとに引換回数が１増えます！|tutorial_info101_07_title^未所持の4周年記念カードを獲得♪|tutorial_info101_07^また4thカードを１枚でも所持していれば
-ログインするだけでも引換回数が１増えます！|tutorial_info103_00_title^BOT VOL.3パスについて|tutorial_info103_00^期間中にBOT VOL.3ポイントを集めて
-BOT VOL.3パスの報酬を獲得しよう！|tutorial_info103_01_title^BOT VOL.3ポイントについて|tutorial_info103_01^ライブやお仕事で「元気」を消費すると
-BOT VOL.3ポイントを集めることができます|tutorial_info103_02_title^BOT VOL.3チケットについて|tutorial_info103_02^ショップ内で購入できるBOT VOL.3チケットを使用することで
-BOT VOL.3パスの追加報酬を解放できます|tutorial_info103_03_title^BOT VOL.3チケットについて|tutorial_info103_03^BOT VOL.3チケット1枚で
-1グループ分のプレミアム報酬とメールを解放できます|tutorial_info103_04_title^BOT VOL.3チケットについて|tutorial_info103_04^プレミアム報酬解放後、獲得条件を満たしている報酬は
+ログインするだけでも引換回数が１増えます！|tutorial_info103_00_title^BOT VOL.4パスについて|tutorial_info103_00^期間中にBOT VOL.4ポイントを集めて
+BOT VOL.4パスの報酬を獲得しよう！|tutorial_info103_01_title^BOT VOL.4ポイントについて|tutorial_info103_01^ライブやお仕事で「元気」を消費すると
+BOT VOL.4ポイントを集めることができます|tutorial_info103_02_title^BOT VOL.4チケットについて|tutorial_info103_02^ショップ内で購入できるBOT VOL.4チケットを使用することで
+BOT VOL.4パスの追加報酬を解放できます|tutorial_info103_03_title^BOT VOL.4チケットについて|tutorial_info103_03^BOT VOL.4チケット1枚で
+1グループ分のプレミアム報酬とメールを解放できます|tutorial_info103_04_title^BOT VOL.4チケットについて|tutorial_info103_04^プレミアム報酬解放後、獲得条件を満たしている報酬は
 まとめて獲得することができます|tutorial_info103_05_title^特別報酬について|tutorial_info103_05^特別報酬は全ての報酬獲得後、500ポイントごとに
 最大35000ポイントまで報酬を獲得できます|tutorial_info103_06_title^衣装交換について|tutorial_info103_06^BOTパス共通衣装引換券はBOTシリーズのお好きなプレミアムパス特典
 衣装と交換できます|tutorial_info93_03_title^称号|tutorial_info93_03^誕生日当日のみ追加される期間限定ミッションを達成すると
@@ -7630,26 +7630,25 @@ Off Vocalは、「コミュ＞イベント＞思い出」で「思い出ピー�
 　ください。</size>|home_banner_set_user_setting_entryigpprerelease_result_pu_title^エントリー結果|home_banner_set_user_setting_entryigpprerelease_result_pu_msg^「プロデュースストーリーチャレンジ アイドルグランプリ プロローグ体験版」へのエントリーが完了しました。|home_memorial_board_setting_pu_title^名前入力|home_memorial_board_setting_pu_msg1^掲載するプロデューサー名を入力してください|home_memorial_board_setting_pu_msg2^请输入最多10个字符|home_memorial_board_setting_pu_msg3^※変更できるのは<color=#FF004FFF>{0}/{1}/{2} {3:00}:{4:00}</color>までです|home_memorial_board_setting_pu_msg4^掲載されるプロデューサー名に「P」の文字は追加されません
 入力されたプロデューサー名がそのまま掲載されます
 利用規約に抵触するなど不適切と判断したものは、
-予告なく変更・削除させていただく場合がございます|home_memorial_board_setting_pu_msg5^名前を掲載したくない方はチェックを入れてください|home_memorial_board_setting_pu_msg6^プロデューサー名が掲載される公演日一覧|home_memorial_board_setting_pu_msg7^名前は掲載されません|home_memorial_board_setting_pu_button^設定する|home_memorial_board_remind_pu_title^名前設定期限のお知らせ|home_memorial_board_remind_pu_msg1^掲載するプロデューサー名の設定期限が近づいています|home_memorial_board_remind_pu_msg2^現在設定されているプロデューサー名|home_memorial_board_remind_pu_msg3^設定期限まで　{0}|home_memorial_board_remind_pu_button^設定変更|home_memorial_board_info_pu_title^注意事项|home_memorial_board_info_pu_msg^▼アイテム販売について	
-<color=#FF004FFF>本アイテムの販売期間は2026/01/16（金）15:00～2026/01/25（日） 23:59までです。</color>
+予告なく変更・削除させていただく場合がございます|home_memorial_board_setting_pu_msg5^名前を掲載したくない方はチェックを入れてください|home_memorial_board_setting_pu_msg6^プロデューサー名が掲載される公演日一覧|home_memorial_board_setting_pu_msg7^名前は掲載されません|home_memorial_board_setting_pu_button^設定する|home_memorial_board_remind_pu_title^名前設定期限のお知らせ|home_memorial_board_remind_pu_msg1^掲載するプロデューサー名の設定期限が近づいています|home_memorial_board_remind_pu_msg2^現在設定されているプロデューサー名|home_memorial_board_remind_pu_msg3^設定期限まで　{0}|home_memorial_board_remind_pu_button^設定変更|home_memorial_board_info_pu_title^注意事项|home_memorial_board_info_pu_msg^▼アイテム販売について
+<color=#FF004FFF>本アイテムの販売期間は2026/03/13（金）15:00～2026/03/22（日） 23:59までです。</color>
 アイテムの販売価格は1アイテムセットにつき有償ミリオンジュエル1,500個での販売となります。
 同じ公演日のアイテムセットを複数購入することはできません。
 購入セットの日付を誤って購入した場合の変更はできません。予めご了承ください。
 アイテムセット購入後は、お客様都合によるキャンセルは受け付けておりません。
 販売期間やアイテムセットの内容、その他予定については予告なく変更となる場合がございます。
 
-アイテムセット購入者のプロデューサー名は、2026/03/14（土）・03/15（日）に北九州メッセ（旧：西日本総合展示場 新館）で開催予定のライブ会場に設置される公式が作成する応援パネル、ならびにライブ開演前に上映するサンクスロールに掲載されます。
+アイテムセット購入者のプロデューサー名は、2026/05/05（火・祝）・05/06（水・祝）に有明アリーナで開催予定のライブ会場に設置される公式が作成する応援パネル、ならびにライブ開演前に上映するサンクスロールに掲載されます。
 複数公演のアイテムセットを購入した場合も、各公演ごとに応援プロデューサーとしてパネル・サンクスロールに掲載されます。
 応援パネル・サンクスロールにプロデューサー名を掲載したくない場合、『プロデューサー名を掲載しない』を選択することで掲載されなくなります。
-ライブが中止・延期の場合には延期公演会場に掲載予定ですが、開場規模や運営状況等により掲載不可となる場合もございますので、予めご了承ください。
-諸事情により公演中止となった場合でも本アイテムセットの返金対応は予定しておりませんので、あらかじめご了承ください。
-購入した主演アイドル自主練中のつぶやきボイスについては、ミリシタアプリ内のみで視聴できます。
-「応援パネル・サンクスロールへのプロデューサー名エントリー」以外の応援セット詳細については、アプリ内をご確認ください
-	
-▼プロデューサー名の登録について	
-<color=#FF004FFF>プロデューサー名の変更期間は本アイテム購入時から2026/02/01（日） 23:59までです。</color>
+ライブが中止・延期の場合には延期公演会場に掲載予定ですが、会場規模や運営状況等により掲載不可となる場合もございますので、予めご了承ください。
+諸事情により公演中止となった場合でも本アイテムセットの返金対応は予定しておりませんので、予めご了承ください。
+後日配布の各主演アイドル自主練中のつぶやきボイスについては、ミリシタアプリ内のみで視聴できます。
+
+▼プロデューサー名の登録について
+<color=#FF004FFF>プロデューサー名の変更期間は本アイテム購入時から2026/03/25（水） 23:59までです。</color>
 本アイテムセット購入時点でミリシタアプリ内に設定されているプロデューサー名が初期設定されます。
-<color=#FF004FFF>本施策で作成の都合により、ミリシタで設定可能なプロデューサー名であっても、応援時のプロデューサー名としては設定できない場合がございます。
+<color=#FF004FFF>本施策では作成の都合により、ミリシタで設定可能なプロデューサー名であっても、応援時のプロデューサー名としては設定できない場合がございます。
 過去にアプリ側で設定したプロデューサー名に、現在登録できない文字等が設定されている場合、アプリ側で設定したデフォルトのプロデューサー名『ミリシタ』が初期設定されます。
 登録できない文字が含まれていた場合には、設定されていたプロデューサー名への再変更はできません。
 本施策でプロデューサー名を変更しても、アプリ側のプロデューサー名は変更されません。</color>
@@ -7657,24 +7656,21 @@ Off Vocalは、「コミュ＞イベント＞思い出」で「思い出ピー�
 プロデューサー名は他プロデューサー名と重複する場合があります。
 以下の要素が含まれていることが判明した場合、パネル・サンクスロールへの掲載の対象外とさせていただきます。
 これらに該当する内容のプロデューサー名を設定することはお止めください。
-<b>
 １．当社または第三者の所有権、著作権を含む知的財産権、名誉、信用、プライバシー等の権利を侵害するもの。
 ２．わいせつ、残虐または差別に相当するもの、その他第三者に不快感を与えるもの。
 ３．公序良俗に反するもの。
 ４．その他、当社が不適切と判断するもの。
 ５．実名等の個人情報や個人を特定できる情報が含まれているもの。
-</b>
 プロデューサー名が不掲載となった場合のお客様に対するご連絡は致しません。
 掲載されるプロデューサー名において直接及び間接的を問わずお客様に生じたトラブル・損失・損害につきまして、当社は一切関与せず、責任を負いかねます。
 掲載されるプロデューサー名についての個別のお問い合わせは対応しておりません。
-	
+
 プロデューサー名に設定できる文字数は10文字までです。
 絵文字は使用できません。
-	
-▼注意事項	
+
+▼注意事項
 ※アイテムの販売期間・プロデューサー名変更期間は予告なく変更する場合がございます。
-※パネル・サンクスロールへ掲載できるプロデューサー名エントリーパスはプロデューサー名変更期間が終了すると消滅いたします。
-※本公演に掲示するパネルのプレゼントキャンペーン等は予定されておりません。|present_title_00^礼物|present_title_01^プレゼント受け取り履歴|present_sort_title_00^筛选|present_sort_head_00^领取期限|present_sort_head_01^プレゼント種類|present_sort_head_02^レア度|present_sort_head_03^タイプ|present_sort_000^全部|present_sort_001^有期限|present_sort_002^没有期限|present_sort_003^卡片|present_sort_004^道具|present_sort_005^资金|present_sort_006^其它|present_sort_007^SSレア|present_sort_008^Sレア|present_sort_009^レア|present_sort_010^ノーマル|present_sort_100^新しい順|present_sort_101^古い順|present_02^礼物|present_03^扭蛋|present_04^领取|present_05^受け取り履歴|present_06^全部领取|present_07^未受け取り一覧|present_08^获得时间|present_09^期限が切れたプレゼントは自動的に消滅します。
+※パネル・サンクスロールへ掲載できるプロデューサー名エントリーパスはプロデューサー名変更期間が終了すると消滅いたします。|present_title_00^礼物|present_title_01^プレゼント受け取り履歴|present_sort_title_00^筛选|present_sort_head_00^领取期限|present_sort_head_01^プレゼント種類|present_sort_head_02^レア度|present_sort_head_03^タイプ|present_sort_000^全部|present_sort_001^有期限|present_sort_002^没有期限|present_sort_003^卡片|present_sort_004^道具|present_sort_005^资金|present_sort_006^其它|present_sort_007^SSレア|present_sort_008^Sレア|present_sort_009^レア|present_sort_010^ノーマル|present_sort_100^新しい順|present_sort_101^古い順|present_02^礼物|present_03^扭蛋|present_04^领取|present_05^受け取り履歴|present_06^全部领取|present_07^未受け取り一覧|present_08^获得时间|present_09^期限が切れたプレゼントは自動的に消滅します。
 一度に受け取ることができるプレゼントは{0}件までです|present_10^プレゼント受け取り履歴は、受け取ってから１週間以内のプレゼントを最大で{0}件まで確認できます|present_11^已领取|present_12^プレゼントは届いていません|present_13^プレゼントの受け取り履歴はありません|present_14^プレゼント情報を取得できませんでした
 一度、閉じてから再度、開きなおしてください|present_15^ガシャ受け取り履歴は、１週間以内のプラチナガシャの結果を最大で500件まで確認できます|present_16^ガシャの受け取り履歴はありません|present_timer_00^没有期限|present_timer_01^剩余{0}天|present_timer_02^剩余{0}小时|present_timer_03^剩余{0}分钟|present_popup_receive_title^礼物领取|present_popup_receive_00^プレゼントを新しいものから{0}件まで受け取ります
 （受け取り期限の近いものから優先して受け取ります）
@@ -7896,8 +7892,8 @@ Angel：{3}回|gallery_history_item_011^入手衣装数|gallery_history_item_012
 篠宮 可憐
 周防 桃子
 ジュリア
-桜守 歌織|idol_dress_btn_set_shader_level_from_login^<size=24>設定を反映して
-劇場へ</size>|idol_dress_btn_shader_mode_detail^陰の効果について|idol_dress_btn_shader_level_title^アナザーシェーダー（陰の効果）|idol_dress_pop_viewer_check_pu2_msg_from_login^アナザーシェーダー（陰の効果）は、劇場やライブ、コミュなどで表示される衣装の陰の深さを変更できる機能です。
+桜守 歌織|idol_dress_btn_set_shader_level_from_login^<size=24>应用设置并
+前往剧场</size>|idol_dress_btn_shader_mode_detail^关于阴影效果|idol_dress_btn_shader_level_title^ANOTHER SHADER（阴影效果）|idol_dress_pop_viewer_check_pu2_msg_from_login^アナザーシェーダー（陰の効果）は、劇場やライブ、コミュなどで表示される衣装の陰の深さを変更できる機能です。
 衣装の陰の効果度合いは「設定なし」「弱」「中」「強」の4段階から設定できます。
 ※設定はナビのシステム設定からいつでも変更できます。
 
@@ -7975,10 +7971,10 @@ Angel：{3}回|gallery_history_item_011^入手衣装数|gallery_history_item_012
 ジュリア
 桜守 歌織|idol_dress_pop_viewer_check_pu1_1_msg^設定を反映せずに劇場に戻ります
 よろしいですか？|idol_dress_pop_viewer_check_pu1_2_msg^設定を反映せずにアナザーキネマティクス／揺れの設定画面へ移動します
-よろしいですか？|idol_dress_pop_viewer_title_1^衣装がありません|idol_dress_pop_viewer_msg_1^対象のアイドルの衣装を所持していないため本機能を利用できません
+よろしいですか？|idol_dress_pop_viewer_title_1^没有服装|idol_dress_pop_viewer_msg_1^由于未持有选定的偶像的服装，无法使用此功能
 
-「劇場＞ナビ＞ショップ＞イベント交換所＞通常イベント」内の『プラチナスターツインステージスペシャル～Legit Crossover～』にて、衣装付きカードを交換することでご利用できるようになります|idol_dress_btn_anotherkinematics_level_title^ANOTHER KINEMATICS／晃动|idol_dress_btn_anotherkinematics_hair_title^头发<size=16>(呆毛)</size>|idol_dress_btn_anotherkinematics_hair_level_0^未指定|idol_dress_btn_anotherkinematics_hair_level_1^弱|idol_dress_btn_anotherkinematics_hair_level_2^中|idol_dress_btn_anotherkinematics_hair_level_3^强|idol_dress_btn_anotherkinematics_body_title^ボディ<size=16>(バスト部分)</size>|idol_dress_btn_anotherkinematics_body_level_0^未指定|idol_dress_btn_anotherkinematics_body_level_1^弱|idol_dress_btn_anotherkinematics_body_level_2^中|idol_dress_btn_anotherkinematics_body_level_3^强|idol_dress_btn_anotherkinematics_costume_title^衣装<size=16>(腰より下に垂れている衣装の一部)</size>|idol_dress_btn_anotherkinematics_costume_level_0^未指定|idol_dress_btn_anotherkinematics_costume_level_1^弱|idol_dress_btn_anotherkinematics_costume_level_2^中|idol_dress_btn_anotherkinematics_costume_level_3^强|idol_dress_btn_set_anotherkinematics_level^应用设置|idol_dress_btn_warning_anotherkinematics_no_support_idol^非対応のアイドルです|idol_dress_btn_warning_anotherkinematics_no_support_hair^非対応のヘアスタイルです|idol_dress_btn_warning_anotherkinematics_no_support_costume^非対応の衣装です|idol_dress_btn_warning_anotherkinematics_hidden_hair^非対応の衣装です|idol_dress_btn_set_apply_and_anotherkinematics^<size=24>設定を反映して
-揺れの設定へ</size>|idol_dress_btn_set_apply_and_theater^設定を反映して劇場へ|idol_gift_title^ギフトアイテム選択|idol_gift_desc^アイドルに渡すギフトアイテムを選択してください|idol_gift_tab_0^親愛度ギフト|idol_gift_tab_1^覚醒ptギフト|idol_gift_button_0^渡す|idol_gift_item_label_00^持有数|idol_gift_item_label_01^效果|idol_gift_item_msg_00^{0}年{1}月{2}日 {3}点{4}分之前可以使用|idol_gift_item_msg_01^没有道具|idol_gift_item_msg_03^{0} {1}|idol_pop_gift_select_title_0^アイドルの選択|idol_pop_gift_select_title_1^カードの選択|idol_pop_gift_button_sub10^-10|idol_pop_gift_button_add10^+10|idol_pop_gift_item_title^道具个数选择|idol_pop_gift_item_value_00^<color=#FE58AAFF>{0}</color>▶<color=#FE58AAFF>{1}</color><color=#0AA4EAFF>(+{2})</color>|idol_pop_gift_item_msg_00^{0}を渡します。よろしいですか？|idol_pop_gift_item_msg_01^親愛度 {0}UP|idol_pop_gift_item_result_title^ギフト結果|idol_pop_gift_item_result_00^+{0}|idol_pop_gift_item_result_01^メモリアル解放！|idol_pop_gift_item_result_10^<color=#FE58AAFF>{0}</color><color=#0AA4EAFF>(+{1})</color>|idol_pop_gift_item_result_11^<color=#FE58AAFF>{0}</color><color=#0AA4EAFF>(+{1}</color><color=#FE58AAFF>×2倍！</color><color=#0AA4EAFF>)</color>|idol_pop_gift_card_title^道具个数选择|idol_pop_gift_card_label_0^対象カード|idol_pop_gift_card_label_1^渡すアイテム|idol_pop_gift_card_label_2^觉醒槽|idol_pop_gift_card_value_0^{0}▶{1}<size=18>/{2}</size><color=#0AA4EAFF>(+{3})</color>|idol_pop_gift_card_value_1^还需{0}|idol_pop_gift_card_msg_00^{0}を渡します。よろしいですか？|idol_pop_gift_card_msg_01^覚醒pt {0}UP|idol_pop_gift_card_msg_10^このままアイテムを渡すと覚醒ゲージの上限を超えますがよろしいですか？|idol_pop_gift_card_result_title^ギフト結果|idol_pop_gift_card_result_button_00^覚醒画面へ|idol_pop_gift_card_result_value_0^{0}<size=18>/{1}</size><color=#0AA4EAFF>(+{2})</color>|idol_pop_gift_card_result_value_1^还需{0}|idol_pop_gift_card_result_msg_10^覚醒ゲージが上限までたまりました
+要使用此功能，可以在「剧场＞导航＞商店＞活动交换所＞一般活动」中的『Platinum Star Twin Stage Special ～Legit Crossover～』交换附带服装的卡片|idol_dress_btn_anotherkinematics_level_title^ANOTHER KINEMATICS／晃动|idol_dress_btn_anotherkinematics_hair_title^头发<size=16>(呆毛)</size>|idol_dress_btn_anotherkinematics_hair_level_0^关闭|idol_dress_btn_anotherkinematics_hair_level_1^弱|idol_dress_btn_anotherkinematics_hair_level_2^中|idol_dress_btn_anotherkinematics_hair_level_3^强|idol_dress_btn_anotherkinematics_body_title^身体<size=16>(胸部)</size>|idol_dress_btn_anotherkinematics_body_level_0^关闭|idol_dress_btn_anotherkinematics_body_level_1^弱|idol_dress_btn_anotherkinematics_body_level_2^中|idol_dress_btn_anotherkinematics_body_level_3^强|idol_dress_btn_anotherkinematics_costume_title^服装<size=16>(垂在腰部以下的部分)</size>|idol_dress_btn_anotherkinematics_costume_level_0^关闭|idol_dress_btn_anotherkinematics_costume_level_1^弱|idol_dress_btn_anotherkinematics_costume_level_2^中|idol_dress_btn_anotherkinematics_costume_level_3^强|idol_dress_btn_set_anotherkinematics_level^应用设置|idol_dress_btn_warning_anotherkinematics_no_support_idol^非対応のアイドルです|idol_dress_btn_warning_anotherkinematics_no_support_hair^非対応のヘアスタイルです|idol_dress_btn_warning_anotherkinematics_no_support_costume^非対応の衣装です|idol_dress_btn_warning_anotherkinematics_hidden_hair^非対応の衣装です|idol_dress_btn_set_apply_and_anotherkinematics^<size=24>設定を反映して
+揺れの設定へ</size>|idol_dress_btn_set_apply_and_theater^設定を反映して劇場へ|idol_gift_title^礼物道具选择|idol_gift_desc^请选择要送给偶像的礼物道具|idol_gift_tab_0^亲爱度礼物|idol_gift_tab_1^觉醒pt礼物|idol_gift_button_0^赠送|idol_gift_item_label_00^持有数|idol_gift_item_label_01^效果|idol_gift_item_msg_00^{0}年{1}月{2}日 {3}点{4}分之前可以使用|idol_gift_item_msg_01^没有道具|idol_gift_item_msg_03^{0} {1}|idol_pop_gift_select_title_0^偶像选择|idol_pop_gift_select_title_1^卡片选择|idol_pop_gift_button_sub10^-10|idol_pop_gift_button_add10^+10|idol_pop_gift_item_title^道具个数选择|idol_pop_gift_item_value_00^<color=#FE58AAFF>{0}</color>▶<color=#FE58AAFF>{1}</color><color=#0AA4EAFF>(+{2})</color>|idol_pop_gift_item_msg_00^要赠送{0}吗？|idol_pop_gift_item_msg_01^親愛度 {0}UP|idol_pop_gift_item_result_title^ギフト結果|idol_pop_gift_item_result_00^+{0}|idol_pop_gift_item_result_01^メモリアル解放！|idol_pop_gift_item_result_10^<color=#FE58AAFF>{0}</color><color=#0AA4EAFF>(+{1})</color>|idol_pop_gift_item_result_11^<color=#FE58AAFF>{0}</color><color=#0AA4EAFF>(+{1}</color><color=#FE58AAFF>×2倍！</color><color=#0AA4EAFF>)</color>|idol_pop_gift_card_title^道具个数选择|idol_pop_gift_card_label_0^対象カード|idol_pop_gift_card_label_1^渡すアイテム|idol_pop_gift_card_label_2^觉醒槽|idol_pop_gift_card_value_0^{0}▶{1}<size=18>/{2}</size><color=#0AA4EAFF>(+{3})</color>|idol_pop_gift_card_value_1^还需{0}|idol_pop_gift_card_msg_00^{0}を渡します。よろしいですか？|idol_pop_gift_card_msg_01^覚醒pt {0}UP|idol_pop_gift_card_msg_10^このままアイテムを渡すと覚醒ゲージの上限を超えますがよろしいですか？|idol_pop_gift_card_result_title^ギフト結果|idol_pop_gift_card_result_button_00^覚醒画面へ|idol_pop_gift_card_result_value_0^{0}<size=18>/{1}</size><color=#0AA4EAFF>(+{2})</color>|idol_pop_gift_card_result_value_1^还需{0}|idol_pop_gift_card_result_msg_10^覚醒ゲージが上限までたまりました
 覚醒画面へ移動しますか？|idol_pop_gift_card_result_msg_10_no_confirm^覚醒ゲージが上限までたまりました|idol_pop_gift_nds_title^排序|idol_pop_gift_nds_tab_0^筛选|idol_pop_gift_nds_tab_1^排序|idol_pop_gift_nds_label_0^目标|idol_pop_gift_nds_label_0_0^偶像名|idol_pop_gift_nds_label_0_1^嘉宾名|idol_pop_gift_nds_label_1^排序|idol_pop_gift_nds_label_1_0^亲爱度|idol_pop_gift_nds_label_1_1^偶像|idol_pop_card_detail_title^卡片详情|idol_pop_card_detail_tab_0^属性|idol_pop_card_detail_tab_1^资料|idol_pop_card_detail_prof_0^なまえ|idol_pop_card_detail_prof_1^身高|idol_pop_card_detail_prof_2^年龄|idol_pop_card_detail_prof_3^体重|idol_pop_card_detail_prof_4^生日|idol_pop_card_detail_prof_5^血型|idol_pop_card_detail_prof_6^惯用手|idol_pop_card_detail_prof_7^三围|idol_pop_card_detail_prof_8^星座|idol_pop_card_detail_prof_9^出身|idol_pop_card_detail_prof_10^爱好|idol_pop_card_detail_prof_11^特技|idol_pop_card_detail_prof_12^喜好|idol_pop_card_detail_prof_13^CV|idol_pop_card_detail_label_0^还需 {0}|idol_pop_card_detail_label_1^已觉醒|idol_pop_card_detail_status_0^Lv|idol_pop_card_detail_status_1^觉醒槽|idol_pop_card_detail_status_2^CENTER效果|idol_pop_card_detail_status_3^技能|idol_pop_card_detail_status_4^技能Lv|idol_pop_card_detail_status_5^入手日時|idol_pop_card_detail_msg_0^LvとスキルLvとマスターランクが最大時のステータスです
 このカードはまだ獲得していません|idol_pop_card_detail_msg_1^未獲得カードです|idol_pop_card_detail_awakening_change_0^觉醒前|idol_pop_card_detail_awakening_change_1^觉醒后|idol_pop_costume_detail_title^服装详情|idol_pop_common_nas_tab_0^筛选|idol_pop_common_nas_tab_1^排序|idol_pop_common_nas_label_0^偶像名|idol_pop_common_nas_label_1^目标|idol_pop_common_nas_label_2^Ex|idol_pop_common_nas_label_3^嘉宾名|idol_pop_common_nas_title^排序|idol_pop_card_nas_label_0^觉醒状态|idol_pop_card_nas_label_0_0^觉醒|idol_pop_card_nas_label_0_1^未觉醒|idol_pop_card_nas_label_1^CENTER效果|idol_pop_card_nas_label_1_0^所有APPEAL值上升|idol_pop_card_nas_label_1_1^VOCAL值上升|idol_pop_card_nas_label_1_2^DANCE值上升|idol_pop_card_nas_label_1_3^VISUAL值上升|idol_pop_card_nas_label_1_4^生命值上升|idol_pop_card_nas_label_1_5^技能发动率上升|idol_pop_card_nas_label_2^技能|idol_pop_card_nas_label_2_0^分数上升|idol_pop_card_nas_label_2_1^连击加成|idol_pop_card_nas_label_2_2^生命值回复|idol_pop_card_nas_label_2_3^伤害减免|idol_pop_card_nas_label_2_4^维持连击|idol_pop_card_nas_label_2_5^判定强化|idol_pop_card_nas_label_2_6^双重提升|idol_pop_card_nas_skill_bulk^选择所有{0}类技能|idol_pop_card_nas_label_3^资料|idol_pop_card_nas_label_3_0^身高|idol_pop_card_nas_label_3_0_0^{0}cm以下|idol_pop_card_nas_label_3_0_1^{0}cm～{1}cm|idol_pop_card_nas_label_3_0_2^{0}cm以上|idol_pop_card_nas_label_3_1^年龄|idol_pop_card_nas_label_3_1_0^{0}岁以下|idol_pop_card_nas_label_3_1_1^{0}岁～{1}岁|idol_pop_card_nas_label_3_1_2^{0}岁以上|idol_pop_card_nas_label_3_2^出生月份|idol_pop_card_nas_label_3_2_0^1月|idol_pop_card_nas_label_3_2_1^2月|idol_pop_card_nas_label_3_2_2^3月|idol_pop_card_nas_label_3_2_3^4月|idol_pop_card_nas_label_3_2_4^5月|idol_pop_card_nas_label_3_2_5^6月|idol_pop_card_nas_label_3_2_6^7月|idol_pop_card_nas_label_3_2_7^8月|idol_pop_card_nas_label_3_2_8^9月|idol_pop_card_nas_label_3_2_9^10月|idol_pop_card_nas_label_3_2_10^11月|idol_pop_card_nas_label_3_2_11^12月|idol_pop_card_nas_label_3_3^血型|idol_pop_card_nas_label_3_3_0^A|idol_pop_card_nas_label_3_3_1^B|idol_pop_card_nas_label_3_3_2^O|idol_pop_card_nas_label_3_3_3^AB|idol_pop_card_nas_label_3_4_0^胸围|idol_pop_card_nas_label_3_4_1^腰围|idol_pop_card_nas_label_3_4_2^臀围|idol_pop_card_nas_label_4^类别|idol_pop_card_nas_label_4_0^一般|idol_pop_card_nas_label_4_1^PST|idol_pop_card_nas_label_4_2^FES|idol_pop_card_nas_label_4_3^1st|idol_pop_card_nas_label_4_4^2nd|idol_pop_card_nas_label_4_5^3rd|idol_pop_card_nas_label_4_6^4th|idol_pop_card_nas_label_4_7^SHS|idol_pop_card_nas_label_4_8^5th|idol_pop_card_nas_label_4_9^PR|idol_pop_card_nas_label_4_11^6th|idol_pop_card_nas_label_4_12^LNK|idol_pop_card_nas_label_4_13^7th|idol_pop_card_nas_label_4_14^8th|idol_pop_card_nas_label_4_15^VC|idol_pop_card_nas_label_3_9_99^未指定|idol_pop_card_nas_label_10^排序|idol_pop_card_nas_label_10_0^登场时间|idol_pop_card_nas_label_10_1^获得时间|idol_pop_card_nas_label_10_2^稀有度|idol_pop_card_nas_label_10_3^卡片Lv|idol_pop_card_nas_label_10_4^觉醒pt|idol_pop_card_nas_label_10_5^技能Lv|idol_pop_card_nas_label_10_6^MASTER星级|idol_pop_card_nas_label_10_7^亲爱度|idol_pop_card_nas_label_10_8^粉丝数|idol_pop_card_nas_label_10_9^偶像|idol_pop_card_nas_label_10_10^MASTER星级状态|idol_pop_card_nas_label_11_0^MASTER星级5追加|idol_pop_card_nas_label_12^優先|idol_pop_card_nas_label_12_0^グループABC順を優先する|idol_pop_card_nas_msg_0^仅显示稀有度为SSR的卡片。|idol_pop_costume_nas_label_0^类别|idol_pop_costume_nas_label_0_0^共通|idol_pop_costume_nas_label_0_1^专用|idol_pop_costume_nas_label_0_2^组合|idol_pop_costume_nas_label_0_3^シアター
 カジュアル|idol_pop_costume_nas_label_0_5^私服・レッスンウェア|idol_pop_costume_nas_label_1^排序|idol_pop_costume_nas_label_1_0^类别|idol_pop_costume_nas_label_1_1^登场时间|idol_pop_costume_nas_label_1_2^偶像|idol_pop_costume_nas_label_2^喜爱|idol_pop_costume_nas_label_2_0^喜爱|idol_pop_costume_nas_label_3^アナザーシェーダー|idol_pop_costume_nas_label_3_0^陰の効果対応|idol_pop_costume_nas_label_3_info_title^アナザーシェーダー|idol_pop_costume_nas_label_3_info_msg^アナザーシェーダー（陰の効果）は、劇場やライブ、コミュなどで表示される衣装の陰の深さを変更できる機能です。
@@ -8560,7 +8556,7 @@ CLEAR|live_sr_popup_dtl_04^SCORE <color=#FF0098FF>{0}</color> 以上|live_sr_pop
 ※「活力」「清新」的滑动音效相同。|livesetting_sound_beep_001^点击音效|livesetting_sound_beep_002^滑动音效|livesetting_sound_beep_003^活力（默认）|livesetting_sound_beep_004^温和|livesetting_sound_beep_005^清新|livesetting_sound_beep_006^摇滚|livesetting_sound_beep_007^沙滩排球|livesetting_sound_beep_008^Takoyaki|livesetting_sound_beep_009^太鼓|livesetting_sound_beep_010^鸟|livesetting_sound_beep_011^火焰|livesetting_sound_beep_012^ポップ|livesetting_sound_beep_013^钻石|livesetting_sound_beep_014^魔法少女|livesetting_sound_beep_name_001^活力（默认）|livesetting_sound_beep_name_002^温和|livesetting_sound_beep_name_003^清新|livesetting_sound_beep_name_004^摇滚|livesetting_sound_beep_name_005^沙滩排球|livesetting_sound_beep_name_006^太鼓|livesetting_sound_beep_name_007^鸟|livesetting_sound_beep_name_008^火焰|livesetting_sound_beep_name_009^ポップ|livesetting_sound_beep_name_010^钻石|livesetting_sound_beep_name_011^魔法少女|livesetting_sound_beep_name_012^クラブ|livesetting_sound_beep_name_013^ミラージュ|livesetting_sound_beep_name_014^剑与子弹|livesetting_sound_beep_name_015^爱心|livesetting_sound_beep_name_016^将棋与足球|livesetting_sound_beep_name_017^黑桃|livesetting_sound_beep_name_018^吸血鬼|livesetting_sound_beep_name_019^4花色|livesetting_sound_beep_name_020^カエル|livesetting_sound_combocut_title^断连音效|livesetting_sound_combocut_text_001^可以禁用Combo中断时播放的音效|livesetting_sound_combocut_001^启用音效|livesetting_sound_combocut_002^禁用音效|livesetting_sound_beep_sp_note^SP音符语音|livesetting_sound_beep_combocut^断连音效|jobv_select_tab_01^一般|jobv_select_tab_02^特別|jobv_btn_01^OK|jobv_btn_02^继续开始|jobv_btn_03^继续准备|jobv_btn_04^リクエスト
 達成確認|jobv_ticket_00^LIVE券持有数|jobv_ticket_01^<color=#ff0000>MAX</color>|jobv_select_00^花费体力：|jobv_select_10^今天的工作也请加油哦！|jobv_select_30^特別プリンセス|jobv_select_31^特別フェアリー|jobv_select_32^特別エンジェル|jobv_select_33^特別全タイプ|jobv_select_msg_00^没有特别的工作|jobv_select_msg_01^<color=#ff0000>※所持数上限の為、獲得できませんでした</color>|jobv_type_00^道具日|jobv_type_01^Pr|jobv_type_02^Fa|jobv_type_03^An|jobv_type_04^All|jobv_popup_title_00^工作|jobv_popup_msg_00^ライブチケットが上限に達しています
 お仕事を行いますか？|jobv_popup_msg_01^<color=#ff0000>ライブチケットを獲得することはできません</color>|jobv_pop_overticket_msg_0^下份工作会使LIVE券超出持有上限
-确定要接受工作吗？|jobv_pop_overticket_warning_msg_0^将无法获得超出上限的LIVE券|jobv_popup_btn_00^前往LIVE|jobv_popup_btn_02^前往活动|jobv_popup_subtitle_00^アイテムデイとは？|jobv_popup_msg_02^当日のアイテムデイと同じタイプの「ライブ」や「お仕事」をすることで、該当するタイプのアイテムまたはカードのみを獲得することができます|jobv_popup_msg_03^※Princessタイプのライブまたはお仕事をすると、以下のアイテムやカードが獲得できます|jobv_popup_msg_04^・Princessミラー　・Princessパフューム　・Princessリップ
+确定要接受工作吗？|jobv_pop_overticket_warning_msg_0^将无法获得超出上限的LIVE券|jobv_popup_btn_00^前往LIVE|jobv_popup_btn_02^前往活动|jobv_popup_subtitle_00^道具日是什么？|jobv_popup_msg_02^当日のアイテムデイと同じタイプの「ライブ」や「お仕事」をすることで、該当するタイプのアイテムまたはカードのみを獲得することができます|jobv_popup_msg_03^※Princessタイプのライブまたはお仕事をすると、以下のアイテムやカードが獲得できます|jobv_popup_msg_04^・Princessミラー　・Princessパフューム　・Princessリップ
 ・Princessタイプのカード|jobv_popup_msg_05^※Fairyタイプのライブまたはお仕事をすると、以下のアイテムやカードが獲得できます|jobv_popup_msg_06^・Fairyミラー　・Fairyパフューム　・Fairyリップ
 ・Fairyタイプのカード|jobv_popup_msg_07^※Angelタイプのライブまたはお仕事をすると、以下のアイテムやカードが獲得できます|jobv_popup_msg_08^・Angelミラー　・Angelパフューム　・Angelリップ
 ・Angelタイプのカード|jobv_popup_msg_09^※Allタイプのライブまたはお仕事をすると以下のアイテムやカードが獲得できます|jobv_popup_msg_10^・ステージドレス　・ミニクラウン|jobv_popup_title_01^工作确认|jobv_popup_msg_11^要花费<color=#ff0000>{0}</color>体力
@@ -8611,7 +8607,7 @@ CLEAR|live_sr_popup_dtl_04^SCORE <color=#FF0098FF>{0}</color> 以上|live_sr_pop
 ミリオンジュエルを消費して元気を回復する際は、1回につきミリオンジュエル50個を消費して、元気を全回復することができます。
 ミリオンジュエルより優先度の高いアイテムが不足している場合、ミリオンジュエルが自動で消費される場合がありますのでご注意ください。
  
-※本機能は特定のイベント期間中のみご利用いただける特別な機能となります。|jobv_popup_toggle_00^OFF|jobv_popup_toggle_01^ON|jobv_popup_toggle_02^常にON|jobv_popup_auto_recovery_fixed_on_msg^本イベント期間中はデフォルトで「常にON」が選択された状態になります
+※本機能は特定のイベント期間中のみご利用いただける特別な機能となります。|jobv_popup_toggle_00^OFF|jobv_popup_toggle_01^ON|jobv_popup_toggle_02^常にON|jobv_popup_auto_recovery_fixed_on_msg^デフォルトで「常にON」が選択された状態になります
 本当によろしいですか？|jobv_popup_toggle_msg_00^AUTO|jobv_popup_btn_sctl_title^特定商业交易法标识|jobv_popup_beused_msg_00^ライブチケットがオーバーするまでに消費するアイテムです|jobv_popup_beused_subtitle_00^自動使用予定アイテム|jobv_popup_beused_amount^×{0}|jobv_popup_beused_msg_01^<color=#666666>使用予定アイテムなし</color>|jobv_popup_beused_msg_02^<color=#FF004F>ミリオンジュエルは優先度{0}に設定されています</color>
 ミリオンジュエルより使用優先度の高いアイテムが不足している場合、
 ミリオンジュエルが自動で消費される場合がありますがよろしいですか？|jobv_popup_beused_warining_00^<color=#FF004F>実行中に発生する自然回復やレベルアップ、当日限定ドリンクの消費等により、
@@ -8626,14 +8622,14 @@ CLEAR|live_sr_popup_dtl_04^SCORE <color=#FF0098FF>{0}</color> 以上|live_sr_pop
 是否出现|jobv_lottery_setting_pu_msg2^不要出现特别挑战/特别机会|jobv_lottery_setting_pu_warn1^「特别挑战」「特别机会」是
 获得特定卡片后可能出现的特别的工作|jobv_lottery_setting_pu_warn2^一般的「挑战」「机会」不论是否设置都会出现|jobv_lottery_setting_pu_warn3^包含活动在内的所有工作都受该选项影响|offer2_common_btn_00^文本一览|offer2_common_text_00^所需时间|offer2_common_text_01^{0}小时{1:D2}分钟|offer2_common_text_02^总APPEAL|offer2_top_btn_00^OFFER选择|offer2_top_btn_01^详情|offer2_top_btn_02^结果确认|offer2_top_btn_03^批量确认|offer2_top_btn_04^一键选择|offer2_top_text_00^未选择|offer2_top_text_01^{0:D2}:{1:D2}:{2:D2}|offer2_top_text_02^没有符合条件的OFFER|offer2_top_text_03^进行中|offer2_top_pu_00_title^OFFER|offer2_top_pu_00_msg^现在还没有可以接受的OFFER
 详情请查看通知|offer2_top_pu_01_title^OFFER|offer2_top_pu_01_msg^现在还没有可以接受的OFFER
-OFFER会在每天0点刷新|offer2_top_pu_02_title^OFFER中止确认|offer2_top_pu_02_msg^真的要中止OFFER吗？|offer2_top_pu_02_warning^将无法获得报酬|offer2_top_pu_03_title^OFFER中止|offer2_top_pu_03_msg^OFFER已中止|offer2_top_pu_04_title^OFFER中止失败|offer2_top_pu_04_msg^OFFER已完成|offer2_top_pu_05_title^错误|offer2_top_pu_05_msg^通信失败
+OFFER会在每天0点刷新|offer2_top_pu_02_title^OFFER中止确认|offer2_top_pu_02_msg^真的要中止OFFER吗？|offer2_top_pu_02_warning^将无法获得报酬|offer2_top_pu_03_title^中止OFFER|offer2_top_pu_03_msg^OFFER已中止|offer2_top_pu_04_title^OFFER中止失败|offer2_top_pu_04_msg^OFFER已完成|offer2_top_pu_05_title^错误|offer2_top_pu_05_msg^通信失败
 返回标题中|offer2_top_pu_06_title^解锁条件|offer2_top_pu_06_msg_2^完成20次OFFER即可解锁|offer2_top_pu_06_msg_3^完成60次OFFER即可解锁|offer2_offer_list_title^OFFER|offer2_offer_list_desc^请选择要接受哪些OFFER|offer2_offer_list_tab_00^一般|offer2_offer_list_tab_01^特別|offer2_offer_list_text_00^推荐
 搭档|offer2_offer_list_text_01^必需的偶像已在进行OFFER|offer2_offer_list_text_02^目标|offer2_offer_list_pu_00_title^OFFER|offer2_offer_list_pu_00_msg^由于必需的偶像正在接受其它OFFER
 无法接受这个OFFER|offer2_offer_list_pu_01_text^数值|offer2_offer_list_pu_01_text_01^偶像|offer2_offer_list_pu_01_text_02^目标值顺序|offer2_offer_list_pu_01_text_03^时长顺序|offer2_offer_list_pu_01_text_04^排除设置|offer2_offer_list_pu_01_text_05^排除已读的OFFER|offer2_offer_list_pu_01_text_06^优先|offer2_offer_list_pu_01_text_07^未读的OFFER优先|offer2_offer_list_pu_02_title^确认|offer2_offer_list_pu_02_msg^推荐的偶像已被其它OFFER选中
 将无法解锁OFFER文本，确定要选择吗|offer2_offer_list_pu_02_msg2^下次不再显示|offer2_offer_list_pu_03_title^确认|offer2_offer_list_pu_03_msg^推荐的偶像正在进行OFFER
 将无法解锁OFFER文本，确定要选择吗|offer2_offer_list_pu_03_msg2^下次不再显示|offer2_popup_start_title_00^OFFER开始确认|offer2_popup_start_msg_00^确定要用这个阵容接受OFFER吗？|offer2_popup_start_button00^自己编成|offer2_popup_start_button01^开始OFFER|offer2_cardselect_title^卡片选择|offer2_cardselect_desc^请选择要接受OFFER的偶像|offer2_cardselect_button_00^清空|offer2_cardselect_button_01^自动编成|offer2_cardselect_button_02^决定|offer2_cardselect_label_00^必需偶像|offer2_cardselect_label_01^推荐搭档|offer2_cardselect_msg_00^无法编入
 同一个偶像|offer2_cardselect_msg_01^被其它OFFER
-选中|offer2_cardselect_sepa^、|offer2_cardselect_warning_00^请选择必需的偶像|offer2_cardselect_nocard^找不到符合条件的卡片|offer2_cardselect_pu_title_00^自动编成确认|offer2_cardselect_pu_msg_00^要进行自动编成吗？|offer2_popup_progress_title_00^进行中的OFFER|offer2_popup_progress_button_00^OFFER中止|offer2_result_09^下一个|offer2_result_10^OK|offer2_result_11^<size=24>偶像详情</size>|offer2_result_12^返回|offer2_result_20^制作人Lv|offer2_result_21^制作人评级|offer2_result_22^OFFER报酬|offer2_result_23^资金|offer2_result_24^OFFER获得的报酬|offer2_result_30^获得觉醒pt|offer2_result_31^剧场粉丝数|offer2_result_34^回忆解锁！|offer2_result_35_2^觉醒pt<size=20><color=#e6f078>{0}</color></size>达成|offer2_result_39^觉醒槽|offer2_result_40^亲爱度|offer2_result_41^粉丝数|offer2_result_42^由于持有数上限，
+选中|offer2_cardselect_sepa^、|offer2_cardselect_warning_00^请选择必需的偶像|offer2_cardselect_nocard^找不到符合条件的卡片|offer2_cardselect_pu_title_00^自动编成确认|offer2_cardselect_pu_msg_00^要进行自动编成吗？|offer2_popup_progress_title_00^进行中的OFFER|offer2_popup_progress_button_00^中止OFFER|offer2_result_09^下一个|offer2_result_10^OK|offer2_result_11^<size=24>偶像详情</size>|offer2_result_12^返回|offer2_result_20^制作人Lv|offer2_result_21^制作人评级|offer2_result_22^OFFER报酬|offer2_result_23^资金|offer2_result_24^OFFER获得的报酬|offer2_result_30^获得觉醒pt|offer2_result_31^剧场粉丝数|offer2_result_34^回忆解锁！|offer2_result_35_2^觉醒pt<size=20><color=#e6f078>{0}</color></size>达成|offer2_result_39^觉醒槽|offer2_result_40^亲爱度|offer2_result_41^粉丝数|offer2_result_42^由于持有数上限，
 有资金无法领取|offer2_result_return_prev_view_text^上一个|offer2_result_next^下一个|offer2_result_popup_title_01^评级上升报酬|offer2_result_popup_msg_02^<color=#ff0000>报酬可以在礼物中领取</color>|offer2_result_popup_msg_03^也可以在剧情＞OFFER中查看|offer2_result_popup_btn_01^之后查看|offer2_result_popup2_title^发生OFFER剧情|offer2_result_popup2_msg_01^由于完成了OFFER，以下剧情已解锁
 
 {0}|offer2_result_popup2_msg_02^・{0}|offer2_result_popup2_btn_01^之后查看|offer2_result_popup2_btn_02^前往剧情|offer2_beginner_bonus_text^<size=18><color=#ff004f>2倍经验值</color></size>加成激活中!|offer2_setting_popup_msg_32^+{0}|offer2_text_list_pu_00_title^OFFER文本一览|offer2_text_list_pu_01_text_00^偶像名|offer2_text_list_pu_01_text_01^偶像|offer2_text_list_pu_01_text_02^解锁数|offer2_text_list_pu_02_title^OFFER文本一览|offer2_text_list_pu_02_text_00^暂无OFFER文本|offer2_select_multi_title^OFFER|offer2_select_multi_desc^请选择要接受哪些OFFER|offer2_select_multi_3_hours^3小时|offer2_select_multi_6_hours^6小时|offer2_select_multi_9_hours^9小时|offer2_select_multi_btn_00^决定OFFER|offer2_select_multi_text_00^必需偶像已被选择|offer2_select_multi_text_01^已经达到选择数上限|offer2_select_multi_pu_00_title^确认|offer2_select_multi_pu_00_msg^由于必需的偶像已被选中，无法选择该OFFER|offer2_select_multi_pu_01_title^一键选择OFFER|offer2_select_multi_pu_01_msg^已经达到OFFER选择数上限|offer2_confirm_multi_title^OFFER編成|offer2_confirm_multi_desc^请选择要接受OFFER的偶像|offer2_confirm_multi_btn_00^开始OFFER|localpush_00^アイドルがプロデューサーを待っています！|localpush_01^元気が満タンになりました|localpush_02^期限が切れそうなガシャメダルがあります|localpush_03^達成していないデイリーミッションがあります|localpush_04^アイドルがオファーから帰ってきたようですよ|localpush_05^未達成のデイリーアニバーサリーミッションがあります|localpush_evente_daily^未達成のデイリーアニバーサリーミッションがあります。1000イベントptで「白石紬・桜守歌織・双海亜美・萩原雪歩」のSRカード獲得！|localpush_offer_1^天海春香「{$P$}さん！　オファーが完了したので、確認にきてください！」|localpush_offer_2^如月千早「{$P$}、オファーが完了しました。確認していただければと」|localpush_offer_3^星井美希「オファーが完了したの☆　{$P$}が確認してくれるまで、ミキ寝てるね。……あふぅ」|localpush_offer_4^萩原雪歩「オ、オファー、なんとか完了しましたぁ……。確認お願いしますぅ～」|localpush_offer_5^高槻やよい「うっうー！　{$P$}、オファー終わりました！　確認してほしいなーって」|localpush_offer_6^菊地真「オファー完了！　確認にきてくださいね、{$P$}！」|localpush_offer_7^水瀬伊織「オファーが完了したわ。確認にこないと、ただじゃおかないんだから！　……にひひっ♪」|localpush_offer_8^四条貴音「{$P$}、おふぁーが完了いたしました。ご確認いただければと」|localpush_offer_9^秋月律子「{$P$}、オファーが完了したので、ご確認お願いしますね」|localpush_offer_10^三浦あずさ「なんとか無事にオファーから帰ってこられました～。確認、お願いしますね」|localpush_offer_11^双海亜美「オファーに行ってきたよ～。亜美はお土産話をするから、兄ちゃんはお土産よろよろ～！」|localpush_offer_12^双海真美「待たせたね！　兄ちゃんが、真美に会えなくて寂しがってるっぽいから、オファー片づけてきたよ～ん！」|localpush_offer_13^我那覇響「オファー、終わったぞ、{$P$}！　確認しにきてよねっ！」|localpush_offer_14^春日未来「オファー終わりましたよ、{$P$}さん！　待ってますので、確認お願いしまーす！」|localpush_offer_15^最上静香「{$P$}、オファーが完了しました。早く確認にきてください」|localpush_offer_16^伊吹翼「オファー、完了しました！　頑張ったから、ご褒美がほしいなぁ♪」|localpush_offer_17^田中琴葉「{$P$}、オファーが完了しました。ご報告したいので待ってますね」|localpush_offer_18^島原エレナ「オファー終わったヨ、{$P$}！　確認よろしくネ♪」|localpush_offer_19^佐竹美奈子「わっほーい！　オファーが完了しましたよ、{$P$}さん！」|localpush_offer_20^所恵美「{$P$}、オファー終わったよ～。確認よろしくっ！」|localpush_offer_21^徳川まつり「オファーが完了したので、確認しに来てほしいのです。ね、{$P$}さん。ね？」|localpush_offer_22^箱崎星梨花「{$P$}さん、オファーが終わったので、確認にきてください！」|localpush_offer_23^野々原茜「茜ちゃんがオファーを終わらせたよ！　{$P$}ちゃん、今すぐ確認にくるのだー！」|localpush_offer_24^望月杏奈「オファー……終わったよ……。確認してほしいから……杏奈、ゲームしながら待ってる……ね」|localpush_offer_25^ロコ「オファーがフィニッシュしました！　{$P$}、チェックお願いしますね！」|localpush_offer_26^七尾百合子「{$P$}さん、オファーが完了しました！　確認、お願いします！」|localpush_offer_27^高山紗代子「オファーが完了したので、ご確認お願いします！　{$P$}！」|localpush_offer_28^松田亜利沙「オファーが完了しました！　{$P$}さん、確認お願いしますね！　ムフフ♪」|localpush_offer_29^高坂海美「オファー終わったよ、{$P$}！　ちゃんとできてたか確認してね！」|localpush_offer_30^中谷育「{$P$}さん、オファーが終わったから、確認にきてね！」|localpush_offer_31^天空橋朋花「オファーが終わりましたよ～。{$P$}さんなら、これからどうすべきかわかりますよね～？」|localpush_offer_32^エミリー「仕掛け人さま！　ご依頼の件、終わりました。ご確認いただけますか？」|localpush_offer_33^北沢志保「オファー終わりました。時間がある時に確認してください」|localpush_offer_34^舞浜歩「イエーイ！　オファー、終わったよ{$P$}！」|localpush_offer_35^木下ひなた「オファーが終わったよ、{$P$}。確認よろしくねぇ」|localpush_offer_36^矢吹可奈「オファーが終了しました！　確認にきてくださいね～♪　待ってる可奈かな～♪」|localpush_offer_37^横山奈緒「オファー終わったで、{$P$}さん！　確認してな！」|localpush_offer_38^二階堂千鶴「おーっほっほっほ！　オファーが完了しましてよ！　確認してくださいまし」|localpush_offer_39^馬場このみ「オファーが完了したわ。{$P$}、確認よろしくね！」|localpush_offer_40^大神環「おやぶん、オファー終わったよ！　たまき、上手にできたか見に来てね！」|localpush_offer_41^豊川風花「{$P$}さん、オファーが完了しました。確認お願いします」|localpush_offer_42^宮尾美也「オファーが終わりました～。お茶を飲んで待ってますから、確認しに来てくださいね～」|localpush_offer_43^福田のり子「オファー終わったよ、{$P$}！　確認よろしくっ♪」|localpush_offer_44^真壁瑞希「{$P$}、オファーが完了しました。……頑張ったぞ、瑞希」|localpush_offer_45^篠宮可憐「{$P$}さん。オ、オファーが終わったので、確認お願いします……」|localpush_offer_46^百瀬莉緒「オファーが終わったわよ、{$P$}くん！　確認お願いね♪」|localpush_offer_47^永吉昴「{$P$}、オファーが終わったぜ！　確認してくれよな！」|localpush_offer_48^北上麗花「オファーが完了しました♪　確認してくださいね、オファデューサーさん！」|localpush_offer_49^周防桃子「オファー終わったよ。お兄ちゃんが確認するまでがお仕事なんだからね」|localpush_offer_50^ジュリア「オファー完了！　{$P$}、確認よろしくな！」|localpush_offer_51^白石紬「オファー、終了致しました。{$P$}、確認をお願いします」|localpush_offer_52^桜守歌織「{$P$}さん、オファーが完了しましたのでご確認頂けますか？」|navi_00^商店|navi_01^道具|navi_02^成就|navi_03^个人资料|navi_04^系统设置|navi_05^LIVE设置|navi_06^清除数据|navi_07^账号继承|navi_08^支持|navi_09^帮助|navi_10^返回标题|navi_11^数据下载|navi_12^漫画|navi_14^名片|navi_15^歌曲下载|navi_16^游戏角|navi_17^海报|navi_18^MC資料室|navi_19^服装设置|navi_shop_title^商店|navi_shop_desc^可以在商店中购买百万宝石|navi_shop_00^百万宝石
@@ -10918,8 +10914,8 @@ ALLSTARS|navi_lesson_wear_change_popup_warning^仅显示可以更改训练服的
 偶像・事务员的所有服装
 不支持「阴影效果」的服装会以「未指定」的状态显示|navi_systemsetting_64_0_subpu0_checkbox^下次不再显示|navi_systemsetting_64_0_subpu0_btn^关闭|navi_systemsetting_64_1_btn_info_title^前往调整界面|navi_systemsetting_64_0_subpu1_title^ANOTHER SHADER（阴影效果）|navi_systemsetting_64_0_subpu1_msg^アナザーシェーダー（陰の効果）は、劇場やライブ、コミュなどで表示される衣装の陰の深さを変更できる機能です。
 
-現在<color=#FF004F>2026年1月</color>までに追加された衣装に対応しています。
-2026年2月以降に追加される衣装は順次対応予定となります。|navi_systemsetting_65_title^ANIMATION STAGE系列的剧情|navi_systemsetting_65_00^可以更改ANIMATION STAGE系列的剧情播放时的语音设置|navi_systemsetting_65_01^播放制作人/首席制作人的语音|navi_systemsetting_65_02^包括高级剧情等的部分剧情，将会无视该设定播放语音|navi_systemsetting_66^自动前进|navi_systemsetting_66_1^高速|navi_systemsetting_66_2^ON|navi_systemsetting_66_3^OFF|navi_systemsetting_66_4^位置变更|navi_systemsetting_70^<size=18>スタイリッシュなお出迎えの優先度設定</size>|navi_systemsetting_71^スタイリッシュなお出迎えの優先度設定をONにする|navi_systemsetting_72^本機能をONにした場合、入場演出の設定に関わらず「3D標準」で再生されます|navi_systemsetting_73^誕生日など一部の特殊な演出は「スタイリッシュなお出迎え」よりも優先されます|navi_systemsetting_74^スタイリッシュなお出迎えの優先度設定について|navi_systemsetting_75^「スタイリッシュなお出迎え」は、劇場への入場時に衣装「マイオンリースタイリッシュ」を着用しているアイドルが登場する際、かっこいいシチュエーションでお出迎えしてくれる機能です
+現在<color=#FF004F>2026年2月</color>までに追加された衣装に対応しています。
+2026年3月以降に追加される衣装は順次対応予定となります。|navi_systemsetting_65_title^ANIMATION STAGE系列的剧情|navi_systemsetting_65_00^可以更改ANIMATION STAGE系列的剧情播放时的语音设置|navi_systemsetting_65_01^播放制作人/首席制作人的语音|navi_systemsetting_65_02^包括高级剧情等的部分剧情，将会无视该设定播放语音|navi_systemsetting_66^自动前进|navi_systemsetting_66_1^高速|navi_systemsetting_66_2^ON|navi_systemsetting_66_3^OFF|navi_systemsetting_66_4^位置变更|navi_systemsetting_70^<size=18>スタイリッシュなお出迎えの優先度設定</size>|navi_systemsetting_71^スタイリッシュなお出迎えの優先度設定をONにする|navi_systemsetting_72^本機能をONにした場合、入場演出の設定に関わらず「3D標準」で再生されます|navi_systemsetting_73^誕生日など一部の特殊な演出は「スタイリッシュなお出迎え」よりも優先されます|navi_systemsetting_74^スタイリッシュなお出迎えの優先度設定について|navi_systemsetting_75^「スタイリッシュなお出迎え」は、劇場への入場時に衣装「マイオンリースタイリッシュ」を着用しているアイドルが登場する際、かっこいいシチュエーションでお出迎えしてくれる機能です
 優先度設定をONにすると、初回再生時のみ翌日以降の劇場への入場時に優先的に再生されるようになります
 
 2回目以降、または優先度設定をONにしていない場合は、「劇場＞ナビ＞衣装設定＞私服の設定」から私服を「マイオンリースタイリッシュ」に設定後、劇場への入場時に「マイオンリースタイリッシュ」を着用したアイドルが登場する際に「スタイリッシュなお出迎え」が再生されます
@@ -12887,10 +12883,10 @@ MOVEMENT 2ndパス内の「プレミアム」報酬を解放することで
 MOVEMENTパス共通衣装引換券は、MOVEMENT 2ndパスの
 期間にも引き続きご利用</color>いただけます|seasonpass_costume_exchange_with_filter_info_title_10222^BOTパス共通衣装引換券について|seasonpass_costume_exchange_with_filter_info_message_10222^BOTパス共通衣装引換券を使ってBOTシリーズのお好きなプレミアムパス特典衣装と交換できます
 
-BOTパス共通衣装引換券は<color=#FF0098>BOT VOL.3パス内の「プレミアム」
+BOTパス共通衣装引換券は<color=#FF0098>BOT VOL.4パス内の「プレミアム」
 報酬を解放することで獲得</color>できます
 <color=#FF0098>「プレミアム」報酬を解放するためには、プレミアムパスの
-購入特典などで獲得できるBOT VOL.3チケットが必要</color>になります|seasonpass_costume_exchange_select_all_confirm_pu_title^确认|seasonpass_costume_exchange_select_all_confirm_pu_msg^表示されている衣装を先頭からチケットの所持数限界まで自動的に選択します|seasonpass_costume_exchange_select_all_confirm_pu_notice^下次不再显示|seasonpass_point_exchange_pu_title_00^ANIMATION STAGE pt交換（VOL.2）|seasonpass_point_exchange_pu_msg_00^使用<color=#FF0098FF>{0}</color>个付费百万宝石
+購入特典などで獲得できるBOT VOL.4チケットが必要</color>になります|seasonpass_costume_exchange_select_all_confirm_pu_title^确认|seasonpass_costume_exchange_select_all_confirm_pu_msg^表示されている衣装を先頭からチケットの所持数限界まで自動的に選択します|seasonpass_costume_exchange_select_all_confirm_pu_notice^下次不再显示|seasonpass_point_exchange_pu_title_00^ANIMATION STAGE pt交換（VOL.2）|seasonpass_point_exchange_pu_msg_00^使用<color=#FF0098FF>{0}</color>个付费百万宝石
 交换ANIMATION STAGE pt<color=#FF0098FF>{1}</color>pt
 请选择交换次数|seasonpass_point_exchange_pu_msg_01^<color=#FF0098FF>{0}</color>个|seasonpass_point_exchange_pu_warning_00^<size=17>ANIMATION STAGE pt（VOL.2）は、{0}/{1:00}/{2:00} {3:00}:{4:00}まで交換できます</size>|seasonpass_point_exchange_pu_warning_01^<size=17>交換できるANIMATION STAGE pt（VOL.2）は、{0}ptまでです</size>|seasonpass_point_exchange_pu_warning_02^<size=17>ANIMATION STAGE pt（VOL.2）は、2024/06/16にリセットされます</size>|seasonpass_point_exchange_pu_label_00^<size=13>現在のANIMATION STAGE pt</size>|seasonpass_point_exchange_pu_label_01^<size=12>交換後のANIMATION STAGE pt</size>|seasonpass_point_exchange_pu_label_02^付费百万宝石|seasonpass_point_exchange_pu_button_00^+10|seasonpass_point_exchange_pu_button_01^-10|seasonpass_point_exchange_pu_button_02^交换|seasonpass_point_exchange_check_pu_title_00^<size=30>ANIMATION STAGEポイント交換（VOL.2）</size>|seasonpass_point_exchange_check_pu_msg_00^要使用{0}个付费百万宝石
 交换ANIMATION STAGE点数吗？|seasonpass_point_exchange_check_pu_msg_01^<color=#FF0098FF>{0}</color>个|seasonpass_point_exchange_check_pu_label_00^ANIMATION STAGEポイント|seasonpass_point_exchange_check_pu_label_01^付费百万宝石|seasonpass_point_exchange_check_pu_button_00^交换|seasonpass_point_exchange_result_pu_title_00^交换结果|seasonpass_point_exchange_result_pu_msg_00^ANIMATION STAGEポイントを交換しました|seasonpass_point_exchange_result_pu_label_00^ANIMATION STAGEポイント|seasonpass_point_achievement_pu_title_00^ANIMATION STAGEパス（VOL.2）達成|seasonpass_point_achievement_pu_msg_00^ANIMATION STAGEパス（VOL.2）の達成報酬がプレゼントに送られました|seasonpass_point_achievement_pu_msg_01^×<color=#FF0098FF>{0}</color>|seasonpass_point_achievement_pu_msg_02^{0} <color=#1149FF>{1}</color>{2}|seasonpass_point_achievement_pu_label_00^プレミアム報酬|seasonpass_point_achievement_pu_label_01^ノーマル報酬|seasonpass_premium_release_pu_title^特典解放確認|seasonpass_premium_release_pu_msg^要使用{1}<color=#757BAB>{0}</color>
@@ -13093,7 +13089,7 @@ SPECIALのカウントもSTART直後の状態になります|hotate_profile_unre
 　Wi-Fiでのダウンロードをお勧めします|bonusvoice_return_confirm_title^确认|bonusvoice_return_confirm_msg^再生中ですが、別の画面に移動しますか？|bonusvoice_commu_confirm_title^确认|bonusvoice_id_error_title^データエラー|bonusvoice_id_error_msg^不正な値が指定されました
 タイトルに移動します|bonusvoice_time_text^{0} <color=#DADADAFF>/ {1}</color>|eventview_to_live^前往LIVE|eventview_to_work^前往工作|eventview_to_coin_gasha^コインガシャへ|eventview_to_event_top^イベントトップへ|eventview_event_date_detail^{0:D2}/{1:D2}|eventview_event_schedule_pu^活动日程|eventview_mission_pu^任务|eventview_event_info_pu^规则说明|eventview_event_help_pu^帮助|eventview_event_reward_pu^活动报酬|eventview_card_detail_pu^报酬卡片|eventview_spent_coin_reward_pu^活动报酬
 一览|eventview_rankingu_pu^排名|eventview_recommended_songs_pu^推荐歌曲|eventview_unit_introduction_pu^组合介绍|eventview_event_formation_pu^活动编成|eventview_drama_pu^ドラマ
-視聴|eventview_album_pu^相簿|eventview_popup_btn_close^OK|eventview_event_ui_hidden_button^隐藏|eventview_login_bonus_title^イベントログインボーナス|eventview_login_bonus_item^{0}　<color=#FF0098FF>{1}</color>个|eventview_login_bonus_detail^{0}|eventview_login_bonus_caution^已领取报酬|eventview_login_bonus_detail_50^{0}
+視聴|eventview_album_pu^相簿|eventview_popup_btn_close^OK|eventview_event_ui_hidden_button^隐藏|eventview_login_bonus_title^活动登录奖励|eventview_login_bonus_item^{0}　<color=#FF0098FF>{1}</color>个|eventview_login_bonus_detail^{0}|eventview_login_bonus_caution^已领取报酬|eventview_login_bonus_detail_50^{0}
 <color=#FF004F>※アイテムはプレゼントに送られます</color>|eventview_login_bonus_warning_1^获得的道具可以从礼物中领取|eventview_login_bonus_warning_2^道具将直接发放|eventview_login_bonus_warning_3^受け取れなかった報酬はプレゼントに送られています|eventview_login_bonus_warning_4^所持上限を超えたため一部のアイテムは受け取れませんでした|eventview_login_bonus_item_1^{0}　<color=#FF0098FF>{1}</color>个|eventview_login_bonus_item_2^{0}　<color=#FF0098FF>{1}</color>个|eventview_login_bonus_item_3^{0}　<color=#FF0098FF>{1}</color>个|eventview_login_bonus_item_4^{0}　<color=#FF0098FF>{1}</color>本|eventview_event_lounge_not_affiliation^未加入|eventview_event_period^<color=#3C3CA0>【活动期限】</color>{0:D4}/{1:D2}/{2:D2} {3:D2}:{4:D2}截止|eventview_event_aggregate_period^<color=#3C3CA0>【イベント結果集計中】</color>|eventview_event_fixed_period^<color=#3C3CA0>【結果発表】</color>{0:D4}/{1:D2}/{2:D2} {3:D2}:{4:D2}まで|eventview_value_none^---|eventview_value_aggregate_now^集計中|eventview_card_masterrank^マスターランク {0}|eventview_songname_abbreviation^{0}…|eventview_expired_common_error_message^イベントは終了しています|eventview_expired_common_error_button_text^タイトルへ
 戻る|eventview_download_song_ask_pu_title^下载|eventview_download_song_ask_pu_msg^将要下载歌曲|eventview_error_rank_not_sequencial^ランキングデータの取得に失敗しました
 時間をおいて再度お試しください|eventview_rank_delayed^更新中|eventview_error_out_of_period^イベント開催期間外です|eventview_error_out_of_period_jump_title^未在活动举办时间内
@@ -13299,38 +13295,38 @@ Day{3}のイベントトークを解放しますか？|eventview_f_talk_pu_msg_0
 ●獲得経験値について
 ・各デッキの獲得経験値が500未満の場合、該当デッキの獲得経験値は500となります。|eventview_h_ranking_text_00^♪{0}|eventview_h_reward_tab_0^ボルテージ|eventview_h_reward_tab_1^トータルテンションLv|eventview_h_reward_text_00^♪{0}|eventview_h_reward_text_01^あなたの達成値|eventview_h_reward_text_02^達成値|eventview_h_reward_text_03^{0}|eventview_h_reward_text_04^あなたの達成Lv|eventview_h_reward_text_05^達成Lv|eventview_h_reward_text_06^Lv{0}|eventview_h_reward_text_07^達成|eventview_h_prep_label_0^花费{0}|eventview_h_prep_label_1^未下载|eventview_h_prep_label_01^SCORE|eventview_h_prep_label_02^COMBO|eventview_h_prep_label_03^CLEAR|eventview_h_prep_label_04^歌曲LP <size=22>{0}</size>|eventview_h_prep_label_05^合计LP|eventview_h_prep_label_06^テンションLvボーナス発生！|eventview_h_prep_label_07^テンションLvの経験値に
 ボーナスが発生中！|eventview_h_prep_label_08^<color=#EC8D4A>{0}%</color>UP!|eventview_h_prep_item_label_0^×{0:f1}倍|eventview_h_prep_item_label_1^获得活动pt|eventview_h_prep_item_label_2^{0} ～ {1}|eventview_h_prep_item_label_4^※将无法获得LIVE券|eventview_h_prep_item_label_5^歌曲Lv|eventview_h_prep_item_label_6^花费体力|eventview_h_prep_item_job_type_0^Princess的工作|eventview_h_prep_item_job_type_1^Fairy的工作|eventview_h_prep_item_job_type_2^Angel的工作|eventview_h_prep_item_job_type_3^大家的工作|eventview_h_prep_item_btn_0^决定|eventview_h_prep_item_btn_1^下载歌曲|eventview_h_prep_pop_warning^花费倍率越高，
-能获得的活动pt越多|eventview_e_get_voltage_reward_pu_comp^ボルテージ報酬はランキング集計後に配布されます|eventview_e_get_voltage_reward_pu_comp_count^<color=FF004FFF>達成!</color>|eventview_h_voltage_name_0^765ボルテージ|eventview_h_voltage_name_1^961ボルテージ|eventview_i_top_achievement_title^活动成绩|eventview_i_top_achievement_tab_0_title^総合|eventview_i_top_achievement_tab_1_title^最高得分|eventview_i_top_achievement_tab_0_text_00^<color=#32427E>【累積イベントpt】</color>|eventview_i_top_achievement_tab_0_text_01^<color=#32427E>【イベントptランキング】</color>|eventview_i_top_achievement_tab_0_text_02^<color=#32427E>【ラウンジランキング】</color>|eventview_i_top_achievement_tab_0_text_03^<color=#32427E>【距离下个报酬】</color>|eventview_i_top_achievement_tab_0_text_04^详情|eventview_i_top_achievement_tab_1_text_00^<color=#32427E>【♪{0}】</color>|eventview_i_top_achievement_tab_1_text_01^<color=#32427E>【総合ハイスコアランキング】</color>|eventview_i_top_achievement_tab_1_text_02^详情|eventview_i_top_encounter_story_tab_0_title^相談一覧|eventview_i_top_encounter_story_tab_1_title^ストーリー|eventview_i_top_encounter_story_tab_0_text_00^相談回数|eventview_i_top_encounter_story_tab_0_text_01^/{0}|eventview_i_top_encounter_story_tab_0_text_02^相談中!|eventview_i_top_encounter_story_tab_1_text_00^活动剧情|eventview_i_top_encounter_story_tab_1_text_01^<color=#32427E>【次のコミュまで】</color>|eventview_i_top_encounter_story_tab_1_text_02^商谈文本|eventview_i_top_encounter_story_tab_1_text_03^テキスト一覧|eventview_i_top_encounter_story_tab_1_text_04^<color=#32427E>【テキスト解放状況】</color>|eventview_i_top_encounter_story_tab_1_text_05^{0}/{1}|eventview_i_top_item_count_title^持有{0}|eventview_i_top_live_btn^イベント公演へ|eventview_i_top_finish_pu_title^イベント結果|eventview_i_top_finish_pu_detail^獲得したイベント報酬はプレゼントへ送られます|eventview_i_hiscore_list_pu_title^ハイスコア一覧|eventview_i_hiscore_list_pu_msg_00^総合ハイスコアランキングは
-2つの楽曲のハイスコアの合計値のランキングになります|eventview_i_hiscore_list_pu_msg_01^♪{0}|eventview_i_hiscore_list_pu_msg_02^総合ハイスコア|eventview_i_hiscore_list_pu_label_00^最高得分|eventview_i_unit_card_formation_pu_title^ボーナスptデッキ|eventview_i_unit_card_formation_pu_title_01^确认|eventview_i_unit_card_formation_pu_label_00^獲得ptボーナス|eventview_i_unit_card_formation_pu_label_01^合計アピール値|eventview_i_unit_card_formation_pu_btn_00^自动编成|eventview_i_unit_card_formation_pu_msg_00^カードアイコンタッチで手動で編成できます|eventview_i_unit_card_formation_pu_msg_01^現在の編成内容をキャンセルして
-デッキ編成を終了してよろしいですか？|eventview_i_unit_card_formation_pu_msg_02^+{0}%|eventview_i_unit_card_formation_pu_select_title^カード選択|eventview_i_unit_card_formation_pu_select_title_01^編成変更確認|eventview_i_unit_card_formation_pu_select_label_00^対象アイドル|eventview_i_unit_card_formation_pu_select_msg_00^編成を変更します。よろしいですか？|eventview_i_unit_card_formation_pu_sort_title^排序|eventview_i_unit_card_formation_pu_sort_toggle_00^总APPEAL值|eventview_i_unit_card_formation_pu_sort_toggle_01^稀有度|eventview_i_unit_card_formation_pu_sort_toggle_02^卡片Lv|eventview_i_unit_card_formation_pu_auto_title^自动编成|eventview_i_unit_card_formation_pu_auto_label_00^合計アピール値|eventview_i_unit_card_formation_pu_auto_msg_00^編成を変更します。よろしいですか？|eventview_i_unit_card_formation_pu_auto_msg_01^(+{0})|eventview_i_unit_card_formation_pu_auto_msg_02^ユニットカードの自動編成を行いました|eventview_i_unit_card_formation_pu_detail_title^ボーナスptデッキの説明|eventview_i_unit_card_formation_pu_detail_msg_00^●ボーナスptデッキについて
-本イベントに登場しているユニットメンバーのカードを編成することで、イベント楽曲をプレイした時に獲得できるイベントptにボーナスが発生します。
-ボーナスptデッキは、楽曲をプレイするためのユニット編成とは別のものになりますので、楽曲のスコアには影響しません。
+能获得的活动pt越多|eventview_e_get_voltage_reward_pu_comp^ボルテージ報酬はランキング集計後に配布されます|eventview_e_get_voltage_reward_pu_comp_count^<color=FF004FFF>達成!</color>|eventview_h_voltage_name_0^765ボルテージ|eventview_h_voltage_name_1^961ボルテージ|eventview_i_top_achievement_title^活动成绩|eventview_i_top_achievement_tab_0_title^総合|eventview_i_top_achievement_tab_1_title^最高得分|eventview_i_top_achievement_tab_0_text_00^<color=#32427E>【累積イベントpt】</color>|eventview_i_top_achievement_tab_0_text_01^<color=#32427E>【イベントptランキング】</color>|eventview_i_top_achievement_tab_0_text_02^<color=#32427E>【ラウンジランキング】</color>|eventview_i_top_achievement_tab_0_text_03^<color=#32427E>【距离下个报酬】</color>|eventview_i_top_achievement_tab_0_text_04^详情|eventview_i_top_achievement_tab_1_text_00^<color=#32427E>【♪{0}】</color>|eventview_i_top_achievement_tab_1_text_01^<color=#32427E>【总计最高得分排名】</color>|eventview_i_top_achievement_tab_1_text_02^详情|eventview_i_top_encounter_story_tab_0_title^商谈一览|eventview_i_top_encounter_story_tab_1_title^故事|eventview_i_top_encounter_story_tab_0_text_00^商谈次数|eventview_i_top_encounter_story_tab_0_text_01^/{0}|eventview_i_top_encounter_story_tab_0_text_02^商谈中!|eventview_i_top_encounter_story_tab_1_text_00^活动剧情|eventview_i_top_encounter_story_tab_1_text_01^<color=#32427E>【距离下一剧情】</color>|eventview_i_top_encounter_story_tab_1_text_02^商谈文本|eventview_i_top_encounter_story_tab_1_text_03^文本一览|eventview_i_top_encounter_story_tab_1_text_04^<color=#32427E>【文本解锁情况】</color>|eventview_i_top_encounter_story_tab_1_text_05^{0}/{1}|eventview_i_top_item_count_title^持有{0}|eventview_i_top_live_btn^前往活动公演|eventview_i_top_finish_pu_title^活动结果|eventview_i_top_finish_pu_detail^獲得したイベント報酬はプレゼントへ送られます|eventview_i_hiscore_list_pu_title^最高得分一览|eventview_i_hiscore_list_pu_msg_00^総合ハイスコアランキングは
+2つの楽曲のハイスコアの合計値のランキングになります|eventview_i_hiscore_list_pu_msg_01^♪{0}|eventview_i_hiscore_list_pu_msg_02^总计最高得分|eventview_i_hiscore_list_pu_label_00^最高得分|eventview_i_unit_card_formation_pu_title^奖励pt卡组|eventview_i_unit_card_formation_pu_title_01^确认|eventview_i_unit_card_formation_pu_label_00^获得pt奖励|eventview_i_unit_card_formation_pu_label_01^合计APPEAL值|eventview_i_unit_card_formation_pu_btn_00^自动编成|eventview_i_unit_card_formation_pu_msg_00^点击卡片图标可以手动编成|eventview_i_unit_card_formation_pu_msg_01^現在の編成内容をキャンセルして
+デッキ編成を終了してよろしいですか？|eventview_i_unit_card_formation_pu_msg_02^+{0}%|eventview_i_unit_card_formation_pu_select_title^卡片选择|eventview_i_unit_card_formation_pu_select_title_01^编成更改确认|eventview_i_unit_card_formation_pu_select_label_00^可选偶像|eventview_i_unit_card_formation_pu_select_msg_00^将要改变编成，确定吗？|eventview_i_unit_card_formation_pu_sort_title^排序|eventview_i_unit_card_formation_pu_sort_toggle_00^总APPEAL值|eventview_i_unit_card_formation_pu_sort_toggle_01^稀有度|eventview_i_unit_card_formation_pu_sort_toggle_02^卡片Lv|eventview_i_unit_card_formation_pu_auto_title^自动编成|eventview_i_unit_card_formation_pu_auto_label_00^合计APPEAL值|eventview_i_unit_card_formation_pu_auto_msg_00^将要改变编成，确定吗？|eventview_i_unit_card_formation_pu_auto_msg_01^(+{0})|eventview_i_unit_card_formation_pu_auto_msg_02^已自动编入组合卡片|eventview_i_unit_card_formation_pu_detail_title^奖励pt卡组的说明|eventview_i_unit_card_formation_pu_detail_msg_00^●关于奖励pt卡组
+通过编入本活动登场的组合成员的卡片，游玩活动歌曲时可以获得额外的活动pt作为奖励。
+奖励pt卡组不是实际游玩歌曲时的组合编成，因此不会影响歌曲的分数。
 
-●獲得ptボーナスについて
-獲得ptボーナスは編成しているカードの総アピール値が高いほど上昇し、最大30％のボーナスを獲得することができます。
-獲得ptボーナスは通常楽曲では発生しません。
-また、ボーナスライブで獲得できるボーナスptは影響を受けません。
+●关于获得pt奖励
+编入卡片的总APPEAL值越高，奖励的pt越多，最高，最高可获得30%的pt奖励。
+一般歌曲不会获得奖励pt。
+另外，奖励LIVE不会影响可获得的奖励pt。
 
-●自動編成について
-自動編成ボタンをタッチすると、所持しているカードの中から総アピール値の高いカードが自動で編成されます。
+●关于自动编成
+点击自动编成按钮可以自动编入持有的卡片中总APPEAL值最高的卡片。
 
-●編成可能なカードについて
-編成可能なカードは、本イベントに登場しているユニットメンバーのアイドルのみとなります。|eventview_i_unit_card_formation_pu_error_title^错误|eventview_i_unit_card_formation_pu_error_msg_00^持有的卡片发生更新
-返回标题中|eventview_i_idol_select_pu_title^偶像选择|eventview_i_idol_select_pu_msg_00^公演前に会いに行くアイドルを選択してください|eventview_i_idol_select_pu_msg_01^選んだアイドルはイベント楽曲をクリアか中断するまで変更できません|eventview_i_idol_select_pu_msg_02^相談回数|eventview_i_top_encounter_fukidashi_active_label^相談中!|eventview_i_top_encounter_btn_disabled^相談を受けるアイドルを
-選択してください|eventview_i_encounter_present_pu_warning^アイテムはプレゼントに送られました|eventview_i_eventsong_encounter_00^相談中!|eventview_i_eventsong_encounter_01^相談回数|eventview_i_eventsong_encounter_02^/{0}|eventview_i_eventsong_jacket_00^未下载|eventview_i_eventsong_jacket_01^SCORE|eventview_i_eventsong_jacket_02^COMBO|eventview_i_eventsong_jacket_03^CLEAR|eventview_i_eventsong_livecourse_00^歌曲Lv|eventview_i_eventsong_livecourse_01^花费|eventview_i_eventsong_livecourse_02^报酬|eventview_i_eventsong_livecourse_03^歌曲信息|eventview_i_eventsong_livecourse_04^游玩方法|eventview_i_eventsong_nextbtn_00^歌曲解锁条件|eventview_i_eventsong_nextbtn_01^下载歌曲|eventview_i_eventsong_nextbtn_02^排练|eventview_i_eventsong_nextbtn_03^使用资金|eventview_i_eventsong_nextbtn_04^正式演出|eventview_i_eventsong_nextbtn_05^{0}使用|eventview_i_consultation_text_update_pu_title^相談解決！|eventview_i_consultation_text_update_pu_message^アイドルからの相談が解決しました
+●关于可编入的卡片
+可编入的卡片仅限本活动中登场的组合成员的偶像。|eventview_i_unit_card_formation_pu_error_title^错误|eventview_i_unit_card_formation_pu_error_msg_00^持有的卡片发生更新
+返回标题中|eventview_i_idol_select_pu_title^偶像选择|eventview_i_idol_select_pu_msg_00^公演前に会いに行くアイドルを選択してください|eventview_i_idol_select_pu_msg_01^選んだアイドルはイベント楽曲をクリアか中断するまで変更できません|eventview_i_idol_select_pu_msg_02^商谈次数|eventview_i_top_encounter_fukidashi_active_label^商谈中!|eventview_i_top_encounter_btn_disabled^相談を受けるアイドルを
+選択してください|eventview_i_encounter_present_pu_warning^アイテムはプレゼントに送られました|eventview_i_eventsong_encounter_00^商谈中!|eventview_i_eventsong_encounter_01^商谈次数|eventview_i_eventsong_encounter_02^/{0}|eventview_i_eventsong_jacket_00^未下载|eventview_i_eventsong_jacket_01^SCORE|eventview_i_eventsong_jacket_02^COMBO|eventview_i_eventsong_jacket_03^CLEAR|eventview_i_eventsong_livecourse_00^歌曲Lv|eventview_i_eventsong_livecourse_01^花费|eventview_i_eventsong_livecourse_02^报酬|eventview_i_eventsong_livecourse_03^歌曲信息|eventview_i_eventsong_livecourse_04^游玩方法|eventview_i_eventsong_nextbtn_00^歌曲解锁条件|eventview_i_eventsong_nextbtn_01^下载歌曲|eventview_i_eventsong_nextbtn_02^排练|eventview_i_eventsong_nextbtn_03^使用资金|eventview_i_eventsong_nextbtn_04^正式演出|eventview_i_eventsong_nextbtn_05^使用{0}|eventview_i_consultation_text_update_pu_title^相談解決！|eventview_i_consultation_text_update_pu_message^アイドルからの相談が解決しました
 
 解決した相談はイベントトップページの
 「ストーリー＞相談テキスト」からご確認いただけます|eventview_i_encounter_occurred_pu_title^发生商谈|eventview_i_consultation_accomplish_pu_title^商谈完成|eventview_i_consultation_complete_pu_title^商谈完成|eventview_i_encounter_occurred_pu_button^前往活动歌曲|eventview_i_deckbonus_text^<size=24><color=#FF0098FF>{0}%</color></size><size=18><color=#FF8400FF>up!</color></size>|eventview_i_reward_00^总计最高得分排名|eventview_i_ranking_00^总计最高得分排名|eventview_reward_detail2_pu_0^报酬|eventview_reward_detail2_pu_1^下个报酬|eventview_reward_detail2_pu_2^累计pt报酬卡片|eventview_reward_detail2_pu_3^距离获得|eventview_reward_detail2_pu_4^距离下一星级|eventview_reward_detail2_pu_5^当前的MASTER星级|eventview_reward_detail2_pu_6^{0} <color=#285DF9>{1}</color>{2}|eventview_reward_detail2_pu_7^<color=#FB0292>{0}</color> pt|eventview_reward_detail2_pu_next_value_unit_default^<color=#FB0292>{0}</color> pt|eventview_reward_detail2_pu_next_value_unit_g^<color=#FB0292>{0}</color> 枚|eventview_reward_detail2_pu_8^报酬卡片|eventview_reward_detail2_pu_9^距离获得卡片|eventview_reward_detail2_pu_10^<color=#FB0292>{0}</color> 枚|eventview_reward_detail2_pu_11^<color=#ff004f>未获得卡片</color>|eventview_reward_detail2_pu_12^<color=#285DF9>{0}</color>{1}|eventview_reward_detail2_pu_no_more_reward_warning_default^已获得所有累计活动pt报酬|eventview_reward_detail2_pu_no_more_reward_warning_g^已获得所有硬币累计花费报酬|eventview_j_top_achievement_title^活动成绩|eventview_j_top_achievement_tab_0_title^总计|eventview_j_top_achievement_tab_1_title^pt报酬|eventview_j_top_achievement_tab_2_title^最高得分|eventview_j_top_achievement_tab_0_text_00^<color=#3C3CA0>【活动pt排名】</color>|eventview_j_top_achievement_tab_0_text_01^<color=#3C3CA0>【交流室排名】</color>|eventview_j_top_achievement_tab_1_text_00^<color=#3C3CA0>【今日】</color>|eventview_j_top_achievement_tab_1_text_01^<color=#3C3CA0>【总计】</color>|eventview_j_top_achievement_tab_1_text_02^<color=#3C3CA0>【距离下个报酬】</color>|eventview_j_top_achievement_tab_2_text_00^<color=#3C3CA0>【♪{0}】</color>|eventview_j_top_achievement_tab_2_text_01^<color=#3C3CA0>【总计最高得分排名】</color>|eventview_j_top_achievement_detail_btn_00^详情|eventview_j_top_fever_text_00^♪{0}|eventview_j_top_fever_text_01^第<color=#e6f078>{0}</color>次 Fever|eventview_j_top_fever_text_02^距离下一次Fever <size=16><color=#e6f078>{0}/{1}</color></size>|eventview_j_top_fever_text_03^<color=#F58941>Fever槽
 加成生效！</color>|eventview_j_top_fever_text_04^<color=#ff004f>5.0倍确定！</color>|eventview_j_top_fever_text_05^<color=#bf2acc>10.0倍确定！</color>|eventview_j_top_commu_title^活动剧情|eventview_j_top_commu_text_00^<color=#3C3CA0>【距离下一剧情】</color>|eventview_j_top_item_count_btn_00^详情|eventview_j_top_btn_00^前往舞台准备|eventview_j_top_btn_01^<color=#ff004f>5.0倍确定！！</color>|eventview_j_top_btn_02^<color=#bf2acc>10.0倍确定！！</color>|eventview_j_top_unit_title^确认|eventview_j_top_unit_text^ミリシタ発のユニットCDシリーズ
  「THE IDOLM@STER MILLION THE@TER GENERATION」 
-で登場したユニットの紹介ページへ移動します。|eventview_j_top_unit_warnning_text^レイジー・レイジーのユニット紹介は掲載されておりません|eventview_j_top_finish_pu_title^イベント結果|eventview_j_top_finish_pu_detail^獲得したイベント報酬はプレゼントへ送られます|eventview_j_top_finish_pu_warning^一部の報酬は直接付与されます|eventview_j_gamesel_pu_title^模式选择|eventview_j_gamesel_pu_tab_0^LIVE|eventview_j_gamesel_pu_tab_1^排练|eventview_j_gamesel_pu_tab_2^MV|eventview_j_gamesel_pu_common_0^{0} → <color=red>{1}</color> (<color=red>-{2}</color>)|eventview_j_gamesel_pu_common_1^{0} → {1} (<color=red>-{2}</color>)|eventview_j_gamesel_pu_tab0_title^LIVE模式选择|eventview_j_gamesel_pu_tab0_label_1^花费|eventview_j_gamesel_pu_tab0_label_2^【消費元気】{0} か 【{1}】 {2}|eventview_j_gamesel_pu_tab0_label_5^进度|eventview_j_gamesel_pu_tab0_btn_0^活动完成
+で登場したユニットの紹介ページへ移動します。|eventview_j_top_unit_warnning_text^レイジー・レイジーのユニット紹介は掲載されておりません|eventview_j_top_finish_pu_title^活动结果|eventview_j_top_finish_pu_detail^獲得したイベント報酬はプレゼントへ送られます|eventview_j_top_finish_pu_warning^部分报酬将直接发放|eventview_j_gamesel_pu_title^模式选择|eventview_j_gamesel_pu_tab_0^LIVE|eventview_j_gamesel_pu_tab_1^排练|eventview_j_gamesel_pu_tab_2^MV|eventview_j_gamesel_pu_common_0^{0} → <color=red>{1}</color> (<color=red>-{2}</color>)|eventview_j_gamesel_pu_common_1^{0} → {1} (<color=red>-{2}</color>)|eventview_j_gamesel_pu_tab0_title^LIVE模式选择|eventview_j_gamesel_pu_tab0_label_1^花费|eventview_j_gamesel_pu_tab0_label_2^【花费体力】{0} 或 【{1}】 {2}|eventview_j_gamesel_pu_tab0_label_5^进度|eventview_j_gamesel_pu_tab0_btn_0^活动完成
 报酬|eventview_j_gamesel_pu_tab0_btn_1^活动歌曲
 信息|eventview_j_gamesel_pu_tab0_msg_0^工作获得 <color=red>{0}</color>　LIVE获得 <color=red>{1}</color>|eventview_j_gamesel_pu_tab0_msg_1^<color=#FF0098>{0:f1}</color>倍还需 <color=#FF0098>{1}</color> 进度|eventview_j_gamesel_pu_tab0_msg_2^<color=#FF0098>{0:f1}</color>倍确定中！|eventview_j_gamesel_pu_tab0_warning^<size=22><color=#FF004FFF>工作花费的体力和所选LIVE模式相同，决定后将无法更改模式。</color></size>|eventview_j_gamesel_pu_tab0_check_title^注意|eventview_j_gamesel_pu_tab0_check_message^選択したコースをプレイ可能な楽曲が規定数に達していません
 場合によっては楽曲のプレイができませんがよろしいでしょうか？|eventview_j_gamesel_pu_tab1_title^リハーサルコース選択|eventview_j_gamesel_pu_tab1_label_1^资金|eventview_j_gamesel_pu_tab2_title^MVコース選択|eventview_j_gamesel_pu_tab2_label_0^排练|eventview_j_gamesel_pu_tab2_label_1^正式演出|eventview_j_gamesel_pu_songname^♪{0}|eventview_j_fever_gauge_pu_title^フィーバーゲージ確認|eventview_j_fever_gauge_pu_text_00^♪{0}|eventview_j_fever_gauge_pu_text_01^{0}/{1}|eventview_j_fever_gauge_pu_text_02^<color=#bf2acc>フィーバー</color>発生まであと<color=#FF0098>{0}</color>|eventview_j_fever_gauge_pu_text_03^<color=#bf2acc>フィーバー発生中</color>   イベントpt<color=#bf2acc>{0:f1}倍確定！</color>|eventview_j_fever_gauge_pu_text_04^<color=#ff8400>ボーナス発生中</color>   次のフィーバーゲージ上昇<color=#bf2acc>+{0}</color>|eventview_j_fever_gauge_pu_text_05^<size=18><color=#bf2acc>フィーバー</color>発生中は獲得できるイベントptが<color=#bf2acc>10倍</color>になります！</size>|eventview_j_live_result_point_pu_title^活动pt变化|eventview_j_get_ticket_pu_title^进度确认|eventview_j_fever_gauge_exp_bonus_pu_title^ボーナス発生！|eventview_j_fever_gauge_exp_bonus_pu_description^<color=#757BABFF>♪{0}</color>の
 <color=#FF0098FF>フィーバーゲージボーナス</color>が発生しました！|eventview_j_fever_gauge_rise_pu_title^フィーバーゲージ|eventview_j_fever_gauge_rise_pu_next_lv_exp_head^<color=#bf2acc>フィーバー</color>発生まであと|eventview_j_fever_gauge_rise_pu_song_name^♪{0}|eventview_j_fever_gauge_rise_pu_progress^{0}/{1}<color=#1149ff>(+{2})</color>|eventview_j_fever_occurrence_pu_title^フィーバー発生！|eventview_j_fever_occurrence_pu_song_name^♪{0}|eventview_j_fever_occurrence_pu_description^イベントpt<color=#bf2acc>10.0倍確定！</color>|eventview_j_hiscore_list_pu_title^ハイスコア一覧|eventview_j_hiscore_list_pu_msg_00^総合ハイスコアランキングは
 2つの楽曲のハイスコアの合計値のランキングになります|eventview_j_hiscore_list_pu_msg_01^♪{0}|eventview_j_hiscore_list_pu_msg_02^総合ハイスコア|eventview_j_hiscore_list_pu_label_00^最高得分|eventview_j_prep_label_0^花费{0}|eventview_j_prep_label_1^未下载|eventview_j_prep_label_01^SCORE|eventview_j_prep_label_02^COMBO|eventview_j_prep_label_03^CLEAR|eventview_j_prep_label_04^歌曲LP <size=22>{0}</size>|eventview_j_prep_label_05^合计LP|eventview_j_prep_label_06^フィーバーゲージボーナス発生！|eventview_j_prep_label_07^フィーバーゲージに
 ボーナスが発生中！|eventview_j_prep_label_08^ゲージ上昇<size=18><color=#EC8D4A>＋{0}</color></size>|eventview_j_prep_item_label_0^×{0:f1}倍|eventview_j_prep_item_label_1^获得活动pt|eventview_j_prep_item_label_2^{0} ～ {1}|eventview_j_prep_item_label_4^※将无法获得LIVE券|eventview_j_prep_item_label_5^歌曲Lv|eventview_j_prep_item_label_6^花费体力|eventview_j_prep_item_job_type_0^Princess的工作|eventview_j_prep_item_job_type_1^Fairy的工作|eventview_j_prep_item_job_type_2^Angel的工作|eventview_j_prep_item_job_type_3^大家的工作|eventview_j_prep_item_btn_0^决定|eventview_j_prep_item_btn_1^下载歌曲|eventview_j_prep_pop_warning^花费倍率越高，
-能获得的活动pt越多|eventview_j_reward_00^♪{0}|eventview_j_reward_01^总计最高得分排名|eventview_j_ranking_00^♪{0}|eventview_j_ranking_01^总计最高得分排名|eventview_user_song_info_pu_00^歌曲Lv|eventview_user_song_info_pu_01^SCORE|eventview_user_song_info_pu_02^COMBO|eventview_user_song_info_pu_03^CLEAR|eventview_user_song_info_pu_04^歌曲LP|eventview_user_song_info_pu_05^合计LP|eventview_live_report_pu_title^活动pt变化|eventview_get_ptreward_pu_title^累積イベントpt報酬|eventview_eventpt_reward_title^活动报酬|eventview_get_ptreward_pu_warning_00^ランキングから除外されているため報酬のカード、衣装、一部のアイテムは獲得できません|eventview_get_ptreward_pu_warning_00_2^ランキングから除外されているため報酬のカード、衣装、
-一部のアイテムは獲得できません|eventview_get_ptreward_pu_warning_01^报酬卡片和服装将直接发放|eventview_get_ptreward_pu_warning_02^获得的道具可以从礼物中领取|eventview_get_ptreward_pu_warning_03^获得的道具可以从礼物中领取|eventview_get_ptreward_pu_warning_04^報酬カード、衣装、一部のアイテムは直接付与されます|eventview_get_ptreward_pu_warning_05^一部のアイテムは直接付与されます|eventview_get_ptreward_pu_warning_06^道具将直接发放|eventview_reward_get_title_0^【累積イベントpt報酬】{0:#,0} pt到達報酬|eventview_reward_get_title_1^【デイリーイベントpt報酬】{0:#,0} pt到達報酬|eventview_next_event_play_list_text^次へ|eventview_sp_pu_title_default^任务|eventview_sp_pu_not_found_mission_default^没有可以挑战的任务|eventview_sp_pu_tab_title_default1^1|eventview_sp_pu_tab_title_default2^2|eventview_sp_pu_tab_title_default3^3|eventview_sp_pu_title_166^15周年記念ミッション|eventview_sp_pu_tab_title_sp15mir^春日 未来|eventview_sp_pu_tab_title_sp15siz^最上 静香|eventview_sp_pu_tab_title_sp15tsu^伊吹 翼|eventview_coin_drop_pu_00^活动报酬|eventview_coin_drop_pu_01^所持コイン|eventview_coin_drop_pu_02^{0:#,0}枚|eventview_coin_drop_pu_03^{0:#,0}枚(<color=#0000FF>＋{1:#,0}</color>)|eventview_coin_drop_pu_04^报酬|eventview_magnification_select_0^体力|eventview_magnification_select_1^花费体力|eventview_magnification_select_warning_job_defalut^花费倍率越高，
+能获得的活动pt越多|eventview_j_reward_00^♪{0}|eventview_j_reward_01^总计最高得分排名|eventview_j_ranking_00^♪{0}|eventview_j_ranking_01^总计最高得分排名|eventview_user_song_info_pu_00^歌曲Lv|eventview_user_song_info_pu_01^SCORE|eventview_user_song_info_pu_02^COMBO|eventview_user_song_info_pu_03^CLEAR|eventview_user_song_info_pu_04^歌曲LP|eventview_user_song_info_pu_05^合计LP|eventview_live_report_pu_title^活动pt变化|eventview_get_ptreward_pu_title^累计活动pt报酬|eventview_eventpt_reward_title^活动报酬|eventview_get_ptreward_pu_warning_00^ランキングから除外されているため報酬のカード、衣装、一部のアイテムは獲得できません|eventview_get_ptreward_pu_warning_00_2^ランキングから除外されているため報酬のカード、衣装、
+一部のアイテムは獲得できません|eventview_get_ptreward_pu_warning_01^报酬卡片和服装将直接发放|eventview_get_ptreward_pu_warning_02^获得的道具可以从礼物中领取|eventview_get_ptreward_pu_warning_03^获得的道具可以从礼物中领取|eventview_get_ptreward_pu_warning_04^報酬カード、衣装、一部のアイテムは直接付与されます|eventview_get_ptreward_pu_warning_05^一部のアイテムは直接付与されます|eventview_get_ptreward_pu_warning_06^道具将直接发放|eventview_reward_get_title_0^【累積イベントpt報酬】{0:#,0} pt到達報酬|eventview_reward_get_title_1^【デイリーイベントpt報酬】{0:#,0} pt到達報酬|eventview_next_event_play_list_text^次へ|eventview_sp_pu_title_default^任务|eventview_sp_pu_not_found_mission_default^没有可以挑战的任务|eventview_sp_pu_tab_title_default1^1|eventview_sp_pu_tab_title_default2^2|eventview_sp_pu_tab_title_default3^3|eventview_sp_pu_title_166^15周年記念ミッション|eventview_sp_pu_tab_title_sp15mir^春日 未来|eventview_sp_pu_tab_title_sp15siz^最上 静香|eventview_sp_pu_tab_title_sp15tsu^伊吹 翼|eventview_coin_drop_pu_00^活动报酬|eventview_coin_drop_pu_01^持有硬币|eventview_coin_drop_pu_02^{0:#,0}枚|eventview_coin_drop_pu_03^{0:#,0}枚(<color=#0000FF>＋{1:#,0}</color>)|eventview_coin_drop_pu_04^报酬|eventview_magnification_select_0^体力|eventview_magnification_select_1^花费体力|eventview_magnification_select_warning_job_defalut^花费倍率越高，
 能获得的LIVE券越多|eventview_magnification_select_warning_live_defalut^花费倍率越高，
 能获得的活动pt越多|eventview_magnification_select_warning_live_d^花费倍率越高，
 能获得的活动pt和宾果越多|eventview_magnification_select_warning_job_g^消費コストに応じて
@@ -13487,7 +13483,7 @@ Vermilion Red（クロエ・なる）
 投票対象は後から変更できます。|eventcview_election_campaign_message^ただいま「プラチナスタートラスト13～I.V.～」で投票イベントを実施中です
 ライブを行うにはイベント専用ページから投票する対象を選択する必要があります|eventcview_election_to_vote_base_color_0^#2f8de8|eventcview_election_to_vote_base_color_1^#f4486b|eventcview_election_to_vote_frame_color_0^#2f5fe8|eventcview_election_to_vote_frame_color_1^#c81439|eventcview_election_to_vote_candidate_0^<color=#e6f078>織姫</color><color=#ffffff>に投票中</color>|eventcview_election_to_vote_candidate_1^<color=#e6f078>I.V.</color><color=#ffffff>に投票中</color>|eventcview_election_now_voted_deco_color_0^#2f8de8|eventcview_election_now_voted_deco_color_1^#f4486b|eventcview_election_now_voted_bg_color_0^#e3effa|eventcview_election_now_voted_bg_color_1^#fce9ed|eventcview_election_fixed_title^投票結果|eventcview_election_fixed_message^投票結果は確定し、エピローグが解放されました|eventcview_info_00_title^关于活动①|eventcview_info_00^イベントptランキング報酬、累積イベントpt報酬、
 ハイスコアランキング報酬で、豪華報酬を手に入れよう|eventcview_info_01_title^累積イベントpt報酬について|eventcview_info_01^累積イベントpt報酬でPSTロゴ付きカードや衣装を獲得！
-一部カードは新衣装付き！|eventcview_info_02_title^关于累计活动pt报酬|eventcview_info_02^累積イベントpt報酬で獲得できる一部カードは獲得ptに
+一部カードは新衣装付き！|eventcview_info_02_title^关于累计活动pt报酬卡片|eventcview_info_02^累積イベントpt報酬で獲得できる一部カードは獲得ptに
 応じてマスターランクが上昇！|eventcview_info_03_title^关于限定服装|eventcview_info_03^イベントptランキング報酬で獲得できるカードは
 順位に応じてマスターランクが上昇！|eventcview_info_04_title^关于活动服装交换|eventcview_info_04^累積イベントpt報酬からイベント衣装引換券を手に入れて
 メンバーの衣装を交換しよう！|eventcview_info_05_title^关于{0}|eventcview_info_05^通常楽曲をプレイして、{0}を手に入れよう
@@ -14102,7 +14098,7 @@ PUSHアイドルを他のアイドルに変更しますか？|eventdiceboard_cha
 　　　言動がチャラい
 
 
-<color=#5B6580>演じるアイドル</color>　田中 琴葉（4幕）</size>|eventdview_tourcount^{0}本|eventdview_tourcount_title^2色のクレヨン|eventdview_ticket_unit^{0}本|eventdview_live_report_pu_event_item_name^{0}|eventdview_live_report_pu_event_item_count^本|eventdview_get_eventticket_count^【{0}】|eventdview_get_eventticket_pu_warning^超出持有上限的「{0}」将无法获得|eventdview_info_00_title^关于活动①|eventdview_info_00^本イベントは「タイプラッシュ」対決　全3戦の内の第2戦目です
+<color=#5B6580>演じるアイドル</color>　田中 琴葉（4幕）</size>|eventdview_tourcount^{0}本|eventdview_tourcount_title^2色のクレヨン|eventdview_ticket_unit^{0}本|eventdview_live_report_pu_event_item_name^{0}|eventdview_live_report_pu_event_item_count^本|eventdview_get_eventticket_count^【{0}】|eventdview_get_eventticket_pu_warning^超出持有上限的「{0}」将无法获得|eventdview_info_00_title^关于活动①|eventdview_info_00^本イベントは「タイプラッシュ」対決　最終戦です
 応援しているチームに「プロデュースパワー」を使用して
 「BOTファン」を獲得しよう！|eventdview_info_01_title^关于活动②|eventdview_info_01^折り返し順位と終了時順位に応じてチームptを獲得！
 チームptを稼いでチームを頂点に導こう！|eventdview_info_02_title^关于活动③|eventdview_info_02^イベントptランキング報酬、累積イベントpt報酬、
@@ -14111,7 +14107,7 @@ PUSHアイドルを他のアイドルに変更しますか？|eventdiceboard_cha
 獲得できるカードは順位に応じてマスターランクが上昇！|eventdview_info_04_title^イベント衣装交換について|eventdview_info_04^累積イベントpt報酬からイベント衣装引換券を手に入れて
 メンバーの衣装を交換しよう！|eventdview_info_05_title^ツアー準備について|eventdview_info_05^イベントトップの「ツアー準備へ」からコースを選択すると
 楽曲またはお仕事がランダムに抽選されます
-進捗度が上昇し一定値に達すると「青い記憶」を獲得できます|eventdview_info_06_title^关于活动歌曲|eventdview_info_06^ボーナスはツアー準備選択時にランダムで変化します
+進捗度が上昇し一定値に達すると「おひめさま↑↑カメラ」を獲得できます|eventdview_info_06_title^关于活动歌曲|eventdview_info_06^ボーナスはツアー準備選択時にランダムで変化します
 pt5.0倍確定チケットはイベントログインボーナスや
 チャレンジミッションで獲得できます|eventdview_info_07_title^オリジナルメンバー限定歌い分けについて|eventdview_info_07^オリジナルメンバーを配置してイベント楽曲を楽しもう！
 なお、オリジナルメンバー以外を編成した場合は未編成の
@@ -14148,7 +14144,7 @@ Day8：「番組Tシャツ引換券」×5枚
 本当によろしいですか？|eventdview_breward_discharge_overflow_warning^オーバーしたビンゴ玉は消失します|eventdview_breward_discharge_overflow_checkbox^下次不再显示|eventdview_top_btn_max_scale_band^<color=yellow>5.0倍</color>確定！！|eventdview_info_09_title^ビンゴ報酬について|eventdview_info_09^ボーナスライブで獲得できるボーナスptはpt倍率の影響を受けません
 エクストラビンゴカードではボーナスライブは発生しません|eventdview_info_10_title^イベント限定ライブスキップについて|eventdview_info_10^「ライブスキップPASS」は毎日00:00に残り回数がリセットされます
 「期間限定ライブスキップPASS」の使用期限はイベント期間中の
-購入した日の翌日までとなります|eventdview_info_11_title^リストについて|eventdview_info_11^デイリーリストの進捗状況は、毎日00:00に当日のものに更新されます|eventdview_info_12_title^关于会议中心|eventdview_info_12^在会议中心可以与其他制作人聊天|eventdview_info_13_title^今回のイベントのまとめ|eventdview_info_13^ツアー準備時通常曲やお仕事を行って天使のハートを獲得しよう
+購入した日の翌日までとなります|eventdview_info_11_title^リストについて|eventdview_info_11^デイリーリストの進捗状況は、毎日00:00に当日のものに更新されます|eventdview_info_12_title^关于会议中心|eventdview_info_12^在会议中心可以与其他制作人聊天|eventdview_info_13_title^今回のイベントのまとめ|eventdview_info_13^ツアー準備時通常曲やお仕事を行っておひめさま↑↑カメラを獲得しよう
 イベント楽曲のプレイで大量のイベントptを獲得しよう|eventdview_info_14_title^消費量選択について|eventdview_info_14^ツアー準備時に消費するコストを2倍、3倍から選べます
 選択した倍率に応じてイベントptをより多く獲得する事ができます|eventdview_info_15_title^イベント限定ライブスキップについて|eventdview_info_15^「ライブスキップPASS」は毎日00:00に残り回数がリセットされます
 「期間限定ライブスキップPASS」の使用期限はイベント期間中の
@@ -14290,15 +14286,14 @@ Day{0}的所有组合Talk|eventl_talk_pu_msg_01^初次阅读Day{0}的所有组�
 メンバーの衣装を交換しよう！|eventiview_info_05_title^{0}について|eventiview_info_05^通常楽曲をプレイして、{0}を手に入れよう
 消費コストとSCOREランクに応じて獲得量が変化します|eventiview_info_06_title^チケットライブについて|eventiview_info_06^チケットライブを行う事で、消費チケット数に応じて最大7倍の
 {0}を獲得する事ができます|eventiview_info_07_title^イベント楽曲について|eventiview_info_07^イベント楽曲は通常楽曲よりも多くのイベントptを獲得できます
-イベント楽曲では、アピールボーナスがスコアに反映されます|eventiview_info_08_title^ボーナスptデッキについて|eventiview_info_08^イベントで登場するユニットメンバーのカードを編成できます
-獲得ptボーナスが発生するのはイベント楽曲のみとなります|eventiview_info_09_title^アイドル達からの相談について|eventiview_info_09^イベント楽曲をクリアして相談を解決しよう
+イベント楽曲では、アピールボーナスがスコアに反映されます|eventiview_info_08_title^关于奖励pt卡组|eventiview_info_08^可以编入活动中登场的组合成员的卡片
+只有活动歌曲中能获得奖励pt|eventiview_info_09_title^アイドル達からの相談について|eventiview_info_09^イベント楽曲をクリアして相談を解決しよう
 相談テキスト一覧から解決した相談内容を確認することができます|eventiview_info_10_title^ユニット紹介について|eventiview_info_10^イベントに登場するユニットメンバーの情報がまとまっています
 解決した相談のテキストもこちらで確認できます|eventiview_info_11_title^イベントライブステージ登場編成について|eventiview_info_11^ステージ登場編成を設定するとイベント楽曲はその編成が優先されます
 総アピール値やスキルなどは通常のユニット編成のままで
 イベント楽曲をプレイすることができます|eventiview_info_12_title^ハイスコアランキングについて|eventiview_info_12^イベント楽曲をプレイしてハイスコアランキング称号を手に入れよう
-総合ハイスコアランキングはイベント楽曲2曲の合計で決まります|eventiview_info_13_title^ボーナスライブについて|eventiview_info_13^ボーナスライブで獲得できるボーナスptは
-消費コスト倍率と獲得ptボーナスの影響を受けません
-最大5回分ストックできます|eventiview_info_14_title^イベント限定ライブスキップについて|eventiview_info_14^「ライブスキップPASS」は毎日00:00に残り回数がリセットされます
+総合ハイスコアランキングはイベント楽曲2曲の合計で決まります|eventiview_info_13_title^ボーナスライブについて|eventiview_info_13^通过奖励LIVE获得的奖励pt不受花费倍率和获得pt奖励的影响
+最多可积攒5份|eventiview_info_14_title^イベント限定ライブスキップについて|eventiview_info_14^「ライブスキップPASS」は毎日00:00に残り回数がリセットされます
 「期間限定ライブスキップPASS」の使用期限はイベント期間中の
 購入した日の翌日までとなります|eventiview_pu_job_vitality_select_warning^花费倍率越高，
 能获得的LIVE券越多|eventiview_info_15_title^リストについて|eventiview_info_15^デイリーリストと限定ミッションリストの進捗状況は
@@ -14743,7 +14738,7 @@ CDの到着が遅れてしまうトラブルに遭遇する。
 扭蛋处理失败|gasha_popup_msg_08^由于扭蛋已结束，扭蛋处理失败
 正在返回标题|gasha_popup_msg_09^由于已经拥有
 扭蛋可能出现的所有服装
-无法使用票券|gasha_popup_msg_10^由于扭蛋已结束，扭蛋处理失败|gasha_popup_btn_00^进行扭蛋|gasha_popup_btn_01^购买百万宝石|gasha_notice_01^最高の一枚が撮れた件について…です！|gasha_notice_02^飛び跳ねたくなる、至高の1枚ですよ！|gasha_notice_03^お人形さんのようにカワイイ1枚です♪|gasha_notice_04^善悪の垣根を超えた…魅惑の1枚です！|gasha_notice_05^童話の挿絵のような美しさの1枚です！|gasha_notice_06^ココロが満たされる、感動の1枚です！|gasha_notice_07^真夏の太陽より眩しい、輝く1枚です！|gasha_notice_08^戦いの決着やいかに…迫力の1枚です♪|gasha_notice_09^運命の歯車が希望の1枚をお届けです！|gasha_notice_10^銀河を揺るがす、最高の１枚をどうぞ！|gasha_notice_11^秋風の中、心あったかくなる1枚です♪|gasha_notice_12^破滅的なまでに心奪われる1枚です…！|gasha_notice_13^オリジナルのキラメキ…輝いてますよ♪|gasha_notice_r^楽しそうなところが撮れましたよ|gasha_notice_sr^みんなの良い表情が撮れました！|gasha_notice_ssr^最高の一枚ができましたのでぜひご確..|gasha_platinum_message^SSRカードが登場！10回ガシャはSR以上のカードが1枚以上確定！|gasha_ticket_message^ここではメダルガシャや、チケット使用で
+无法使用票券|gasha_popup_msg_10^由于扭蛋已结束，扭蛋处理失败|gasha_popup_btn_00^进行扭蛋|gasha_popup_btn_01^购买百万宝石|gasha_notice_01^最高の一枚が撮れた件について…です！|gasha_notice_02^飛び跳ねたくなる、至高の1枚ですよ！|gasha_notice_03^ふわふわどきどきぽかぽかな1枚です！|gasha_notice_04^善悪の垣根を超えた…魅惑の1枚です！|gasha_notice_05^童話の挿絵のような美しさの1枚です！|gasha_notice_06^ココロが満たされる、感動の1枚です！|gasha_notice_07^真夏の太陽より眩しい、輝く1枚です！|gasha_notice_08^戦いの決着やいかに…迫力の1枚です♪|gasha_notice_09^運命の歯車が希望の1枚をお届けです！|gasha_notice_10^銀河を揺るがす、最高の１枚をどうぞ！|gasha_notice_11^秋風の中、心あったかくなる1枚です♪|gasha_notice_12^破滅的なまでに心奪われる1枚です…！|gasha_notice_13^オリジナルのキラメキ…輝いてますよ♪|gasha_notice_r^楽しそうなところが撮れましたよ|gasha_notice_sr^みんなの良い表情が撮れました！|gasha_notice_ssr^最高の一枚ができましたのでぜひご確..|gasha_platinum_message^SSRカードが登場！10回ガシャはSR以上のカードが1枚以上確定！|gasha_ticket_message^ここではメダルガシャや、チケット使用で
 ミリコレガシャ、衣装ガシャを
 引くことができます。|gasha_mdl_detail_message_00^在这里可以进行硬币扭蛋。|gasha_photo_name^カメラマン　今|gasha_result_title_00^扭蛋结果|gasha_result_desc_00^获得了卡片|gasha_result_desc_01^获得了服装|gasha_result_btn_00^再抽一次|gasha_result_btn_01^次へ|gasha_result_msg_00^已获得的卡片已经转换为道具|gasha_result_exchange_001^{0}： {1} → <color=#00A0E9FF>{2}<color>|gasha_result_draw_item_on^详情|gasha_result_draw_item_off^OFF|gasha_ticket_00^扭蛋硬币pt槽|gasha_ticket_01^扭蛋硬币pt|gasha_ticket_02^距离下一个扭蛋硬币还需<color=#FF0098>{0}</color>pt|gasha_ticket_03^持有扭蛋硬币数
 {0:D2}/{1:D2} 枚|gasha_ticket_04^使用期限：{0}年{1}月{2}日{3}点{4}分{5}秒|gasha_ticket_05^<color=#00A0E9>{0}枚</color>(<color=#00A0E9>+{1}</color>)|gasha_ticket_pop_title^扭蛋硬币|gasha_ticket_pop_tab_0^扭蛋硬币
@@ -14813,8 +14808,8 @@ ARモード非対応機種ではご利用いただけません</size>|gasha_gash
 報酬を獲得後は再度ポイントを貯めると報酬を獲得できます。
 獲得したフェスポイントは次回開催の復刻ミリオンフェスに引き継がれます。
 フェスポイントの報酬は開催中予告なく変更する場合があります。|gasha_fspoint_reward_pu_title^フェスポイント報酬|gasha_fspoint_reward_pu_present_msg^已经以礼物形式发放|gasha_fspoint_reward_pu_direct_msg^道具已经直接发放|gasha2_common_header_00^付费|gasha2_common_header_01^免费|gasha2_common_button_00^{0}连抽|gasha2_common_button_01^卡片详情|gasha2_common_button_02^扭蛋详情|gasha2_common_button_06^说明|gasha2_common_button_07^详情|gasha2_common_button_08^交换卡片|gasha2_common_button_09^交换服装|gasha2_common_button_10^引き終わりました|gasha2_common_label_00^举办时间|gasha2_common_label_01^持有{0}|gasha2_common_label_02^剩余 {0}天|gasha2_common_label_03^剩余 {0}小时|gasha2_common_label_04^剩余 {0}分钟|gasha2_common_label_05^剩余 {0}秒|gasha2_common_label_06^已结束|gasha2_common_msg_01^{0}/{1}/{2} {3:00}:{4:00}|gasha2_common_msg_02^{0}截止|gasha2_common_msg_03^超出举办时间或票券有效期。|gasha2_common_maintenance^由于现在正在维护中，无法进行购买
-详情请查看公告|gasha2_common_banner_maintenance^维护中|gasha2_common_pu_00_msg_01^要使用{0}抽取|gasha2_common_pu_00_msg_03^吗？|gasha2_common_pu_00_label_00^免费百万宝石|gasha2_common_pu_01_title^扭蛋详情|gasha2_common_pu_01_tab_0^出卡概率|gasha2_common_pu_01_tab_1^注意事项|gasha2_common_pu_01_tab_2^扭蛋说明|gasha2_common_pu_02_tab_1^限定|gasha2_common_pu_02_tab_2^新卡片|gasha2_common_card_list_none^没有符合条件的卡片|gasha2_common_tryon_kinematics_button^揺れ|gasha2_notice_default_0^楽しそうなところが撮れましたよ|gasha2_notice_default_1^みんなの良い表情が撮れました！|gasha2_notice_default_2^最高の一枚ができましたのでぜひご確..|gasha2_mdl_detail_pu_title^扭蛋硬币|gasha2_mdl_detail_pu_tab_0^历史|gasha2_mdl_detail_pu_tab_1^持有|gasha2_mdl_detail_pu_msg_0^距离获得还需 {0}pt|gasha2_mdl_detail_pu_msg_1^由于到达持有数上限，无法获得扭蛋硬币pt|gasha2_mdl_detail_pu_msg_2^{0}年{1}月{2}日 {3:00}点{4:00}分{5:00}秒|gasha2_mdl_detail_pu_msg_3^有效期 {0}|gasha2_mdl_detail_pu_msg_4^在 {0} 使用|gasha2_mdl_detail_pu_msg_5^在 {0} 失效|gasha2_mdl_detail_pu_msg_6^暂无扭蛋硬币历史|gasha2_mdl_detail_pu_msg_7^没有持有中的扭蛋硬币|gasha2_mdl_detail_pu_msg_8^已过期|gasha2_mdl_detail_pu_msg_9^{0} 过期|gasha2_mdl_detail_pu_btn_0^前往扭蛋|gasha2_exchange_card_sort_pu_label_00^タイプ|gasha2_exchange_card_sort_pu_label_01^排除设置|gasha2_exchange_card_sort_pu_label_02^排序|gasha2_exchange_card_sort_pu_toggle_00^未指定|gasha2_exchange_card_sort_pu_toggle_01^已获得的卡片除外|gasha2_confirm_pu_title^使用确认|gasha2_confirm_pu_msg_00^<size=23>使用{0}
-{1}</size>|gasha2_confirm_pu_msg_01^使用<color=#FF0098>{1}</color>{2}{0}
+详情请查看公告|gasha2_common_banner_maintenance^维护中|gasha2_common_pu_00_msg_01^要使用{0}抽取|gasha2_common_pu_00_msg_03^吗？|gasha2_common_pu_00_label_00^免费百万宝石|gasha2_common_pu_01_title^扭蛋详情|gasha2_common_pu_01_tab_0^出卡概率|gasha2_common_pu_01_tab_1^注意事项|gasha2_common_pu_01_tab_2^扭蛋说明|gasha2_common_pu_02_tab_1^限定|gasha2_common_pu_02_tab_2^新卡片|gasha2_common_card_list_none^没有符合条件的卡片|gasha2_common_tryon_kinematics_button^揺れ|gasha2_notice_default_0^楽しそうなところが撮れましたよ|gasha2_notice_default_1^みんなの良い表情が撮れました！|gasha2_notice_default_2^最高の一枚ができましたのでぜひご確..|gasha2_mdl_detail_pu_title^扭蛋硬币|gasha2_mdl_detail_pu_tab_0^历史|gasha2_mdl_detail_pu_tab_1^持有|gasha2_mdl_detail_pu_msg_0^距离获得还需 {0}pt|gasha2_mdl_detail_pu_msg_1^由于到达持有数上限，无法获得扭蛋硬币pt|gasha2_mdl_detail_pu_msg_2^{0}年{1}月{2}日 {3:00}点{4:00}分{5:00}秒|gasha2_mdl_detail_pu_msg_3^有效期 {0}|gasha2_mdl_detail_pu_msg_4^在 {0} 使用|gasha2_mdl_detail_pu_msg_5^在 {0} 失效|gasha2_mdl_detail_pu_msg_6^暂无扭蛋硬币历史|gasha2_mdl_detail_pu_msg_7^没有持有中的扭蛋硬币|gasha2_mdl_detail_pu_msg_8^已过期|gasha2_mdl_detail_pu_msg_9^{0} 过期|gasha2_mdl_detail_pu_btn_0^前往扭蛋|gasha2_exchange_card_sort_pu_label_00^タイプ|gasha2_exchange_card_sort_pu_label_01^排除设置|gasha2_exchange_card_sort_pu_label_02^排序|gasha2_exchange_card_sort_pu_toggle_00^未指定|gasha2_exchange_card_sort_pu_toggle_01^已获得的卡片除外|gasha2_confirm_pu_title^使用确认|gasha2_confirm_pu_msg_00^{0}を使用して
+{1}|gasha2_confirm_pu_msg_01^使用<color=#FF0098>{1}</color>{2}{0}
 {3}|gasha2_confirm_pu_msg_02^{0}{1}を引きますか？|gasha2_confirm_pu_msg_03^{0}{1}を{2}回引きますか？|gasha2_confirm_pu_msg_04^{0}の{1}{2}ステップ目を引きますか？|gasha2_confirm_pu_warning_00^{0}不足|gasha2_confirm_pu_button_00^ガシャを引く|gasha2_confirm_pu_button_01^购买百万宝石|gasha2_error_pu_title_00^错误|gasha2_error_pu_msg_00^開催期間が終了しました。|gasha2_error_pu_msg_01^開催期間、もしくはチケットの有効期限が終了しました。|gasha2_cos_msg_00^可以获得LIVE、工作、硬币扭蛋中出现的
 偶像的共通服装！|gasha2_cos_msg_01^出現する衣装を
 全て所持しているため
@@ -14843,7 +14838,7 @@ SRカードが確定する
 
 「セット一覧」の詳細ボタンより
 内容をご確認の上ご利用ください|gasha2_fortune_wallpaper_notice_pu_button^セット一覧へ|gasha2_top_pop_confirm_title_dc_9^美咲のオススメコーディネイトガシャ|gasha2_top_pop_confirm_title_dc_10^美咲のオススメコーディネイトガシャ|gasha2_top_pop_confirm_title_dc_17^美咲のオススメコーディネイトガシャ|gasha2_top_pop_confirm_title_dc_15^SSR確定ガシャ|gasha2_top_pop_confirm_title_dc_28^ピックアップステップガシャ|gasha2_top_pop_confirm_title_dc_29^ピックアップステップガシャ|gasha2_top_pop_confirm_title_dc_30^ピックアップステップガシャ|gasha2_top_pop_confirm_title_dc_42^Birthdayガシャ{step}ステップ目|gasha2_top_pop_confirm_msg_dc_41^{0}の{1}{2}回目を引きますか？|gasha2_top_desc_dc_9^テーマに合わせたカードがピックアップされ、
-3回限定で引ける「美咲のオススメコーディネイト♪#23 青く輝く☆ブルードレスガシャ2」
+3回限定で引ける「美咲のオススメコーディネイト♪#24 ハートフル♡フォーユーガシャ」
 有償ミリオンジュエルのみで1回目<color=#FF0098>1500</color>個、2回目<color=#FF0098>2000</color>個、3回目<color=#FF0098>2500</color>個！さらに3回目は<color=#FF0098>ピックアップされているSSRカードが1枚</color>確定！！|gasha2_top_desc_dc_41^「THE IDOLM@STER M@STERS OF IDOL WORLD 2025開催記念！39ガシャ」開催！
 有償ミリオンジュエル390個で引ける<color=#FF0098>1回ガシャ</color>
 SSRの出現率はなんと<color=#FF0098>39％</color>！期間限定カードも出現！
@@ -15673,7 +15668,7 @@ SOLO LIVE打ち上げガシャ」
 将使用<color=#FF0098>{0}</color>
 获得<color=#FF0000>{1}</color>「{2}」|selection_131^全て所持しています|selection_132^<color=#FF0098>没有可以交换的票券</color>|selection_133^対象の最大レアリティ以外が選択されています|selection_134^期間限定カード以外が選択されています|selection_135^確認しました|selection_136^取得済のカードが選択されています|selection_200^优先的类型|selection_201^优先的数值|selection_202^排除设置|selection_203^未指定|selection_204^已获得的卡片除外|selection_300^购买完成|selection_301^{0}  <color=#FF0098>{1}{2}</color>|selection_302^使用期限到{0}/{1:D2}/{2:D2} {3:D2}:{4:D2}:{5:D2}为止|selection_303^没有使用期限|selection_304^已领取票券|selection_400^错误|selection_401^由于存在已失效的票券
 操作失败|selection_402^販売期間が終了しました
-もしくはチケットの有効期限が切れました|selection_500^所持セレクションチケット一覧|selection_501^使用|selection_filter_title^排序|selection_filter_tab1^排序|selection_filter_tab2^筛选|selection_filter_group_type^目标|selection_filter_group_type_name1^偶像名|selection_filter_group_category^类别|selection_filter_group_category_name1^一般|selection_filter_group_category_name2^期间限定|selection_filter_group_category_name3^FES|selection_filter_group_category_name4^SHS|selection_filter_group_category_name5^プレミアム
+もしくはチケットの有効期限が切れました|selection_500^所持セレクションチケット一覧|selection_501^使用|selection_filter_title^並べ替え|selection_filter_tab1^表示順|selection_filter_tab2^筛选|selection_filter_group_type^目标|selection_filter_group_type_name1^偶像名|selection_filter_group_category^类别|selection_filter_group_category_name1^一般|selection_filter_group_category_name2^期间限定|selection_filter_group_category_name3^FES|selection_filter_group_category_name4^SHS|selection_filter_group_category_name5^プレミアム
 ピックアップSR|selection_filter_group_costume^服装|selection_filter_group_costume_name1^附带服装|selection_filter_group_master_rank^マスターランク状態|selection_filter_group_master_rank_name1^マスターランク5追加|selection_filter_group_master_rank_warning1^仅显示稀有度为SSR的卡片。|selection_filter_group_center_skill^CENTER效果|selection_filter_group_skill^技能|selection_sort_group_type^タイプ|selection_sort_group_status^排序|selection_sort_group_possession^持有状况|selection_sort_group_possession_name1^优先显示未获得的卡片|selection_sort_group_another_kinematics^ANOTHER KINEMATICS／晃动|selection_sort_group_another_kinematics_name1^优先显示附赠相应服装的卡片|selection_sort_group_another_kinematics_info_pu_title^ANOTHER KINEMATICS／晃动|selection_sort_group_another_kinematics_info_pu_msg^本機能は、劇場やライブ、コミュなどで表示されるアイドルの特定の部分、「ヘア（アホ毛・浮き毛）」「ボディ（バスト部分）」「衣装（腰より下に垂れている衣装の一部）」がより揺れるよう調整できる機能です。
 設定を有効にすることで表現がよりやわらかく、揺れやすくなります。
 
@@ -16604,4 +16599,636 @@ Exカード詩花の衣装もセット内容に含まれています。|costumes
 セプテムアーク人工島での制服。自分のために、友達のために。
 歪んだ世界を、未来を…変えられるのは、私たちしかいないから！|costumesales_0276_info^青春・彷徨（ANGEL STARS）
 セプテムアーク人工島での制服。自分のために、友達のために。
-歪んだ世界を、未来を…変えられるのは、私たちしかいないから！|card_episode_101kot0013_title^エピソード|card_episode_102mis0013_title^エピソード|card_episode_101kot0023_title^エピソード|card_episode_102mis0023_title^章节
+歪んだ世界を、未来を…変えられるのは、私たちしかいないから！|card_episode_101kot0013_title^エピソード|card_episode_102mis0013_title^エピソード|card_episode_101kot0023_title^エピソード|card_episode_102mis0023_title^章节|display_character_rifu^りーふ|display_character_ou^おう|display_character_seira1^せいら|display_character_sararimannodanntai^サラリーマンの団体|display_character_kennsetugennbasyokunin^建設現場の職人達|display_character_sudoukoujinosagyouin^水道工事の作業員達|display_character_okamisan^女将さん|display_character_ritukomihya^律子・美也|display_character_annnamiya^杏奈・美也|display_character_arisaemiri^亜利沙・エミリー|display_character_sinona^新オーナー|display_character_tekirejisutansu^敵レジスタンス|display_character_tekiseiryoku^敵勢力|display_character_tekiseiryokurida^敵勢力リーダー|display_character_yaminekoemiemi^やみねこ・エミエミ|display_character_yamirabisubarun^やみらび・すばるん|display_character_yaminekoserika^やみねこ・せりか|display_character_yaminekosihopoyo^やみねこ・しほぽよ|display_character_yamirabikotoha^やみらび・ことは|display_character_yamirabityannami^やみらび・ちゃんあみ|display_character_jimuintati^事務員たち|tutorial_info_box100001_00_title^<size=17>11thLIVE DAY1 Atelier ROCOMOTION!!打ち上げセレクションガシャとは</size>|tutorial_info_box100001_00^11thLIVE DAY1 Atelier ROCOMOTION!!打ち上げセレクション
+ガシャとは出現するカードを決められた候補の中から自分で選んで
+設定できます|tutorial_info_box100001_01_title^<size=17>11thLIVE DAY1 Atelier ROCOMOTION!!打ち上げセレクションガシャとは</size>|tutorial_info_box100001_01^引くたびにボックスの中身が減っていき、最終的に選択したカードを
+すべて獲得することができるガシャです|tutorial_info_box100001_02_title^<size=17>11thLIVE DAY1 Atelier ROCOMOTION!!打ち上げセレクションガシャとは</size>|tutorial_info_box100001_02^さらにボックスに設定したカードをすべて獲得するとおまけで
+アイテムを獲得できます|tutorial_info_box100002_00_title^<size=17>11thLIVE DAY2 百合咲き誇るレムリア打ち上げセレクションガシャとは</size>|tutorial_info_box100002_00^11thLIVE DAY2 百合咲き誇るレムリア打ち上げセレクションガシャ
+とは出現するカードを決められた候補の中から自分で選んで
+設定できます|tutorial_info_box100002_01_title^<size=17>11thLIVE DAY2 百合咲き誇るレムリア打ち上げセレクションガシャとは</size>|tutorial_info_box100002_01^引くたびにボックスの中身が減っていき、最終的に選択したカードを
+すべて獲得することができるガシャです|tutorial_info_box100002_02_title^<size=17>11thLIVE DAY2 百合咲き誇るレムリア打ち上げセレクションガシャとは</size>|tutorial_info_box100002_02^さらにボックスに設定したカードをすべて獲得するとおまけで
+アイテムを獲得できます|tutorial_info168_00_title^冒険の目的|tutorial_info168_00^やみらびと一緒に、様々なアクションを駆使してステージを攻略しよう
+ボスに捕まった仲間を助け出し、企画書の作り直しを阻止しましょう！|tutorial_info168_01_title^ステージの選択|tutorial_info168_01^ステージ1からスタートし、ボスを倒すと、次のステージに
+挑戦することができます。全3ステージをクリアすると、
+以降は自由にステージを選ぶことが可能です|tutorial_info168_02_title^やみらびの攻撃方法|tutorial_info168_02^やみらびには「愛のさけび」という声を武器にした攻撃方法があります
+「愛のさけび」を敵に当てると、敵の動きが一時的に停止します
+動けなくなった敵を足場として利用しながら先に進みましょう！|tutorial_info168_03_title^お助けアイテムについて|tutorial_info168_03^ステージ上には、冒険をサポートする様々なアイテムが落ちています
+見つけたら、積極的に拾ってみましょう！|tutorial_info168_04_title^ステージとボス戦|tutorial_info168_04^ステージの最後にはボスが待ちかまえていて、しりとり対決に
+勝利すると、捕まっている仲間を助け出すことができます|tutorial_info168_05_title^ボス戦のルール|tutorial_info168_05^パネルの絵から連想される言葉を使って、しりとりで対決します
+目標スコアを達成すると勝利！ただし、「ん」で終わる読み方の
+パネルを選ぶ、手詰まりになる、時間切れになると負けてしまいます|tutorial_info168_06_title^ハイスコアを目指そう！|tutorial_info168_06^選択したパネルの文字数によって得点が加算されます
+さらに特別な読み方をするとボーナス得点を獲得できるので、 
+目標スコアを達成しやすくなりますよ！|tutorial_info168_07_title^ミッションクリアで称号を獲得しよう！|tutorial_info168_07^ミッションをクリアすると、エイプリルフール専用の称号を獲得できます|tutorial_info168_08_title^好きなステージで遊ぼう！|tutorial_info168_08^全てのステージが選択できるようになりました！
+お好きなステージでスコアアタックをお楽しみください
+また、指輪集めにもぜひ挑戦してみてくださいね|tutorial_info169_00_title^<size=24>プレミアムパスDX/DX+特典の連続お仕事について</size>|tutorial_info169_00^ライブチケットが最大になるまで自動でお仕事を続ける機能です
+元気が不足してる場合は自動で回復してお仕事を続けることもできます|live_play_popup_btn_00_1^プレイを
+再開|live_play_popup_btn_01_1^プレイを
+やめる|live_play_popup_btn_03^オートライブ|live_play_popup_btn_04^リトライ|live_play_popup_btn_05^ライフを
+全回復|live_play_popup_btn_06^リトライする|live_play_popup_btn_07^期間限定
+オートライブPASSで再開|live_play_popup_btn_08^オートライブPASSで再開|live_play_popup_btn_08_1^オートライブで
+再開する|live_play_popup_btn_09^プレイをやめる|live_play_popup_btn_10^ライフを全回復|live_play_popup_title_30^ライブ失敗|live_play_popup_title_31^リトライの確認|live_play_popup_title_32^オートライブの確認|live_play_popup_msg_30^ライフがゼロになりました
+<color=#FF0098>ミリオンジュエルを{0}個使用してライフを全回復</color>しますか？
+リトライしてライブを最初からやり直すか、
+オートライブに切り替えてライブをクリアすることもできます|live_play_popup_msg_30_1^ライフがゼロになりました
+<color=#FF0098>ミリオンジュエルを{0}個使用してライフを全回復</color>しますか？
+オートライブに切り替えてライブをクリアすることもできます|live_play_popup_msg_30_2^ライフがゼロになりました
+<color=#FF0098>ミリオンジュエルを{0}個使用してライフを全回復</color>しますか？
+リトライしてライブを最初からやり直すこともできます|live_play_popup_msg_31^リトライするとライブを最初からやり直すことができます
+リトライしますか？|live_play_popup_msg_32^<color=#757BAB>オートライブPASS</color>を使って
+オートライブに切り替えますか？|live_play_popup_label_30^残りリトライ回数|live_play_popup_label_31^期間限定オートライブPASS|live_play_popup_label_32^オートライブPASS|live_play_popup_value_30^{0}回|live_play_popup_value_31^{0}枚|live_play_popup_max^MAX|live_result_replay_live_confirm_pass_4^ライブスキップPASS|jobv_continuous_setting_button^連続
+お仕事設定|navi_shop_10_108^シアターDX
+ポイント交換所|navi_buy_jewel_result_bonus_title_shop_item_premium_pass_14_item^購入完了|navi_buy_jewel_result_bonus_msg_shop_item_premium_pass_14_item^BOT VOL.4チケットを1枚購入しました|navi_buy_other_result_warning_shop_item_premium_pass_14_1^オートライブPASSの所有上限数+5枚、デイリー獲得数+1枚|navi_buy_other_result_warning_shop_item_premium_pass_14_2^イベント期間中のライブスキップPASSのデイリー獲得数+1枚|navi_buy_other_result_warning_shop_item_premium_pass_14_3^リザルト自動進行「高速」＆イベント中の「続けて準備」配置変更機能|navi_buy_other_result_warning_shop_item_premium_pass_14_4^「ライブ再演」配置変更機能＆最大連続回数増加|navi_buy_other_result_warning_shop_item_premium_pass_14_5^「アイドルおまかせコーデ」機能|navi_buy_other_result_notice_pu_tiitle^お知らせ|navi_buy_other_result_notice_pu_msg^BOT VOL.4チケット
+プレミアムパスDX
+プレミアムパスDX+
+が購入可能になりました|navi_buy_other_detail_popup_title_shop_item_premium_pass_14^プレミアムパス購入|navi_buy_other_detail_popup_msg_shop_item_premium_pass_14^プレミアムパスは、豪華な報酬やイベントに便利な機能など、様々な特典が付いた内容
+となります。
+セット内容に含まれる「BOT VOL.4チケット」は、『BOT VOL.4パス内の
+「プレミアム」報酬』と『アイドルのメール』を解放することができます。
+詳細は以下の内容をご確認ください。
+
+<color=#FF0098>＜プレミアムパスのセット内容＞</color>
+　オートライブPASS特典
+　ライブスキップPASS特典
+　リザルト自動進行機能『高速』の解放
+　イベント期間中の「続けて準備」ボタン配置変更機能の解放
+　「ライブ再演」の最大連続回数増加
+　「ライブ再演」ボタン配置変更機能の解放
+　アイドルおまかせコーデ機能の解放
+
+<color=#FF0098>＜販売価格＞</color>
+　{0}
+
+<color=#FF0098>＜プレミアムパスの有効期間＞</color>
+　2026/08/31（月）23:59まで
+
+<color=#FF0098>＜アイテムの使用期限と各特典の利用期限＞</color>
+　①BOT VOL.4チケット
+　　使用期限：2026/09/15（火）23:59まで
+
+　②オートライブPASS特典
+　③ライブスキップPASS特典
+　④リザルト自動進行機能『高速』の解放
+　⑤イベント期間中の「続けて準備」ボタン配置変更機能の解放
+　⑥「ライブ再演」の最大連続回数増加
+　⑦「ライブ再演」ボタン配置変更機能の解放
+　　利用期限：2026/09/15（火）23:59まで
+
+　⑧アイドルおまかせコーデ機能の解放
+　　利用期限：2026/08/31（月）23:59まで
+
+※複数のプレミアムパスを購入し、②～⑧の特典の利用期間が重複した場合、
+　特典の効果は重複いたしません。予めご了承ください。
+
+<color=#FF0098>＜BOT VOL.4チケットについて＞</color>
+BOT VOL.4チケットは、「劇場メニュー＞BOT VOL.4パス」内のプレミアム特典を
+解放することができるチケットです。
+プレミアム特典は、「PRINCESS STARS」「FAIRY STARS」「ANGEL STARS」
+「765PRO ALLSTARS」の4グループがあり、BOT VOL.4チケット1枚で
+任意の1グループの「プレミアム」報酬とメールを解放できます。
+
+■プレミアム報酬
+BOT VOL.4パスの「プレミアム」報酬が追加されます。
+「プレミアム」報酬は、衣装引換券やプレミアムメダルなどのアイテムを獲得すること
+ができます。
+
+・「プレミアム」報酬で獲得できるアイテム
+BOT VOL.4ポイントを集めることで以下のアイテムを追加報酬として獲得できます。
+
+BOTパス共通衣装引換券　13枚
+グループに所属するアイドル13人のスタイルドロップ　各20個
+キラメキのしずく　100個
+プレミアムメダル　150枚
+スパークドリンク20　10個
+オートライブPASS　10枚
+マスターピース R　100個
+レッスンチケット R　400枚
+レッスンチケット SR　10枚
+レッスンチケット SSR　3枚
+
+また、全ての報酬を獲得したあとは、500ポイントごとに最大35000ポイントまで、
+以下のアイテムを特別報酬として獲得できます。
+スパークドリンク20　1個
+
+・BOTパス共通衣装引換券と入手できる衣装について
+「劇場＞BOT VOL.4パス＞衣装交換」から
+BOTパス共通衣装引換券を利用することで、衣装を入手できます。
+<color=#FF0098>BOTパス共通衣装引換券は、チケットで解放したグループに限らず、交換可能な
+全ての衣装の中からお好きなアイドルの衣装を1着、個別に選択して交換できます。</color>
+
+※BOTパス共通衣装引換券に使用期限はございません。
+
+・プレミアムメダルについて
+「プレミアムメダルショップ」でアイテム等と交換できるメダルです。
+
+■メール
+解放したグループのアイドル13人から、アプリ内の「モバイル」宛に、選択肢付きの
+メールが届きます。
+メールは2026/04/01（水）18:00から一定期間ごとに届きます。
+
+※BOT VOL.4チケットを利用してメールを解放した際、利用時までに受信可能な
+　メールが一括で送信されますので、利用開始日時に関係なく、全てのメールを
+　受け取ることができます。
+※メールは、メール配信後の毎週金曜日に「劇場＞アイドル＞アイドル詳細＞演出」に
+　アーカイブされます。
+※アーカイブを確認するには、「劇場＞モバイル」から対象のメールを返信分まで読み
+　終えている必要があります。
+
+<color=#FF0098>＜オートライブPASS特典＞</color>
+オートライブPASSの所有上限が5枚、デイリーの獲得枚数が1枚追加されます。
+
+購入前：所有上限15枚、デイリー獲得枚数1枚
+↓
+購入後：所有上限20枚、デイリー獲得枚数2枚
+
+※デイリーの獲得枚数は、プレミアムパスの購入翌日から追加されます。
+
+<color=#FF0098>＜ライブスキップPASS特典＞</color>
+イベント期間中のライブスキップPASSのデイリーの獲得枚数が1枚追加されます。
+
+購入前：デイリー獲得枚数3枚
+↓
+購入後：デイリー獲得枚数4枚
+
+※デイリーの獲得枚数は、プレミアムパスの購入翌日から追加されます。
+
+<color=#FF0098>＜リザルト自動進行機能『高速』の解放＞</color>
+リザルト自動進行機能で『高速』を選択できるようになります。
+
+※リザルト自動進行機能は、ライブ・オファー・一部のイベントお仕事の
+　リザルト画面において、画面をタッチしなくても自動で画面が進行する機能です。
+
+<color=#FF0098>＜イベント期間中の「続けて準備」ボタン配置変更機能の解放＞</color>
+「プラチナスターツアービンゴ」イベント開催中、
+「続けて準備」ボタンに「配置変更」が追加され、選択できるようになります。
+
+※「続けて準備」ボタン配置変更機能は、「プラチナスターツアービンゴ」イベント
+　開催中のイベントライブ・イベントお仕事のリザルト画面において、
+　「OK」ボタンと「続けて準備」ボタンの位置を入れ替えることができる機能です。
+
+<color=#FF0098>＜「ライブ再演」の最大連続回数増加＞</color>
+ライブ再演の最大連続回数が5回増加して最大20回になります。
+
+※詳細は「劇場＞ナビ＞ヘルプ＞ライブ＞ライブ再演」をご確認ください。
+
+<color=#FF0098>＜「ライブ再演」ボタン配置変更機能の解放＞</color>
+ライブレポート画面右上の「ライブ再演」ボタンに「配置変更」が追加され、
+選択できるようになります。
+
+※「ライブ再演」ボタン配置変更機能は、ライブレポート画面で「OK」ボタンと
+　「ライブ再演」ボタンの位置を入れ替えることができる機能です。
+
+<color=#FF0098>＜アイドルおまかせコーデ機能の解放＞</color>
+「ナビ＞衣装設定＞私服の設定」に「アイドルおまかせコーデ」が追加され、
+設定できるようになります。
+
+※「アイドルおまかせコーデ」は、アイドルたちが毎日私服と髪型を考えて劇場に
+　来てくれるようになる機能です。
+　詳細は「劇場＞ナビ＞ヘルプ＞ナビ＞衣装設定」の「私服の設定」項目を
+　ご確認ください。
+
+■注意事項
+※本商品は、1つのゲームIDに対して1回のみ購入することができます。
+※異なる機種やOS間の引き継ぎを行った場合は、購入履歴や獲得したBOT VOL.4
+　ポイントなど全ての情報が引き継がれます。
+※本商品の購入金額は未成年者の方の購入限度額に含まれますのでご注意ください。|navi_buy_other_detail_popup_title_shop_item_premium_pass_14_item^BOT VOL.4チケット購入|navi_buy_other_detail_popup_msg_shop_item_premium_pass_14_item^BOT VOL.4チケットは、『BOT VOL.4パス内の「プレミアム」報酬』と
+『アイドルのメール』を解放することができるチケットです。
+本商品は、「プレミアムパス」購入後にお買い求めいただける商品で、
+3回まで購入することができます。
+
+<color=#FF0098>＜販売内容＞</color>
+　BOT VOL.4チケット　1枚
+
+<color=#FF0098>＜販売価格＞</color>
+　{0}
+
+<color=#FF0098>＜使用期限＞</color>
+　2026/09/15（火）23:59まで
+
+<color=#FF0098>＜BOT VOL.4チケットの全購入特典＞</color>
+BOT VOL.4チケットを全て購入すると以下のアイテムを獲得できます。
+　無償ミリオンジュエル　450個
+
+<color=#FF0098>＜BOT VOL.4チケットについて＞</color>
+BOT VOL.4チケットは、「劇場メニュー＞BOT VOL.4パス」内のプレミアム特典を
+解放することができるチケットです。
+プレミアム特典は、「PRINCESS STARS」「FAIRY STARS」「ANGEL STARS」
+「765PRO ALLSTARS」の4グループがあり、BOT VOL.4チケット1枚で
+任意の1グループの「プレミアム」報酬とメールを解放できます。
+
+■プレミアム報酬
+BOT VOL.4パスの「プレミアム」報酬が追加されます。
+「プレミアム」報酬は、衣装引換券やプレミアムメダルなどのアイテムを獲得すること
+ができます。
+
+・「プレミアム」報酬で獲得できるアイテム
+BOT VOL.4ポイントを集めることで以下のアイテムを追加報酬として獲得できます。
+
+BOTパス共通衣装引換券　13枚
+グループに所属するアイドル13人のスタイルドロップ　各20個
+キラメキのしずく　100個
+プレミアムメダル　150枚
+スパークドリンク20　10個
+オートライブPASS　10枚
+マスターピース R　100個
+レッスンチケット R　400枚
+レッスンチケット SR　10枚
+レッスンチケット SSR　3枚
+
+また、全ての報酬を獲得したあとは、500ポイントごとに最大35000ポイントまで、
+以下のアイテムを特別報酬として獲得できます。
+スパークドリンク20　1個
+
+・BOTパス共通衣装引換券と入手できる衣装について
+「劇場＞BOT VOL.4パス＞衣装交換」から
+BOTパス共通衣装引換券を利用することで、衣装を入手できます。
+<color=#FF0098>BOTパス共通衣装引換券は、チケットで解放したグループに限らず、交換可能な
+全ての衣装の中からお好きなアイドルの衣装を1着、個別に選択して交換できます。</color>
+
+※BOTパス共通衣装引換券に使用期限はございません。
+
+・プレミアムメダルについて
+「プレミアムメダルショップ」でアイテム等と交換できるメダルです。
+
+■メール
+解放したグループのアイドル13人から、アプリ内の「モバイル」宛に、選択肢付きの
+メールが届きます。
+メールは2026/04/01（水）18:00から一定期間ごとに届きます。
+
+※BOT VOL.4チケットを利用してメールを解放した際、利用時までに受信可能な
+　メールが一括で送信されますので、利用開始日時に関係なく、全てのメールを
+　受け取ることができます。
+※メールは、メール配信後の毎週金曜日に「劇場＞アイドル＞アイドル詳細＞演出」に
+　アーカイブされます。
+※アーカイブを確認するには、「劇場＞モバイル」から対象のメールを返信分まで読み
+　終えている必要があります。
+
+■注意事項
+※本商品は、「プレミアムパス」購入後に購入可能になります。
+※本商品は、1つのゲームIDに対して3回まで購入することができます。
+※異なる機種やOS間の引き継ぎを行った場合は、購入履歴や獲得したBOT VOL.4
+　ポイントなど全ての情報が引き継がれます。
+※本商品の購入金額は未成年者の方の購入限度額に含まれますのでご注意ください。|navi_buy_deluxe_item_label_01^DX+
+購入済み|navi_buy_deluxe_item_limit_date^<color=#E6F078>2026/04/30 23:59</color>まで|navi_buy_deluxe_item_button_01^詳細/購入|navi_buy_deluxe_item_button_02^詳細|navi_buy_premium_pass_deluxe_detail_pu_title^プレミアムパスDX/プレミアムパスDX+について|navi_buy_premium_pass_deluxe_detail_pu_detail_button^詳細|navi_buy_premium_pass_deluxe_detail_pu_overview^各プレミアムパスの特典内容は、こちらの一覧でご確認
+ください。一部特典は4月アップデートより利用可能です|navi_buy_premium_pass_deluxe_detail_pu_possession_label^所持ミリオンジュエル|navi_buy_premium_pass_deluxe_detail_pu_item_type^有償|navi_buy_premium_pass_deluxe_detail_pu_buy_deluxe_button^DX購入|navi_buy_premium_pass_deluxe_detail_pu_buy_deluxe_plus_button^DX+購入|navi_buy_premium_pass_deluxe_detail_dx_mini_pu_title^プレミアムパスDXと特典について|navi_buy_premium_pass_deluxe_detail_dx_mini_pu_message^「プレミアムパスDX」「プレミアムパスDX+」は、プレミアムパスをご購入いただいた方のみ追加できるアップグレードパスです。
+アプリ内のショップにて、有償ミリオンジュエルで購入でき、お客様のプレイスタイルに合わせていずれかをお選びいただけます。
+
+※「プレミアムパスDX」をご購入後でも、差額の有償ミリオンジュエルにて「プレミアムパスDX+」へアップグレードすることが可能です。 
+
+「プレミアムパスDX」の特典の詳細は下記をご確認ください。
+
+<color=#FF0098>＜プレミアムパスDXのセット内容＞</color>
+①シアターDXポイント 50pt
+②ランキングイベント開催中「プレミアムパスDX特典アイテムセット」を購入可能
+③ライブチケット所持数上限+300枚
+④ライブのリトライ機能の解放（一度のライブ中に最大2回まで）
+⑤オートライブPASSのデイリー獲得枚数+2枚
+⑥オートライブPASS所持数上限+10枚
+⑦「ライブ再演」機能の最大連続回数+10回
+
+<color=#FF0098>＜必要ミリオンジュエル＞</color>
+有償ミリオンジュエル 1000個
+
+<color=#FF0098>＜販売期間（毎月更新）＞</color>
+月初めの0:00から月末の23:59まで
+
+<color=#FF0098>＜アイテムの有効期限と各特典の有効期限＞</color>
+・シアターDXポイント
+有効期限：獲得から150日間
+
+・ランキングイベント開催中「プレミアムパスDX特典アイテムセット」を購入可能
+・ライブチケット所持数上限+300枚
+・ライブのリトライ機能
+有効期限：購入月の末日 23:59まで
+
+・オートライブPASSのデイリー獲得枚数+2枚
+・オートライブPASS所持数上限+10枚
+・「ライブ再演」機能の最大連続回数+10回
+有効期限：購入月の翌月2日 23:59まで
+
+【各特典の詳細】
+<color=#FF0098>＜シアターDXポイントについて＞</color>
+「プレミアムパスDX」または「プレミアムパスDX+」を購入すると獲得できるポイントです。
+シアターDXポイント交換所にて、カラーバリエーション衣装や過去に特別配布した衣装[THE MOST]や
+[THE M@ZE-T]、専用の称号などと交換できます。
+
+「プレミアムパスDX」、「プレミアムパスDX+」それぞれ1回購入分のポイントは、以下の通りです。
+・プレミアムパスDX：50pt
+・プレミアムパスDX+：300pt
+
+※シアターDXポイントで交換できる衣装と称号は、2026年4月中旬予定のアップデートより交換可能になります。商品交換が開始されるまで今しばらくお待ちください。
+※獲得したシアターDXポイントには有効期限があり、その期限を超えるとシアターDXポイントは失効します。有効期限は、「劇場＞ナビ＞ショップ＞プレミアムパス交換所＞シアターDXポイント交換所」で確認できます。
+
+<color=#FF0098>＜プレミアムパスDX特典アイテムセット」について＞</color>
+ランキングイベント開催中に利用できる「イベント期間限定ショップ」のラインナップに「プレミアムパスDX特典アイテムセット」が追加されます。
+
+セット内容は以下になります。
+
+■プレミアムパスDX特典アイテムセット
+　スパークドリンクMAX　5個
+　期間限定オートライブPASS　5枚
+
+必要ミリオンジュエル：無償ミリオンジュエル 250個
+
+※「プレミアムパスDX特典アイテムセット」のご利用回数に制限はありませんが、1度にご購入いただけるのは20セットまでとなります。
+
+<color=#FF0098>＜ライブチケット所持数上限UPについて＞</color>
+ライブチケットの所持数上限が、300枚（最大1200枚）増加します。
+
+<color=#FF0098>＜ライブのリトライ機能について＞</color>
+スキルの発生状況や回数はそのまま、一度のライブ中に最大2回まで、ライブを最初からやり直すことができる機能です。
+ライブ中に画面右上のポーズボタンから一時停止を行う、またはライブ中にライフがなくなった際に「リトライ」ボタンをタッチすることで、ユニット編成、ゲストアイドルを引き継いでライブをもう一度やり直すことができます。
+
+※リトライ回数内であれば、ライブ開始時に消費した元気やライブチケット、アイテムは改めて消費されません。
+※本機能は、ユニットとソロの本番ライブのみ対応し、リハーサルでは利用できません。
+
+<color=#FF0098>＜オートライブPASS特典について＞</color>
+オートライブPASSの所持数上限が10枚、デイリー獲得枚数が2枚追加されます。
+
+　例）プレミアムパスとプレミアムパスDXを購入した場合
+　購入前：所持数上限15枚、デイリー獲得枚数1枚
+　↓
+　プレミアムパスDX購入後：所持数上限25枚、デイリー獲得枚数3枚
+
+※デイリーの獲得枚数は、プレミアムパスの購入翌日から追加されます。
+
+<color=#FF0098>＜「ライブ再演」機能の最大連続回数について＞</color>
+ライブ再演の最大連続回数が10回増加します。
+
+　例）プレミアムパスとプレミアムパスDXを購入した場合
+　購入前：最大連続回数15回
+　↓
+　プレミアムパスDX購入後：最大連続回数25回
+
+■注意事項
+※一度アップグレードされたパスのダウングレードはできません。
+※プレミアムパスDX、プレミアムパスDX+は、月内のどのタイミングで購入しても必要有償ミリオンジュエル数と利用期間は変わりません。
+※先にプレミアムパスDX+を購入されている場合は、同月内にプレミアムパスDXを購入することはできません。
+※先にプレミアムパスDXを購入されている場合は、同月内にプレミアムパスDXとの差額の有償ミリオンジュエルでプレミアムパスDX+を購入することができます。
+なお、このとき獲得できる共通特典は、先に獲得していた内容を差し引いた追加分となります。
+※異なる機種やOS間の引き継ぎを行った場合、プレミアムパスのアップグレード状況や獲得したシアターDXポイントなどの効果や情報が引き継がれます。|navi_buy_premium_pass_deluxe_detail_dx_plus_mini_pu_title^プレミアムパスDX+と特典について|navi_buy_premium_pass_deluxe_detail_dx_plus_mini_pu_message^「プレミアムパスDX」「プレミアムパスDX+」は、プレミアムパスをご購入いただいた方のみ追加できるアップグレードパスです。
+アプリ内のショップにて、有償ミリオンジュエルで購入でき、お客様のプレイスタイルに合わせていずれかをお選びいただけます。
+
+※上位版である「プレミアムパスDX+」をご購入の場合、両方をお買い求めいただく必要はございません。
+
+「プレミアムパスDX+」の特典の詳細は下記をご確認ください。
+
+<color=#FF0098>＜プレミアムパスDX+のセット内容＞</color>
+①シアターDXポイント 300pt
+②いつでも「連続お仕事」が利用できる機能の解放
+③ランキングイベント開催中「プレミアムパスDX特典アイテムセット」を購入可能
+④いつでも「ライブスキップPASS」が利用できる機能の解放
+⑤ライブチケット所持数上限+900枚
+⑥ライブのリトライ機能の解放（一度のライブ中に最大5回まで）
+⑦ライブの途中からオートライブに切り替える機能の解放
+⑧オートライブPASSのデイリー獲得枚数+3枚
+⑨オートライブPASS所持数上限+20枚
+⑩「ライブ再演」機能の最大連続回数+20回
+⑪お迎えアイドル設定「タイトルコール」の解放※
+⑫お迎えアイドル設定「入場演出」の解放※
+※特典⑪と⑫につきましては、2026年4月中旬予定のアップデートより利用可能になります。
+
+<color=#FF0098>＜必要ミリオンジュエル＞</color>
+有償ミリオンジュエル 2000個
+
+<color=#FF0098>＜販売期間（毎月更新）＞</color>
+月初めの0:00から月末の23:59まで
+
+<color=#FF0098>＜アイテムの有効期限と各特典の有効期限＞</color>
+・シアターDXポイント
+有効期限：獲得から150日間
+
+・いつでも「連続お仕事」が利用できる機能
+・ランキングイベント開催中「プレミアムパスDX特典アイテムセット」を購入可能
+・ライブチケット所持数上限+900枚
+・ライブのリトライ機能
+・ライブの途中からオートライブに切り替える機能
+・お迎えアイドル設定「タイトルコール」
+・お迎えアイドル設定「入場演出」
+有効期限：購入月の末日 23:59まで
+
+・いつでも「ライブスキップPASS」が利用できる機能
+・オートライブPASSのデイリー獲得枚数+3枚
+・オートライブPASS所持数上限+20枚
+・「ライブ再演」機能の最大連続回数+20回
+有効期限：購入月の翌月2日 23:59まで
+
+
+【各特典の詳細】
+<color=#FF0098>＜シアターDXポイントについて＞</color>
+「プレミアムパスDX」または「プレミアムパスDX+」を購入すると獲得できるポイントです。
+シアターDXポイント交換所にて、カラーバリエーション衣装や過去に特別配布した衣装[THE MOST]や
+[THE M@ZE-T]、専用の称号などと交換できます。
+
+「プレミアムパスDX」、「プレミアムパスDX+」それぞれ1回購入分のポイントは、以下の通りです。
+・プレミアムパスDX：50pt
+・プレミアムパスDX+：300pt
+
+例）
+「プレミアムパスDX+」1回購入分のポイント内で下記を交換することができます。
+・カラーバリエーション衣装（13着）の場合：1セット
+・シアターカジュアル衣装の場合（13着）：2セット
+
+■早期継続購入特典
+2026年5月以降、毎月2日までに「プレミアムパスDX+」を継続購入された方は、早期購入特典として、シアターDXポイントが追加で100pt獲得できます。
+また、2026年8月まで連続で4ヶ月購入していただくと、継続購入特典としてシアターDXポイントをさらに100pt獲得できます。
+
+※シアターDXポイントで交換できる衣装と称号は、2026年4月中旬予定のアップデートより交換可能になります。商品交換が開始されるまで今しばらくお待ちください。
+※獲得したシアターDXポイントには有効期限があり、その期限を超えるとシアターDXポイントは失効します。有効期限は、「劇場＞ナビ＞ショップ＞プレミアムパス交換所＞シアターDXポイント交換所」で確認できます。
+
+<color=#FF0098>＜プレミアムパスDX特典アイテムセット」について＞</color>
+ランキングイベント開催中に利用できる「イベント期間限定ショップ」のラインナップに「プレミアムパスDX特典アイテムセット」が追加されます。
+セット内容は以下になります。
+
+■プレミアムパスDX特典アイテムセット
+　スパークドリンクMAX　5個
+　期間限定オートライブPASS　5枚
+
+必要ミリオンジュエル：無償ミリオンジュエル 250個
+
+※「プレミアムパスDX特典アイテムセット」のご利用回数に制限はありませんが、1度にご購入いただけるのは20セットまでとなります。
+
+<color=#FF0098>＜ライブチケット所持数上限UPについて＞</color>
+ライブチケットの所持数上限が+900枚（最大1800枚）増加します。
+
+<color=#FF0098>＜ライブのリトライ機能について＞</color>
+スキルの発生状況や回数はそのまま、一度のライブ中に最大5回まで、ライブを最初からやり直すことができる機能です。
+ライブ中に画面右上のポーズボタンから一時停止を行う、またはライブ中にライフがなくなった際に「リトライ」ボタンをタッチすることで、ユニット編成、ゲストアイドルを引き継いでライブをもう一度やり直すことができます。
+
+※リトライ回数内であれば、ライブ開始時に消費した元気やライブチケット、アイテムは改めて消費されません。
+※本機能は、ユニットとソロの本番ライブのみ対応し、リハーサルでは利用できません。
+
+<color=#FF0098>＜オートライブPASS特典について＞</color>
+オートライブPASSの所持数上限が20枚、デイリー獲得枚数が3枚追加されます。
+
+　例）プレミアムパスとプレミアムパスDX+を購入した場合
+　購入前：所持数上限15枚、デイリー獲得枚数1枚
+　↓
+　プレミアムパスDX+購入後：所持数上限35枚、デイリー獲得枚数4枚
+
+※デイリーの獲得枚数は、プレミアムパスの購入翌日から追加されます。
+
+<color=#FF0098>＜「ライブ再演」機能の最大連続回数について＞</color>
+ライブ再演の最大連続回数が20回増加します。
+
+　例）プレミアムパスとプレミアムパスDX+を購入した場合
+　購入前：最大連続回数15回
+　↓
+　プレミアムパスDX+購入後：最大連続回数35回
+
+<color=#FF0098>＜いつでも「連続お仕事」について＞</color>
+ライブチケットの最大所持数をオーバーする手前まで、自動でお仕事を繰り返す機能です。
+連続お仕事実行中に、自動的にアイテムを使用してお仕事を継続することもできます。
+
+※ライブチケットの所持数がMAXの場合は、連続お仕事を実行できません。
+※自動的に使用するアイテムの中には「ミリオンジュエル」も含まれているのでお気を付けください。
+※一部の特殊な演出などスキップされないものもあります。
+
+<color=#FF0098>＜いつでも「ライブスキップPASS」について＞</color>
+「ライブスキップPASS」がランキングイベント開催期間外でも使用できるようになります。
+また、「ライブスキップPASS」の最大所持数は6枚となり、デイリーの配布枚数も6枚になります。
+1日最大6回までライブスキップができますので、日々のミッションや課題曲のクリアにお役立てください。
+
+※「ライブスキップPASS」は、ライブスキップを行うことができるアイテムです。「ライブスキップPASS」の残り回数にかかわらず、ライブスキップを行える回数は毎日最大値までリセットされます。
+※デイリーの配布枚数は、プレミアムパスの購入翌日から追加されます。
+※ランキングイベント開催時には、「ライブスキップPASS」の残り枚数に関わらずリセットされ、改めてイベント用の「ライブスキップPASS」が配布されます。
+また、イベント終了時にはイベント用の「ライブスキップPASS」の残り枚数に関わらずリセットされ、改めてプレミアムパスDX+特典の「ライブスキップPASS」が配布されます。
+
+<color=#FF0098>＜ライブの途中からオートライブに切り替える機能について＞</color>
+一度クリアした楽曲のコースであれば、ライブの途中からオートライブに切り替えることができる機能です。
+
+※オートライブPASSを所持していない場合は、本機能を利用できません。
+※本機能は、ユニットとソロの本番ライブのみ対応し、リハーサルでは利用できません。
+
+<color=#FF0098>＜お迎えアイドル設定「タイトルコール」について＞</color>
+アプリを起動したときに、設定したアイドルのタイトルコールが毎回再生される機能です。
+
+※本機能は2026年4月中旬予定のアップデートより利用可能になります。
+
+<color=#FF0098>＜お迎えアイドル設定「入場演出」について＞</color>
+劇場の入場時に、設定したアイドルが毎日お出迎えしてくれる機能です。
+
+※本機能は2026年4月中旬予定のアップデートより利用可能になります。
+※本機能は「入場演出の設定」で3D標準を選択している場合のみ有効です。
+※設定を有効にしても即時反映されず、翌日のログイン以降から反映されます。
+※誕生日など一部の特殊な演出が発生する日は、指定されたアイドルが登場します。
+※「スタイリッシュなお出迎えの優先度設定」をONにしている場合は、スタイリッシュなお出迎えが優先されます。
+※プレミアムパスDX+の有効期限が切れた翌日は、ランダムに選出されたアイドルがお出迎えしてくれます。
+
+■注意事項
+※一度アップグレードされたパスのダウングレードはできません。
+※プレミアムパスDX、プレミアムパスDX+は、月内のどのタイミングで購入しても必要有償ミリオンジュエル数と利用期間は変わりません。
+※先にプレミアムパスDX+を購入されている場合は、同月内にプレミアムパスDXを購入することはできません。
+※先にプレミアムパスDXを購入されている場合は、同月内にプレミアムパスDXとの差額の有償ミリオンジュエルでプレミアムパスDX+を購入することができます。
+なお、このとき獲得できる共通特典は、先に獲得していた内容を差し引いた追加分となります。
+※異なる機種やOS間の引き継ぎを行った場合、プレミアムパスのアップグレード状況や獲得したシアターDXポイントなどの効果や情報が引き継がれます。|navi_buy_premium_pass_deluxe_detail_confirm_pu_title^購入確認|navi_buy_premium_pass_deluxe_detail_confirm_pu_message1^有償ミリオンジュエルを{0}個使用して
+{1}を
+購入しますか？|navi_buy_premium_pass_deluxe_detail_confirm_pu_message2_1^■注意事項
+プレミアムパスDX購入後、同月内にプレミアムパスDXとの
+差額の有償ミリオンジュエルでプレミアムパスDX+を購入
+することができます|navi_buy_premium_pass_deluxe_detail_confirm_pu_message2_2^■注意事項
+プレミアムパスDX購入後、同月内にプレミアムパスDXとの
+差額の有償ミリオンジュエルでプレミアムパスDX+を購入
+することができます
+なお、このとき獲得できる共通特典は、先に獲得していた
+内容を差し引いた追加分となります|navi_buy_premium_pass_deluxe_detail_confirm_pu_item_label^有償ミリオンジュエル|navi_buy_premium_pass_deluxe_detail_confirm_pu_shortage_warning^有償ミリオンジュエルが不足しています|navi_buy_premium_pass_deluxe_detail_confirm_pu_sctl_button^特定商取引法に基づく表示|navi_buy_premium_pass_deluxe_detail_confirm_pu_buy_button^購入する|navi_buy_premium_pass_deluxe_detail_confirm_pu_buy_jewel_button^ミリオンジュエル
+購入|navi_buy_premium_pass_deluxe_detail_confirm_warning_pu_title^注意|navi_buy_premium_pass_deluxe_detail_confirm_warning_pu_msg^オートライブPASSのデイリー獲得数およびライブスキップ
+PASSのデイリー獲得数は購入の翌日分から反映されます
+※ライブチケットの最大所持数は、一度別の画面に遷移を
+していただくと正しく表示されます|navi_buy_premium_pass_deluxe_detail_confirm_warning_pu_btn^購入する|navi_buy_premium_pass_deluxe_detail_confirm_lock_pu_title^確認|navi_buy_premium_pass_deluxe_detail_confirm_lock_pu_msg^この商品は以下の商品を購入すると購入可能になります
+プレミアムパス|navi_buy_premium_pass_deluxe_detail_confirm_lock_pu_button1^ミリオンジュエル
+その他の購入へ|navi_buy_premium_pass_deluxe_purchase_success_pu_title^購入しました|navi_buy_premium_pass_deluxe_purchase_success_pu_message^{0}を
+購入しました|navi_buy_premium_pass_deluxe_purchase_success_pu_warning6_1^「プレミアムパスDX特典アイテムセット」購入可能|navi_buy_premium_pass_deluxe_purchase_success_pu_warning6_2^ライブチケット所持数上限+300枚|navi_buy_premium_pass_deluxe_purchase_success_pu_warning6_3^ライブのリトライ機能|navi_buy_premium_pass_deluxe_purchase_success_pu_warning6_4^オートライブPASSの所有上限数+10枚、デイリー獲得数+2枚|navi_buy_premium_pass_deluxe_purchase_success_pu_warning6_5^ライブ再演機能の最大連続回数+10回|navi_buy_premium_pass_deluxe_purchase_success_pu_warning7_1^いつでも「連続お仕事」が利用できる機能|navi_buy_premium_pass_deluxe_purchase_success_pu_warning7_2^「プレミアムパスDX特典アイテムセット」購入可能|navi_buy_premium_pass_deluxe_purchase_success_pu_warning7_3^いつでも「ライブスキップPASS」が利用できる機能|navi_buy_premium_pass_deluxe_purchase_success_pu_warning7_4^ライブチケット所持数上限+900枚|navi_buy_premium_pass_deluxe_purchase_success_pu_warning7_5^ライブのリトライ機能|navi_buy_premium_pass_deluxe_purchase_success_pu_warning7_6^ライブの途中からオートライブに切り替える機能|navi_buy_premium_pass_deluxe_purchase_success_pu_warning7_7^オートライブPASSの所有上限数+20枚、デイリー獲得数+3枚|navi_buy_premium_pass_deluxe_purchase_success_pu_warning7_8^ライブ再演機能の最大連続回数+20回|navi_buy_premium_pass_deluxe_present_title^特典|navi_buy_premium_pass_deluxe_present_message^以下のアイテムを受け取りました|navi_deluxe_shop_title^シアターDXポイント交換所|navi_deluxe_shop_description^シアターDXポイントを商品と交換できます|navi_deluxe_shop_tab_0^称号|navi_deluxe_shop_tab_1^衣装|navi_deluxe_shop_point_detail_label_01^所持シアターDXポイント|navi_deluxe_shop_point_detail_label_02^シアターDXポイントを所持していません|navi_deluxe_shop_point_detail_label_03^有効期限|navi_deluxe_shop_point_detail_label_04^入手日 {0}/{1}/{2}|navi_deluxe_shop_point_detail_label_05^期限切れ|navi_deluxe_shop_point_detail_title^有効期限|unitselect_tips_liveka_00_title^楽曲「ザ・ライブ革命でＳＨＯＷ！」について|unitselect_tips_liveka_00^楽曲中の一部台詞を、特定の位置に配置したアイドルの固有台詞で
+お楽しみいただけます！
+※ゲストアイドルは一部歌い分けが未対応となります|unitselect_tips_liveka_01_title^楽曲「ザ・ライブ革命でＳＨＯＷ！」について|unitselect_tips_liveka_01^ソロライブの場合は、楽曲中の一部台詞を、センターに配置した
+アイドルの固有台詞でお楽しみいただけます
+※ゲストアイドルは一部歌い分けが未対応となります|seasonpass_reward_pu_title_00_season_14^BOT VOL.4パス|seasonpass_reward2_pu_msg_02_season_14^<color=#E6F078>BOT VOL.4チケット</color>を使用すると解放できます|seasonpass_reward_pu_label_00_season_14^BOT VOL.4 pt|seasonpass_reward_pu_point_exchange_error_msg_00_season_14^BOT VOL.4ポイントは最大値まで獲得しています|seasonpass_point_exchange_pu_title_00_season_14^BOT VOL.4ポイント交換|seasonpass_point_exchange_pu_msg_00_season_14^有償ミリオンジュエル<color=#FF0098FF>{0}</color>個を使用して
+BOT VOL.4ポイント<color=#FF0098FF>{1}</color>ポイントと交換します
+交換回数を選択してください|seasonpass_point_exchange_pu_warning_00_season_14^<size=17>BOT VOL.4ポイントは、{0}/{1:00}/{2:00} {3:00}:{4:00}まで交換できます</size>|seasonpass_point_exchange_pu_warning_01_season_14^<size=17>交換できるBOT VOL.4ポイントは、{0}ポイントまでです</size>|seasonpass_point_exchange_pu_warning_02_season_14^<size=17>BOT VOL.4ポイントは、2026/09/16にリセットされます</size>|seasonpass_point_exchange_pu_label_00_season_14^<size=13>現在のBOT VOL.4ポイント</size>|seasonpass_point_exchange_pu_label_01_season_14^<size=13>交換後のBOT VOL.4ポイント</size>|seasonpass_point_exchange_check_pu_title_00_season_14^<size=30>BOT VOL.4ポイント交換</size>|seasonpass_point_exchange_check_pu_msg_00_season_14^有償ミリオンジュエル{0}個を使用して
+BOT VOL.4ポイントを交換しますか？|seasonpass_point_exchange_check_pu_label_00_season_14^BOT VOL.4ポイント|seasonpass_point_exchange_result_pu_msg_00_season_14^BOT VOL.4ポイントを交換しました|seasonpass_point_exchange_result_pu_label_00_season_14^BOT VOL.4ポイント|seasonpass_point_achievement_pu_title_00_season_14^BOT VOL.4パス達成|seasonpass_point_achievement_pu_msg_00_season_14^BOT VOL.4パスの達成報酬がプレゼントに送られました|seasonpass_premium_release_pu_warn_season_14^メールは2026/04/01から一定期間ごとに届きます|seasonpass_premium_release_complete_pu_warn_season_14^メールは2026/04/01から一定期間ごとに届きます|seasonpass_season_select_logo_season_14^BOT VOL.4|ishimochi_battle_rule^スコア「{0}点」
+達成で勝利！|ishimochi_battle_objective_panel^目標枚数|ishimochi_battle_objective_panel_value^枚|ishimochi_battle_aquired_panel^獲得枚数|ishimochi_battle_score^SCORE|ishimochi_battle_timer^残り|ishimochi_battle_timer_value^秒|ishimochi_battle_help_item_num^×|ishimochi_battle_clear_score^/  目標スコア：|ishimochi_battle_aquired_score^獲得スコア：|ishimochi_out_of_dulation^イベント開催期間外です
+タイトルに戻ります|ishimochi_battle_timer_inc^+ {0}秒|ishimochi_battle_timer_dec^- {0}秒|ishimochi_battle_score_inc^+ {0}|ishimochi_pu01_title^一時停止|ishimochi_pu01_msg_01^ゲームのプレイをやめて
+ミニゲームトップに戻りますか？|ishimochi_pu01_btn_01^プレイをやめる|ishimochi_pu01_btn_02^プレイを再開|ishimochi_pause^PAUSE|ishimochi_pu02_title^確認|ishimochi_pu02_msg_01^本当にやめますか？|ishimochi_pu02_btn_01^はい|ishimochi_pu02_btn_02^いいえ|ishimochi_mission_share_msg^以下の称号を獲得しました
+{0}
+#ミリシタ
+#ハイパーやみらびランドQ|ishimochi_share_msg^#ミリシタ
+#ハイパーやみらびランドQ|ishimochi_top_duration^<color=#3C3CA0>【開催期間】</color>2026/04/01 23:59まで|ishimochi_copyright^©窪岡俊之 THE IDOLM@STER™& ©Bandai Namco Entertainment Inc.|ishimochi_tips_head_0^ステージ攻略の手引①|ishimochi_tips_body_0^やみらびは穴に落ちてしまうとライフが減ります
+ジャンプを駆使して穴を避けながら進みましょう|ishimochi_tips_head_1^ステージ攻略の手引②|ishimochi_tips_body_1^やみらびの愛のさけびが当たった敵は動きが止まります
+動けなくなった敵を足場にすると、ジャンプが届かない
+場所に行くことができます|ishimochi_tips_head_2^ステージ攻略の手引③|ishimochi_tips_body_2^ステージに落ちているバットを取ると、一定時間無敵に
+なって敵を蹴散らせます
+※バットはステージ1をクリアすると出現します|ishimochi_tips_head_3^ステージ攻略の手引④|ishimochi_tips_body_3^ステージに落ちているバンソーコーを取ると、ライフが
+1つ回復します（最大値を超えた回復はできません）
+※バンソーコーはステージ2をクリアすると出現します|ishimochi_tips_head_4^ステージ攻略の手引⑤|ishimochi_tips_body_4^ステージに落ちている魚の骨を取ると、やみらびの周囲
+にバリアが張られ、1度だけ敵の攻撃を防いでくれます
+※魚の骨はステージ3をクリアすると出現します|ishimochi_tips_head_5^ステージ攻略の手引⑥|ishimochi_tips_body_5^ステージの途中に謎の額縁が！？
+見つけたら触れてみよう！！|ishimochi_tips_head_6^パネルしりとり攻略の手引①|ishimochi_tips_body_6^ステージに落ちている電池を3個集めると
+1個のひらめき電球になり、しりとり中にヒント機能
+が使えるようになります|ishimochi_tips_head_7^パネルしりとり攻略の手引②|ishimochi_tips_body_7^しりとり中に「ヒント使用可能！」をタッチすると
+選択可能なパネルが回転し、ヒントを示してくれます
+ヒント機能はひらめき電球の数だけ使うことができます|ishimochi_tips_head_8^パネルしりとり攻略の手引③|ishimochi_tips_body_8^ステージに落ちている砂時計を取ると、
+しりとり開始時に砂時計1個につき10秒、
+制限時間を伸ばしてくれます|gasha_platinum_gift_message_bonus_10070_1^千早のスタイルドロップ|gasha_platinum_gift_message_bonus_10070_2^麗花のスタイルドロップ|gasha_platinum_gift_message_bonus_10070_3^キラメキのしずく付！|gasha2_result_recast_msg_1^次回<color=#E6F078>SSR確定！</color>|gasha2_result_ex03_reward_pu_title^ガシャおまけ報酬|gasha2_result_ex03_reward_pu_msg^以下のアイテムを受け取りました|gasha2_result_ex03_complete_rarity4_pu_title^確認|gasha2_result_ex03_complete_rarity4_pu_msg^選択されたSSRカードを全て獲得しました|gasha2_top_desc_gid_70499^有償ミリオンジュエルのみで引ける期間限定を含めた
+3回限定「≡君彩≡ガシャ」
+1回目は有償ミリオンジュエル1500個で<color=#FF0098>SR以上1枚確定！</color>
+2回目は有償ミリオンジュエル2000個で<color=#FF0098>SR以上1枚確定！</color>
+3回目は有償ミリオンジュエル2500個で<color=#FF0098>SSR1枚確定！</color>|gasha2_top_desc_gid_70500^有償ミリオンジュエルのみで引ける期間限定を含めた
+3回限定「≡君彩≡ガシャ」
+1回目は有償ミリオンジュエル1500個で<color=#FF0098>SR以上1枚確定！</color>
+2回目は有償ミリオンジュエル2000個で<color=#FF0098>SR以上1枚確定！</color>
+3回目は有償ミリオンジュエル2500個で<color=#FF0098>SSR1枚確定！</color>|gasha2_top_desc_gid_70501^有償ミリオンジュエルのみで引ける期間限定を含めた
+3回限定「≡君彩≡ガシャ」
+1回目は有償ミリオンジュエル1500個で<color=#FF0098>SR以上1枚確定！</color>
+2回目は有償ミリオンジュエル2000個で<color=#FF0098>SR以上1枚確定！</color>
+3回目は有償ミリオンジュエル2500個で<color=#FF0098>SSR1枚確定！</color>|gasha2_top_balloon_gid_70499^SR以上1枚確定！|gasha2_top_balloon_gid_70500^SR以上1枚確定！|gasha2_top_balloon_gid_70501^SSR1枚確定！|gasha2_top_pop_confirm_title_gid_70499^≡君彩≡ガシャ|gasha2_top_pop_confirm_title_gid_70500^≡君彩≡ガシャ|gasha2_top_pop_confirm_title_gid_70501^≡君彩≡ガシャ|gasha2_ex03_register_button^ガシャのカードを選択|gasha2_ex03_monitor_button^ガシャ内のカードを確認|gasha2_ex03_switch_button^次のボックスへ移行する|gasha2_ex03_next_support^次回<color=#E6F078>SSR確定！</color>|gasha2_ex03_card_monitor_status_none^<color=#5B6580>現在の獲得数</color>　---|gasha2_ex03_card_monitor_status^<color=#5B6580>現在の獲得数</color>　<color=#FF0098>{0}</color><size=18>/{1}</size>|gasha2_ex03_cast_block_msg^カード選択を完了するまで
+ガシャを引くことはできません|gasha2_ex03_card_register_pu_titile^カード選択|gasha2_ex03_card_register_pu_msg^ガシャから出現させるカードを各レアリティごとに選択してください|gasha2_ex03_card_register_pu_warn^選択したカードを決定すると、カードは変更できません|gasha2_ex03_card_register_pu_button^決定|gasha2_ex03_card_register_pu_label_rarity_4^SSR|gasha2_ex03_card_register_pu_label_rarity_3^SR|gasha2_ex03_card_register_pu_label_rarity_2^R|gasha2_ex03_card_register_pu_warn_rarity_4^SSRは各{0}枚まで出現|gasha2_ex03_card_register_pu_warn_rarity_3^SRは各{0}枚まで出現|gasha2_ex03_card_register_pu_warn_rarity_2^Rは各{0}枚まで出現|gasha2_ex03_card_register_pu_max_select_msg^<color=#E6F078><size=26>{0}</size></color>/{1}種|gasha2_ex03_card_register_pu_select_msg^<size=26>{0}</size>/{1}種|gasha2_ex03_card_register_notice_pu_title^確認|gasha2_ex03_card_register_notice_pu_msg^ガシャから出現するカードを確定します
+よろしいですか？|gasha2_ex03_card_register_close_notice_pu_title^確認|gasha2_ex03_card_register_close_notice_pu_msg^このまま閉じるとセットされているカード情報はクリアされます
+閉じてよろしいですか？|gasha2_ex03_card_select_pu_title_rarity_4^SSRカード選択|gasha2_ex03_card_select_pu_title_rarity_3^SRカード選択|gasha2_ex03_card_select_pu_title_rarity_2^Rカード選択|gasha2_ex03_card_select_pu_selecting^選択中|gasha2_ex03_card_select_pu_denominator^/{0}|gasha2_ex03_card_select_pu_empty_card^対象のカードがありません|gasha2_ex03_card_select_pu_random_select_button^自動選択|gasha2_ex03_card_select_random_select_notice_pu_title^確認|gasha2_ex03_card_select_random_select_notice_pu_msg^現在表示されている選択可能なカードから未獲得カードを優先的に自動選択を行います
+未獲得カードが全て選択されていて絞り込み対象外のカードがない場合は獲得済みカードも選択します|gasha2_ex03_card_select_close_notice_pu_title^確認|gasha2_ex03_card_select_close_notice_pu_msg^選択カードが変更されていますが反映せずに戻りますか？|gasha2_ex03_card_select_filter_pu_title^並べ替え|gasha2_ex03_card_select_filter_pu_tab1^表示順|gasha2_ex03_card_select_filter_pu_tab2^絞り込み|gasha2_ex03_card_monitor_pu_title^ガシャ内のカード確認|gasha2_ex03_card_monitor_pu_msg^■ご注意
+※ガシャ内の出現カードと枚数は下記の一覧に準じます。
+※ガシャ内の出現カードの提供割合は均一です。
+※全枚数を獲得したカードは出現しなくなります。
+※任意のタイミングで次のボックスへ移行することが可能です。
+　移行すると、次のボックスのカード選択から行います。|gasha2_ex03_card_monitor_pu_msg2^■ご注意
+※ガシャ内の出現カードと枚数は下記の一覧に準じます。
+※ガシャ内の出現カードの提供割合は均一です。
+※全枚数を獲得したカードは出現しなくなります。
+※任意のタイミングで次のボックスへ移行することが可能です。
+　移行すると、次のボックスのカード選択から行います。
+<color=#FF004F>※ガシャ内の全ての出現カードを獲得せずに次のボックスへ
+　移行するとガシャを引く際の必要有償ミリオンジュエル数が変わりますので
+　ご注意ください。</color>|gasha2_ex03_card_monitor_pu_msg3^■ご注意
+※ガシャ内の出現カードと枚数は下記の一覧に準じます。
+※ガシャ内の出現カードの提供割合は均一です。
+※全枚数を獲得したカードは出現しなくなります。
+※ボックスは1回(最大ガシャ100回)のみご利用いただけます。
+　ボックスの切り替え、追加はできません。|gasha2_ex03_card_monitor_pu_label_rarity_4^SSR|gasha2_ex03_card_monitor_pu_label_rarity_3^SR|gasha2_ex03_card_monitor_pu_label_rarity_2^R|gasha2_ex03_card_monitor_pu_rarity_num_full_msg^<color=#FF0098><size=26>{0}</size></color>/{1}枚|gasha2_ex03_card_monitor_pu_rarity_num_msg^<size=26>{0}</size>/{1}枚|gasha2_ex03_card_monitor_pu_card_num_full_msg^<color=#FF0098>{0}</color>/{1}|gasha2_ex03_card_monitor_pu_card_num_msg^{0}/{1}|gasha2_ex03_card_monitor_pu_switch_button^次のボックスへ移行する|gasha2_ex03_switch_notice1_pu_title^確認|gasha2_ex03_switch_notice1_pu_msg^次のボックスへ移行します
+よろしいですか？|gasha2_ex03_switch_notice2_pu_title^確認|gasha2_ex03_switch_notice2_pu_msg^次のボックスへ移行します
+よろしいですか？
+移行残り回数 {0} → <color=#FF0098FF>{1}</color>|gasha2_ex03_switch_notice2_pu_warn^移行するとこのボックスは引けなくなります|gasha2_ex03_switch_notice3_pu_title^確認|gasha2_ex03_switch_notice3_pu_msg^<color=#FF004F>現在のカード獲得状況、出現カード設定を
+破棄して次のボックスへ移行されます</color>
+本当に移行してよろしいですか？|gasha2_ex03_switch_notice4_pu_title^確認|gasha2_ex03_switch_notice4_pu_msg^<size=22>現在のボックス内カード獲得状況、出現カード設定を破棄して
+次のボックスへ移行します
+
+ボックス内のカードを引ききらないで移行すると、
+次のボックスでは1回引くのに必要なジュエル数が変わります
+
+必要有償ミリオンジュエル数
+{0} → <color=#FF004F>{1}</color>個
+
+本当に移行してよろしいですか？</size>|costumesales_0271_info^フェアリーズウィング・アズール（FAIRY STARS）
+胸を焦がす青き炎は、決して燃え尽きたりしない。高みを
+目指す妖精たちの見つめる先は、空よりも宇宙よりも遠い場所…。|costumesales_0277_info^レボリューション・ナイト（PRINCESS STARS）
+みんなの常識をひっくり返す！出番までドタバタ。でも大丈夫！
+可能性を信じて一直線に…それがアイドルでＳＨＯＷ！|costumesales_0278_info^レボリューション・ナイト（FAIRY STARS）
+みんなの常識をひっくり返す！出番までドタバタ。でも大丈夫！
+可能性を信じて一直線に…それがアイドルでＳＨＯＷ！|costumesales_0279_info^レボリューション・ナイト（ANGEL STARS）
+みんなの常識をひっくり返す！出番までドタバタ。でも大丈夫！
+可能性を信じて一直線に…それがアイドルでＳＨＯＷ！|costumesales_0284_info^アイドルファイト・マッチ（765PRO ALLSTARS）
+ステージの上では、いつでも真剣勝負！未来のシナリオはアイドル
+たちの手に託された。頂点に輝くのは……誰だ！？レディ・ゴー！|costumesales_0285_info^アイドルファイト・マッチ（PRINCESS STARS）
+ステージの上では、いつでも真剣勝負！未来のシナリオはアイドル
+たちの手に託された。頂点に輝くのは……誰だ！？レディ・ゴー！|costumesales_0286_info^アイドルファイト・マッチ（FAIRY STARS）
+ステージの上では、いつでも真剣勝負！未来のシナリオはアイドル
+たちの手に託された。頂点に輝くのは……誰だ！？レディ・ゴー！|costumesales_0287_info^アイドルファイト・マッチ（ANGEL STARS）
+ステージの上では、いつでも真剣勝負！未来のシナリオはアイドル
+たちの手に託された。頂点に輝くのは……誰だ！？レディ・ゴー！

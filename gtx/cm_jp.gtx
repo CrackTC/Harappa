@@ -8421,7 +8421,7 @@ Birthday Liveコミュが発生しません
 但CLEAR次数会被记录，并且可以获得分数类以外的达成报酬|live_auto_play_notice_text^分数和连击数仅作为参考，不会被记录|live_warp_play_notice_text^分数和连击数仅作为参考，不会被记录|live_skill_popup_00^技能触发次数|live_skill_popup_01^技能|live_skill_popup_02^触发次数|live_skill_popup_count^<size=30><color=#2472A0>{0}</color></size><size=16>次</size>|live_skill_popup_simple_count^<size=26><color=#2472A0>{0}</color></size><size=16>次</size>|live_result_00_2^歌曲Lv|live_result_02_2^歌曲LP|live_result_03_2^合计LP|live_result_share_button_text^分享|live_result_skillcount_button_text^技能触发|live_result_livesetting_button_text^LIVE设置|live_song_name_rounding^…|live_result_tw_00^{0}
 {1}のライブレポート
 
-#ミリシタ|live_result_tw_01^©窪岡俊之 THE IDOLM@STER™& ©Bandai Namco Entertainment Inc.|live_beginner_bonus_text^<size=18><color=#ff004f>経験値2倍</color></size>ボーナス適用中!|live_result_bdl_pu_title^Birthday Liveコミュ|live_result_bdl_pu_msg^Birthday Liveコミュへ進みますか？|live_result_replay_live_btn^LIVE再演|live_result_replay_live_toggle^LIVE再演|live_result_replay_live_remain^連続再演：最大残り回数 <color=#e6f078>{0}回</color>|live_result_replay_live_disable_2^自動再演の回数上限に
+#ミリシタ|live_result_tw_01^©窪岡俊之 THE IDOLM@STER™& ©Bandai Namco Entertainment Inc.|live_beginner_bonus_text^<size=18><color=#ff004f>2倍经验值</color></size>加成激活中!|live_result_bdl_pu_title^Birthday Liveコミュ|live_result_bdl_pu_msg^Birthday Liveコミュへ進みますか？|live_result_replay_live_btn^LIVE再演|live_result_replay_live_toggle^LIVE再演|live_result_replay_live_remain^連続再演：最大残り回数 <color=#e6f078>{0}回</color>|live_result_replay_live_disable_2^自動再演の回数上限に
 達したため利用できません|live_result_replay_live_disable_3^イベント開催期間が
 終了しているため利用できません|live_result_replay_live_disable_4^消費コスト10倍の回数上限に
 達したため利用できません|live_result_replay_live_disable_5^おまかせ公演では

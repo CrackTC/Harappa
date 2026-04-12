@@ -51,9 +51,9 @@ display_character_001har^春香|display_character_002chi^千早|display_characte
 早起きしちゃいました。だって、
 今日はわたしのお誕生日なんです！|system_birthent002_023aka_entrance_birthday_002_023aka^今日は茜ちゃんの誕生日。つまり！
 人類にとっての茜ちゃん記念日だ！
-遠慮なくお祝いしちゃってね！|system_birthent002_024ann_entrance_birthday_002_024ann^今日、杏奈の…誕生日…。
-おめでとう、言ってほしくて…
-待ってたから…会えて、うれしい。|system_birthent002_025roc_entrance_birthday_002_025roc^バースデーでもアンバースデーでも
+遠慮なくお祝いしちゃってね！|system_birthent002_024ann_entrance_birthday_002_024ann^今天，是杏奈的……生日……
+一直期待着……听到你说
+生日快乐……能遇到你，好开心。|system_birthent002_025roc_entrance_birthday_002_025roc^バースデーでもアンバースデーでも
 アイドルはノンストップですよ！
 でも、プレゼントもウェルカムです♪|system_birthent002_026yur_entrance_birthday_002_026yur^あの…今日は私の誕生日なんです。
 昨日までの私より、ちょっぴり大人
@@ -120,7 +120,7 @@ display_character_001har^春香|display_character_002chi^千早|display_characte
 {$P$}！|system_room_014mir_entrance_common_001_014mir^おっはようございま～す♪|system_room_015siz_entrance_common_001_015siz^お疲れさまです。|system_room_016tsu_entrance_common_001_016tsu^おはようございま～す♪|system_room_018ele_entrance_common_001_018ele^ヤッホー！　
 {$P$}！|system_room_019min_entrance_common_001_019min^お疲れさまでーす♪|system_room_020meg_entrance_common_001_020meg^やっほ、
 {$P$}。おはよ。|system_room_021mat_entrance_common_001_021mat^おはようなのです！|system_room_022ser_entrance_common_001_022ser^おはようございます！|system_room_023aka_entrance_common_001_023aka^{$P$}ちゃん、
-おっはよー！|system_room_024ann_entrance_common_001_024ann^ん……おはよう、です……。|system_room_025roc_entrance_common_001_025roc^ロコは、ノープロブレムですよ！|system_room_026yur_entrance_common_001_026yur^おはようございます！|system_room_027say_entrance_common_001_027say^お疲れ様です、
+おっはよー！|system_room_024ann_entrance_common_001_024ann^嗯……早上，好……|system_room_025roc_entrance_common_001_025roc^ロコは、ノープロブレムですよ！|system_room_026yur_entrance_common_001_026yur^おはようございます！|system_room_027say_entrance_common_001_027say^お疲れ様です、
 {$P$}！|system_room_028ari_entrance_common_001_028ari^笑顔、バッチリですよ～！|system_room_029umi_entrance_common_001_029umi^{$P$}、
 おっはよ～っ！|system_room_030iku_entrance_common_001_030iku^おはようございます！|system_room_031tom_entrance_common_001_031tom^うふふ、おはようございます～♪|system_room_032emi_entrance_common_001_032emi^おはようございます、
 仕掛け人さま。|system_room_033sih_entrance_common_001_033sih^おはようございます。|system_room_034ayu_entrance_common_001_034ayu^おはよう、
@@ -165,9 +165,9 @@ display_character_001har^春香|display_character_002chi^千早|display_characte
 やる気なんです！
 お仕事たくさんくださいね♪|system_room_023aka_entrance_center_001_023aka^よーし、茜ちゃん、
 今日は本気の半分くらい
-出しちゃうぞー！|system_room_024ann_entrance_center_001_024ann^あ……
-{$P$}さん……。
-えっと、今日もよろしく……です。|system_room_025roc_entrance_center_001_025roc^{$P$}、今日の
+出しちゃうぞー！|system_room_024ann_entrance_center_001_024ann^啊……
+{$P$}先生……
+那个，今天也请……多多指教。|system_room_025roc_entrance_center_001_025roc^{$P$}、今日の
 ミーティングのアジェンダを
 作ってみました♪|system_room_026yur_entrance_center_001_026yur^お疲れ様です、{$P$}さん。今日も記憶に残る特別な日にしましょうね！|system_room_027say_entrance_center_001_027say^準備万端、いつでもいけますよ！
 今日も頑張りましょうっ！|system_room_028ari_entrance_center_001_028ari^{$P$}さん、
@@ -260,9 +260,9 @@ display_character_001har^春香|display_character_002chi^千早|display_characte
 なりました。ハッピーバースデー
 です！　えへへ……♪|system_room_023aka_entrance_birthday_001_023aka^あれー？　今日は誰の
 誕生日だっけー？　超カワイイ
-誰かの誕生日だよねー。ちらっ。|system_room_024ann_entrance_birthday_001_024ann^今日、杏奈の誕生日……
-だから……。一緒に、お祝い……
-してくれます、か……？|system_room_025roc_entrance_birthday_001_025roc^今日はロコのバースデーなんです♪
+誰かの誕生日だよねー。ちらっ。|system_room_024ann_entrance_birthday_001_024ann^今天，是杏奈的生日……
+所以……可以陪杏奈……
+一起庆祝吗……|system_room_025roc_entrance_birthday_001_025roc^今日はロコのバースデーなんです♪
 セレブレーションするなら、
 今ですよ！|system_room_026yur_entrance_birthday_001_026yur^{$P$}さん、
 誕生日なのでハグ、とか……
@@ -330,8 +330,8 @@ display_character_001har^春香|display_character_002chi^千早|display_characte
 どう？|system_room_013hib_costume_appeal_001_013hib^どう、似合ってるでしょ！|system_room_014mir_costume_appeal_001_014mir^どうですか、
 {$P$}さん！|system_room_015siz_costume_appeal_001_015siz^結構、様になってますよね？|system_room_016tsu_costume_appeal_001_016tsu^じゃ～ん♪　どうですか？|system_room_018ele_costume_appeal_001_018ele^エヘヘー、似合ってるでしょ♪|system_room_019min_costume_appeal_001_019min^えへへ、似合ってますか？|system_room_020meg_costume_appeal_001_020meg^どう？　なかなかイケてるでしょ♪|system_room_021mat_costume_appeal_001_021mat^ドレスアップした姫の、
 お披露目なのです♪|system_room_022ser_costume_appeal_001_022ser^似合いますか？|system_room_023aka_costume_appeal_001_023aka^なに着ても
-似合っちゃってごめんねー♪|system_room_024ann_costume_appeal_001_024ann^ん……杏奈の衣装……
-どう、かな……？|system_room_025roc_costume_appeal_001_025roc^フィッティングしてみました♪|system_room_026yur_costume_appeal_001_026yur^{$P$}さん、
+似合っちゃってごめんねー♪|system_room_024ann_costume_appeal_001_024ann^嗯……杏奈的衣服……
+怎么样……？|system_room_025roc_costume_appeal_001_025roc^フィッティングしてみました♪|system_room_026yur_costume_appeal_001_026yur^{$P$}さん、
 衣装の確認、お願いします！|system_room_027say_costume_appeal_001_027say^ステキな衣装、
 ありがとうございます！|system_room_028ari_costume_appeal_001_028ari^ムフフっ♪　どうですか？　
 この衣装！|system_room_029umi_costume_appeal_001_029umi^ねぇねぇ、どうかなっ☆　
@@ -362,8 +362,8 @@ display_character_001har^春香|display_character_002chi^千早|display_characte
 寝ちゃいそうだぞ～！|system_room_014mir_costume_wait_001_014mir^もう、よそ見しちゃダメですよ～。|system_room_015siz_costume_wait_001_015siz^ええと……どこを見てるんですか？|system_room_016tsu_costume_wait_001_016tsu^{$P$}さん、
 ちゃんとこっち見て～。|system_room_018ele_costume_wait_001_018ele^ネーネー、感想聞かせてヨー。|system_room_019min_costume_wait_001_019min^{$P$}さん、
 何か言ってくださ～い！|system_room_020meg_costume_wait_001_020meg^なに、ボーっとしてんの？|system_room_021mat_costume_wait_001_021mat^{$P$}さん、
-おねむなのです？|system_room_022ser_costume_wait_001_022ser^どのドレスも、素敵ですね！|system_room_023aka_costume_wait_001_023aka^茜ちゃんに見とれちゃった？|system_room_024ann_costume_wait_001_024ann^えっと……杏奈の衣装……
-どう……？|system_room_025roc_costume_wait_001_025roc^もう少しアレンジを……
+おねむなのです？|system_room_022ser_costume_wait_001_022ser^どのドレスも、素敵ですね！|system_room_023aka_costume_wait_001_023aka^茜ちゃんに見とれちゃった？|system_room_024ann_costume_wait_001_024ann^那个……杏奈的衣服……
+好看吗……？|system_room_025roc_costume_wait_001_025roc^もう少しアレンジを……
 ブツブツ……。|system_room_026yur_costume_wait_001_026yur^ちゃ、ちゃんと見てくれてますか？|system_room_027say_costume_wait_001_027say^こっち見てください、
 {$P$}！|system_room_028ari_costume_wait_001_028ari^ついつい妄想しちゃいます～。|system_room_029umi_costume_wait_001_029umi^う～ん、体がムズムズする～っ！　
 まだ？|system_room_030iku_costume_wait_001_030iku^へんなところがあったら、
@@ -393,8 +393,8 @@ display_character_001har^春香|display_character_002chi^千早|display_characte
 ヘンじゃないですよね！？|system_room_007ior_costume_touch_001_007ior^この衣装、悪くないんじゃない？|system_room_008tak_costume_touch_001_008tak^真、優雅な装いです。|system_room_009rit_costume_touch_001_009rit^あの～、どうですか？|system_room_010azu_costume_touch_001_010azu^私に似合うでしょうか…？|system_room_011ami_costume_touch_001_011ami^亜美、この衣装好きかも～♪|system_room_012mam_costume_touch_001_012mam^兄ちゃん、もっと見て見て～☆|system_room_013hib_costume_touch_001_013hib^自分なら、
 どんな衣装でも着こなせるよねっ！|system_room_014mir_costume_touch_001_014mir^でへへ、似合います？|system_room_015siz_costume_touch_001_015siz^服に着られてる、
 なんて言わせませんよ。|system_room_016tsu_costume_touch_001_016tsu^えへへ、わたしに注目～♪|system_room_018ele_costume_touch_001_018ele^元気一杯だヨ！|system_room_019min_costume_touch_001_019min^あれっ、しわになってました？|system_room_020meg_costume_touch_001_020meg^どんなネイルが合うかなー。|system_room_021mat_costume_touch_001_021mat^フワフワでキラキラなのです！|system_room_022ser_costume_touch_001_022ser^お洋服、選んでもらっても
-いいですか？|system_room_023aka_costume_touch_001_023aka^カワイイでしょー？|system_room_024ann_costume_touch_001_024ann^杏奈……なんだか、
-ふわふわする……。|system_room_025roc_costume_touch_001_025roc^ロコ的にも、フェイバリットです♪|system_room_026yur_costume_touch_001_026yur^ちょっと、緊張しますね……。|system_room_027say_costume_touch_001_027say^なんだか
+いいですか？|system_room_023aka_costume_touch_001_023aka^カワイイでしょー？|system_room_024ann_costume_touch_001_024ann^杏奈……感觉，
+轻飘飘的……|system_room_025roc_costume_touch_001_025roc^ロコ的にも、フェイバリットです♪|system_room_026yur_costume_touch_001_026yur^ちょっと、緊張しますね……。|system_room_027say_costume_touch_001_027say^なんだか
 生まれ変わったみたいです。|system_room_028ari_costume_touch_001_028ari^衣装を着ると、
 テンション上がりますね♪|system_room_029umi_costume_touch_001_029umi^この服、私に似合うと思う？|system_room_030iku_costume_touch_001_030iku^かわいい衣装だね！|system_room_031tom_costume_touch_001_031tom^賞賛の言葉は、
 いつでも受け付けますよ～？|system_room_032emi_costume_touch_001_032emi^似合っていると
@@ -413,8 +413,8 @@ display_character_001har^春香|display_character_002chi^千早|display_characte
 いっぱい出そうだよね♪|system_room_013hib_costume_touch_002_013hib^これ、いい衣装だよね！　
 うれしいさ～♪|system_room_014mir_costume_touch_002_014mir^私、キラキラしてますか？|system_room_015siz_costume_touch_002_015siz^これが私の衣装……ふふっ。|system_room_016tsu_costume_touch_002_016tsu^どう？　ドキドキしちゃう？|system_room_018ele_costume_touch_002_018ele^変なところはないカナー？|system_room_019min_costume_touch_002_019min^{$P$}さんも、
 気に入ってくれましたか？|system_room_020meg_costume_touch_002_020meg^結構、イイ趣味してるよねー。|system_room_021mat_costume_touch_002_021mat^びゅーてぃほー！なのです♪|system_room_022ser_costume_touch_002_022ser^{$P$}さんは
-どれが好きですか？|system_room_023aka_costume_touch_002_023aka^さあ、惚れ直すがいいー！|system_room_024ann_costume_touch_002_024ann^どうしたの、
-{$P$}さん。|system_room_025roc_costume_touch_002_025roc^とってもイノベーティブです！|system_room_026yur_costume_touch_002_026yur^おかしなところがあったら
+どれが好きですか？|system_room_023aka_costume_touch_002_023aka^さあ、惚れ直すがいいー！|system_room_024ann_costume_touch_002_024ann^怎么了，
+{$P$}先生。|system_room_025roc_costume_touch_002_025roc^とってもイノベーティブです！|system_room_026yur_costume_touch_002_026yur^おかしなところがあったら
 言ってくださいね？|system_room_027say_costume_touch_002_027say^この衣装、本当にステキですね！|system_room_028ari_costume_touch_002_028ari^ポーズも研究中ですっ。|system_room_029umi_costume_touch_002_029umi^どうどう！？　
 女子力、上がった！？|system_room_030iku_costume_touch_002_030iku^ちょっと、こどもっぽいかなぁ。|system_room_031tom_costume_touch_002_031tom^聖母はどんな衣装も
 似合ってしまいますね～♪|system_room_032emi_costume_touch_002_032emi^大和撫子らしく、見えますか？|system_room_033sih_costume_touch_002_033sih^これ、ですか？|system_room_034ayu_costume_touch_002_034ayu^悪くないんじゃない、これっ？|system_room_035hin_costume_touch_002_035hin^えへへ、なあんか照れくさいねえ。|system_room_036kan_costume_touch_002_036kan^私、すっごく
@@ -434,8 +434,8 @@ display_character_001har^春香|display_character_002chi^千早|display_characte
 ムラムラしてきた？|system_room_013hib_costume_touch_003_013hib^あ、あんまり見られると、
 恥ずかしいぞ…。|system_room_014mir_costume_touch_003_014mir^なんか、照れちゃいますね♪|system_room_015siz_costume_touch_003_015siz^次のステージが楽しみですね。|system_room_016tsu_costume_touch_003_016tsu^この衣装カワイイ♪　
 アイドルって最高♪|system_room_018ele_costume_touch_003_018ele^踊りたいヨー！|system_room_019min_costume_touch_003_019min^みんなを笑顔にできそうですね！|system_room_020meg_costume_touch_003_020meg^んー？　
-どっか気になるトコでもあるの？|system_room_021mat_costume_touch_003_021mat^好きなだけ、見ていいのですよ。|system_room_022ser_costume_touch_003_022ser^えへへ、かわいいです♪|system_room_023aka_costume_touch_003_023aka^もーっとほめてもいいんだよ？|system_room_024ann_costume_touch_003_024ann^似合ってたら……
-うれしい、です……。|system_room_025roc_costume_touch_003_025roc^ロコも、
+どっか気になるトコでもあるの？|system_room_021mat_costume_touch_003_021mat^好きなだけ、見ていいのですよ。|system_room_022ser_costume_touch_003_022ser^えへへ、かわいいです♪|system_room_023aka_costume_touch_003_023aka^もーっとほめてもいいんだよ？|system_room_024ann_costume_touch_003_024ann^这身合适的话……
+就好……|system_room_025roc_costume_touch_003_025roc^ロコも、
 ナイスだって思ってました！|system_room_026yur_costume_touch_003_026yur^衣装を着けると
 身が引き締まります。|system_room_027say_costume_touch_003_027say^衣装を着ると、
 気合が入りますねっ！|system_room_028ari_costume_touch_003_028ari^なんかちょっと、
@@ -457,7 +457,7 @@ display_character_001har^春香|display_character_002chi^千早|display_characte
 言いたいのですか？|system_room_052kao_costume_touch_003_052kao^素敵な衣装で、
 うれしいです。ふふっ♪|system_room_001har_costume_turn_001_001har^はい、こっちですね♪|system_room_002chi_costume_turn_001_002chi^確認、よろしくお願いします。|system_room_003mik_costume_turn_001_003mik^こっち向けばいーい？|system_room_004yuk_costume_turn_001_004yuk^どっちを向いても
 ひんそーですけど……。|system_room_005yay_costume_turn_001_005yay^はい、回りまーっす！|system_room_006mak_costume_turn_001_006mak^こっちですね？　わかりましたっ！|system_room_007ior_costume_turn_001_007ior^ほら、
-ちゃんとチェックしなさいっ。|system_room_008tak_costume_turn_001_008tak^どうぞ、ご覧ください。|system_room_009rit_costume_turn_001_009rit^こっち向けばいいんですか？|system_room_010azu_costume_turn_001_010azu^こちらですね♪|system_room_011ami_costume_turn_001_011ami^それっ、くるーり♪|system_room_012mam_costume_turn_001_012mam^こっち見ればいいの？|system_room_013hib_costume_turn_001_013hib^ちゃーんと確認してね！|system_room_014mir_costume_turn_001_014mir^こっちですか？|system_room_015siz_costume_turn_001_015siz^ちゃんと確認してくださいね。|system_room_016tsu_costume_turn_001_016tsu^見て見て～♪|system_room_018ele_costume_turn_001_018ele^どう？　よく見える？|system_room_019min_costume_turn_001_019min^いろんな角度から見てくださいね♪|system_room_020meg_costume_turn_001_020meg^どの角度が、一番イイ感じ？|system_room_021mat_costume_turn_001_021mat^くるりん！|system_room_022ser_costume_turn_001_022ser^いっぱい見てくださいね！|system_room_023aka_costume_turn_001_023aka^どっから見ても美少女でしょ？|system_room_024ann_costume_turn_001_024ann^回ればいいの？　わかった……。|system_room_025roc_costume_turn_001_025roc^こっちを向くんですか？　
+ちゃんとチェックしなさいっ。|system_room_008tak_costume_turn_001_008tak^どうぞ、ご覧ください。|system_room_009rit_costume_turn_001_009rit^こっち向けばいいんですか？|system_room_010azu_costume_turn_001_010azu^こちらですね♪|system_room_011ami_costume_turn_001_011ami^それっ、くるーり♪|system_room_012mam_costume_turn_001_012mam^こっち見ればいいの？|system_room_013hib_costume_turn_001_013hib^ちゃーんと確認してね！|system_room_014mir_costume_turn_001_014mir^こっちですか？|system_room_015siz_costume_turn_001_015siz^ちゃんと確認してくださいね。|system_room_016tsu_costume_turn_001_016tsu^見て見て～♪|system_room_018ele_costume_turn_001_018ele^どう？　よく見える？|system_room_019min_costume_turn_001_019min^いろんな角度から見てくださいね♪|system_room_020meg_costume_turn_001_020meg^どの角度が、一番イイ感じ？|system_room_021mat_costume_turn_001_021mat^くるりん！|system_room_022ser_costume_turn_001_022ser^いっぱい見てくださいね！|system_room_023aka_costume_turn_001_023aka^どっから見ても美少女でしょ？|system_room_024ann_costume_turn_001_024ann^转圈就行了吗？知道了……|system_room_025roc_costume_turn_001_025roc^こっちを向くんですか？　
 オッケーです♪|system_room_026yur_costume_turn_001_026yur^ここで回るんですか！？|system_room_027say_costume_turn_001_027say^こんな感じですか？|system_room_028ari_costume_turn_001_028ari^右でも左でも向いちゃいますよ～。|system_room_029umi_costume_turn_001_029umi^こっち？　了解っ！|system_room_030iku_costume_turn_001_030iku^こっちを向くの？|system_room_031tom_costume_turn_001_031tom^じっくりご覧なさ～い♪|system_room_032emi_costume_turn_001_032emi^こんな感じでしょうか？|system_room_033sih_costume_turn_001_033sih^こんな感じです。|system_room_034ayu_costume_turn_001_034ayu^オーライ、こっちだな！|system_room_035hin_costume_turn_001_035hin^えっと、こっち向いたら
 いいんかな？|system_room_036kan_costume_turn_001_036kan^いっぱい
 チェックしてくださいねー！|system_room_037nao_costume_turn_001_037nao^こっちもチェックします？|system_room_038chz_costume_turn_001_038chz^こちらですわね？|system_room_039kon_costume_turn_001_039kon^回ればいいのね？　わかったわ。|system_room_040tam_costume_turn_001_040tam^くるくる回ればいいの？|system_room_041fuk_costume_turn_001_041fuk^えっと……こう、ですか？|system_room_042miy_costume_turn_001_042miy^お～。目のつけどころが
@@ -471,7 +471,7 @@ display_character_001har^春香|display_character_002chi^千早|display_characte
 そっちから見てもいい感じ？|system_room_014mir_costume_turn_002_014mir^くるくるっと。えへへ♪|system_room_015siz_costume_turn_002_015siz^どこから見ても
 恥ずかしくないように……。|system_room_016tsu_costume_turn_002_016tsu^ほらほら、かわいいでしょ？|system_room_018ele_costume_turn_002_018ele^くるっとネ♪|system_room_019min_costume_turn_002_019min^なんだか
 落ち着かないですねー……。|system_room_020meg_costume_turn_002_020meg^チェックは入念に、ってね。|system_room_021mat_costume_turn_002_021mat^どこから見ても、
-きゅーと！なのです。|system_room_022ser_costume_turn_002_022ser^サイズ、ぴったりです。|system_room_023aka_costume_turn_002_023aka^華麗にターン！|system_room_024ann_costume_turn_002_024ann^変なところ、ないかな……？|system_room_025roc_costume_turn_002_025roc^納得いくまで
+きゅーと！なのです。|system_room_022ser_costume_turn_002_022ser^サイズ、ぴったりです。|system_room_023aka_costume_turn_002_023aka^華麗にターン！|system_room_024ann_costume_turn_002_024ann^应该，没有哪里怪怪的吧……？|system_room_025roc_costume_turn_002_025roc^納得いくまで
 チェックしてください♪|system_room_026yur_costume_turn_002_026yur^ポーズとか、
 つけたほうがいいですか？|system_room_027say_costume_turn_002_027say^どうですか？|system_room_028ari_costume_turn_002_028ari^了解しましたっ！　こっちですね。|system_room_029umi_costume_turn_002_029umi^そ～れっ、くるくるくる～っ☆|system_room_030iku_costume_turn_002_030iku^ポーズ決めるの、とくいだよ。|system_room_031tom_costume_turn_002_031tom^聖母のファッションショー
 ですよ～♪|system_room_032emi_costume_turn_002_032emi^回ればいいんですね？　
@@ -484,8 +484,8 @@ display_character_001har^春香|display_character_002chi^千早|display_characte
 見ないでください～。|system_room_005yay_costume_turn_003_005yay^えへへっ、なんか楽しいかも～！|system_room_006mak_costume_turn_003_006mak^うなれっ、ボクの女の子パワー！|system_room_007ior_costume_turn_003_007ior^ちょっと、
 ヘンなとこ見てないでしょうね？|system_room_008tak_costume_turn_003_008tak^おかしなところはありませんか？|system_room_009rit_costume_turn_003_009rit^なんかせわしないなぁ、もう。|system_room_010azu_costume_turn_003_010azu^チェックをお願いします～。|system_room_011ami_costume_turn_003_011ami^兄ちゃんも好きですな～♪|system_room_012mam_costume_turn_003_012mam^どっからでも、バッチコーイ♪|system_room_013hib_costume_turn_003_013hib^どっから見てもカンペキでしょ！|system_room_014mir_costume_turn_003_014mir^ばっちりチェックしてくださいね♪|system_room_015siz_costume_turn_003_015siz^反対側も見てもらえますか？|system_room_016tsu_costume_turn_003_016tsu^ちゃ～んと
 チェックしてくださいね？|system_room_018ele_costume_turn_003_018ele^なんだかドキドキするヨー。|system_room_019min_costume_turn_003_019min^こんな感じでどうでしょう？|system_room_020meg_costume_turn_003_020meg^{$P$}、
-なんか熱心じゃない？|system_room_021mat_costume_turn_003_021mat^ほ？　こっち側が見たいのです？|system_room_022ser_costume_turn_003_022ser^とっても素敵です♪|system_room_023aka_costume_turn_003_023aka^あふれる茜ちゃんの魅力……！|system_room_024ann_costume_turn_003_024ann^くるくるくるくる……
-お人形さんみたい。|system_room_025roc_costume_turn_003_025roc^目が回ってきちゃいました～。|system_room_026yur_costume_turn_003_026yur^こ、こういうの、
+なんか熱心じゃない？|system_room_021mat_costume_turn_003_021mat^ほ？　こっち側が見たいのです？|system_room_022ser_costume_turn_003_022ser^とっても素敵です♪|system_room_023aka_costume_turn_003_023aka^あふれる茜ちゃんの魅力……！|system_room_024ann_costume_turn_003_024ann^转啊转啊转啊转……
+像娃娃一样。|system_room_025roc_costume_turn_003_025roc^目が回ってきちゃいました～。|system_room_026yur_costume_turn_003_026yur^こ、こういうの、
 何度やっても慣れません。|system_room_027say_costume_turn_003_027say^この衣装、気に入っちゃいました♪|system_room_028ari_costume_turn_003_028ari^じっくりバッチリ、
 チェックしてくださいね♪|system_room_029umi_costume_turn_003_029umi^女子力チェック、
 お願いしま～すっ！|system_room_030iku_costume_turn_003_030iku^似合ってるかな？|system_room_031tom_costume_turn_003_031tom^こんなに間近で
@@ -746,7 +746,7 @@ display_character_001har^春香|display_character_002chi^千早|display_characte
 あ、大きな声出しちゃった…。|system_theater_007ior_touch_002_007ior^な…、なによ、もう。|system_theater_008tak_touch_002_008tak^なにやつ……！　あっ。
 {$P$}でしたか。|system_theater_009rit_touch_002_009rit^わっ……な、何かご用ですか？|system_theater_010azu_touch_002_010azu^あら、
 {$P$}さん。
-いつから見ていらしたんですか？|system_theater_011ami_touch_002_011ami^あ。……いや～ん♪|system_theater_012mam_touch_002_012mam^あ。……うっふ～ん♪|system_theater_013hib_touch_002_013hib^う～、なんか照れるぞ……。|system_theater_014mir_touch_002_014mir^あ……！　えへへ～♪|system_theater_016tsu_touch_002_016tsu^えへへ♪　じっと見ちゃダメ～。|system_theater_018ele_touch_002_018ele^わわっ！　もう、どうしたノ～？|system_theater_019min_touch_002_019min^わっ！　え、えへへ～……♪|system_theater_021mat_touch_002_021mat^ほ？　なんだか照れるのです。|system_theater_022ser_touch_002_022ser^あっ、えへへ……♪|system_theater_024ann_touch_002_024ann^あ……目、合っちゃった……。|system_theater_025roc_touch_002_025roc^わっ！　{$P$}。
+いつから見ていらしたんですか？|system_theater_011ami_touch_002_011ami^あ。……いや～ん♪|system_theater_012mam_touch_002_012mam^あ。……うっふ～ん♪|system_theater_013hib_touch_002_013hib^う～、なんか照れるぞ……。|system_theater_014mir_touch_002_014mir^あ……！　えへへ～♪|system_theater_016tsu_touch_002_016tsu^えへへ♪　じっと見ちゃダメ～。|system_theater_018ele_touch_002_018ele^わわっ！　もう、どうしたノ～？|system_theater_019min_touch_002_019min^わっ！　え、えへへ～……♪|system_theater_021mat_touch_002_021mat^ほ？　なんだか照れるのです。|system_theater_022ser_touch_002_022ser^あっ、えへへ……♪|system_theater_024ann_touch_002_024ann^啊……对上，视线了……|system_theater_025roc_touch_002_025roc^わっ！　{$P$}。
 ミーティングですか？|system_theater_026yur_touch_002_026yur^あっ……ふふっ、
 なんでもないです！|system_theater_027say_touch_002_027say^あっ……な、何かご用ですか？|system_theater_028ari_touch_002_028ari^わわっ！　
 {$P$}さん
@@ -780,8 +780,8 @@ display_character_001har^春香|display_character_002chi^千早|display_characte
 おつかれレーション～♪|system_theater_013hib_touch_003_013hib^あ。カンペキなサインが
 書けた気がする…！|system_theater_014mir_touch_003_014mir^{$P$}さん、
 お疲れ様でーす！|system_theater_015siz_touch_003_015siz^サインのお仕事なら、
-いつでもどうぞ。|system_theater_016tsu_touch_003_016tsu^今、サイン書いてたんですよ～。|system_theater_018ele_touch_003_018ele^エヘヘ、こんにちはっ♪|system_theater_019min_touch_003_019min^あっ、お疲れさまで～す！|system_theater_020meg_touch_003_020meg^サインって難しいよね～。|system_theater_021mat_touch_003_021mat^大きく『まつり』と書くのです♪|system_theater_022ser_touch_003_022ser^いっぱい書きました！|system_theater_023aka_touch_003_023aka^ぬふふ、喜んでもらえるかにゃ～♪|system_theater_024ann_touch_003_024ann^{$P$}さんも、
-書く……？|system_theater_025roc_touch_003_025roc^Roco觉得Sign也是
+いつでもどうぞ。|system_theater_016tsu_touch_003_016tsu^今、サイン書いてたんですよ～。|system_theater_018ele_touch_003_018ele^エヘヘ、こんにちはっ♪|system_theater_019min_touch_003_019min^あっ、お疲れさまで～す！|system_theater_020meg_touch_003_020meg^サインって難しいよね～。|system_theater_021mat_touch_003_021mat^大きく『まつり』と書くのです♪|system_theater_022ser_touch_003_022ser^いっぱい書きました！|system_theater_023aka_touch_003_023aka^ぬふふ、喜んでもらえるかにゃ～♪|system_theater_024ann_touch_003_024ann^{$P$}先生，
+也想写吗……？|system_theater_025roc_touch_003_025roc^Roco觉得Sign也是
 一种Art哦！|system_theater_026yur_touch_003_026yur^あ、{$P$}さん。
 お疲れさまです！|system_theater_027say_touch_003_027say^サインは日頃から
 練習しないとですね！|system_theater_028ari_touch_003_028ari^心を込めて……
@@ -813,7 +813,7 @@ display_character_001har^春香|display_character_002chi^千早|display_characte
 どうぞ！|system_theater_020meg_touch_004_020meg^{$P$}も、
 ひとくち飲む？|system_theater_021mat_touch_004_021mat^でりしゃす！なのです。|system_theater_022ser_touch_004_022ser^わあ、とってもおいしいです！|system_theater_023aka_touch_004_023aka^ふぅ。あ、
 {$P$}ちゃんの
-分も、ちゃんと飲んどいたよ！|system_theater_024ann_touch_004_024ann^……ふう。杏奈、HP回復……。|system_theater_025roc_touch_004_025roc^ふぅ。ナイスなジュースでした！|system_theater_026yur_touch_004_026yur^ふぅ……水分補給は
+分も、ちゃんと飲んどいたよ！|system_theater_024ann_touch_004_024ann^……呼。杏奈，HP回复……|system_theater_025roc_touch_004_025roc^ふぅ。ナイスなジュースでした！|system_theater_026yur_touch_004_026yur^ふぅ……水分補給は
 こまめに、ですよね？|system_theater_027say_touch_004_027say^一息入れたら、
 また頑張ってきますね！|system_theater_028ari_touch_004_028ari^ふぅ。水分補給もバッチリです♪|system_theater_029umi_touch_004_029umi^ぷは～。ふっかーつっ！|system_theater_030iku_touch_004_030iku^え。ううん、
 そんなに飲んでないよ！|system_theater_031tom_touch_004_031tom^ふふ、なかなかいいお味ですね～♪|system_theater_032emi_touch_004_032emi^はぁ……。落ち着きますね。|system_theater_033sih_touch_004_033sih^んっ。これ、おいしいですね。|system_theater_034ayu_touch_004_034ayu^んっ……ぷは～っ！　
@@ -842,8 +842,8 @@ display_character_001har^春香|display_character_002chi^千早|display_characte
 買おうかなぁ……。|system_theater_020meg_touch_005_020meg^なーんか今日、まとまり悪いなー。|system_theater_021mat_touch_005_021mat^髪の巻きかたは、
 ないしょ、ですよ？|system_theater_022ser_touch_005_022ser^うう、髪が
 ぴょこぴょこしちゃいます。|system_theater_023aka_touch_005_023aka^え、なに？　
-茜ちゃんの秘密が知りたい？|system_theater_024ann_touch_005_024ann^あ……。
-{$P$}さんだ。|system_theater_025roc_touch_005_025roc^うぅ……今日は
+茜ちゃんの秘密が知りたい？|system_theater_024ann_touch_005_024ann^啊……
+是{$P$}先生啊。|system_theater_025roc_touch_005_025roc^うぅ……今日は
 髪の毛がモワモワします。|system_theater_026yur_touch_005_026yur^髪型、変じゃないですか？|system_theater_027say_touch_005_027say^三つ編みとほどいてるの、
 どっちがいいかな？|system_theater_028ari_touch_005_028ari^エゴサしてるの、
 見られちゃいました？|system_theater_029umi_touch_005_029umi^え、髪ボサボサ！？　ごめ～んっ！|system_theater_030iku_touch_005_030iku^あ、{$P$}さん、
@@ -878,8 +878,8 @@ display_character_001har^春香|display_character_002chi^千早|display_characte
 感動しちゃったかも。|system_theater_018ele_touch_006_018ele^うう、なんだか
 切なくなっちゃうネ……。|system_theater_019min_touch_006_019min^う～……
 すっごく感動的でした……。|system_theater_020meg_touch_006_020meg^何これ、超イイ話なんだけど……！|system_theater_021mat_touch_006_021mat^悲しいお話に、
-うるうるまつりです。|system_theater_022ser_touch_006_022ser^なんだか悲しいお話です……。|system_theater_023aka_touch_006_023aka^この話の展開はズルいでしょ……！|system_theater_024ann_touch_006_024ann^胸が、ぎゅーってなる、
-お話……だね。|system_theater_025roc_touch_006_025roc^うう……ロコは
+うるうるまつりです。|system_theater_022ser_touch_006_022ser^なんだか悲しいお話です……。|system_theater_023aka_touch_006_023aka^この話の展開はズルいでしょ……！|system_theater_024ann_touch_006_024ann^是个……扣人心弦……
+的故事……呢。|system_theater_025roc_touch_006_025roc^うう……ロコは
 こういうのに弱いんです～。|system_theater_026yur_touch_006_026yur^この脚本、悲しい……
 救いがほしいです。|system_theater_027say_touch_006_027say^私、こういう話に弱いんです……。|system_theater_028ari_touch_006_028ari^ううっ……感動の超大作でしたぁ。|system_theater_029umi_touch_006_029umi^よかった～っ。
 泣けちゃうよ、この話～！|system_theater_030iku_touch_006_030iku^まあまあ、いいお話だと思うよ。
@@ -932,8 +932,8 @@ display_character_001har^春香|display_character_002chi^千早|display_characte
 お湯使う？|system_theater_014mir_touch_008_014mir^えへへ、
 もうすぐお湯が沸きますからね♪|system_theater_015siz_touch_008_015siz^あっ。お湯、使いますか？|system_theater_016tsu_touch_008_016tsu^えへへ、ちょっと休憩で～す♪|system_theater_018ele_touch_008_018ele^{$P$}も、
 お茶飲むー？|system_theater_019min_touch_008_019min^あっ、お茶でもいれましょうか？|system_theater_021mat_touch_008_021mat^くるりん！　
-魔法でお湯が沸いたのです。|system_theater_022ser_touch_008_022ser^えへへ、こぽこぽいってます♪|system_theater_024ann_touch_008_024ann^んと……温かいの、
-飲みたいな……。|system_theater_025roc_touch_008_025roc^ティーブレイクで、
+魔法でお湯が沸いたのです。|system_theater_022ser_touch_008_022ser^えへへ、こぽこぽいってます♪|system_theater_024ann_touch_008_024ann^嗯……想要……
+喝点热的……|system_theater_025roc_touch_008_025roc^ティーブレイクで、
 リフレッシュしましょう！|system_theater_026yur_touch_008_026yur^お疲れさまです。
 ちょっとお茶にしませんか？|system_theater_027say_touch_008_027say^リフレッシュするのも、
 大事ですよね。|system_theater_028ari_touch_008_028ari^{$P$}さんも
@@ -972,8 +972,8 @@ display_character_001har^春香|display_character_002chi^千早|display_characte
 いるなら声かけてよー！|system_theater_021mat_touch_009_021mat^……そんなに見つめられたら
 照れるのですー。|system_theater_022ser_touch_009_022ser^あっ。えへへ……♪|system_theater_023aka_touch_009_023aka^おおぅ！　
 {$P$}ちゃん
-の愛が重いよ！|system_theater_024ann_touch_009_024ann^っ……。見られると……
-恥ずかしい、です。|system_theater_025roc_touch_009_025roc^うわっ、ビックリしました……。|system_theater_026yur_touch_009_026yur^み、見ないでください！　
+の愛が重いよ！|system_theater_024ann_touch_009_024ann^……被盯着看……
+有点，害羞。|system_theater_025roc_touch_009_025roc^うわっ、ビックリしました……。|system_theater_026yur_touch_009_026yur^み、見ないでください！　
 恋しますよ！？|system_theater_027say_touch_009_027say^きゃっ！？　あ、あの、何か……？|system_theater_028ari_touch_009_028ari^ううっ、
 そ、そんなに見ないでください～！|system_theater_029umi_touch_009_029umi^えっ！？　
 どうしたの、じっと見て……？|system_theater_030iku_touch_009_030iku^おかあさ…！　
@@ -1051,8 +1051,8 @@ display_character_001har^春香|display_character_002chi^千早|display_characte
 そんなに知りたいのです？|system_theater_022ser_touch_011_022ser^そんなに見られると、
 恥ずかしいです……。|system_theater_023aka_touch_011_023aka^{$P$}ちゃん……。
 女の子は視線で
-すぐに気づくんだよ？|system_theater_024ann_touch_011_024ann^きゃっ！　そういうのは、
-よくない……です。|system_theater_025roc_touch_011_025roc^わっ、やめてください～っ！|system_theater_026yur_touch_011_026yur^きゃっ！？　
+すぐに気づくんだよ？|system_theater_024ann_touch_011_024ann^呀！这种事……
+不太……好。|system_theater_025roc_touch_011_025roc^わっ、やめてください～っ！|system_theater_026yur_touch_011_026yur^きゃっ！？　
 もう、おどかさないでください！|system_theater_027say_touch_011_027say^わっ！？　
 び、びっくりしました……。|system_theater_028ari_touch_011_028ari^ひゃっ！？　
 さ、触るのはダメです～っ！|system_theater_029umi_touch_011_029umi^ひゃあっ！？　
@@ -1108,8 +1108,8 @@ display_character_001har^春香|display_character_002chi^千早|display_characte
 一日になりそうですね♪|system_theater_021mat_touch_013_021mat^ほ？　
 姫、妖精さんを探していたのです。|system_theater_022ser_touch_013_022ser^今日もお仕事、頑張りましょうね！|system_theater_023aka_touch_013_023aka^よし。
 {$P$}ちゃん、
-今日は外で遊ぼう！|system_theater_024ann_touch_013_024ann^会いたいって、
-思ってたから……ビックリ。|system_theater_025roc_touch_013_025roc^今、ナイスなアイディアを
+今日は外で遊ぼう！|system_theater_024ann_touch_013_024ann^心里正念着，
+想见到你……吓了一跳。|system_theater_025roc_touch_013_025roc^今、ナイスなアイディアを
 思いつきました！|system_theater_026yur_touch_013_026yur^お時間あるなら、
 本屋さんに行きませんか？|system_theater_027say_touch_013_027say^お仕事の予習はバッチリですよ！|system_theater_028ari_touch_013_028ari^{$P$}さんも、
 こっちに来てください～！|system_theater_029umi_touch_013_029umi^お！　今日、
@@ -1133,7 +1133,7 @@ display_character_001har^春香|display_character_002chi^千早|display_characte
 {$P$}！|system_theater_014mir_touch_014_014mir^お疲れ様でーす！|system_theater_015siz_touch_014_015siz^あっ、お疲れ様です。|system_theater_016tsu_touch_014_016tsu^お疲れさまで～す♪|system_theater_018ele_touch_014_018ele^お疲れさまっ♪|system_theater_019min_touch_014_019min^お疲れさまです！|system_theater_020meg_touch_014_020meg^ん。お疲れ。|system_theater_021mat_touch_014_021mat^メールにおまじないをかけてから
 送るのです。|system_theater_022ser_touch_014_022ser^スマホって、面白いですね！|system_theater_023aka_touch_014_023aka^おっ、
 {$P$}ちゃん、
-がんばってる～？|system_theater_024ann_touch_014_024ann^ゲーム……やる？|system_theater_025roc_touch_014_025roc^今日のレッスンは……
+がんばってる～？|system_theater_024ann_touch_014_024ann^要玩……游戏吗？|system_theater_025roc_touch_014_025roc^今日のレッスンは……
 あ、{$P$}。|system_theater_026yur_touch_014_026yur^新刊の発売日、
 チェックしてるんです♪|system_theater_027say_touch_014_027say^あ、弟から連絡が来てたんです！|system_theater_028ari_touch_014_028ari^アイドルちゃんの新情報、
 入手しました！|system_theater_029umi_touch_014_029umi^あっ、お疲れーっ！|system_theater_030iku_touch_014_030iku^あ、{$P$}さん。
@@ -1160,7 +1160,7 @@ display_character_001har^春香|display_character_002chi^千早|display_characte
 ほめてほめて～♪|system_theater_018ele_touch_015_018ele^お掃除してるんだヨー。
 褒めて褒めて♪|system_theater_019min_touch_015_019min^お掃除なら任せてください♪|system_theater_020meg_touch_015_020meg^あ、{$P$}、
 掃除当番代わってくれるの？|system_theater_021mat_touch_015_021mat^キラキラのピカピカにしましょー。|system_theater_022ser_touch_015_022ser^ぴかぴかにしちゃいます！|system_theater_023aka_touch_015_023aka^ニャッ！？　
-ちゃ、ちゃんと掃除してるよ！|system_theater_024ann_touch_015_024ann^杏奈……頑張ってるよ……。|system_theater_025roc_touch_015_025roc^Clean up的话，
+ちゃ、ちゃんと掃除してるよ！|system_theater_024ann_touch_015_024ann^杏奈……在努力哦……。|system_theater_025roc_touch_015_025roc^Clean up的话，
 就交给Roco吧！|system_theater_026yur_touch_015_026yur^ここは特に
 キレイにしておかないと！|system_theater_027say_touch_015_027say^手は抜きません！　
 ピカピカにしますね。|system_theater_028ari_touch_015_028ari^ありさの心も、
@@ -1187,7 +1187,7 @@ display_character_001har^春香|display_character_002chi^千早|display_characte
 目指しちゃう？|system_theater_012mam_touch_016_012mam^おっきい掃除機とか、
 ほしーなー。ダメ？|system_theater_013hib_touch_016_013hib^心配しなくても、
 ちゃんと掃除してるぞ？|system_theater_014mir_touch_016_014mir^えへへ、お片付け中です♪|system_theater_015siz_touch_016_015siz^やるからには、
-徹底的に片付けますよ。|system_theater_016tsu_touch_016_016tsu^整理整頓はバッチリですよ！|system_theater_018ele_touch_016_018ele^ほら、キレイになってるでしょ♪|system_theater_019min_touch_016_019min^こっち、今キレイにしてますから！|system_theater_021mat_touch_016_021mat^姫達のお城、きれいにするのです？|system_theater_022ser_touch_016_022ser^えへへ、片付きましたよね？|system_theater_023aka_touch_016_023aka^茜ちゃん、サボってないからねー。|system_theater_024ann_touch_016_024ann^ミッション……コンプリート……♪|system_theater_025roc_touch_016_025roc^クリーンなオフィス、
+徹底的に片付けますよ。|system_theater_016tsu_touch_016_016tsu^整理整頓はバッチリですよ！|system_theater_018ele_touch_016_018ele^ほら、キレイになってるでしょ♪|system_theater_019min_touch_016_019min^こっち、今キレイにしてますから！|system_theater_021mat_touch_016_021mat^姫達のお城、きれいにするのです？|system_theater_022ser_touch_016_022ser^えへへ、片付きましたよね？|system_theater_023aka_touch_016_023aka^茜ちゃん、サボってないからねー。|system_theater_024ann_touch_016_024ann^Mission……Complete……♪|system_theater_025roc_touch_016_025roc^クリーンなオフィス、
 ワンダフルです！|system_theater_026yur_touch_016_026yur^本棚はばっちり、
 整頓しておきましたよ！|system_theater_027say_touch_016_027say^こっちの棚も、
 整理しておきました！|system_theater_028ari_touch_016_028ari^ムフフ♪　片付け、完了です！|system_theater_030iku_touch_016_030iku^これでキレイになったよね。|system_theater_032emi_touch_016_032emi^見えない場所も、
@@ -1214,7 +1214,7 @@ display_character_001har^春香|display_character_002chi^千早|display_characte
 気分いいですね～♪|system_theater_018ele_touch_017_018ele^劇場は大事に使わないとネっ！|system_theater_019min_touch_017_019min^快適に過ごしてほしい
 ですからね～。|system_theater_021mat_touch_017_021mat^たまには魔法を使わないのも、
 いいのです。|system_theater_022ser_touch_017_022ser^一生懸命、やりました！|system_theater_023aka_touch_017_023aka^これが茜ちゃんの
-メイドスキルだよ！|system_theater_024ann_touch_017_024ann^杏奈、掃除当番……です。|system_theater_025roc_touch_017_025roc^シアターへ、ウェルカムです♪|system_theater_026yur_touch_017_026yur^余裕があれば、
+メイドスキルだよ！|system_theater_024ann_touch_017_024ann^杏奈……今天值日。|system_theater_025roc_touch_017_025roc^シアターへ、ウェルカムです♪|system_theater_026yur_touch_017_026yur^余裕があれば、
 ワックスもかけたいですね！|system_theater_027say_touch_017_027say^みんなで掃除するのも、
 楽しいですよっ！|system_theater_028ari_touch_017_028ari^今日もいろいろ拾っちゃいました！|system_theater_029umi_touch_017_029umi^あははっ♪　
 お掃除、気持ちいいねーっ！|system_theater_030iku_touch_017_030iku^きょうはわたしが
@@ -1322,8 +1322,8 @@ display_character_001har^春香|display_character_002chi^千早|display_characte
 ゲームする？|system_theater_021mat_touch_020_021mat^姫の好きな漫画が
 ゲームになったのです♪|system_theater_022ser_touch_020_022ser^ゲームをしてたんです。
 おもしろいですよ！|system_theater_023aka_touch_020_023aka^茜ちゃんのゲームテクを
-見たいのかニャ？|system_theater_024ann_touch_020_024ann^ん……協力プレイ……
-一緒に、する？|system_theater_025roc_touch_020_025roc^このゲーム、
+見たいのかニャ？|system_theater_024ann_touch_020_024ann^嗯……合作模式……
+要，一起玩吗？|system_theater_025roc_touch_020_025roc^このゲーム、
 とてもインタレスティングです♪|system_theater_026yur_touch_020_026yur^ハッ！？　す、すみません、
 集中してました！|system_theater_027say_touch_020_027say^今、3連勝中です！　ふふっ。|system_theater_028ari_touch_020_028ari^ありさの指さばきを、
 お見せましょう！|system_theater_029umi_touch_020_029umi^ていてい！　
@@ -1359,8 +1359,8 @@ display_character_001har^春香|display_character_002chi^千早|display_characte
 悲しすぎるヨー。|system_theater_019min_touch_021_019min^あはは……私ってば、
 涙もろいですねー。|system_theater_020meg_touch_021_020meg^これはずるいなー。
 さすがに泣くって……。|system_theater_021mat_touch_021_021mat^一生懸命に生きるウミウシに
-感動したのです。|system_theater_022ser_touch_021_022ser^素敵な映画ですね……ぐすっ。|system_theater_023aka_touch_021_023aka^全茜ちゃんが泣いたよ……！|system_theater_024ann_touch_021_024ann^ん……杏奈、
-涙が止まらないよ……。|system_theater_025roc_touch_021_025roc^うう、ハートムーヴィングです～。|system_theater_026yur_touch_021_026yur^このゲームはもう娯楽ではない、
+感動したのです。|system_theater_022ser_touch_021_022ser^素敵な映画ですね……ぐすっ。|system_theater_023aka_touch_021_023aka^全茜ちゃんが泣いたよ……！|system_theater_024ann_touch_021_024ann^嗯……杏奈，
+眼泪止不住了……|system_theater_025roc_touch_021_025roc^うう、ハートムーヴィングです～。|system_theater_026yur_touch_021_026yur^このゲームはもう娯楽ではない、
 芸術です！！|system_theater_027say_touch_021_027say^私……動物ものに、
 弱いんです……。|system_theater_028ari_touch_021_028ari^ありさの推しが、
 とうとう大舞台に……！|system_theater_029umi_touch_021_029umi^この動画、いいっ！　
@@ -1392,7 +1392,7 @@ display_character_001har^春香|display_character_002chi^千早|display_characte
 {$P$}。|system_theater_016tsu_touch_022_016tsu^おっはようございま～す♪|system_theater_018ele_touch_022_018ele^おはよっ！|system_theater_019min_touch_022_019min^おはようございまーす！　
 朝食食べました？|system_theater_020meg_touch_022_020meg^おはよ。今日も頑張っていこっか。|system_theater_021mat_touch_022_021mat^{$P$}さん、
 ご機嫌ようなのです。|system_theater_022ser_touch_022_022ser^おはようございます！|system_theater_023aka_touch_022_023aka^{$P$}ちゃん、
-おっはよー！|system_theater_024ann_touch_022_024ann^おはようございます……です。|system_theater_025roc_touch_022_025roc^{$P$}、
+おっはよー！|system_theater_024ann_touch_022_024ann^早上好……哦。|system_theater_025roc_touch_022_025roc^{$P$}、
 グッドモーニングです♪|system_theater_026yur_touch_022_026yur^おはようございます！|system_theater_027say_touch_022_027say^今日も全力全開で行きます！|system_theater_028ari_touch_022_028ari^{$P$}さん、
 おはようございますっ！|system_theater_029umi_touch_022_029umi^{$P$}、
 おはようっ！|system_theater_030iku_touch_022_030iku^{$P$}さん、
@@ -1427,8 +1427,8 @@ display_character_001har^春香|display_character_002chi^千早|display_characte
 にゃはは、だらしないなぁ。|system_theater_021mat_touch_023_021mat^太陽さんも、
 そろそろお休みなのです？|system_theater_022ser_touch_023_022ser^ま、まだ眠くありません！　
 頑張れます！|system_theater_023aka_touch_023_023aka^うんうん、
-今日も茜ちゃんは頑張った！|system_theater_024ann_touch_023_024ann^もう、夕方……
-一日って、早い……ね。|system_theater_025roc_touch_023_025roc^{$P$}、
+今日も茜ちゃんは頑張った！|system_theater_024ann_touch_023_024ann^已经，是傍晚了……
+一天，过的真快……呢。|system_theater_025roc_touch_023_025roc^{$P$}、
 今日もナイスフォローでした♪|system_theater_026yur_touch_023_026yur^日も傾いてきましたが、
 これからが本番です！|system_theater_027say_touch_023_027say^今日も一日、お疲れさまでした！|system_theater_028ari_touch_023_028ari^ふぅ。お疲れさまです～。|system_theater_029umi_touch_023_029umi^お疲れっ！　
 もっと声出していこう？|system_theater_030iku_touch_023_030iku^あっ、
@@ -1465,8 +1465,8 @@ display_character_001har^春香|display_character_002chi^千早|display_characte
 一日って早いなぁ……。|system_theater_020meg_touch_024_020meg^もうこんな時間かー。
 家に連絡しないとね。|system_theater_021mat_touch_024_021mat^姫もそろそろ、
 おやすみの時間なのです。|system_theater_022ser_touch_024_022ser^今日も楽しいことが
-いっぱいありました！|system_theater_023aka_touch_024_023aka^茜ちゃんの夜更かしはこれからだ！|system_theater_024ann_touch_024_024ann^{$P$}さん
-……眠くない？|system_theater_025roc_touch_024_025roc^呜呜……Roco现在很Sleepy。|system_theater_026yur_touch_024_026yur^遅くまで大変ですね！　
+いっぱいありました！|system_theater_023aka_touch_024_023aka^茜ちゃんの夜更かしはこれからだ！|system_theater_024ann_touch_024_024ann^{$P$}先生
+……不困吗？|system_theater_025roc_touch_024_025roc^呜呜……Roco现在很Sleepy。|system_theater_026yur_touch_024_026yur^遅くまで大変ですね！　
 まだ疲れてませんか？|system_theater_027say_touch_024_027say^そろそろ、
 帰り支度をしてきますねっ。|system_theater_028ari_touch_024_028ari^{$P$}さん、
 遅くまで大変なんですね～。|system_theater_029umi_touch_024_029umi^外、真っ暗！　
@@ -1492,7 +1492,7 @@ display_character_001har^春香|display_character_002chi^千早|display_characte
 詰めすぎない方がよいと思います。|system_theater_052kao_touch_024_052kao^すっかり
 遅くなってしまいましたね。|system_theater_001har_touch_025_001har^どうしたんですか？|system_theater_002chi_touch_025_002chi^どうかしましたか？|system_theater_003mik_touch_025_003mik^ミキのこと、呼んだ？|system_theater_004yuk_touch_025_004yuk^えっと、なんでしょう？|system_theater_005yay_touch_025_005yay^はいっ、なんですかー？|system_theater_006mak_touch_025_006mak^用があったら、
 何でも言ってくださいね！|system_theater_007ior_touch_025_007ior^はーい、何か用？|system_theater_008tak_touch_025_008tak^私に何かご用がおありに？|system_theater_009rit_touch_025_009rit^はいはーい、どうしました？|system_theater_010azu_touch_025_010azu^なんでしょう？|system_theater_011ami_touch_025_011ami^んっ？　どしたの？|system_theater_012mam_touch_025_012mam^なになに？|system_theater_013hib_touch_025_013hib^ん？　今、自分のこと呼んだ？|system_theater_014mir_touch_025_014mir^はい、なんですか？|system_theater_015siz_touch_025_015siz^私に何か、用ですか？|system_theater_016tsu_touch_025_016tsu^え？　なになに？|system_theater_018ele_touch_025_018ele^ん、なになに～？|system_theater_019min_touch_025_019min^はいっ、なんですか？|system_theater_020meg_touch_025_020meg^何か用？|system_theater_021mat_touch_025_021mat^ほ？　姫にご用なのです？|system_theater_022ser_touch_025_022ser^はい！　何かご用ですか？|system_theater_023aka_touch_025_023aka^呼んだ？　呼んだ？　
-茜ちゃんのこと呼んだ？|system_theater_024ann_touch_025_024ann^ん、と……杏奈のこと、呼んだ？|system_theater_025roc_touch_025_025roc^需要Roco的Help吗？|system_theater_026yur_touch_025_026yur^はい、どうかしましたか？|system_theater_027say_touch_025_027say^どうかしましたか？　
+茜ちゃんのこと呼んだ？|system_theater_024ann_touch_025_024ann^嗯，那个……刚才叫杏奈了吗？|system_theater_025roc_touch_025_025roc^需要Roco的Help吗？|system_theater_026yur_touch_025_026yur^はい、どうかしましたか？|system_theater_027say_touch_025_027say^どうかしましたか？　
 何でも言ってください！|system_theater_028ari_touch_025_028ari^ありさにご用ですか？|system_theater_029umi_touch_025_029umi^はいは～いっ！　なになに！？|system_theater_030iku_touch_025_030iku^どうしたの？　
 {$P$}さん。|system_theater_031tom_touch_025_031tom^どうかしましたか～？|system_theater_032emi_touch_025_032emi^はい。何かご用ですか？|system_theater_033sih_touch_025_033sih^なんですか？|system_theater_034ayu_touch_025_034ayu^えーと、何かあったっけ？|system_theater_035hin_touch_025_035hin^ん？　なんだい？|system_theater_036kan_touch_025_036kan^はーい！　なんですか～♪|system_theater_037nao_touch_025_037nao^なんですかー？|system_theater_038chz_touch_025_038chz^あらっ？　何か、ありまして？|system_theater_039kon_touch_025_039kon^あら、どうかした？|system_theater_040tam_touch_025_040tam^どうしたの、おやぶん？|system_theater_041fuk_touch_025_041fuk^{$P$}さん、
 何かご用ですか？|system_theater_042miy_touch_025_042miy^おや～、なんでしょう～？|system_theater_043nor_touch_025_043nor^えっ、なになにっ？|system_theater_044miz_touch_025_044miz^どうかしましたか。|system_theater_045kar_touch_025_045kar^はい……なんでしょうか？|system_theater_046rio_touch_025_046rio^あら、何かしら？|system_theater_047sub_touch_025_047sub^ん、なになに？|system_theater_048rei_touch_025_048rei^はい、呼びましたか？|system_theater_049mom_touch_025_049mom^どうしたの？|system_theater_050jul_touch_025_050jul^え……なんだ？|system_theater_051tmg_touch_025_051tmg^はい。どうかいたしましたか。|system_theater_052kao_touch_025_052kao^私を呼びましたか？|system_theater_001har_touch_026_001har^次の公演、
@@ -1506,7 +1506,7 @@ display_character_001har^春香|display_character_002chi^千早|display_characte
 染めたいのです♪|system_theater_022ser_touch_026_022ser^わたしにいろんなこと、
 教えてください！|system_theater_023aka_touch_026_023aka^{$P$}ちゃんは
 茜ちゃんがいないと
-ダメだからな～。|system_theater_024ann_touch_026_024ann^ステージ……立ちたい、な。|system_theater_025roc_touch_026_025roc^ふっふっふ……
+ダメだからな～。|system_theater_024ann_touch_026_024ann^想站上……舞台，呢。|system_theater_025roc_touch_026_025roc^ふっふっふ……
 これぞロコアートです！|system_theater_026yur_touch_026_026yur^あのシリーズの続き、
 早く読みたいなぁ……。|system_theater_027say_touch_026_027say^{$P$}、
 頼りにしてます！|system_theater_028ari_touch_026_028ari^ムフフ♪　ありさ幸せです～♪|system_theater_029umi_touch_026_029umi^気力全快、体力満タンッ！　
@@ -1563,9 +1563,9 @@ display_character_001har^春香|display_character_002chi^千早|display_characte
 そばにいてくれると、
 ほっとします。|system_theater_023aka_approach_001_1_023aka^ねえ、
 {$P$}ちゃんって、
-彼女いない歴どれくらいー？|system_theater_024ann_approach_001_1_024ann^あ……
-{$P$}さん。
-ん、と……杏奈、ね……その……。|system_theater_025roc_approach_001_1_025roc^{$P$}、
+彼女いない歴どれくらいー？|system_theater_024ann_approach_001_1_024ann^啊……
+{$P$}先生。
+嗯……杏奈……那个……|system_theater_025roc_approach_001_1_025roc^{$P$}、
 マーベラスな
 アイディアを思いつきましたよ！|system_theater_026yur_approach_001_1_026yur^{$P$}さん！　
 この前、お借りした本、
@@ -1658,9 +1658,9 @@ display_character_001har^春香|display_character_002chi^千早|display_characte
 甘えたくなっちゃいます♪
 えへへ……♪|system_theater_023aka_approach_001_2_023aka^まあ、聞くまでもないよね！
 でも大丈夫！　
-茜ちゃんに万事任せろー！|system_theater_024ann_approach_001_2_024ann^……やっぱり、なんでも、
-ない……です。今日も元気に……
-頑張ろう……ね。|system_theater_025roc_approach_001_2_025roc^早めにカタチにしておきたいので、
+茜ちゃんに万事任せろー！|system_theater_024ann_approach_001_2_024ann^……不，没什么……事。
+今天也要充满活力地……
+加油……呢。|system_theater_025roc_approach_001_2_025roc^早めにカタチにしておきたいので、
 これからミーティング、
 どうですか？|system_theater_026yur_approach_001_2_026yur^他にもオススメがあったら
 教えてください！
@@ -1714,7 +1714,7 @@ display_character_001har^春香|display_character_002chi^千早|display_characte
 いえ。とかく世の中には、
 不思議な人もいるものですね。|system_theater_052kao_approach_001_2_052kao^今度、お買い物に付き合って
 いただけますか？　アイドルらしい
-私服、選んでいただきたくて。|system_theater_001har_common_001_001har^えへへっ♪|system_theater_002chi_common_001_002chi^ふふっ。|system_theater_003mik_common_001_003mik^あはっ☆|system_theater_004yuk_common_001_004yuk^えへへっ。|system_theater_005yay_common_001_005yay^えへっ♪|system_theater_006mak_common_001_006mak^へへっ♪|system_theater_007ior_common_001_007ior^うふふっ！|system_theater_008tak_common_001_008tak^ふふっ。|system_theater_009rit_common_001_009rit^ふふっ♪|system_theater_010azu_common_001_010azu^ふふっ。|system_theater_011ami_common_001_011ami^あははっ！|system_theater_012mam_common_001_012mam^フォッフォッフォ～♪|system_theater_013hib_common_001_013hib^あははっ！|system_theater_014mir_common_001_014mir^でへへ♪|system_theater_015siz_common_001_015siz^あはは……♪|system_theater_016tsu_common_001_016tsu^えへへ♪|system_theater_018ele_common_001_018ele^エヘヘ♪|system_theater_019min_common_001_019min^えへへ♪|system_theater_020meg_common_001_020meg^にゃはは♪|system_theater_021mat_common_001_021mat^ふふーん♪|system_theater_022ser_common_001_022ser^えへへ♪|system_theater_023aka_common_001_023aka^ニャハハ！|system_theater_024ann_common_001_024ann^ふふ……。|system_theater_025roc_common_001_025roc^フフフ……。|system_theater_026yur_common_001_026yur^あはは。|system_theater_027say_common_001_027say^ふふっ♪|system_theater_028ari_common_001_028ari^ムフフ♪|system_theater_029umi_common_001_029umi^えへへ♪|system_theater_030iku_common_001_030iku^えへへ。|system_theater_031tom_common_001_031tom^うふふっ♪|system_theater_032emi_common_001_032emi^ふふっ。|system_theater_033sih_common_001_033sih^ふふ……。|system_theater_034ayu_common_001_034ayu^へへっ♪|system_theater_035hin_common_001_035hin^えへへ……。|system_theater_036kan_common_001_036kan^えへへ♪|system_theater_037nao_common_001_037nao^うぷぷっ。|system_theater_038chz_common_001_038chz^ふふっ♪|system_theater_039kon_common_001_039kon^フフッ。|system_theater_040tam_common_001_040tam^くふふ♪|system_theater_041fuk_common_001_041fuk^ふふっ♪|system_theater_042miy_common_001_042miy^むふふ。|system_theater_043nor_common_001_043nor^あはっ。|system_theater_044miz_common_001_044miz^ふふ。|system_theater_045kar_common_001_045kar^えへへ。|system_theater_046rio_common_001_046rio^ウフフ♪|system_theater_047sub_common_001_047sub^へへっ！|system_theater_048rei_common_001_048rei^ふふ♪|system_theater_049mom_common_001_049mom^えへへっ。|system_theater_050jul_common_001_050jul^ふっ……。|system_theater_051tmg_common_001_051tmg^くすっ…。|system_theater_052kao_common_001_052kao^ふふっ。|system_theater_001har_common_002_001har^あはっ！|system_theater_002chi_common_002_002chi^もう…。|system_theater_003mik_common_002_003mik^えへへ～。|system_theater_004yuk_common_002_004yuk^ふふ……。|system_theater_005yay_common_002_005yay^あはっ！|system_theater_006mak_common_002_006mak^えへへ～♪|system_theater_007ior_common_002_007ior^にひひっ♪|system_theater_008tak_common_002_008tak^ふふふふふふ……。|system_theater_009rit_common_002_009rit^あははは……。|system_theater_010azu_common_002_010azu^うふふ。|system_theater_011ami_common_002_011ami^んっふっふ～♪|system_theater_012mam_common_002_012mam^にゃは☆|system_theater_013hib_common_002_013hib^えへへ～。|system_theater_014mir_common_002_014mir^えへへへっ♪|system_theater_015siz_common_002_015siz^ふふっ。|system_theater_016tsu_common_002_016tsu^へへ～っ♪|system_theater_018ele_common_002_018ele^わぁ～♪|system_theater_019min_common_002_019min^ふふっ♪|system_theater_020meg_common_002_020meg^へへっ。|system_theater_021mat_common_002_021mat^くすくす。|system_theater_022ser_common_002_022ser^てへ。|system_theater_023aka_common_002_023aka^ふっふっふ！|system_theater_024ann_common_002_024ann^ふふっ。|system_theater_025roc_common_002_025roc^えへへ。|system_theater_026yur_common_002_026yur^ふふっ。|system_theater_027say_common_002_027say^あはは♪|system_theater_028ari_common_002_028ari^えへへ……。|system_theater_029umi_common_002_029umi^あははっ☆|system_theater_030iku_common_002_030iku^ふふっ。|system_theater_031tom_common_002_031tom^うふっ♪|system_theater_032emi_common_002_032emi^うふふ♪|system_theater_033sih_common_002_033sih^くすっ。|system_theater_034ayu_common_002_034ayu^あははは！|system_theater_035hin_common_002_035hin^あはは。|system_theater_036kan_common_002_036kan^えへっ♪|system_theater_037nao_common_002_037nao^くくくっ。|system_theater_038chz_common_002_038chz^おほほほほ♪|system_theater_039kon_common_002_039kon^くすっ。|system_theater_040tam_common_002_040tam^あははっ！|system_theater_041fuk_common_002_041fuk^ふふふっ。|system_theater_042miy_common_002_042miy^ふふっ♪|system_theater_043nor_common_002_043nor^あははっ！|system_theater_044miz_common_002_044miz^フフフ。|system_theater_045kar_common_002_045kar^ふふっ。|system_theater_046rio_common_002_046rio^ウフッ。|system_theater_047sub_common_002_047sub^へへーっ♪|system_theater_048rei_common_002_048rei^ふふふ！|system_theater_049mom_common_002_049mom^ぷっ……。|system_theater_050jul_common_002_050jul^はは！|system_theater_051tmg_common_002_051tmg^ふふ。|system_theater_052kao_common_002_052kao^あははっ。|system_theater_001har_common_003_001har^ふふっ♪|system_theater_002chi_common_003_002chi^ぷっ、ふふふっ！|system_theater_003mik_common_003_003mik^ふふっ。|system_theater_004yuk_common_003_004yuk^えへ。|system_theater_005yay_common_003_005yay^えへへー♪|system_theater_006mak_common_003_006mak^あははははっ♪|system_theater_007ior_common_003_007ior^あははっ！|system_theater_008tak_common_003_008tak^ふふっ、うふふふっ！|system_theater_009rit_common_003_009rit^あはは！|system_theater_010azu_common_003_010azu^うふふふふっ♪|system_theater_011ami_common_003_011ami^フッフッフッ……。|system_theater_012mam_common_003_012mam^えへへっ♪|system_theater_013hib_common_003_013hib^ふふっ。|system_theater_014mir_common_003_014mir^あはははっ。|system_theater_015siz_common_003_015siz^くすくす……。|system_theater_016tsu_common_003_016tsu^あははっ♪|system_theater_018ele_common_003_018ele^アハッ♪|system_theater_019min_common_003_019min^あははっ！|system_theater_020meg_common_003_020meg^ぷっ……！|system_theater_021mat_common_003_021mat^わー♪|system_theater_022ser_common_003_022ser^ふふっ♪|system_theater_023aka_common_003_023aka^てへぺろ♪|system_theater_024ann_common_003_024ann^えへへ……。|system_theater_025roc_common_003_025roc^ふふーん。|system_theater_026yur_common_003_026yur^えへへっ♪|system_theater_027say_common_003_027say^やったね！|system_theater_028ari_common_003_028ari^フフフ。|system_theater_029umi_common_003_029umi^あはははは！|system_theater_030iku_common_003_030iku^くすっ。|system_theater_031tom_common_003_031tom^うふふ～♪|system_theater_032emi_common_003_032emi^くすくす。|system_theater_033sih_common_003_033sih^ふふっ！|system_theater_034ayu_common_003_034ayu^ぷっ……あははは♪|system_theater_035hin_common_003_035hin^あははっ！|system_theater_036kan_common_003_036kan^あははっ！|system_theater_037nao_common_003_037nao^あはははっ。|system_theater_038chz_common_003_038chz^お～っほっほっほっ、けほ、えほっ！？|system_theater_039kon_common_003_039kon^あはは。|system_theater_040tam_common_003_040tam^えへへ。|system_theater_041fuk_common_003_041fuk^あはは♪|system_theater_042miy_common_003_042miy^えへへ……。|system_theater_043nor_common_003_043nor^えへへ…。|system_theater_044miz_common_003_044miz^クス。|system_theater_045kar_common_003_045kar^てへへ♪|system_theater_046rio_common_003_046rio^くすくす。|system_theater_047sub_common_003_047sub^あはは！|system_theater_048rei_common_003_048rei^えへへ♪|system_theater_049mom_common_003_049mom^ふふっ。|system_theater_050jul_common_003_050jul^ふふん♪|system_theater_051tmg_common_003_051tmg^うふふっ。|system_theater_052kao_common_003_052kao^くすくす。|system_theater_001har_common_004_001har^わっ！？|system_theater_002chi_common_004_002chi^えっ？|system_theater_003mik_common_004_003mik^えっ？|system_theater_004yuk_common_004_004yuk^ええっ！？|system_theater_005yay_common_004_005yay^えっ？|system_theater_006mak_common_004_006mak^ん？|system_theater_007ior_common_004_007ior^ひゃっ！|system_theater_008tak_common_004_008tak^なんと！|system_theater_009rit_common_004_009rit^えっ？|system_theater_010azu_common_004_010azu^ええっ！|system_theater_011ami_common_004_011ami^あうあう！|system_theater_012mam_common_004_012mam^うあうあ！|system_theater_013hib_common_004_013hib^えっ？|system_theater_014mir_common_004_014mir^へ？|system_theater_015siz_common_004_015siz^えっ。|system_theater_016tsu_common_004_016tsu^え？|system_theater_018ele_common_004_018ele^えっ？|system_theater_019min_common_004_019min^……えっ？|system_theater_020meg_common_004_020meg^は？|system_theater_021mat_common_004_021mat^ほ？|system_theater_022ser_common_004_022ser^わっ！|system_theater_023aka_common_004_023aka^わわっ！|system_theater_024ann_common_004_024ann^わ……！|system_theater_025roc_common_004_025roc^わぁっ！|system_theater_026yur_common_004_026yur^えぇっ！？|system_theater_027say_common_004_027say^えっ！？|system_theater_028ari_common_004_028ari^ええっ！？|system_theater_029umi_common_004_029umi^…あっ！？|system_theater_030iku_common_004_030iku^わぁ～。|system_theater_031tom_common_004_031tom^あら。|system_theater_032emi_common_004_032emi^Wow！|system_theater_033sih_common_004_033sih^っ……！|system_theater_034ayu_common_004_034ayu^うええっ！？|system_theater_035hin_common_004_035hin^へ？|system_theater_036kan_common_004_036kan^はれっ！？|system_theater_037nao_common_004_037nao^そうなん？|system_theater_038chz_common_004_038chz^はっ！？|system_theater_039kon_common_004_039kon^ええっ！？|system_theater_040tam_common_004_040tam^えっ！|system_theater_041fuk_common_004_041fuk^ひぇっ！？|system_theater_042miy_common_004_042miy^お～。|system_theater_043nor_common_004_043nor^へっ？|system_theater_044miz_common_004_044miz^なんと。|system_theater_045kar_common_004_045kar^きゃっ。|system_theater_046rio_common_004_046rio^あら？|system_theater_047sub_common_004_047sub^おわっ！？|system_theater_048rei_common_004_048rei^おおー。|system_theater_049mom_common_004_049mom^うっ！|system_theater_050jul_common_004_050jul^うわっ！|system_theater_051tmg_common_004_051tmg^っ……！？|system_theater_052kao_common_004_052kao^えっ。|system_theater_001har_common_005_001har^きゃっ！|system_theater_002chi_common_005_002chi^ええっ？|system_theater_003mik_common_005_003mik^それは驚いたの～。|system_theater_004yuk_common_005_004yuk^ひうっ！|system_theater_005yay_common_005_005yay^はわっ！？|system_theater_006mak_common_005_006mak^うわあっ！？|system_theater_007ior_common_005_007ior^え？|system_theater_008tak_common_005_008tak^面妖な……！|system_theater_009rit_common_005_009rit^うわぁっ！？|system_theater_010azu_common_005_010azu^まあ……！|system_theater_011ami_common_005_011ami^へ？|system_theater_012mam_common_005_012mam^え～っ！？|system_theater_013hib_common_005_013hib^そうなの？|system_theater_014mir_common_005_014mir^ええっ！？|system_theater_015siz_common_005_015siz^ちょっと！？|system_theater_016tsu_common_005_016tsu^わっ！|system_theater_018ele_common_005_018ele^ええ～っ！？|system_theater_019min_common_005_019min^わわっ！？|system_theater_020meg_common_005_020meg^ええっ！？|system_theater_021mat_common_005_021mat^ほ！？|system_theater_022ser_common_005_022ser^ええっ！？|system_theater_023aka_common_005_023aka^ニャ？|system_theater_024ann_common_005_024ann^えっ……？|system_theater_025roc_common_005_025roc^えっ……。|system_theater_026yur_common_005_026yur^はい？|system_theater_027say_common_005_027say^どうしたの！？|system_theater_028ari_common_005_028ari^おおっ。|system_theater_029umi_common_005_029umi^ふえっ！？|system_theater_030iku_common_005_030iku^わっ……。|system_theater_031tom_common_005_031tom^あらあら。|system_theater_032emi_common_005_032emi^えっ！|system_theater_033sih_common_005_033sih^えぇ！？|system_theater_034ayu_common_005_034ayu^マイガー！？|system_theater_035hin_common_005_035hin^うひゃあっ！？|system_theater_036kan_common_005_036kan^わわっ！|system_theater_037nao_common_005_037nao^ホンマに？|system_theater_038chz_common_005_038chz^えええっ！？|system_theater_039kon_common_005_039kon^そんな！|system_theater_040tam_common_005_040tam^そーなんだ！|system_theater_041fuk_common_005_041fuk^きゃっ！？|system_theater_042miy_common_005_042miy^なんと～。|system_theater_043nor_common_005_043nor^わあっ！？|system_theater_044miz_common_005_044miz^それは。|system_theater_045kar_common_005_045kar^えっ。|system_theater_046rio_common_005_046rio^えぇっ？|system_theater_047sub_common_005_047sub^わわ！|system_theater_048rei_common_005_048rei^へー。|system_theater_049mom_common_005_049mom^えっ？|system_theater_050jul_common_005_050jul^わっ！？|system_theater_051tmg_common_005_051tmg^えっ。|system_theater_052kao_common_005_052kao^ええっ！？|system_theater_001har_common_006_001har^えっ？|system_theater_002chi_common_006_002chi^それは…？|system_theater_003mik_common_006_003mik^やっ！|system_theater_004yuk_common_006_004yuk^ううっ。|system_theater_005yay_common_006_005yay^すごいですー！|system_theater_006mak_common_006_006mak^え～っ？|system_theater_007ior_common_006_007ior^きゃっ！|system_theater_008tak_common_006_008tak^まぁ……！|system_theater_009rit_common_006_009rit^ひゃ～……。|system_theater_010azu_common_006_010azu^あらあら。|system_theater_011ami_common_006_011ami^うえっっ！？|system_theater_012mam_common_006_012mam^ガーン！|system_theater_013hib_common_006_013hib^うぎゃーっ！|system_theater_014mir_common_006_014mir^うわぁ～！|system_theater_015siz_common_006_015siz^わ！|system_theater_016tsu_common_006_016tsu^ウソっ！|system_theater_018ele_common_006_018ele^ワオ！|system_theater_019min_common_006_019min^きゃあっ！？|system_theater_020meg_common_006_020meg^はあっ！？|system_theater_021mat_common_006_021mat^わ！|system_theater_022ser_common_006_022ser^うわぁ……！|system_theater_023aka_common_006_023aka^おおー！|system_theater_024ann_common_006_024ann^え、……っと……。|system_theater_025roc_common_006_025roc^ひゃっ！|system_theater_026yur_common_006_026yur^きゃあっ！？|system_theater_027say_common_006_027say^まさか！|system_theater_028ari_common_006_028ari^ふぁっ！|system_theater_029umi_common_006_029umi^え～っ！？|system_theater_030iku_common_006_030iku^ひゃっ！|system_theater_031tom_common_006_031tom^まぁ～♪|system_theater_032emi_common_006_032emi^まぁ……。|system_theater_033sih_common_006_033sih^へえ……！|system_theater_034ayu_common_006_034ayu^オーマイ、ガーッ！！|system_theater_035hin_common_006_035hin^わあっ！|system_theater_036kan_common_006_036kan^ええーっ！？|system_theater_037nao_common_006_037nao^うわっ！？|system_theater_038chz_common_006_038chz^まあっ！？|system_theater_039kon_common_006_039kon^きゃっ！|system_theater_040tam_common_006_040tam^へー！|system_theater_041fuk_common_006_041fuk^ひゃぁっ！？|system_theater_042miy_common_006_042miy^へ～。|system_theater_043nor_common_006_043nor^ええっ！？|system_theater_044miz_common_006_044miz^おー。|system_theater_045kar_common_006_045kar^そんな……！|system_theater_046rio_common_006_046rio^えーっ！？|system_theater_047sub_common_006_047sub^うあっ！？|system_theater_048rei_common_006_048rei^わ～。|system_theater_049mom_common_006_049mom^ふーん。|system_theater_050jul_common_006_050jul^へ！？|system_theater_051tmg_common_006_051tmg^はっ！？|system_theater_052kao_common_006_052kao^まあ！|system_theater_001har_common_007_001har^ふんふん？|system_theater_002chi_common_007_002chi^そうなの。|system_theater_003mik_common_007_003mik^ふーん。|system_theater_004yuk_common_007_004yuk^ふんふん。|system_theater_005yay_common_007_005yay^はーい！|system_theater_006mak_common_007_006mak^へえ～。|system_theater_007ior_common_007_007ior^ふーん。|system_theater_008tak_common_007_008tak^はい。|system_theater_009rit_common_007_009rit^ええ。|system_theater_010azu_common_007_010azu^はい。|system_theater_011ami_common_007_011ami^ふむふむ。|system_theater_012mam_common_007_012mam^うんうん！|system_theater_013hib_common_007_013hib^ふんふんっ。|system_theater_014mir_common_007_014mir^うんうん。|system_theater_015siz_common_007_015siz^そうなの？|system_theater_016tsu_common_007_016tsu^うんうん。|system_theater_018ele_common_007_018ele^そうだネっ！|system_theater_019min_common_007_019min^うんうん。|system_theater_020meg_common_007_020meg^へー。|system_theater_021mat_common_007_021mat^ふむふむ。|system_theater_022ser_common_007_022ser^はい！|system_theater_023aka_common_007_023aka^そうそう！|system_theater_024ann_common_007_024ann^うん。|system_theater_025roc_common_007_025roc^イエスです！|system_theater_026yur_common_007_026yur^ふんふん。|system_theater_027say_common_007_027say^うんうん♪|system_theater_028ari_common_007_028ari^ふむふむ。|system_theater_029umi_common_007_029umi^あー！|system_theater_030iku_common_007_030iku^うん。|system_theater_031tom_common_007_031tom^そうですか～。|system_theater_032emi_common_007_032emi^ええ。|system_theater_033sih_common_007_033sih^はい。|system_theater_034ayu_common_007_034ayu^あるある！|system_theater_035hin_common_007_035hin^うんうん。|system_theater_036kan_common_007_036kan^ふんふん。|system_theater_037nao_common_007_037nao^はーい。|system_theater_038chz_common_007_038chz^なるほど！|system_theater_039kon_common_007_039kon^うん。|system_theater_040tam_common_007_040tam^わかった！|system_theater_041fuk_common_007_041fuk^そうね♪|system_theater_042miy_common_007_042miy^はい～。|system_theater_043nor_common_007_043nor^そっかー。|system_theater_044miz_common_007_044miz^ええ。|system_theater_045kar_common_007_045kar^はい。|system_theater_046rio_common_007_046rio^そうね。|system_theater_047sub_common_007_047sub^だよなー。|system_theater_048rei_common_007_048rei^うんうん！|system_theater_049mom_common_007_049mom^うん。|system_theater_050jul_common_007_050jul^ああ。|system_theater_051tmg_common_007_051tmg^そうでしたか。|system_theater_052kao_common_007_052kao^ええ。|system_theater_001har_common_008_001har^そうなんだ？|system_theater_002chi_common_008_002chi^そうね。|system_theater_003mik_common_008_003mik^そーなんだ？|system_theater_004yuk_common_008_004yuk^そうなんだぁ。|system_theater_005yay_common_008_005yay^うんっ！|system_theater_006mak_common_008_006mak^そうだよね～。|system_theater_007ior_common_008_007ior^へぇ、そうなの。|system_theater_008tak_common_008_008tak^そのようです。|system_theater_009rit_common_008_009rit^なるほど～。|system_theater_010azu_common_008_010azu^ええ。|system_theater_011ami_common_008_011ami^そっかー。|system_theater_012mam_common_008_012mam^だよねー。|system_theater_013hib_common_008_013hib^そっか～。|system_theater_014mir_common_008_014mir^へぇ～。|system_theater_015siz_common_008_015siz^なるほど……。|system_theater_016tsu_common_008_016tsu^ふ～ん。|system_theater_018ele_common_008_018ele^うんうん。|system_theater_019min_common_008_019min^へえ～！|system_theater_020meg_common_008_020meg^そだね。|system_theater_021mat_common_008_021mat^なのです？|system_theater_022ser_common_008_022ser^ふむふむ……。|system_theater_023aka_common_008_023aka^うんうん！|system_theater_024ann_common_008_024ann^ん……。|system_theater_025roc_common_008_025roc^アンダースタンドです！|system_theater_026yur_common_008_026yur^ですよね。|system_theater_027say_common_008_027say^なるほど！|system_theater_028ari_common_008_028ari^了解です！|system_theater_029umi_common_008_029umi^ふ～ん？|system_theater_030iku_common_008_030iku^はーい。|system_theater_031tom_common_008_031tom^はい～♪|system_theater_032emi_common_008_032emi^なるほど。|system_theater_033sih_common_008_033sih^へぇ……。|system_theater_034ayu_common_008_034ayu^へ～。|system_theater_035hin_common_008_035hin^へえ……。|system_theater_036kan_common_008_036kan^へえ～！|system_theater_037nao_common_008_037nao^せやなー。|system_theater_038chz_common_008_038chz^はあ……。|system_theater_039kon_common_008_039kon^なるほど。|system_theater_040tam_common_008_040tam^そーだね！|system_theater_041fuk_common_008_041fuk^いいかも！|system_theater_042miy_common_008_042miy^ほ～。|system_theater_043nor_common_008_043nor^へえ～！|system_theater_044miz_common_008_044miz^そうですか。|system_theater_045kar_common_008_045kar^なるほど。|system_theater_046rio_common_008_046rio^ふぅん……。|system_theater_047sub_common_008_047sub^ああ！|system_theater_048rei_common_008_048rei^わかる！|system_theater_049mom_common_008_049mom^そうだよ。|system_theater_050jul_common_008_050jul^うん。|system_theater_051tmg_common_008_051tmg^はあ。|system_theater_052kao_common_008_052kao^そうですね。|system_theater_001har_common_009_001har^そうだよね～。|system_theater_002chi_common_009_002chi^ええ。|system_theater_003mik_common_009_003mik^わかったの。|system_theater_004yuk_common_009_004yuk^へぇぇ……。|system_theater_005yay_common_009_005yay^へ～！|system_theater_006mak_common_009_006mak^うんうんっ。|system_theater_007ior_common_009_007ior^まあ、そうよね～。|system_theater_008tak_common_009_008tak^わかります。|system_theater_009rit_common_009_009rit^そうですね！|system_theater_010azu_common_009_010azu^そうですね～。|system_theater_011ami_common_009_011ami^そんでそんで？|system_theater_012mam_common_009_012mam^そうなんだー。|system_theater_013hib_common_009_013hib^そうだよね！|system_theater_014mir_common_009_014mir^そっかぁ！|system_theater_015siz_common_009_015siz^ふうん。|system_theater_016tsu_common_009_016tsu^オッケー♪|system_theater_018ele_common_009_018ele^そっか～！|system_theater_019min_common_009_019min^そうなんですか！|system_theater_020meg_common_009_020meg^なるほどねー。|system_theater_021mat_common_009_021mat^そうなのです！|system_theater_022ser_common_009_022ser^そうなんですね！|system_theater_023aka_common_009_023aka^そのとーり！|system_theater_024ann_common_009_024ann^そう……なんだ……。|system_theater_025roc_common_009_025roc^オフコースです！|system_theater_026yur_common_009_026yur^なるほど……。|system_theater_027say_common_009_027say^そうだねっ！|system_theater_028ari_common_009_028ari^そうなんですねー。|system_theater_029umi_common_009_029umi^よしっ！|system_theater_030iku_common_009_030iku^そうだよ。|system_theater_031tom_common_009_031tom^そうですね～。|system_theater_032emi_common_009_032emi^そうなんですね。|system_theater_033sih_common_009_033sih^そうですか。|system_theater_034ayu_common_009_034ayu^わかったよ！|system_theater_035hin_common_009_035hin^そうなんだあ……。|system_theater_036kan_common_009_036kan^ふうん。|system_theater_037nao_common_009_037nao^ふむふむ。|system_theater_038chz_common_009_038chz^そ、そうですわね！|system_theater_039kon_common_009_039kon^そうね。|system_theater_040tam_common_009_040tam^うん！|system_theater_041fuk_common_009_041fuk^やったぁ♪|system_theater_042miy_common_009_042miy^わかりましたよ～。|system_theater_043nor_common_009_043nor^そうなんだ！|system_theater_044miz_common_009_044miz^なるほど。|system_theater_045kar_common_009_045kar^そうなんですか。|system_theater_046rio_common_009_046rio^あら、そうなの。|system_theater_047sub_common_009_047sub^そうそう！|system_theater_048rei_common_009_048rei^そうだね～！|system_theater_049mom_common_009_049mom^はいはい。|system_theater_050jul_common_009_050jul^だな。|system_theater_051tmg_common_009_051tmg^わかります。|system_theater_052kao_common_009_052kao^はい。|system_theater_001har_common_010_001har^ふふっ……うふふっ！|system_theater_002chi_common_010_002chi^ふっ…ふふふっ。|system_theater_003mik_common_010_003mik^ふふふーん♪|system_theater_004yuk_common_010_004yuk^……ふふふっ。|system_theater_005yay_common_010_005yay^トクトク～♪　タイムセール～♪|system_theater_006mak_common_010_006mak^えっへへへ…♪|system_theater_007ior_common_010_007ior^ふんふんふん～♪|system_theater_008tak_common_010_008tak^ふふっ。|system_theater_009rit_common_010_009rit^ふふん♪|system_theater_010azu_common_010_010azu^ふふっ……ふふふっ♪|system_theater_011ami_common_010_011ami^ふんふふんふんふ～ん♪|system_theater_012mam_common_010_012mam^……ふふっ。|system_theater_013hib_common_010_013hib^ふふっ…えへへへ～♪|system_theater_014mir_common_010_014mir^でへへ……。|system_theater_015siz_common_010_015siz^ぷっ、くすくす。|system_theater_016tsu_common_010_016tsu^ふふふ～ん♪　えへへ♪|system_theater_018ele_common_010_018ele^イヒヒ♪|system_theater_019min_common_010_019min^わっほっほーいっと。|system_theater_020meg_common_010_020meg^ふんふふふーん……♪|system_theater_021mat_common_010_021mat^わんだほー♪|system_theater_022ser_common_010_022ser^えへへ……♪|system_theater_023aka_common_010_023aka^ぬふふふっ…♪|system_theater_024ann_common_010_024ann^あ……ふふっ。|system_theater_025roc_common_010_025roc^テーマをもう少し……んん……。|system_theater_026yur_common_010_026yur^……ふふっ。|system_theater_027say_common_010_027say^……ふふっ。|system_theater_028ari_common_010_028ari^ふんふんふーん♪|system_theater_029umi_common_010_029umi^ふん、ふんふふっふんふん♪|system_theater_030iku_common_010_030iku^あれって……ふふっ。|system_theater_031tom_common_010_031tom^うふふっ………。|system_theater_032emi_common_010_032emi^ふふっ♪|system_theater_033sih_common_010_033sih^ふふっ……。|system_theater_034ayu_common_010_034ayu^へへっ♪　グッジョブ、アタシっ！！|system_theater_035hin_common_010_035hin^……えへへ。|system_theater_036kan_common_010_036kan^ふんふんふふ～ん♪　ふ～んふふ～ん♪|system_theater_037nao_common_010_037nao^ふんふんふーん♪|system_theater_038chz_common_010_038chz^ふんふふふっふんふん……♪|system_theater_039kon_common_010_039kon^……フフフッ。|system_theater_040tam_common_010_040tam^ふんふふーん♪|system_theater_041fuk_common_010_041fuk^ふんっ、ふふん♪|system_theater_042miy_common_010_042miy^あれをああして、これをこうして～♪|system_theater_043nor_common_010_043nor^ぷふっ……！|system_theater_044miz_common_010_044miz^あのクロスワードの答えは……。|system_theater_045kar_common_010_045kar^……くすっ。|system_theater_046rio_common_010_046rio^……ウフフ♪|system_theater_047sub_common_010_047sub^ふんふっふふーん、ふんふんふん♪|system_theater_048rei_common_010_048rei^さんぼわさんぼ、和三盆～♪|system_theater_049mom_common_010_049mom^……ふふっ。|system_theater_050jul_common_010_050jul^お……はは。|system_theater_051tmg_common_010_051tmg^まったくもう……。|system_theater_052kao_common_010_052kao^ふふふっ……♪|system_theater_001har_common_011_001har^ふぅ～。|system_theater_002chi_common_011_002chi^ふぅ……。|system_theater_003mik_common_011_003mik^あ…、ふぅ…。|system_theater_004yuk_common_011_004yuk^よいしょ、よいしょ……。|system_theater_005yay_common_011_005yay^よいしょっ、よいしょ！|system_theater_006mak_common_011_006mak^てぃりゃぁ～っ！！|system_theater_007ior_common_011_007ior^スーパーアイドル伊織ちゃん～♪|system_theater_008tak_common_011_008tak^ふう…。それっ。|system_theater_009rit_common_011_009rit^よし、いい感じね。|system_theater_010azu_common_011_010azu^よいしょ、よいしょっと……。|system_theater_011ami_common_011_011ami^うりゃー！|system_theater_012mam_common_011_012mam^どりゃー！|system_theater_013hib_common_011_013hib^自分に任せて！|system_theater_014mir_common_011_014mir^ふんふんふふ～ん♪　ふんふんふ～ん♪|system_theater_015siz_common_011_015siz^……ふんふん……ふ～ん……♪|system_theater_016tsu_common_011_016tsu^よいしょ、っと。|system_theater_018ele_common_011_018ele^ふんふふふーん♪|system_theater_019min_common_011_019min^ふんふんふーん♪|system_theater_020meg_common_011_020meg^よいしょ……っと。|system_theater_021mat_common_011_021mat^ルミルミルミルミルミ……♪|system_theater_022ser_common_011_022ser^うんしょ、よいしょ……。|system_theater_023aka_common_011_023aka^にゃにゃ～にゃにゃ～にゃにゃ～♪|system_theater_024ann_common_011_024ann^経験値、あがるかな……。|system_theater_025roc_common_011_025roc^よいしょ、よいしょ。|system_theater_026yur_common_011_026yur^ふぅ……。|system_theater_027say_common_011_027say^よいしょっ、と……。|system_theater_028ari_common_011_028ari^よいしょっと。|system_theater_029umi_common_011_029umi^よーし、やるよ～っ！！|system_theater_030iku_common_011_030iku^よいしょ、よいしょ。|system_theater_031tom_common_011_031tom^ふんふふ～♪　ふんふふ～ん♪|system_theater_032emi_common_011_032emi^よいせっ。|system_theater_033sih_common_011_033sih^よいしょ。|system_theater_034ayu_common_011_034ayu^よいしょ……っと！！|system_theater_035hin_common_011_035hin^んしょ、んしょ。|system_theater_036kan_common_011_036kan^るんるんる～ん♪　らんらんら～ん♪|system_theater_037nao_common_011_037nao^ざっと、こんなもんやろ！|system_theater_038chz_common_011_038chz^よいしょっ。|system_theater_039kon_common_011_039kon^ふぅ……。この次は……。|system_theater_040tam_common_011_040tam^よいしょ、よいしょ。|system_theater_041fuk_common_011_041fuk^ええと、次は……。|system_theater_042miy_common_011_042miy^むふふ、いい感じですな～。|system_theater_043nor_common_011_043nor^ふんふんふーん♪|system_theater_044miz_common_011_044miz^ふぅ……。|system_theater_045kar_common_011_045kar^ふんふーん♪|system_theater_046rio_common_011_046rio^これも、ある種の自分磨きよね♪|system_theater_047sub_common_011_047sub^ファイト、ぜんか～い！|system_theater_048rei_common_011_048rei^ぷっぷか、ぷっぷか、ぷっぷかぷ～♪|system_theater_049mom_common_011_049mom^よいしょ……っと。|system_theater_050jul_common_011_050jul^ふう……ざっとこんなモンか。|system_theater_051tmg_common_011_051tmg^よいしょっ……と。|system_theater_052kao_common_011_052kao^さて、次は……。|system_theater_001har_contact_001_1_001har^～♪　…あ、
+私服、選んでいただきたくて。|system_theater_001har_common_001_001har^えへへっ♪|system_theater_002chi_common_001_002chi^ふふっ。|system_theater_003mik_common_001_003mik^あはっ☆|system_theater_004yuk_common_001_004yuk^えへへっ。|system_theater_005yay_common_001_005yay^えへっ♪|system_theater_006mak_common_001_006mak^へへっ♪|system_theater_007ior_common_001_007ior^うふふっ！|system_theater_008tak_common_001_008tak^ふふっ。|system_theater_009rit_common_001_009rit^ふふっ♪|system_theater_010azu_common_001_010azu^ふふっ。|system_theater_011ami_common_001_011ami^あははっ！|system_theater_012mam_common_001_012mam^フォッフォッフォ～♪|system_theater_013hib_common_001_013hib^あははっ！|system_theater_014mir_common_001_014mir^でへへ♪|system_theater_015siz_common_001_015siz^あはは……♪|system_theater_016tsu_common_001_016tsu^えへへ♪|system_theater_018ele_common_001_018ele^エヘヘ♪|system_theater_019min_common_001_019min^えへへ♪|system_theater_020meg_common_001_020meg^にゃはは♪|system_theater_021mat_common_001_021mat^ふふーん♪|system_theater_022ser_common_001_022ser^えへへ♪|system_theater_023aka_common_001_023aka^ニャハハ！|system_theater_024ann_common_001_024ann^呵呵……|system_theater_025roc_common_001_025roc^フフフ……。|system_theater_026yur_common_001_026yur^あはは。|system_theater_027say_common_001_027say^ふふっ♪|system_theater_028ari_common_001_028ari^ムフフ♪|system_theater_029umi_common_001_029umi^えへへ♪|system_theater_030iku_common_001_030iku^えへへ。|system_theater_031tom_common_001_031tom^うふふっ♪|system_theater_032emi_common_001_032emi^ふふっ。|system_theater_033sih_common_001_033sih^ふふ……。|system_theater_034ayu_common_001_034ayu^へへっ♪|system_theater_035hin_common_001_035hin^えへへ……。|system_theater_036kan_common_001_036kan^えへへ♪|system_theater_037nao_common_001_037nao^うぷぷっ。|system_theater_038chz_common_001_038chz^ふふっ♪|system_theater_039kon_common_001_039kon^フフッ。|system_theater_040tam_common_001_040tam^くふふ♪|system_theater_041fuk_common_001_041fuk^ふふっ♪|system_theater_042miy_common_001_042miy^むふふ。|system_theater_043nor_common_001_043nor^あはっ。|system_theater_044miz_common_001_044miz^ふふ。|system_theater_045kar_common_001_045kar^えへへ。|system_theater_046rio_common_001_046rio^ウフフ♪|system_theater_047sub_common_001_047sub^へへっ！|system_theater_048rei_common_001_048rei^ふふ♪|system_theater_049mom_common_001_049mom^えへへっ。|system_theater_050jul_common_001_050jul^ふっ……。|system_theater_051tmg_common_001_051tmg^くすっ…。|system_theater_052kao_common_001_052kao^ふふっ。|system_theater_001har_common_002_001har^あはっ！|system_theater_002chi_common_002_002chi^もう…。|system_theater_003mik_common_002_003mik^えへへ～。|system_theater_004yuk_common_002_004yuk^ふふ……。|system_theater_005yay_common_002_005yay^あはっ！|system_theater_006mak_common_002_006mak^えへへ～♪|system_theater_007ior_common_002_007ior^にひひっ♪|system_theater_008tak_common_002_008tak^ふふふふふふ……。|system_theater_009rit_common_002_009rit^あははは……。|system_theater_010azu_common_002_010azu^うふふ。|system_theater_011ami_common_002_011ami^んっふっふ～♪|system_theater_012mam_common_002_012mam^にゃは☆|system_theater_013hib_common_002_013hib^えへへ～。|system_theater_014mir_common_002_014mir^えへへへっ♪|system_theater_015siz_common_002_015siz^ふふっ。|system_theater_016tsu_common_002_016tsu^へへ～っ♪|system_theater_018ele_common_002_018ele^わぁ～♪|system_theater_019min_common_002_019min^ふふっ♪|system_theater_020meg_common_002_020meg^へへっ。|system_theater_021mat_common_002_021mat^くすくす。|system_theater_022ser_common_002_022ser^てへ。|system_theater_023aka_common_002_023aka^ふっふっふ！|system_theater_024ann_common_002_024ann^呵呵。|system_theater_025roc_common_002_025roc^えへへ。|system_theater_026yur_common_002_026yur^ふふっ。|system_theater_027say_common_002_027say^あはは♪|system_theater_028ari_common_002_028ari^えへへ……。|system_theater_029umi_common_002_029umi^あははっ☆|system_theater_030iku_common_002_030iku^ふふっ。|system_theater_031tom_common_002_031tom^うふっ♪|system_theater_032emi_common_002_032emi^うふふ♪|system_theater_033sih_common_002_033sih^くすっ。|system_theater_034ayu_common_002_034ayu^あははは！|system_theater_035hin_common_002_035hin^あはは。|system_theater_036kan_common_002_036kan^えへっ♪|system_theater_037nao_common_002_037nao^くくくっ。|system_theater_038chz_common_002_038chz^おほほほほ♪|system_theater_039kon_common_002_039kon^くすっ。|system_theater_040tam_common_002_040tam^あははっ！|system_theater_041fuk_common_002_041fuk^ふふふっ。|system_theater_042miy_common_002_042miy^ふふっ♪|system_theater_043nor_common_002_043nor^あははっ！|system_theater_044miz_common_002_044miz^フフフ。|system_theater_045kar_common_002_045kar^ふふっ。|system_theater_046rio_common_002_046rio^ウフッ。|system_theater_047sub_common_002_047sub^へへーっ♪|system_theater_048rei_common_002_048rei^ふふふ！|system_theater_049mom_common_002_049mom^ぷっ……。|system_theater_050jul_common_002_050jul^はは！|system_theater_051tmg_common_002_051tmg^ふふ。|system_theater_052kao_common_002_052kao^あははっ。|system_theater_001har_common_003_001har^ふふっ♪|system_theater_002chi_common_003_002chi^ぷっ、ふふふっ！|system_theater_003mik_common_003_003mik^ふふっ。|system_theater_004yuk_common_003_004yuk^えへ。|system_theater_005yay_common_003_005yay^えへへー♪|system_theater_006mak_common_003_006mak^あははははっ♪|system_theater_007ior_common_003_007ior^あははっ！|system_theater_008tak_common_003_008tak^ふふっ、うふふふっ！|system_theater_009rit_common_003_009rit^あはは！|system_theater_010azu_common_003_010azu^うふふふふっ♪|system_theater_011ami_common_003_011ami^フッフッフッ……。|system_theater_012mam_common_003_012mam^えへへっ♪|system_theater_013hib_common_003_013hib^ふふっ。|system_theater_014mir_common_003_014mir^あはははっ。|system_theater_015siz_common_003_015siz^くすくす……。|system_theater_016tsu_common_003_016tsu^あははっ♪|system_theater_018ele_common_003_018ele^アハッ♪|system_theater_019min_common_003_019min^あははっ！|system_theater_020meg_common_003_020meg^ぷっ……！|system_theater_021mat_common_003_021mat^わー♪|system_theater_022ser_common_003_022ser^ふふっ♪|system_theater_023aka_common_003_023aka^てへぺろ♪|system_theater_024ann_common_003_024ann^诶嘿嘿……|system_theater_025roc_common_003_025roc^ふふーん。|system_theater_026yur_common_003_026yur^えへへっ♪|system_theater_027say_common_003_027say^やったね！|system_theater_028ari_common_003_028ari^フフフ。|system_theater_029umi_common_003_029umi^あはははは！|system_theater_030iku_common_003_030iku^くすっ。|system_theater_031tom_common_003_031tom^うふふ～♪|system_theater_032emi_common_003_032emi^くすくす。|system_theater_033sih_common_003_033sih^ふふっ！|system_theater_034ayu_common_003_034ayu^ぷっ……あははは♪|system_theater_035hin_common_003_035hin^あははっ！|system_theater_036kan_common_003_036kan^あははっ！|system_theater_037nao_common_003_037nao^あはははっ。|system_theater_038chz_common_003_038chz^お～っほっほっほっ、けほ、えほっ！？|system_theater_039kon_common_003_039kon^あはは。|system_theater_040tam_common_003_040tam^えへへ。|system_theater_041fuk_common_003_041fuk^あはは♪|system_theater_042miy_common_003_042miy^えへへ……。|system_theater_043nor_common_003_043nor^えへへ…。|system_theater_044miz_common_003_044miz^クス。|system_theater_045kar_common_003_045kar^てへへ♪|system_theater_046rio_common_003_046rio^くすくす。|system_theater_047sub_common_003_047sub^あはは！|system_theater_048rei_common_003_048rei^えへへ♪|system_theater_049mom_common_003_049mom^ふふっ。|system_theater_050jul_common_003_050jul^ふふん♪|system_theater_051tmg_common_003_051tmg^うふふっ。|system_theater_052kao_common_003_052kao^くすくす。|system_theater_001har_common_004_001har^わっ！？|system_theater_002chi_common_004_002chi^えっ？|system_theater_003mik_common_004_003mik^えっ？|system_theater_004yuk_common_004_004yuk^ええっ！？|system_theater_005yay_common_004_005yay^えっ？|system_theater_006mak_common_004_006mak^ん？|system_theater_007ior_common_004_007ior^ひゃっ！|system_theater_008tak_common_004_008tak^なんと！|system_theater_009rit_common_004_009rit^えっ？|system_theater_010azu_common_004_010azu^ええっ！|system_theater_011ami_common_004_011ami^あうあう！|system_theater_012mam_common_004_012mam^うあうあ！|system_theater_013hib_common_004_013hib^えっ？|system_theater_014mir_common_004_014mir^へ？|system_theater_015siz_common_004_015siz^えっ。|system_theater_016tsu_common_004_016tsu^え？|system_theater_018ele_common_004_018ele^えっ？|system_theater_019min_common_004_019min^……えっ？|system_theater_020meg_common_004_020meg^は？|system_theater_021mat_common_004_021mat^ほ？|system_theater_022ser_common_004_022ser^わっ！|system_theater_023aka_common_004_023aka^わわっ！|system_theater_024ann_common_004_024ann^哇……！|system_theater_025roc_common_004_025roc^わぁっ！|system_theater_026yur_common_004_026yur^えぇっ！？|system_theater_027say_common_004_027say^えっ！？|system_theater_028ari_common_004_028ari^ええっ！？|system_theater_029umi_common_004_029umi^…あっ！？|system_theater_030iku_common_004_030iku^わぁ～。|system_theater_031tom_common_004_031tom^あら。|system_theater_032emi_common_004_032emi^Wow！|system_theater_033sih_common_004_033sih^っ……！|system_theater_034ayu_common_004_034ayu^うええっ！？|system_theater_035hin_common_004_035hin^へ？|system_theater_036kan_common_004_036kan^はれっ！？|system_theater_037nao_common_004_037nao^そうなん？|system_theater_038chz_common_004_038chz^はっ！？|system_theater_039kon_common_004_039kon^ええっ！？|system_theater_040tam_common_004_040tam^えっ！|system_theater_041fuk_common_004_041fuk^ひぇっ！？|system_theater_042miy_common_004_042miy^お～。|system_theater_043nor_common_004_043nor^へっ？|system_theater_044miz_common_004_044miz^なんと。|system_theater_045kar_common_004_045kar^きゃっ。|system_theater_046rio_common_004_046rio^あら？|system_theater_047sub_common_004_047sub^おわっ！？|system_theater_048rei_common_004_048rei^おおー。|system_theater_049mom_common_004_049mom^うっ！|system_theater_050jul_common_004_050jul^うわっ！|system_theater_051tmg_common_004_051tmg^っ……！？|system_theater_052kao_common_004_052kao^えっ。|system_theater_001har_common_005_001har^きゃっ！|system_theater_002chi_common_005_002chi^ええっ？|system_theater_003mik_common_005_003mik^それは驚いたの～。|system_theater_004yuk_common_005_004yuk^ひうっ！|system_theater_005yay_common_005_005yay^はわっ！？|system_theater_006mak_common_005_006mak^うわあっ！？|system_theater_007ior_common_005_007ior^え？|system_theater_008tak_common_005_008tak^面妖な……！|system_theater_009rit_common_005_009rit^うわぁっ！？|system_theater_010azu_common_005_010azu^まあ……！|system_theater_011ami_common_005_011ami^へ？|system_theater_012mam_common_005_012mam^え～っ！？|system_theater_013hib_common_005_013hib^そうなの？|system_theater_014mir_common_005_014mir^ええっ！？|system_theater_015siz_common_005_015siz^ちょっと！？|system_theater_016tsu_common_005_016tsu^わっ！|system_theater_018ele_common_005_018ele^ええ～っ！？|system_theater_019min_common_005_019min^わわっ！？|system_theater_020meg_common_005_020meg^ええっ！？|system_theater_021mat_common_005_021mat^ほ！？|system_theater_022ser_common_005_022ser^ええっ！？|system_theater_023aka_common_005_023aka^ニャ？|system_theater_024ann_common_005_024ann^诶……？|system_theater_025roc_common_005_025roc^えっ……。|system_theater_026yur_common_005_026yur^はい？|system_theater_027say_common_005_027say^どうしたの！？|system_theater_028ari_common_005_028ari^おおっ。|system_theater_029umi_common_005_029umi^ふえっ！？|system_theater_030iku_common_005_030iku^わっ……。|system_theater_031tom_common_005_031tom^あらあら。|system_theater_032emi_common_005_032emi^えっ！|system_theater_033sih_common_005_033sih^えぇ！？|system_theater_034ayu_common_005_034ayu^マイガー！？|system_theater_035hin_common_005_035hin^うひゃあっ！？|system_theater_036kan_common_005_036kan^わわっ！|system_theater_037nao_common_005_037nao^ホンマに？|system_theater_038chz_common_005_038chz^えええっ！？|system_theater_039kon_common_005_039kon^そんな！|system_theater_040tam_common_005_040tam^そーなんだ！|system_theater_041fuk_common_005_041fuk^きゃっ！？|system_theater_042miy_common_005_042miy^なんと～。|system_theater_043nor_common_005_043nor^わあっ！？|system_theater_044miz_common_005_044miz^それは。|system_theater_045kar_common_005_045kar^えっ。|system_theater_046rio_common_005_046rio^えぇっ？|system_theater_047sub_common_005_047sub^わわ！|system_theater_048rei_common_005_048rei^へー。|system_theater_049mom_common_005_049mom^えっ？|system_theater_050jul_common_005_050jul^わっ！？|system_theater_051tmg_common_005_051tmg^えっ。|system_theater_052kao_common_005_052kao^ええっ！？|system_theater_001har_common_006_001har^えっ？|system_theater_002chi_common_006_002chi^それは…？|system_theater_003mik_common_006_003mik^やっ！|system_theater_004yuk_common_006_004yuk^ううっ。|system_theater_005yay_common_006_005yay^すごいですー！|system_theater_006mak_common_006_006mak^え～っ？|system_theater_007ior_common_006_007ior^きゃっ！|system_theater_008tak_common_006_008tak^まぁ……！|system_theater_009rit_common_006_009rit^ひゃ～……。|system_theater_010azu_common_006_010azu^あらあら。|system_theater_011ami_common_006_011ami^うえっっ！？|system_theater_012mam_common_006_012mam^ガーン！|system_theater_013hib_common_006_013hib^うぎゃーっ！|system_theater_014mir_common_006_014mir^うわぁ～！|system_theater_015siz_common_006_015siz^わ！|system_theater_016tsu_common_006_016tsu^ウソっ！|system_theater_018ele_common_006_018ele^ワオ！|system_theater_019min_common_006_019min^きゃあっ！？|system_theater_020meg_common_006_020meg^はあっ！？|system_theater_021mat_common_006_021mat^わ！|system_theater_022ser_common_006_022ser^うわぁ……！|system_theater_023aka_common_006_023aka^おおー！|system_theater_024ann_common_006_024ann^嗯……|system_theater_025roc_common_006_025roc^ひゃっ！|system_theater_026yur_common_006_026yur^きゃあっ！？|system_theater_027say_common_006_027say^まさか！|system_theater_028ari_common_006_028ari^ふぁっ！|system_theater_029umi_common_006_029umi^え～っ！？|system_theater_030iku_common_006_030iku^ひゃっ！|system_theater_031tom_common_006_031tom^まぁ～♪|system_theater_032emi_common_006_032emi^まぁ……。|system_theater_033sih_common_006_033sih^へえ……！|system_theater_034ayu_common_006_034ayu^オーマイ、ガーッ！！|system_theater_035hin_common_006_035hin^わあっ！|system_theater_036kan_common_006_036kan^ええーっ！？|system_theater_037nao_common_006_037nao^うわっ！？|system_theater_038chz_common_006_038chz^まあっ！？|system_theater_039kon_common_006_039kon^きゃっ！|system_theater_040tam_common_006_040tam^へー！|system_theater_041fuk_common_006_041fuk^ひゃぁっ！？|system_theater_042miy_common_006_042miy^へ～。|system_theater_043nor_common_006_043nor^ええっ！？|system_theater_044miz_common_006_044miz^おー。|system_theater_045kar_common_006_045kar^そんな……！|system_theater_046rio_common_006_046rio^えーっ！？|system_theater_047sub_common_006_047sub^うあっ！？|system_theater_048rei_common_006_048rei^わ～。|system_theater_049mom_common_006_049mom^ふーん。|system_theater_050jul_common_006_050jul^へ！？|system_theater_051tmg_common_006_051tmg^はっ！？|system_theater_052kao_common_006_052kao^まあ！|system_theater_001har_common_007_001har^ふんふん？|system_theater_002chi_common_007_002chi^そうなの。|system_theater_003mik_common_007_003mik^ふーん。|system_theater_004yuk_common_007_004yuk^ふんふん。|system_theater_005yay_common_007_005yay^はーい！|system_theater_006mak_common_007_006mak^へえ～。|system_theater_007ior_common_007_007ior^ふーん。|system_theater_008tak_common_007_008tak^はい。|system_theater_009rit_common_007_009rit^ええ。|system_theater_010azu_common_007_010azu^はい。|system_theater_011ami_common_007_011ami^ふむふむ。|system_theater_012mam_common_007_012mam^うんうん！|system_theater_013hib_common_007_013hib^ふんふんっ。|system_theater_014mir_common_007_014mir^うんうん。|system_theater_015siz_common_007_015siz^そうなの？|system_theater_016tsu_common_007_016tsu^うんうん。|system_theater_018ele_common_007_018ele^そうだネっ！|system_theater_019min_common_007_019min^うんうん。|system_theater_020meg_common_007_020meg^へー。|system_theater_021mat_common_007_021mat^ふむふむ。|system_theater_022ser_common_007_022ser^はい！|system_theater_023aka_common_007_023aka^そうそう！|system_theater_024ann_common_007_024ann^嗯。|system_theater_025roc_common_007_025roc^イエスです！|system_theater_026yur_common_007_026yur^ふんふん。|system_theater_027say_common_007_027say^うんうん♪|system_theater_028ari_common_007_028ari^ふむふむ。|system_theater_029umi_common_007_029umi^あー！|system_theater_030iku_common_007_030iku^うん。|system_theater_031tom_common_007_031tom^そうですか～。|system_theater_032emi_common_007_032emi^ええ。|system_theater_033sih_common_007_033sih^はい。|system_theater_034ayu_common_007_034ayu^あるある！|system_theater_035hin_common_007_035hin^うんうん。|system_theater_036kan_common_007_036kan^ふんふん。|system_theater_037nao_common_007_037nao^はーい。|system_theater_038chz_common_007_038chz^なるほど！|system_theater_039kon_common_007_039kon^うん。|system_theater_040tam_common_007_040tam^わかった！|system_theater_041fuk_common_007_041fuk^そうね♪|system_theater_042miy_common_007_042miy^はい～。|system_theater_043nor_common_007_043nor^そっかー。|system_theater_044miz_common_007_044miz^ええ。|system_theater_045kar_common_007_045kar^はい。|system_theater_046rio_common_007_046rio^そうね。|system_theater_047sub_common_007_047sub^だよなー。|system_theater_048rei_common_007_048rei^うんうん！|system_theater_049mom_common_007_049mom^うん。|system_theater_050jul_common_007_050jul^ああ。|system_theater_051tmg_common_007_051tmg^そうでしたか。|system_theater_052kao_common_007_052kao^ええ。|system_theater_001har_common_008_001har^そうなんだ？|system_theater_002chi_common_008_002chi^そうね。|system_theater_003mik_common_008_003mik^そーなんだ？|system_theater_004yuk_common_008_004yuk^そうなんだぁ。|system_theater_005yay_common_008_005yay^うんっ！|system_theater_006mak_common_008_006mak^そうだよね～。|system_theater_007ior_common_008_007ior^へぇ、そうなの。|system_theater_008tak_common_008_008tak^そのようです。|system_theater_009rit_common_008_009rit^なるほど～。|system_theater_010azu_common_008_010azu^ええ。|system_theater_011ami_common_008_011ami^そっかー。|system_theater_012mam_common_008_012mam^だよねー。|system_theater_013hib_common_008_013hib^そっか～。|system_theater_014mir_common_008_014mir^へぇ～。|system_theater_015siz_common_008_015siz^なるほど……。|system_theater_016tsu_common_008_016tsu^ふ～ん。|system_theater_018ele_common_008_018ele^うんうん。|system_theater_019min_common_008_019min^へえ～！|system_theater_020meg_common_008_020meg^そだね。|system_theater_021mat_common_008_021mat^なのです？|system_theater_022ser_common_008_022ser^ふむふむ……。|system_theater_023aka_common_008_023aka^うんうん！|system_theater_024ann_common_008_024ann^嗯……|system_theater_025roc_common_008_025roc^アンダースタンドです！|system_theater_026yur_common_008_026yur^ですよね。|system_theater_027say_common_008_027say^なるほど！|system_theater_028ari_common_008_028ari^了解です！|system_theater_029umi_common_008_029umi^ふ～ん？|system_theater_030iku_common_008_030iku^はーい。|system_theater_031tom_common_008_031tom^はい～♪|system_theater_032emi_common_008_032emi^なるほど。|system_theater_033sih_common_008_033sih^へぇ……。|system_theater_034ayu_common_008_034ayu^へ～。|system_theater_035hin_common_008_035hin^へえ……。|system_theater_036kan_common_008_036kan^へえ～！|system_theater_037nao_common_008_037nao^せやなー。|system_theater_038chz_common_008_038chz^はあ……。|system_theater_039kon_common_008_039kon^なるほど。|system_theater_040tam_common_008_040tam^そーだね！|system_theater_041fuk_common_008_041fuk^いいかも！|system_theater_042miy_common_008_042miy^ほ～。|system_theater_043nor_common_008_043nor^へえ～！|system_theater_044miz_common_008_044miz^そうですか。|system_theater_045kar_common_008_045kar^なるほど。|system_theater_046rio_common_008_046rio^ふぅん……。|system_theater_047sub_common_008_047sub^ああ！|system_theater_048rei_common_008_048rei^わかる！|system_theater_049mom_common_008_049mom^そうだよ。|system_theater_050jul_common_008_050jul^うん。|system_theater_051tmg_common_008_051tmg^はあ。|system_theater_052kao_common_008_052kao^そうですね。|system_theater_001har_common_009_001har^そうだよね～。|system_theater_002chi_common_009_002chi^ええ。|system_theater_003mik_common_009_003mik^わかったの。|system_theater_004yuk_common_009_004yuk^へぇぇ……。|system_theater_005yay_common_009_005yay^へ～！|system_theater_006mak_common_009_006mak^うんうんっ。|system_theater_007ior_common_009_007ior^まあ、そうよね～。|system_theater_008tak_common_009_008tak^わかります。|system_theater_009rit_common_009_009rit^そうですね！|system_theater_010azu_common_009_010azu^そうですね～。|system_theater_011ami_common_009_011ami^そんでそんで？|system_theater_012mam_common_009_012mam^そうなんだー。|system_theater_013hib_common_009_013hib^そうだよね！|system_theater_014mir_common_009_014mir^そっかぁ！|system_theater_015siz_common_009_015siz^ふうん。|system_theater_016tsu_common_009_016tsu^オッケー♪|system_theater_018ele_common_009_018ele^そっか～！|system_theater_019min_common_009_019min^そうなんですか！|system_theater_020meg_common_009_020meg^なるほどねー。|system_theater_021mat_common_009_021mat^そうなのです！|system_theater_022ser_common_009_022ser^そうなんですね！|system_theater_023aka_common_009_023aka^そのとーり！|system_theater_024ann_common_009_024ann^原来……如此……|system_theater_025roc_common_009_025roc^オフコースです！|system_theater_026yur_common_009_026yur^なるほど……。|system_theater_027say_common_009_027say^そうだねっ！|system_theater_028ari_common_009_028ari^そうなんですねー。|system_theater_029umi_common_009_029umi^よしっ！|system_theater_030iku_common_009_030iku^そうだよ。|system_theater_031tom_common_009_031tom^そうですね～。|system_theater_032emi_common_009_032emi^そうなんですね。|system_theater_033sih_common_009_033sih^そうですか。|system_theater_034ayu_common_009_034ayu^わかったよ！|system_theater_035hin_common_009_035hin^そうなんだあ……。|system_theater_036kan_common_009_036kan^ふうん。|system_theater_037nao_common_009_037nao^ふむふむ。|system_theater_038chz_common_009_038chz^そ、そうですわね！|system_theater_039kon_common_009_039kon^そうね。|system_theater_040tam_common_009_040tam^うん！|system_theater_041fuk_common_009_041fuk^やったぁ♪|system_theater_042miy_common_009_042miy^わかりましたよ～。|system_theater_043nor_common_009_043nor^そうなんだ！|system_theater_044miz_common_009_044miz^なるほど。|system_theater_045kar_common_009_045kar^そうなんですか。|system_theater_046rio_common_009_046rio^あら、そうなの。|system_theater_047sub_common_009_047sub^そうそう！|system_theater_048rei_common_009_048rei^そうだね～！|system_theater_049mom_common_009_049mom^はいはい。|system_theater_050jul_common_009_050jul^だな。|system_theater_051tmg_common_009_051tmg^わかります。|system_theater_052kao_common_009_052kao^はい。|system_theater_001har_common_010_001har^ふふっ……うふふっ！|system_theater_002chi_common_010_002chi^ふっ…ふふふっ。|system_theater_003mik_common_010_003mik^ふふふーん♪|system_theater_004yuk_common_010_004yuk^……ふふふっ。|system_theater_005yay_common_010_005yay^トクトク～♪　タイムセール～♪|system_theater_006mak_common_010_006mak^えっへへへ…♪|system_theater_007ior_common_010_007ior^ふんふんふん～♪|system_theater_008tak_common_010_008tak^ふふっ。|system_theater_009rit_common_010_009rit^ふふん♪|system_theater_010azu_common_010_010azu^ふふっ……ふふふっ♪|system_theater_011ami_common_010_011ami^ふんふふんふんふ～ん♪|system_theater_012mam_common_010_012mam^……ふふっ。|system_theater_013hib_common_010_013hib^ふふっ…えへへへ～♪|system_theater_014mir_common_010_014mir^でへへ……。|system_theater_015siz_common_010_015siz^ぷっ、くすくす。|system_theater_016tsu_common_010_016tsu^ふふふ～ん♪　えへへ♪|system_theater_018ele_common_010_018ele^イヒヒ♪|system_theater_019min_common_010_019min^わっほっほーいっと。|system_theater_020meg_common_010_020meg^ふんふふふーん……♪|system_theater_021mat_common_010_021mat^わんだほー♪|system_theater_022ser_common_010_022ser^えへへ……♪|system_theater_023aka_common_010_023aka^ぬふふふっ…♪|system_theater_024ann_common_010_024ann^啊……呵呵。|system_theater_025roc_common_010_025roc^テーマをもう少し……んん……。|system_theater_026yur_common_010_026yur^……ふふっ。|system_theater_027say_common_010_027say^……ふふっ。|system_theater_028ari_common_010_028ari^ふんふんふーん♪|system_theater_029umi_common_010_029umi^ふん、ふんふふっふんふん♪|system_theater_030iku_common_010_030iku^あれって……ふふっ。|system_theater_031tom_common_010_031tom^うふふっ………。|system_theater_032emi_common_010_032emi^ふふっ♪|system_theater_033sih_common_010_033sih^ふふっ……。|system_theater_034ayu_common_010_034ayu^へへっ♪　グッジョブ、アタシっ！！|system_theater_035hin_common_010_035hin^……えへへ。|system_theater_036kan_common_010_036kan^ふんふんふふ～ん♪　ふ～んふふ～ん♪|system_theater_037nao_common_010_037nao^ふんふんふーん♪|system_theater_038chz_common_010_038chz^ふんふふふっふんふん……♪|system_theater_039kon_common_010_039kon^……フフフッ。|system_theater_040tam_common_010_040tam^ふんふふーん♪|system_theater_041fuk_common_010_041fuk^ふんっ、ふふん♪|system_theater_042miy_common_010_042miy^あれをああして、これをこうして～♪|system_theater_043nor_common_010_043nor^ぷふっ……！|system_theater_044miz_common_010_044miz^あのクロスワードの答えは……。|system_theater_045kar_common_010_045kar^……くすっ。|system_theater_046rio_common_010_046rio^……ウフフ♪|system_theater_047sub_common_010_047sub^ふんふっふふーん、ふんふんふん♪|system_theater_048rei_common_010_048rei^さんぼわさんぼ、和三盆～♪|system_theater_049mom_common_010_049mom^……ふふっ。|system_theater_050jul_common_010_050jul^お……はは。|system_theater_051tmg_common_010_051tmg^まったくもう……。|system_theater_052kao_common_010_052kao^ふふふっ……♪|system_theater_001har_common_011_001har^ふぅ～。|system_theater_002chi_common_011_002chi^ふぅ……。|system_theater_003mik_common_011_003mik^あ…、ふぅ…。|system_theater_004yuk_common_011_004yuk^よいしょ、よいしょ……。|system_theater_005yay_common_011_005yay^よいしょっ、よいしょ！|system_theater_006mak_common_011_006mak^てぃりゃぁ～っ！！|system_theater_007ior_common_011_007ior^スーパーアイドル伊織ちゃん～♪|system_theater_008tak_common_011_008tak^ふう…。それっ。|system_theater_009rit_common_011_009rit^よし、いい感じね。|system_theater_010azu_common_011_010azu^よいしょ、よいしょっと……。|system_theater_011ami_common_011_011ami^うりゃー！|system_theater_012mam_common_011_012mam^どりゃー！|system_theater_013hib_common_011_013hib^自分に任せて！|system_theater_014mir_common_011_014mir^ふんふんふふ～ん♪　ふんふんふ～ん♪|system_theater_015siz_common_011_015siz^……ふんふん……ふ～ん……♪|system_theater_016tsu_common_011_016tsu^よいしょ、っと。|system_theater_018ele_common_011_018ele^ふんふふふーん♪|system_theater_019min_common_011_019min^ふんふんふーん♪|system_theater_020meg_common_011_020meg^よいしょ……っと。|system_theater_021mat_common_011_021mat^ルミルミルミルミルミ……♪|system_theater_022ser_common_011_022ser^うんしょ、よいしょ……。|system_theater_023aka_common_011_023aka^にゃにゃ～にゃにゃ～にゃにゃ～♪|system_theater_024ann_common_011_024ann^经验值，会上升吗……|system_theater_025roc_common_011_025roc^よいしょ、よいしょ。|system_theater_026yur_common_011_026yur^ふぅ……。|system_theater_027say_common_011_027say^よいしょっ、と……。|system_theater_028ari_common_011_028ari^よいしょっと。|system_theater_029umi_common_011_029umi^よーし、やるよ～っ！！|system_theater_030iku_common_011_030iku^よいしょ、よいしょ。|system_theater_031tom_common_011_031tom^ふんふふ～♪　ふんふふ～ん♪|system_theater_032emi_common_011_032emi^よいせっ。|system_theater_033sih_common_011_033sih^よいしょ。|system_theater_034ayu_common_011_034ayu^よいしょ……っと！！|system_theater_035hin_common_011_035hin^んしょ、んしょ。|system_theater_036kan_common_011_036kan^るんるんる～ん♪　らんらんら～ん♪|system_theater_037nao_common_011_037nao^ざっと、こんなもんやろ！|system_theater_038chz_common_011_038chz^よいしょっ。|system_theater_039kon_common_011_039kon^ふぅ……。この次は……。|system_theater_040tam_common_011_040tam^よいしょ、よいしょ。|system_theater_041fuk_common_011_041fuk^ええと、次は……。|system_theater_042miy_common_011_042miy^むふふ、いい感じですな～。|system_theater_043nor_common_011_043nor^ふんふんふーん♪|system_theater_044miz_common_011_044miz^ふぅ……。|system_theater_045kar_common_011_045kar^ふんふーん♪|system_theater_046rio_common_011_046rio^これも、ある種の自分磨きよね♪|system_theater_047sub_common_011_047sub^ファイト、ぜんか～い！|system_theater_048rei_common_011_048rei^ぷっぷか、ぷっぷか、ぷっぷかぷ～♪|system_theater_049mom_common_011_049mom^よいしょ……っと。|system_theater_050jul_common_011_050jul^ふう……ざっとこんなモンか。|system_theater_051tmg_common_011_051tmg^よいしょっ……と。|system_theater_052kao_common_011_052kao^さて、次は……。|system_theater_001har_contact_001_1_001har^～♪　…あ、
 {$P$}さん！
 いつからそこに！？|system_theater_002chi_contact_001_1_002chi^あの、{$P$}。
 私に手伝えることがあれば、
@@ -1751,9 +1751,9 @@ display_character_001har^春香|display_character_002chi^千早|display_characte
 まつりにはよくわからないのです。|system_theater_022ser_contact_001_1_022ser^わたし、まだまだ知らないことが
 たくさんあるみたいです。|system_theater_023aka_contact_001_1_023aka^茜ちゃんが、このまますぐに
 トップアイドルに
-なっちゃっても……。|system_theater_024ann_contact_001_1_024ann^今日……いいことが、あった……。
-{$P$}さん
-とお話……した。|system_theater_025roc_contact_001_1_025roc^オーディエンスの心に
+なっちゃっても……。|system_theater_024ann_contact_001_1_024ann^今天……发生了……好事……
+和{$P$}先生
+聊了……一下。|system_theater_025roc_contact_001_1_025roc^オーディエンスの心に
 届かないアートじゃ意味が
 ないって、ロコは思ってます。|system_theater_026yur_contact_001_1_026yur^どうしたんですか？　そんな真剣な
 目で見られたら私、
@@ -1848,9 +1848,9 @@ DVD、見たってホント？|system_theater_050jul_contact_001_1_050jul^ここ
 これからもわたしに
 いろんなこと教えてくださいね。|system_theater_023aka_contact_001_2_023aka^{$P$}ちゃんは、
 もれなく茜ちゃんの
-プロデューサーだから安心してね？|system_theater_024ann_contact_001_2_024ann^一緒に過ごすの、好き……
-だから……。だから今日は、
-杏奈の……いい日、です。|system_theater_025roc_contact_001_2_025roc^今の{$P$}の
+プロデューサーだから安心してね？|system_theater_024ann_contact_001_2_024ann^杏奈喜欢，待在一起……
+所以……所以今天，
+是杏奈的……幸运日。|system_theater_025roc_contact_001_2_025roc^今の{$P$}の
 反応、ベリーグッドですよ♪|system_theater_026yur_contact_001_2_026yur^……えっ、さっきの妄想、
 口に出てました！？　忘れて！　
 今すぐ忘れてくださいっ……！！|system_theater_027say_contact_001_2_027say^いつも、{$P$}に
@@ -1943,9 +1943,9 @@ DVD、見たってホント？|system_theater_050jul_contact_001_1_050jul^ここ
 ちょっとだけ、
 うとうとしてきちゃうんです。|system_theater_023aka_contact_002_1_023aka^{$P$}ちゃん……。
 悩みがあるなら
-相談に乗ってあげるよ。|system_theater_024ann_contact_002_1_024ann^杏奈、お話するの……好き、
-だけど……。目を見て話すの、
-まだ苦手……で……。|system_theater_025roc_contact_002_1_025roc^{$P$}、
+相談に乗ってあげるよ。|system_theater_024ann_contact_002_1_024ann^杏奈，虽然……喜欢说话，
+但是……还不习惯，
+看着对方眼睛……说话……|system_theater_025roc_contact_002_1_025roc^{$P$}、
 コンセントレーションのための
 シュガーが足りません～。|system_theater_026yur_contact_002_1_026yur^{$P$}さん……
 昨日買った推理小説、
@@ -2041,9 +2041,9 @@ DVD、見たってホント？|system_theater_050jul_contact_001_1_050jul^ここ
 みたいに夜も起きていられるように
 なりたいです！|system_theater_023aka_contact_002_2_023aka^ん？　茜ちゃんのワガママが
 悩みの原因？　ふむふむ、
-それ以外の悩みはないのかな？|system_theater_024ann_contact_002_2_024ann^大きな声で、話すのも……
-難しい……。いつか、できるように
-……なれるか、な……。|system_theater_025roc_contact_002_2_025roc^ここは、ブレイクタイムに
+それ以外の悩みはないのかな？|system_theater_024ann_contact_002_2_024ann^想大声说话……
+也很困难……希望，有一天……
+可以，做到……|system_theater_025roc_contact_002_2_025roc^ここは、ブレイクタイムに
 するしか、ないようですね……。|system_theater_026yur_contact_002_2_026yur^もう真相が気になって気になって！
 こうなったら、最後の手……
 通販を……！|system_theater_027say_contact_002_2_027say^お気に入りのタイ焼き屋が
@@ -2132,9 +2132,8 @@ DVD、見たってホント？|system_theater_050jul_contact_001_1_050jul^ここ
 まだ子どもだと
 思ってるんです……。|system_theater_023aka_contact_003_1_023aka^ニャー！　
 茜ちゃんのプリンがない～！
-大切にしまっといたのに！|system_theater_024ann_contact_003_1_024ann^杏奈の好きな、ネットゲーム……。
-今……大きなイベント、
-やってて……。|system_theater_025roc_contact_003_1_025roc^{$P$}、
+大切にしまっといたのに！|system_theater_024ann_contact_003_1_024ann^杏奈，喜欢的网游……
+现在……正在举办，大型活动……|system_theater_025roc_contact_003_1_025roc^{$P$}、
 衣装のデザイン、
 もう一日だけ時間をくれますか？|system_theater_026yur_contact_003_1_026yur^劇場のみんなに読んでもらいたい
 本を厳選して持ってきたら、
@@ -2231,9 +2230,9 @@ DVD、見たってホント？|system_theater_050jul_contact_001_1_050jul^ここ
 アイドルなんです。そんなに
 心配しなくても、大丈夫ですよね？|system_theater_023aka_contact_003_2_023aka^犯人は茜ちゃん人形の材料にして
 やるー！　{$P$}
-ちゃんも手伝って！|system_theater_024ann_contact_003_2_024ann^報酬、いいから……
-負けられない……。
-杏奈……全力で、戦う……よ！|system_theater_025roc_contact_003_2_025roc^ロコはステージで妥協
+ちゃんも手伝って！|system_theater_024ann_contact_003_2_024ann^报酬，很丰富……
+不能输……
+杏奈……会全力……战斗的！|system_theater_025roc_contact_003_2_025roc^ロコはステージで妥協
 したくないの。オンリーワンな
 デザインにしてみせますね！|system_theater_026yur_contact_003_2_026yur^いっそ控え室の隅っこに本棚を
 ひとつ置いて、私設図書館を
@@ -2321,8 +2320,8 @@ DVD、見たってホント？|system_theater_050jul_contact_001_1_050jul^ここ
 見てるだけでも参考になるね。|system_theater_021mat_touch_027_021mat^まつりはいつでも、準備おっけー！
 なのです♪|system_theater_022ser_touch_027_022ser^みなさんのダンスを見ていると、
 勉強になります！|system_theater_023aka_touch_027_023aka^フッ……茜ちゃんは
-もうマスターしたよ。だいたい！|system_theater_024ann_touch_027_024ann^杏奈も、こんな風に……
-できたらいいな……。|system_theater_025roc_touch_027_025roc^ふたりのダンス、
+もうマスターしたよ。だいたい！|system_theater_024ann_touch_027_024ann^杏奈，也能像这样……
+就好了……|system_theater_025roc_touch_027_025roc^ふたりのダンス、
 アメイジングです♪|system_theater_026yur_touch_027_026yur^私も頑張れば、
 ああなれるかな……。|system_theater_027say_touch_027_027say^みんなに、
 早く追いつかないとですね！|system_theater_028ari_touch_027_028ari^生アイドルちゃんの
@@ -2363,8 +2362,8 @@ DVD、見たってホント？|system_theater_050jul_contact_001_1_050jul^ここ
 冷たいのが飲みたくなるよネ！|system_theater_019min_touch_028_019min^{$P$}さんも、
 飲みますか？|system_theater_020meg_touch_028_020meg^汗だく……。
 飲まないとやってられないよね～。|system_theater_021mat_touch_028_021mat^あまーいジュースもほしいのです。|system_theater_022ser_touch_028_022ser^ノドが、かわいちゃいました。|system_theater_023aka_touch_028_023aka^{$P$}ちゃんも
-飲みたかったりする？|system_theater_024ann_touch_028_024ann^回復アイテム、ゲット……
-おいしい、です。|system_theater_025roc_touch_028_025roc^レッスンに水分補給はマストです！|system_theater_026yur_touch_028_026yur^はぁ……まさに
+飲みたかったりする？|system_theater_024ann_touch_028_024ann^回复道具，Get……
+味道，不错。|system_theater_025roc_touch_028_025roc^レッスンに水分補給はマストです！|system_theater_026yur_touch_028_026yur^はぁ……まさに
 砂漠のオアシスですね……。|system_theater_027say_touch_028_027say^生き返りました！
 もうひと頑張りしてきますね！|system_theater_028ari_touch_028_028ari^ぷはぁ～！
 この一杯が最高ですっ！|system_theater_029umi_touch_028_029umi^んっんっんっ……
@@ -2401,8 +2400,8 @@ DVD、見たってホント？|system_theater_050jul_contact_001_1_050jul^ここ
 もすこし休ませてくれる？|system_theater_021mat_touch_029_021mat^足が疲れたのです。…ね、
 {$P$}さん。…ね？|system_theater_022ser_touch_029_022ser^ちょっと疲れたけど、
 まだ頑張れます！|system_theater_023aka_touch_029_023aka^あ……茜ちゃんは、
-まだまだ全然ヨユーだけど～？|system_theater_024ann_touch_029_024ann^杏奈、ヒットポイント……
-回復中……です。|system_theater_025roc_touch_029_025roc^さ、サボタージュじゃないですよ！？
+まだまだ全然ヨユーだけど～？|system_theater_024ann_touch_029_024ann^杏奈，Hit Point……
+正在……回复中。|system_theater_025roc_touch_029_025roc^さ、サボタージュじゃないですよ！？
 リフレッシュです！|system_theater_026yur_touch_029_026yur^ちょっと休憩……
 ひと休みして、乗り切りますね。|system_theater_027say_touch_029_027say^まだまだ、これからですっ！|system_theater_028ari_touch_029_028ari^ありさ、
 まだまだ頑張れますよ～っ！|system_theater_029umi_touch_029_029umi^まだまだ元気っ！
@@ -2445,8 +2444,8 @@ DVD、見たってホント？|system_theater_050jul_contact_001_1_050jul^ここ
 いくらでも頑張れるよ。|system_theater_021mat_touch_030_021mat^姫はやる気なのです。
 めらめらまつりです。|system_theater_022ser_touch_030_022ser^見てください。身体、だいぶ
 やわらかくなってきました！|system_theater_023aka_touch_030_023aka^今度のライブで
-本気出しちゃおっかなー♪|system_theater_024ann_touch_030_024ann^経験値あげは、大切……
-だから、頑張る……。|system_theater_025roc_touch_030_025roc^ライブのアイディア、
+本気出しちゃおっかなー♪|system_theater_024ann_touch_030_024ann^提升经验值，很重要……
+所以，要加油……|system_theater_025roc_touch_030_025roc^ライブのアイディア、
 どんどんわいてきます！|system_theater_026yur_touch_030_026yur^少しずつですが、
 体力ついてきました！|system_theater_027say_touch_030_027say^努力と練習は
 裏切らないって思うんです！|system_theater_028ari_touch_030_028ari^この調子で
@@ -2477,7 +2476,7 @@ DVD、見たってホント？|system_theater_050jul_contact_001_1_050jul^ここ
 もうちょっと強くてもいいわよ？|system_theater_008tak_common_012_008tak^はっ……！|system_theater_009rit_common_012_009rit^いたたた……！
 も、もう少し、優しく……。|system_theater_010azu_common_012_010azu^ん～……よいっしょっと……。|system_theater_011ami_common_012_011ami^いっちにっ、さーんほいっ！|system_theater_012mam_common_012_012mam^んっ、ふっ、ふ～っ！|system_theater_013hib_common_012_013hib^ぐぎぎ………もうちょっと……っ。|system_theater_014mir_common_012_014mir^うう～っ……。
 私、体かたいのかな？|system_theater_015siz_common_012_015siz^も、もう少し……う～ん……。|system_theater_016tsu_common_012_016tsu^せーのっ……と。|system_theater_017kth_common_012_017kth^まだできるはず……う～ん……！|system_theater_018ele_common_012_018ele^うぅ～ん…これでどう…カナ？|system_theater_019min_common_012_019min^準備は入念に…ですね！|system_theater_020meg_common_012_020meg^こんなもんかな…っと。|system_theater_021mat_common_012_021mat^伸びるのです。えきすぱんだぼー！|system_theater_022ser_common_012_022ser^う～～～ん！|system_theater_023aka_common_012_023aka^茜ちゃんのことは
-優しく扱ってぇ～！|system_theater_024ann_common_012_024ann^うう、いたい……。|system_theater_025roc_common_012_025roc^うう～、もう少しジェントルに
+優しく扱ってぇ～！|system_theater_024ann_common_012_024ann^呜呜，好痛心……|system_theater_025roc_common_012_025roc^うう～、もう少しジェントルに
 お願いします～。|system_theater_026yur_common_012_026yur^んーっ、
 すみませ、体、かた、くてっ！|system_theater_027say_common_012_027say^これぐらい……っ！
 全然平気です！|system_theater_028ari_common_012_028ari^お、お手柔らかに
@@ -2563,9 +2562,9 @@ DVD、見たってホント？|system_theater_050jul_contact_001_1_050jul^ここ
 髪型、ちゃんとできてますか？
 どこか変だったら教えてください。|system_theater_023aka_touch_shs_001_023aka^ギニャー！？　こ、この髪型は調整
 中で……まだその時ではないのだ、　
-{$P$}ちゃん！|system_theater_024ann_touch_shs_001_024ann^ツインテの、ときも……
-横髪は、ばっちり出します……
-杏奈の、こだわり……だよ♪|system_theater_025roc_touch_shs_001_025roc^アートで悩んでいたので、
+{$P$}ちゃん！|system_theater_024ann_touch_shs_001_024ann^就算，梳了双马尾……
+侧边的头发，也好好留了……
+这是，杏奈的……执着哦♪|system_theater_025roc_touch_shs_001_025roc^アートで悩んでいたので、
 ヘアアレンジしてみました！
 インスピレーションです！|system_theater_026yur_touch_shs_001_026yur^ど、どうですか？　髪型を変える
 のって、結構勇気が必要で……。
@@ -2659,7 +2658,7 @@ DVD、見たってホント？|system_theater_050jul_contact_001_1_050jul^ここ
 …えっと、お水のお話ですか？|system_storyidol_022ser_greeting_001_022ser^えへへ、今日はヴァイオリンの
 お稽古もあるから大変です。|system_storyidol_023aka_greeting_001_023aka^レッスンなんてチョー余裕だよ！
 茜ちゃん、運動神経、
-チョースゴイから！|system_storyidol_024ann_greeting_001_024ann^……………おはよ、ございます。|system_storyidol_025roc_greeting_001_025roc^次のライブは、
+チョースゴイから！|system_storyidol_024ann_greeting_001_024ann^……………早上，好。|system_storyidol_025roc_greeting_001_025roc^次のライブは、
 スペイシーカブキをテーマに
 ホラー要素を…ブツブツ。|system_storyidol_026yur_greeting_001_026yur^{$P$}さん、
 今日もよろしくお願いします。|system_storyidol_027say_greeting_001_027say^私の頑張りが皆の力に
@@ -2757,7 +2756,7 @@ DVD、見たってホント？|system_theater_050jul_contact_001_1_050jul^ここ
 可愛いです♪|system_storyidol_023aka_greeting_002_023aka^{$P$}ちゃんは
 もっと茜ちゃんを
 かわいがるべき！　うんうん、
-そうするべき！|system_storyidol_024ann_greeting_002_024ann^んと…今日もよろしく……です。|system_storyidol_025roc_greeting_002_025roc^そのプロジェクト、ロコにも
+そうするべき！|system_storyidol_024ann_greeting_002_024ann^那个…今天也请……多多指教。|system_storyidol_025roc_greeting_002_025roc^そのプロジェクト、ロコにも
 コミットさせてください！|system_storyidol_026yur_greeting_002_026yur^歌のレッスンは結構好きです。
 そんなに上手ではありませんが。|system_storyidol_027say_greeting_002_027say^才能不足は自覚してます…。
 それでもコツコツやれば、
@@ -2851,7 +2850,7 @@ DVD、見たってホント？|system_theater_050jul_contact_001_1_050jul^ここ
 はいほー！　な気分なのです。|system_storyidol_022ser_greeting_003_022ser^わぁ、これが缶ジュースですね！
 …コップはどこに
 付いてるんですか？|system_storyidol_023aka_greeting_003_023aka^はい、はーい！　ここに
-カワイイ女の子がいまーす！|system_storyidol_024ann_greeting_003_024ann^杏奈、ここにいるよ……？|system_storyidol_025roc_greeting_003_025roc^うーん、事務所のこのお茶、
+カワイイ女の子がいまーす！|system_storyidol_024ann_greeting_003_024ann^杏奈，在这里哦……？|system_storyidol_025roc_greeting_003_025roc^うーん、事務所のこのお茶、
 大好き…
 フェ、フェイバリットです！
 誰が淹れたんですか？|system_storyidol_026yur_greeting_003_026yur^今の私は物語にたとえるならば、
@@ -2945,8 +2944,7 @@ DVD、見たってホント？|system_theater_050jul_contact_001_1_050jul^ここ
 {$P$}さんって
 お友達がたくさんいるんですね。|system_storyidol_023aka_greeting_004_023aka^茜ちゃん的には許せる範囲かな？
 茜ちゃんの心は宇宙よりも
-広いんです！|system_storyidol_024ann_greeting_004_024ann^あ、{$P$}さん
-だ……。|system_storyidol_025roc_greeting_004_025roc^ニッチだけどロングテ－ルな
+広いんです！|system_storyidol_024ann_greeting_004_024ann^啊，是{$P$}先生啊……|system_storyidol_025roc_greeting_004_025roc^ニッチだけどロングテ－ルな
 ファン層を狙っていきます！|system_storyidol_026yur_greeting_004_026yur^私、運動が苦手だから
 ダンスレッスンがある日は
 ちょっぴり憂鬱です…。|system_storyidol_027say_greeting_004_027say^辛いなんて口にするから
@@ -3044,9 +3042,9 @@ TVって面白すぎですよね～。|system_storyidol_015siz_greeting_005_015s
 今日は衣装の着替え手伝って
 もらえませんか？|system_storyidol_023aka_greeting_005_023aka^茜ちゃんのことは
 1日1回必ずほめてね。
-はい、では、どうぞ！|system_storyidol_024ann_greeting_005_024ann^やっほー
-{$P$}さん！
-今日もビビッとがんばるからね♪|system_storyidol_025roc_greeting_005_025roc^ロコはこれから集中しますから、
+はい、では、どうぞ！|system_storyidol_024ann_greeting_005_024ann^呀吼——
+{$P$}先生！
+杏奈今天也会Vivid地加油的哦♪|system_storyidol_025roc_greeting_005_025roc^ロコはこれから集中しますから、
 時間になったらリマインド
 お願いしますね。|system_storyidol_026yur_greeting_005_026yur^はぁ…すっごくステキな
 お話でした！　小説が
@@ -3144,9 +3142,8 @@ TVって面白すぎですよね～。|system_storyidol_015siz_greeting_005_015s
 喜ぶんでしょう…
 {$P$}さん、
 何でですか？|system_storyidol_023aka_greeting_006_023aka^今日は本気100%の半分くらい
-出そっかな！|system_storyidol_024ann_greeting_006_024ann^杏奈はいつでも
-準備オッケーだよ！
-はやくお客さんに会いたいな♪|system_storyidol_025roc_greeting_006_025roc^{$P$}も
+出そっかな！|system_storyidol_024ann_greeting_006_024ann^杏奈随时都准备OK哦！
+好想快点见到观众们呢♪|system_storyidol_025roc_greeting_006_025roc^{$P$}も
 ロコみたいに、
 ワークライフバランス、
 ちゃんと考えないとダメですよ？|system_storyidol_026yur_greeting_006_026yur^もしもお仕事に行く途中で
@@ -3251,9 +3248,9 @@ TVって面白すぎですよね～。|system_storyidol_015siz_greeting_005_015s
 ダメですよ？|system_storyidol_023aka_greeting_007_023aka^じゃーん、
 {$P$}ちゃん
 注目ぅ！　なんと……
-茜ちゃんだよ！|system_storyidol_024ann_greeting_007_024ann^{$P$}さん
-見てみて！！
-杏奈、バッチリきまってる？|system_storyidol_025roc_greeting_007_025roc^{$P$}、
+茜ちゃんだよ！|system_storyidol_024ann_greeting_007_024ann^{$P$}先生
+快看快看！！
+杏奈，表现得很棒吧？|system_storyidol_025roc_greeting_007_025roc^{$P$}、
 アキシブハラ系とニューエイジ
 ファッションの融合、
 どう思います？|system_storyidol_026yur_greeting_007_026yur^はぁ…人見知りを直す方法だけは
@@ -3363,10 +3360,10 @@ TVって面白すぎですよね～。|system_storyidol_015siz_greeting_005_015s
 アイドルになれて
 本当によかったです！|system_storyidol_023aka_greeting_008_023aka^ねえねえねえ、
 茜ちゃんの話ちゃんと聞いてる？
-ねえねえねえねえってばっ！|system_storyidol_024ann_greeting_008_024ann^きゃ～～！　この衣装
-すっごくすっごくかわいい！！
-着てみてもいいのかな？
-ダメ？？|system_storyidol_025roc_greeting_008_025roc^{$P$}、
+ねえねえねえねえってばっ！|system_storyidol_024ann_greeting_008_024ann^呀～～！这身衣服
+真的超级无敌可爱！！
+杏奈可以穿吗？
+拜托了！！|system_storyidol_025roc_greeting_008_025roc^{$P$}、
 今日のファッションに
 髭をプラスしてみませんか？
 絶対似合いますよ。|system_storyidol_026yur_greeting_008_026yur^今の私に必要なものは本棚です！
@@ -3480,8 +3477,8 @@ TVって面白すぎですよね～。|system_storyidol_015siz_greeting_005_015s
 世界を教えてくださいっ！|system_storyidol_023aka_greetingsp_001_023aka^しかたないなっ！
 {$P$}ちゃんは
 茜ちゃんがいないと
-全然ダメなんだから♪|system_storyidol_024ann_greetingsp_001_024ann^…{$P$}さん
-……杏奈…がんばってる？|system_storyidol_025roc_greetingsp_001_025roc^ふふっ、
+全然ダメなんだから♪|system_storyidol_024ann_greetingsp_001_024ann^……{$P$}先生
+……杏奈……够努力了吗？|system_storyidol_025roc_greetingsp_001_025roc^ふふっ、
 {$P$}も
 だんだん、ロコワールドに
 ロコナイズされてきましたね！|system_storyidol_026yur_greetingsp_001_026yur^最近、
@@ -3614,9 +3611,9 @@ TVって面白すぎですよね～。|system_storyidol_015siz_greeting_005_015s
 お話したいです！|system_storyidol_023aka_greetingsp_002_023aka^おやや～、
 {$P$}ちゃんが
 相手をしてもらいたくて、
-茜ちゃんを見てるゾ～♪|system_storyidol_024ann_greetingsp_002_024ann^あ…えっと…。言いたいこと、
-いっぱいあったのに……、
-顔みたら、忘れちゃった……。|system_storyidol_025roc_greetingsp_002_025roc^ロコのブレックファストは、
+茜ちゃんを見てるゾ～♪|system_storyidol_024ann_greetingsp_002_024ann^啊……那个……
+明明想说的话，有很多……
+一看到制作人，就忘光了……|system_storyidol_025roc_greetingsp_002_025roc^ロコのブレックファストは、
 いつもシリアルですけど……
 そのオニギリも、
 おいしそうですね。|system_storyidol_026yur_greetingsp_002_026yur^この小説のヒーロー、
@@ -3752,9 +3749,9 @@ TVって面白すぎですよね～。|system_storyidol_015siz_greeting_005_015s
 できますよ？|system_storyidol_023aka_greetingsp_003_023aka^茜ちゃん、頭いーから
 {$P$}ちゃんの
 考えることは、今じゃ何でも
-お見通しだよ♪|system_storyidol_024ann_greetingsp_003_024ann^…………ん。ちょっと…
-おなかすいた……。
-おやつにしよ……？|system_storyidol_025roc_greetingsp_003_025roc^ストップ！　動かないで
+お見通しだよ♪|system_storyidol_024ann_greetingsp_003_024ann^…………嗯，肚子……
+有点饿了……
+吃点点心吧……？|system_storyidol_025roc_greetingsp_003_025roc^ストップ！　動かないで
 ください！　…うんうん、
 今日のコーデ、とっても
 いい感じですね！|system_storyidol_026yur_greetingsp_003_026yur^お疲れでしたら、
@@ -3888,10 +3885,9 @@ TVって面白すぎですよね～。|system_storyidol_015siz_greeting_005_015s
 なんでも知っていて
 すごいですっ♪|system_storyidol_023aka_greetingsp_004_023aka^体力チェックをします！
 はいっ、茜ちゃんをだっこして！
-高ーい、高ーいしないとダメね！|system_storyidol_024ann_greetingsp_004_024ann^あ、ちょうちょ…。
-…{$P$}さんの
-頭の上にとまった。
-……かわいい、ね？|system_storyidol_025roc_greetingsp_004_025roc^らー♪　…ロコの才能は
+高ーい、高ーいしないとダメね！|system_storyidol_024ann_greetingsp_004_024ann^啊，蝴蝶……
+……停在，{$P$}先生头上了。
+……很可爱，吧？|system_storyidol_025roc_greetingsp_004_025roc^らー♪　…ロコの才能は
 マグニフィセントですけど、
 ロコ・ソングも
 マグニフィセントでしょうか？|system_storyidol_026yur_greetingsp_004_026yur^{$P$}さんから
@@ -4023,10 +4019,10 @@ TVって面白すぎですよね～。|system_storyidol_015siz_greeting_005_015s
 なんだか気持ちいいです。|system_storyidol_023aka_greetingsp_005_023aka^茜ちゃん甘やかすの
 なれてきたね！
 も少しガンバれば、
-茜ちゃんマスターになれるよっ！|system_storyidol_024ann_greetingsp_005_024ann^ジャジャ～ン、今日は
-音ゲーを持ってきたの！
-{$P$}さん、
-一緒に遊ぼ～♪|system_storyidol_025roc_greetingsp_005_025roc^{$P$}の顔、
+茜ちゃんマスターになれるよっ！|system_storyidol_024ann_greetingsp_005_024ann^锵锵～，杏奈今天
+带了音游过来！
+{$P$}先生，
+一起来玩吧～♪|system_storyidol_025roc_greetingsp_005_025roc^{$P$}の顔、
 よく見ると…こ、この
 ドキドキはアカデミックな
 インタレストです！|system_storyidol_026yur_greetingsp_005_026yur^言われたとおり、ダンスの
@@ -4167,10 +4163,10 @@ TVって面白すぎですよね～。|system_storyidol_015siz_greeting_005_015s
 言うんですよね？　偉いです！|system_storyidol_023aka_greetingsp_006_023aka^{$P$}ちゃんを
 鍛え上げたのは茜ちゃんの
 たゆまぬワガママの
-おかげという真実！|system_storyidol_024ann_greetingsp_006_024ann^杏奈、今日のお仕事…
-すごく楽しみにしてたよ。
-だから…早く行こ…
-{$P$}さん。|system_storyidol_025roc_greetingsp_006_025roc^ロコのコ－デ、
+おかげという真実！|system_storyidol_024ann_greetingsp_006_024ann^杏奈，很期待
+今天的工作哦。
+所以……快点出发吧……
+{$P$}先生。|system_storyidol_025roc_greetingsp_006_025roc^ロコのコ－デ、
 みんなに評判悪いんですけど…
 {$P$}なら
 わかってくれますよね？|system_storyidol_026yur_greetingsp_006_026yur^今日の営業、どの服を
@@ -4400,9 +4396,9 @@ TVって面白すぎですよね～。|system_storyidol_015siz_greeting_005_015s
 なんて、なんだかお得ですね！
 えへへ♪　似合いますか？|system_storyidol_023aka_greetingshs_001_023aka^この髪型の時はいつもの100倍
 茜ちゃんを見ててね……！　不審
-な点を感じたら、すぐ報告だよ！|system_storyidol_024ann_greetingshs_001_024ann^ロップイヤーみたいで、可愛い、
-ね……♪　あ、んと……
-ウサギの、種類……です。|system_storyidol_025roc_greetingshs_001_025roc^……。はっ！？　ソーリーです。
+な点を感じたら、すぐ報告だよ！|system_storyidol_024ann_greetingshs_001_024ann^像垂耳一样，很可爱，吧……♪
+啊，那个……
+是兔子的，品种……哦。|system_storyidol_025roc_greetingshs_001_025roc^……。はっ！？　ソーリーです。
 この髪型、コンセントレーション
 しすぎてしまって……むむむ。|system_storyidol_026yur_greetingshs_001_026yur^髪型を変えると、なんだか
 落ち着かなくて……うぅ。私、
@@ -4458,9 +4454,9 @@ TVって面白すぎですよね～。|system_storyidol_015siz_greeting_005_015s
 気恥ずかしさが……あ、
 あんまり見んといてっ！|system_storyidol_052kao_greetingshs_001_052kao^髪をおろしていると、少しだけ
 油断してしまうみたいで……あの
-何かあったら教えてくださいね？|system_storyidol_024ann_greetingshson_001_024ann^イェイ！　気に入ってくれた？
-だったら杏奈、ずっと
-この髪型でいてもいいよ♪|system_navi_102mis_job_common_001_102mis^今天的工作也请加油哦！|system_navi_102mis_job_bonus_001_102mis^今天正在举办
+何かあったら教えてくださいね？|system_storyidol_024ann_greetingshson_001_024ann^耶！制作人喜欢吗？
+喜欢的话，杏奈以后
+一直保持这个发型也可以哦♪|system_navi_102mis_job_common_001_102mis^今天的工作也请加油哦！|system_navi_102mis_job_bonus_001_102mis^今天正在举办
 Princess日♪|system_navi_102mis_job_bonus_002_102mis^今天正在举办
 Fairy日♪|system_navi_102mis_job_bonus_003_102mis^今天正在举办
 Angel日♪|system_navi_102mis_story_main_001_102mis^来回顾与偶像们的回忆吧。|system_navi_102mis_story_idol_001_102mis^请选择偶像哦。|system_navi_102mis_story_event_001_102mis^可以在这里查看活动的故事。|system_navi_102mis_story_extra_004_102mis^在这里可以查看各种各样的故事。|system_navi_102mis_navi_shop_001_102mis^可以购买百万宝石
@@ -6776,7 +6772,7 @@ SSR＋まで育成すると「ルミエール・パピヨン＋」も獲得で�
 実行中のオファーは０時を過ぎても継続されます
 ※通常タブ内のオファーは所要時間に応じて切り替えられます|tutorial_info51_04_title^おすすめオファーについて|tutorial_info51_04^１日１件おすすめオファーが発生します
 おすすめオファーを完了するとミリオンジュエルが獲得できます|tutorial_info51_05_title^ミッションについて|tutorial_info51_05^オファー20回完了でリスト表示数が20件、同時進行数が2件
-60回完了でリスト表示数が30件、同時進行数が3件に増えます|tutorial_info51_06_title^关于推送通知|tutorial_info51_06^可以在导航＞系统设置中设置是否接收
+60回完了でリスト表示数が30件、同時進行数が3件に増えます|tutorial_info51_06_title^关于推送通知|tutorial_info51_06^可以在导览＞系统设置中设置是否接收
 OFFER完成时的推送通知|tutorial_info52_00_title^楽曲選択に迷った時はおまかせ選曲！|tutorial_info52_00^コースと楽曲のタイプを指定すると
 解放済みの楽曲の中から1曲セレクトしてくれます|tutorial_info52_01_title^アイドル達が決めてくれるおまかせ公演！|tutorial_info52_01^ライブに関する設定をぜんぶアイドル達が決めてくれます
 どんな楽曲やユニットになるかわくわくしちゃいますね|tutorial_info53_00_title^ステージ選択について|tutorial_info53_00^ヒーローズのストーリーは右下の
@@ -7546,7 +7542,7 @@ SSRカードを獲得したり、ショップで「キラメキのしずく」
 設定画面に移動しますか?|title_anotherkinematics_preview_pu_warning^ナビのシステム設定からいつでも変更できます|title_igp_popup_title_01^错误|title_igp_popup_msg_01^iDOL GRAND-PRIXのプレイ条件を満たしていません
 本モードはミリシタ本編のチュートリアルを完了することで
 遊べるようになります|home_btn_00^コミュニティ|home_btn_01^任务|home_btn_02^公告|home_btn_03^礼物|home_btn_04^モバイル|home_btn_05^交流室|home_btn_06^同僚|home_btn_07^スケジュール|home_btn_08^サウンド
-チェック|home_btn_09^ギャラリー|home_btn_10^コスチューム|home_btn_11^前往房间|home_btn_12^花篮|home_com_pu_00^ラウンジはただいま準備中です|home_soundcheck_title^音频确认|home_soundcheck_00^{0}：{1:D2}/{2}：{3:D2}|home_soundcheck_01^{0}
+チェック|home_btn_09^ギャラリー|home_btn_10^コスチューム|home_btn_11^前往设施|home_btn_12^花篮|home_com_pu_00^ラウンジはただいま準備中です|home_soundcheck_title^音频确认|home_soundcheck_00^{0}：{1:D2}/{2}：{3:D2}|home_soundcheck_01^{0}
 {1} …|home_soundcheck_02^播放|home_soundcheck_03^停止|home_soundcheck_04^下载|home_soundcheck_05^将要下载歌曲|home_soundcheck_06^再生できる楽曲がありません|home_soundcheck_07^下载歌曲|home_soundcheck_08^购买|home_soundcheck_09^外部サイトへ遷移してもよろしいですか？|home_soundcheck_10^外部サイトへ遷移してもよろしいですか？|home_soundcheck_11^未下载|home_soundcheck_12^実装済み|home_soundcheck_13^未実装|home_soundcheck_14^Off Vocal|home_soundcheck_15^過去に開催されたイベントのページで再生されていた
 イベント楽曲のOff Vocalを試聴することができます。
 Off Vocalは、「コミュ＞イベント＞思い出」で「思い出ピース」を
@@ -7554,7 +7550,7 @@ Off Vocalは、「コミュ＞イベント＞思い出」で「思い出ピー�
 返回标题中|home_friend_popup_msg_00^同僚に移動しますか？|home_lounge_popup_msg_00^要前往交流室吗？|home_notification_00^歌曲解锁|home_notification_01^剧情 {0}-{1} 解锁|home_notification_02^{0} X {1}|home_notification_03^{0}|home_notification_04^{0} 的 {1}|home_notification_05^称号:{0}|home_notification_06^剧场接触的报酬|home_notification_07^解锁回忆！|home_notification_08^制作人槽达成|home_notification_09^亲爱度 +{0}|home_notification_10^通知10 : {0}|home_notification_11^主线剧情的报酬|home_notification_12^服装剧情的报酬|home_notification_13^活动剧情的报酬|home_notification_14^回复邮件的报酬|home_notification_15^嘉宾剧情的报酬|home_notification_16^获得的道具可以在礼物中领取|home_notification_17^39人LIVE解锁|home_notification_18^登录奖励|home_notification_19^生日剧情的报酬|home_pgauge_00^剩余{0}小时{1}分钟|home_home_balloon_00^对话|home_load_00^移动中|home_banner_default_error_message^画像の読み込みに失敗しました
 通信環境の良い場所で
 アプリの再起動をお試しください|home_campaign_present_notice_msg_00^称号:|home_mvop_pu_title^MV播放|home_mvop_pu_skip^跳过|home_mvop_pu_play^MV播放|home_mvop_pu_message^MVをスキップすることができます|home_mvop_pu_warning^<color=#FF0098FF>このMVはアーカイブされません。MVを再生しますか？</color>|home_directmessage_pu_00_00^運営からのダイレクトメッセージ|home_directmessage_pu_00_01^このメッセージは一度閉じると再度ご確認することはできませんのでご注意ください|home_directmessage_pu_01_00^确认|home_directmessage_pu_01_01^このメッセージを閉じますか？|home_directmessage_pu_01_02^一度閉じると再度ご確認することはできません|home_directmessage_pu_01_03^閉じる場合はチェックをしてください|home_misakimemo_pu_title_00^お疲れ様です、プロデューサーさん！
-僭越ながら私、青羽美咲がアドバイスさせていただきます♪|home_misakimemo_pu_label_00^面向新手制作人|home_misakimemo_pu_label_01^面向精明制作人|home_misakimemo_pu_header_00^返回|home_misakimemo_pu_header_01^关闭|home_misakimemo_pu_footer_00^上一篇|home_misakimemo_pu_footer_01^下一篇|home_eventendnotice_pu_00^活动结束的事先通知|home_eventendnotice_pu_01^本活动将在<color=#757bab>{0:D4}/{1:D2}/{2:D2} {3:D2}:{4:D2}</color>结束|home_eventendnotice_pu_02^活动报酬|home_eventendnotice_pu_03^距离获得报酬卡片|home_eventendnotice_pu_04^<color=#ｆｆ0098>{0}</color> pt|home_eventendnotice_pu_05^距离下个报酬|home_eventendnotice_pu_06^获得下个报酬需要花费硬币数|home_eventendnotice_pu_07^<color=#666666>已获得所有累积活动pt报酬</color>|home_eventendnotice_pu_08^<color=#666666>已获得所有累积花费代币报酬</color>|home_eventendnotice_pu_09^下次不再显示|home_eventendnotice_pu_10^<color=#666666>之后可在剧场＞导航＞系统设置中更改</color>|home_eventendnotice_pu_11^前往活动|home_eventendnotice_pu_12^<color=#ｆｆ0098>{0}</color> 枚|home_eventendnotice_pu_13^持有{0}|home_eventendnotice_pu_14^{0}枚|home_eventendnotice_pu_15^距离获得卡片还需消耗硬币|home_eventendnotice_pu_16^今天不再显示|home_eventendnotice_pu_17^<color=#666666>之后可在剧场＞导航＞系统设置中更改弹窗的显示设置</color>|home_main_menu_0^训练|home_main_menu_1^手机|home_main_menu_2^任务|home_main_menu_3^礼物|home_main_menu_4^公告|home_main_menu_5^造型|home_main_menu_6^BOT通行证|home_sub_menu_0^花篮|home_sub_menu_1^交流室|home_sub_menu_2^同僚|home_sub_menu_3^音频|home_sub_menu_4^美咲笔记|home_sub_menu_6^系统设定|home_move_menu^设施移动|home_sub_menu_7^服装购买|home_sub_menu_8^歌曲购买|home_sub_menu_9^道具交换|home_sub_menu_10^活动道具|home_sub_menu_10b^交换所|home_sub_menu_11^眼镜
+僭越ながら私、青羽美咲がアドバイスさせていただきます♪|home_misakimemo_pu_label_00^面向新手制作人|home_misakimemo_pu_label_01^面向精明制作人|home_misakimemo_pu_header_00^返回|home_misakimemo_pu_header_01^关闭|home_misakimemo_pu_footer_00^上一篇|home_misakimemo_pu_footer_01^下一篇|home_eventendnotice_pu_00^活动结束的事先通知|home_eventendnotice_pu_01^本活动将在<color=#757bab>{0:D4}/{1:D2}/{2:D2} {3:D2}:{4:D2}</color>结束|home_eventendnotice_pu_02^活动报酬|home_eventendnotice_pu_03^距离获得报酬卡片|home_eventendnotice_pu_04^<color=#ｆｆ0098>{0}</color> pt|home_eventendnotice_pu_05^距离下个报酬|home_eventendnotice_pu_06^获得下个报酬需要花费硬币数|home_eventendnotice_pu_07^<color=#666666>已获得所有累积活动pt报酬</color>|home_eventendnotice_pu_08^<color=#666666>已获得所有累积花费代币报酬</color>|home_eventendnotice_pu_09^下次不再显示|home_eventendnotice_pu_10^<color=#666666>之后可在剧场＞导览＞系统设置中更改</color>|home_eventendnotice_pu_11^前往活动|home_eventendnotice_pu_12^<color=#ｆｆ0098>{0}</color> 枚|home_eventendnotice_pu_13^持有{0}|home_eventendnotice_pu_14^{0}枚|home_eventendnotice_pu_15^距离获得卡片还需消耗硬币|home_eventendnotice_pu_16^今天不再显示|home_eventendnotice_pu_17^<color=#666666>之后可在剧场＞导览＞系统设置中更改弹窗的显示设置</color>|home_main_menu_0^训练|home_main_menu_1^手机|home_main_menu_2^任务|home_main_menu_3^礼物|home_main_menu_4^公告|home_main_menu_5^造型|home_main_menu_6^BOT通行证|home_sub_menu_0^花篮|home_sub_menu_1^交流室|home_sub_menu_2^同僚|home_sub_menu_3^音频|home_sub_menu_4^美咲笔记|home_sub_menu_6^系统设定|home_move_menu^前往设施|home_sub_menu_7^服装购买|home_sub_menu_8^歌曲购买|home_sub_menu_9^道具交换|home_sub_menu_10^活动道具|home_sub_menu_10b^交换所|home_sub_menu_11^眼镜
 造型|home_pst_exchange_jump_notice_00^确认|home_pst_exchange_jump_notice_01^イベントアイテム交換へ移動します
 よろしいですか？|home_pst_exchange_jump_notice_02^下次不再显示|home_force_event_reward_title^活动报酬|home_force_event_reward_msg_0^イベント「{0}」の報酬が付与されました|home_force_event_reward_msg_0_1^イベント
 「{0}{1}」
@@ -7670,7 +7666,7 @@ Off Vocalは、「コミュ＞イベント＞思い出」で「思い出ピー�
 
 ▼注意事項
 ※アイテムの販売期間・プロデューサー名変更期間は予告なく変更する場合がございます。
-※パネル・サンクスロールへ掲載できるプロデューサー名エントリーパスはプロデューサー名変更期間が終了すると消滅いたします。|present_title_00^礼物|present_title_01^プレゼント受け取り履歴|present_sort_title_00^筛选|present_sort_head_00^领取期限|present_sort_head_01^プレゼント種類|present_sort_head_02^レア度|present_sort_head_03^タイプ|present_sort_000^全部|present_sort_001^有期限|present_sort_002^没有期限|present_sort_003^卡片|present_sort_004^道具|present_sort_005^资金|present_sort_006^其它|present_sort_007^SSレア|present_sort_008^Sレア|present_sort_009^レア|present_sort_010^ノーマル|present_sort_100^新しい順|present_sort_101^古い順|present_02^礼物|present_03^扭蛋|present_04^领取|present_05^受け取り履歴|present_06^全部领取|present_07^未受け取り一覧|present_08^获得时间|present_09^期限が切れたプレゼントは自動的に消滅します。
+※パネル・サンクスロールへ掲載できるプロデューサー名エントリーパスはプロデューサー名変更期間が終了すると消滅いたします。|present_title_00^礼物|present_title_01^プレゼント受け取り履歴|present_sort_title_00^筛选|present_sort_head_00^领取期限|present_sort_head_01^プレゼント種類|present_sort_head_02^レア度|present_sort_head_03^タイプ|present_sort_000^全部|present_sort_001^有期限|present_sort_002^没有期限|present_sort_003^卡片|present_sort_004^道具|present_sort_005^资金|present_sort_006^其它|present_sort_007^SSレア|present_sort_008^Sレア|present_sort_009^レア|present_sort_010^ノーマル|present_sort_100^新しい順|present_sort_101^古い順|present_02^礼物|present_03^扭蛋|present_04^领取|present_05^领取历史|present_06^全部领取|present_07^未受け取り一覧|present_08^获得时间|present_09^期限が切れたプレゼントは自動的に消滅します。
 一度に受け取ることができるプレゼントは{0}件までです|present_10^プレゼント受け取り履歴は、受け取ってから１週間以内のプレゼントを最大で{0}件まで確認できます|present_11^已领取|present_12^プレゼントは届いていません|present_13^プレゼントの受け取り履歴はありません|present_14^プレゼント情報を取得できませんでした
 一度、閉じてから再度、開きなおしてください|present_15^ガシャ受け取り履歴は、１週間以内のプラチナガシャの結果を最大で500件まで確認できます|present_16^ガシャの受け取り履歴はありません|present_timer_00^没有期限|present_timer_01^剩余{0}天|present_timer_02^剩余{0}小时|present_timer_03^剩余{0}分钟|present_popup_receive_title^礼物领取|present_popup_receive_00^プレゼントを新しいものから{0}件まで受け取ります
 （受け取り期限の近いものから優先して受け取ります）
@@ -7691,7 +7687,7 @@ Off Vocalは、「コミュ＞イベント＞思い出」で「思い出ピー�
 已持有的卡片和道具已自动转换
 
 {0}|present_pop_msg_19^由于已拥有道具，已转换为其它道具。|present_pop_msg_20^由于已拥有道具，已转换为其它道具|present_pop_title_attendant_card^章节解锁|present_pop_msg_attendant_card^解锁了{0}的章节剧情|present_pop_warn_attendant_card^章节可以在剧情的「特殊」界面中播放|present_pop_btn01_attendant_card^前往剧情|present_pop_rcv_msg_0^称号 {0}个|present_pop_rcv_msg_1^N卡片 {0}张|present_pop_rcv_msg_2^R卡片 {0}张|present_pop_rcv_msg_3^SR卡片 {0}张|present_pop_rcv_msg_4^SSR卡片 {0}张|present_pop_rcv_msg_7^带PST Logo的SR卡片 {0}张|present_pop_item_group_0^觉醒道具|present_pop_rcv_costume^服装 {0}件|present_pop_nds_0_tab^筛选|present_pop_nds_0_label_0^目标|present_pop_nds_0_0_0^全部|present_pop_nds_0_0_1^卡片|present_pop_nds_0_0_2^道具|present_pop_nds_0_0_3^资金|present_pop_nds_0_0_4^其它|present_pop_nds_0_0_5^道具（AUTO LIVE PASS除外）|present_pop_nds_0_label_1^领取期限|present_pop_nds_0_1_0^有期限|present_pop_nds_0_1_1^没有期限|present_pop_nds_1_tab^排序|present_pop_nds_1_label_0^排序|present_pop_nds_1_0_0^获得时间|present_pop_nds_1_0_1^领取期限|present_costume_exchange_pu_title^服装交换确认|present_costume_exchange_pu_msg^领取了服装兑换券
-可以在剧场＞导航＞商店＞高级通行证交换所＞服装交换中交换服装
+可以在剧场＞导览＞商店＞高级通行证交换所＞服装交换中交换服装
 要移动到服装交换吗？|present_costume_exchange_pu_button^前往服装交换|panelmission_title^面板任务|panelmission_desc^報酬は楽曲以外プレゼントから受け取れます|panelmission_00^注意事项|panelmission_tab_02^周常|panelmission_tab_03^一般|panelmission_tab_04^期间限定|panelmission_02^报酬|panelmission_03^详情|panelmission_05^限制|panelmission_06^任务完成数|panelmission_07^1st|panelmission_08^2nd|panelmission_09^3rd|panelmission_20^下载失败
 将返回剧场|panelmission_attention_00^关于面板任务的完成条件|panelmission_attention_01^・パネルミッションの達成条件に関して
 2ndパネルのミッションのうち「メインコミュ第3話を見よう」、「2日目もログインしよう」以外のミッションは、2ndパネル解放後にそれぞれの条件を達成する必要があります
@@ -7814,7 +7810,7 @@ CENTER效果|idol_unit_stg_pop_label_2^技能|idol_unit_stg_pop_label_3^技能Lv
 よろしいですか？|idol_awk_lsn_multi_confirm_pu_label01^觉醒卡片|idol_awk_lsn_multi_confirm_pu_label02^需要道具|idol_awk_lsn_multi_confirm_pu_warn01^将不会播放觉醒演出|idol_awk_lsn_multi_confirm_pu_warn02^<color=#666666>觉醒演出可以在偶像＞偶像详情＞演出中查看</color>|idol_awk_lsn_multi_result_pu_title^批量觉醒结果|idol_awk_lsn_multi_another_appeal_pu_msg^解锁了以下偶像的ANOTHER APPEAL|idol_awk_lsn_multi_another_appeal_pu_idol_separator^・{0}|idol_awk_lsn_multi_episode_pu_msg^解锁了以下偶像的章节剧情|idol_awk_lsn_multi_episode_pu_idol_separator^・{0}|idol_awk_lsn_pop_button_guest^前往嘉宾剧情|idol_awk_lsn_pop_button_idol^前往偶像剧情|idol_mst_lsn_pu_anv_00^生命值|idol_mst_lsn_pu_anv_01^VOCAL|idol_mst_lsn_pu_anv_02^DANCE|idol_mst_lsn_pu_anv_03^VISUAL|idol_mst_lsn_pu_anv_04^星级|idol_mst_lsn_pu_anv_05^稀有度|idol_mst_lsn_pu_anv_rarity_00^SR+|idol_mst_lsn_pu_anv_rarity_01^SSR+|idol_mst_lsn_pu_anv_msg_00^SSR+までマスターレッスンが完了しました！|idol_awk_lsn_title_0^觉醒|idol_awk_lsn_desc_0^カードを覚醒することができます|idol_awk_lsn_tab_0^覚醒可能|idol_awk_lsn_tab_1^未觉醒|idol_awk_lsn_msg_0^找不到符合条件的卡片|idol_awk_lsn_msg_1^覚醒可能なカードがありません|idol_awk_lsn_msg_2^{0}/{1}|idol_awk_lsn_msg_3^このカードは2月中旬の「プラチナスターツアースペシャル」
 イベント開催後より覚醒できるようになります|idol_awk_lsn_label_0^使用数|idol_awk_lsn_label_1^持有数|idol_awk_lsn_label_2^覚醒pt未達成|idol_awk_lsn_btn_0^觉醒|idol_awk_lsn_pop_title_0^覚醒確認|idol_awk_lsn_pop_head_0^覚醒カード|idol_awk_lsn_pop_head_1^必要アイテム|idol_awk_lsn_pop_msg_0^覚醒を行います。よろしいですか？|idol_awk_lsn_title_1^覚醒結果|idol_awk_lsn_desc_1^覚醒で成長したカードの確認が出来ます|idol_awk_lsn_pop_title_1^エピソードコミュ解放|idol_awk_lsn_pop_msg_1^{0}の
 エピソードコミュが解放されました|idol_awk_lsn_pop_button_0^前往剧情|idol_card_list_title^卡片一览|idol_card_list_desc^タッチで詳細を確認できます|idol_card_list_tab0^持有卡片|idol_card_list_tab1^所有卡片|idol_card_list_regist_label_0^已获得的卡片|idol_card_list_regist_label_1^持有卡片|idol_card_list_regist_text_0^{0:D3}/{1:D3}|idol_card_list_regist_text_1^{0}|idol_card_list_costume_title^服装一览|idol_card_list_tab2^持有服装|idol_card_list_tab3^所有服装|idol_card_list_regist_label_2^已获得的服装|idol_card_list_regist_label_3^持有服装|idol_card_list_common_button_0^排序|idol_detail_title^偶像详情|idol_detail_desc^可以查看偶像的信息|idol_detail_tab_0^卡片|idol_detail_tab_1^语音|idol_detail_tab_2^演出|idol_detail_tab_3^资料|idol_detail_tab_4^服装|idol_detail_common_costume_0^私服|idol_detail_common_costume_1^训练服|idol_detail_label_0_0^[共通] {0}|idol_detail_label_0_1^【ボイス数】|idol_detail_label_0_2^再生できるボイスはありません|idol_detail_label_0_3^[専用] {0}|idol_detail_label_1_0^[共通] {0}|idol_detail_label_1_3^[CH@T] {0}|idol_detail_label_1_5^[メール] {0}|idol_detail_label_1_1^再生できる演出はありません|idol_detail_label_1_7^表示できるCH@Tはありません|idol_detail_label_1_8^表示できるメールはありません|idol_detail_label_1_2^【演出数】|idol_detail_label_1_4^【CH@T数】|idol_detail_label_1_6^【メール数】|idol_detail_label_mail_title_format^{0}
-{1}|idol_detail_label_2_0^亲爱度|idol_detail_label_2_1^获得卡片数|idol_detail_label_2_2^粉丝数|idol_detail_label_2_2_guest^Exファン数|idol_detail_label_2_3^解锁剧情数|idol_detail_label_3_0^找不到符合条件的卡片|idol_detail_label_3_1^対象の衣装がありません|idol_detail_btn_0^ドレスアップ|idol_detail_guest_msg_0^961プロダクション所属|idol_detail_talk_title_rounding^…|idol_pop_detail_title^筛选|idol_pop_viewer_title_0^衣装がありません|idol_pop_viewer_msg_0^対象のアイドルの衣装を所持していないため
+{1}|idol_detail_label_2_0^亲爱度|idol_detail_label_2_1^获得卡片数|idol_detail_label_2_2^粉丝数|idol_detail_label_2_2_guest^Exファン数|idol_detail_label_2_3^解锁剧情数|idol_detail_label_3_0^找不到符合条件的卡片|idol_detail_label_3_1^対象の衣装がありません|idol_detail_btn_0^着装|idol_detail_guest_msg_0^961プロダクション所属|idol_detail_talk_title_rounding^…|idol_pop_detail_title^筛选|idol_pop_viewer_title_0^衣装がありません|idol_pop_viewer_msg_0^対象のアイドルの衣装を所持していないため
 ドレスアップルームを利用できません
 
 イベントアイテム交換所で衣装付きカードを
@@ -7972,7 +7968,7 @@ CENTER效果|idol_unit_stg_pop_label_2^技能|idol_unit_stg_pop_label_3^技能Lv
 よろしいですか？|idol_dress_pop_viewer_check_pu1_2_msg^設定を反映せずにアナザーキネマティクス／揺れの設定画面へ移動します
 よろしいですか？|idol_dress_pop_viewer_title_1^没有服装|idol_dress_pop_viewer_msg_1^由于未持有选定的偶像的服装，无法使用此功能
 
-要使用此功能，可以在「剧场＞导航＞商店＞活动交换所＞一般活动」中的『Platinum Star Twin Stage Special ～Legit Crossover～』交换附带服装的卡片|idol_dress_btn_anotherkinematics_level_title^ANOTHER KINEMATICS／晃动|idol_dress_btn_anotherkinematics_hair_title^头发<size=16>(呆毛)</size>|idol_dress_btn_anotherkinematics_hair_level_0^关闭|idol_dress_btn_anotherkinematics_hair_level_1^弱|idol_dress_btn_anotherkinematics_hair_level_2^中|idol_dress_btn_anotherkinematics_hair_level_3^强|idol_dress_btn_anotherkinematics_body_title^身体<size=16>(胸部)</size>|idol_dress_btn_anotherkinematics_body_level_0^关闭|idol_dress_btn_anotherkinematics_body_level_1^弱|idol_dress_btn_anotherkinematics_body_level_2^中|idol_dress_btn_anotherkinematics_body_level_3^强|idol_dress_btn_anotherkinematics_costume_title^服装<size=16>(垂在腰部以下的部分)</size>|idol_dress_btn_anotherkinematics_costume_level_0^关闭|idol_dress_btn_anotherkinematics_costume_level_1^弱|idol_dress_btn_anotherkinematics_costume_level_2^中|idol_dress_btn_anotherkinematics_costume_level_3^强|idol_dress_btn_set_anotherkinematics_level^应用设置|idol_dress_btn_warning_anotherkinematics_no_support_idol^非対応のアイドルです|idol_dress_btn_warning_anotherkinematics_no_support_hair^非対応のヘアスタイルです|idol_dress_btn_warning_anotherkinematics_no_support_costume^非対応の衣装です|idol_dress_btn_warning_anotherkinematics_hidden_hair^非対応の衣装です|idol_dress_btn_set_apply_and_anotherkinematics^<size=24>設定を反映して
+要使用此功能，可以在「剧场＞导览＞商店＞活动交换所＞一般活动」中的『Platinum Star Twin Stage Special ～Legit Crossover～』交换附带服装的卡片|idol_dress_btn_anotherkinematics_level_title^ANOTHER KINEMATICS／晃动|idol_dress_btn_anotherkinematics_hair_title^头发<size=16>(呆毛)</size>|idol_dress_btn_anotherkinematics_hair_level_0^关闭|idol_dress_btn_anotherkinematics_hair_level_1^弱|idol_dress_btn_anotherkinematics_hair_level_2^中|idol_dress_btn_anotherkinematics_hair_level_3^强|idol_dress_btn_anotherkinematics_body_title^身体<size=16>(胸部)</size>|idol_dress_btn_anotherkinematics_body_level_0^关闭|idol_dress_btn_anotherkinematics_body_level_1^弱|idol_dress_btn_anotherkinematics_body_level_2^中|idol_dress_btn_anotherkinematics_body_level_3^强|idol_dress_btn_anotherkinematics_costume_title^服装<size=16>(垂在腰部以下的部分)</size>|idol_dress_btn_anotherkinematics_costume_level_0^关闭|idol_dress_btn_anotherkinematics_costume_level_1^弱|idol_dress_btn_anotherkinematics_costume_level_2^中|idol_dress_btn_anotherkinematics_costume_level_3^强|idol_dress_btn_set_anotherkinematics_level^应用设置|idol_dress_btn_warning_anotherkinematics_no_support_idol^非対応のアイドルです|idol_dress_btn_warning_anotherkinematics_no_support_hair^非対応のヘアスタイルです|idol_dress_btn_warning_anotherkinematics_no_support_costume^非対応の衣装です|idol_dress_btn_warning_anotherkinematics_hidden_hair^非対応の衣装です|idol_dress_btn_set_apply_and_anotherkinematics^<size=24>設定を反映して
 揺れの設定へ</size>|idol_dress_btn_set_apply_and_theater^設定を反映して劇場へ|idol_gift_title^礼物道具选择|idol_gift_desc^请选择要送给偶像的礼物道具|idol_gift_tab_0^亲爱度礼物|idol_gift_tab_1^觉醒pt礼物|idol_gift_button_0^赠送|idol_gift_item_label_00^持有数|idol_gift_item_label_01^效果|idol_gift_item_msg_00^{0}年{1}月{2}日 {3}点{4}分之前可以使用|idol_gift_item_msg_01^没有道具|idol_gift_item_msg_03^{0} {1}|idol_pop_gift_select_title_0^偶像选择|idol_pop_gift_select_title_1^卡片选择|idol_pop_gift_button_sub10^-10|idol_pop_gift_button_add10^+10|idol_pop_gift_item_title^道具个数选择|idol_pop_gift_item_value_00^<color=#FE58AAFF>{0}</color>▶<color=#FE58AAFF>{1}</color><color=#0AA4EAFF>(+{2})</color>|idol_pop_gift_item_msg_00^要赠送{0}吗？|idol_pop_gift_item_msg_01^親愛度 {0}UP|idol_pop_gift_item_result_title^ギフト結果|idol_pop_gift_item_result_00^+{0}|idol_pop_gift_item_result_01^メモリアル解放！|idol_pop_gift_item_result_10^<color=#FE58AAFF>{0}</color><color=#0AA4EAFF>(+{1})</color>|idol_pop_gift_item_result_11^<color=#FE58AAFF>{0}</color><color=#0AA4EAFF>(+{1}</color><color=#FE58AAFF>×2倍！</color><color=#0AA4EAFF>)</color>|idol_pop_gift_card_title^道具个数选择|idol_pop_gift_card_label_0^対象カード|idol_pop_gift_card_label_1^渡すアイテム|idol_pop_gift_card_label_2^觉醒槽|idol_pop_gift_card_value_0^{0}▶{1}<size=18>/{2}</size><color=#0AA4EAFF>(+{3})</color>|idol_pop_gift_card_value_1^还需{0}|idol_pop_gift_card_msg_00^{0}を渡します。よろしいですか？|idol_pop_gift_card_msg_01^覚醒pt {0}UP|idol_pop_gift_card_msg_10^このままアイテムを渡すと覚醒ゲージの上限を超えますがよろしいですか？|idol_pop_gift_card_result_title^ギフト結果|idol_pop_gift_card_result_button_00^覚醒画面へ|idol_pop_gift_card_result_value_0^{0}<size=18>/{1}</size><color=#0AA4EAFF>(+{2})</color>|idol_pop_gift_card_result_value_1^还需{0}|idol_pop_gift_card_result_msg_10^覚醒ゲージが上限までたまりました
 覚醒画面へ移動しますか？|idol_pop_gift_card_result_msg_10_no_confirm^覚醒ゲージが上限までたまりました|idol_pop_gift_nds_title^排序|idol_pop_gift_nds_tab_0^筛选|idol_pop_gift_nds_tab_1^排序|idol_pop_gift_nds_label_0^目标|idol_pop_gift_nds_label_0_0^偶像名|idol_pop_gift_nds_label_0_1^嘉宾名|idol_pop_gift_nds_label_1^排序|idol_pop_gift_nds_label_1_0^亲爱度|idol_pop_gift_nds_label_1_1^偶像|idol_pop_card_detail_title^卡片详情|idol_pop_card_detail_tab_0^属性|idol_pop_card_detail_tab_1^资料|idol_pop_card_detail_prof_0^なまえ|idol_pop_card_detail_prof_1^身高|idol_pop_card_detail_prof_2^年龄|idol_pop_card_detail_prof_3^体重|idol_pop_card_detail_prof_4^生日|idol_pop_card_detail_prof_5^血型|idol_pop_card_detail_prof_6^惯用手|idol_pop_card_detail_prof_7^三围|idol_pop_card_detail_prof_8^星座|idol_pop_card_detail_prof_9^出身|idol_pop_card_detail_prof_10^爱好|idol_pop_card_detail_prof_11^特技|idol_pop_card_detail_prof_12^喜好|idol_pop_card_detail_prof_13^CV|idol_pop_card_detail_label_0^还需 {0}|idol_pop_card_detail_label_1^已觉醒|idol_pop_card_detail_status_0^Lv|idol_pop_card_detail_status_1^觉醒槽|idol_pop_card_detail_status_2^CENTER效果|idol_pop_card_detail_status_3^技能|idol_pop_card_detail_status_4^技能Lv|idol_pop_card_detail_status_5^入手日時|idol_pop_card_detail_msg_0^LvとスキルLvとマスターランクが最大時のステータスです
 このカードはまだ獲得していません|idol_pop_card_detail_msg_1^未獲得カードです|idol_pop_card_detail_awakening_change_0^觉醒前|idol_pop_card_detail_awakening_change_1^觉醒后|idol_pop_costume_detail_title^服装详情|idol_pop_common_nas_tab_0^筛选|idol_pop_common_nas_tab_1^排序|idol_pop_common_nas_label_0^偶像名|idol_pop_common_nas_label_1^目标|idol_pop_common_nas_label_2^Ex|idol_pop_common_nas_label_3^嘉宾名|idol_pop_common_nas_title^排序|idol_pop_card_nas_label_0^觉醒状态|idol_pop_card_nas_label_0_0^觉醒|idol_pop_card_nas_label_0_1^未觉醒|idol_pop_card_nas_label_1^CENTER效果|idol_pop_card_nas_label_1_0^所有APPEAL值上升|idol_pop_card_nas_label_1_1^VOCAL值上升|idol_pop_card_nas_label_1_2^DANCE值上升|idol_pop_card_nas_label_1_3^VISUAL值上升|idol_pop_card_nas_label_1_4^生命值上升|idol_pop_card_nas_label_1_5^技能发动率上升|idol_pop_card_nas_label_2^技能|idol_pop_card_nas_label_2_0^分数上升|idol_pop_card_nas_label_2_1^连击加成|idol_pop_card_nas_label_2_2^生命值回复|idol_pop_card_nas_label_2_3^伤害减免|idol_pop_card_nas_label_2_4^维持连击|idol_pop_card_nas_label_2_5^判定强化|idol_pop_card_nas_label_2_6^双重提升|idol_pop_card_nas_skill_bulk^选择所有{0}类技能|idol_pop_card_nas_label_3^资料|idol_pop_card_nas_label_3_0^身高|idol_pop_card_nas_label_3_0_0^{0}cm以下|idol_pop_card_nas_label_3_0_1^{0}cm～{1}cm|idol_pop_card_nas_label_3_0_2^{0}cm以上|idol_pop_card_nas_label_3_1^年龄|idol_pop_card_nas_label_3_1_0^{0}岁以下|idol_pop_card_nas_label_3_1_1^{0}岁～{1}岁|idol_pop_card_nas_label_3_1_2^{0}岁以上|idol_pop_card_nas_label_3_2^出生月份|idol_pop_card_nas_label_3_2_0^1月|idol_pop_card_nas_label_3_2_1^2月|idol_pop_card_nas_label_3_2_2^3月|idol_pop_card_nas_label_3_2_3^4月|idol_pop_card_nas_label_3_2_4^5月|idol_pop_card_nas_label_3_2_5^6月|idol_pop_card_nas_label_3_2_6^7月|idol_pop_card_nas_label_3_2_7^8月|idol_pop_card_nas_label_3_2_8^9月|idol_pop_card_nas_label_3_2_9^10月|idol_pop_card_nas_label_3_2_10^11月|idol_pop_card_nas_label_3_2_11^12月|idol_pop_card_nas_label_3_3^血型|idol_pop_card_nas_label_3_3_0^A|idol_pop_card_nas_label_3_3_1^B|idol_pop_card_nas_label_3_3_2^O|idol_pop_card_nas_label_3_3_3^AB|idol_pop_card_nas_label_3_4_0^胸围|idol_pop_card_nas_label_3_4_1^腰围|idol_pop_card_nas_label_3_4_2^臀围|idol_pop_card_nas_label_4^类别|idol_pop_card_nas_label_4_0^一般|idol_pop_card_nas_label_4_1^PST|idol_pop_card_nas_label_4_2^FES|idol_pop_card_nas_label_4_3^1st|idol_pop_card_nas_label_4_4^2nd|idol_pop_card_nas_label_4_5^3rd|idol_pop_card_nas_label_4_6^4th|idol_pop_card_nas_label_4_7^SHS|idol_pop_card_nas_label_4_8^5th|idol_pop_card_nas_label_4_9^PR|idol_pop_card_nas_label_4_11^6th|idol_pop_card_nas_label_4_12^LNK|idol_pop_card_nas_label_4_13^7th|idol_pop_card_nas_label_4_14^8th|idol_pop_card_nas_label_4_15^VC|idol_pop_card_nas_label_3_9_99^未指定|idol_pop_card_nas_label_10^排序|idol_pop_card_nas_label_10_0^登场时间|idol_pop_card_nas_label_10_1^获得时间|idol_pop_card_nas_label_10_2^稀有度|idol_pop_card_nas_label_10_3^卡片Lv|idol_pop_card_nas_label_10_4^觉醒pt|idol_pop_card_nas_label_10_5^技能Lv|idol_pop_card_nas_label_10_6^MASTER星级|idol_pop_card_nas_label_10_7^亲爱度|idol_pop_card_nas_label_10_8^粉丝数|idol_pop_card_nas_label_10_9^偶像|idol_pop_card_nas_label_10_10^MASTER星级状态|idol_pop_card_nas_label_11_0^MASTER星级5追加|idol_pop_card_nas_label_12^優先|idol_pop_card_nas_label_12_0^グループABC順を優先する|idol_pop_card_nas_msg_0^仅显示稀有度为SSR的卡片。|idol_pop_costume_nas_label_0^类别|idol_pop_costume_nas_label_0_0^共通|idol_pop_costume_nas_label_0_1^专用|idol_pop_costume_nas_label_0_2^组合|idol_pop_costume_nas_label_0_3^シアター
@@ -8139,7 +8135,7 @@ CENTER效果|idol_unit_stg_pop_label_2^技能|idol_unit_stg_pop_label_3^技能Lv
 解锁Day{3}的组合Talk吗？|story_unittalk_pu_20_title^组合Talk信息|story_unittalk_pu_20_msg_00^初次阅读Day{0}的所有组合Talk
 可以获得以下的报酬|story_unittalk_pu_20_msg_10^使用以下的道具
 可以解锁Day{0}的所有组合Talk|story_unittalk_pu_30_title^组合Talk信息|story_unittalk_pu_30_msg_00^已解锁「{0}」的Day{1}的
-所有组合Talk|story_unittalk_pu_40_title^组合Talk报酬|story_offer_title^OFFER剧情|story_offer_desc^可以查看OFFER的剧情|story_offer_00^？？？？？？|story_offer_01^没有符合条件的OFFER|story_offer_02^「{0}」を完了する|story_offer_03^「{0}」を完了する|story_offer_04^、|story_offer_05^前往OFFER|story_extra_title^特别剧情|story_extra_desc^可以查看各种剧情|story_extra_00^没有已解锁的特别剧情|story_special_pop_sort_title^排序|story_special_pop_sort_tab_0_label_0^类别|story_special_pop_sort_tab_0_label_0_1^现实活动|story_special_pop_sort_tab_0_label_0_2^服装剧情|story_special_pop_sort_tab_0_label_0_3^FES剧情|story_special_pop_sort_tab_0_label_0_4^LIVE纪念|story_special_pop_sort_tab_0_label_0_5^其它|story_topics_title^其它|story_topics_desc_00^アイドルのヒミツはこちらから確認できます|story_topics_desc_01^劇場のヒミツはこちらから確認できます|story_topics_desc_02^オフショットはこちらから確認できます|story_topics_desc_03^4コマはこちらから確認できます|story_topics_desc_04^可以查看偶像和剧场的信息|story_topics_tab_00^偶像|story_topics_tab_01^剧场|story_topics_tab_02^剧场幕后|story_topics_tab_03^四格|story_topics_filter_title_00^タイプ別フィルター|story_topics_filter_head_00^类型|story_topics_filter_btn^筛选|story_topics_filter_popup_btn^搜索|story_topics_00^{0}的秘密|story_topics_01^New|story_topics_10^一览|story_topics_popup_00^没有可以显示的信息|story_topics_popup_10^秘密|story_topics_popup_11^剧场幕后|story_topics_popup_12^四格|story_topics_popup_13^白板|story_topics_name_101^音无 小鸟|story_topics_name_102^青羽 美咲|story_topics_name_103^高木 顺二朗|story_topics_name_900^|story_topics_name_901^|story_topics_name_902^|story_topics_name_903^休息室|story_topics_name_904^入口大厅|story_topics_name_905^ドレスアップ|story_topics_name_906^办公室|story_topics_name_907^泛用|story_topics_name_908^剧场|story_hitokoma_name_101^音無 小鳥|story_hitokoma_name_102^青羽 美咲|story_hitokoma_name_908^剧场|story_yonkoma_name_101^音無 小鳥|story_yonkoma_name_102^青羽 美咲|story_yonkoma_name_908^剧场|story_advanced_title^高级剧情|story_advanced_desc^可以查看高级剧情|story_main_group_release_msg_01^メインコミュ 第1話「<color=#FF004FFF>メイン</color>」
+所有组合Talk|story_unittalk_pu_40_title^组合Talk报酬|story_offer_title^OFFER剧情|story_offer_desc^可以查看OFFER的剧情|story_offer_00^？？？？？？|story_offer_01^没有符合条件的OFFER|story_offer_02^「{0}」を完了する|story_offer_03^「{0}」を完了する|story_offer_04^、|story_offer_05^前往OFFER|story_extra_title^特别剧情|story_extra_desc^可以查看各种剧情|story_extra_00^没有已解锁的特别剧情|story_special_pop_sort_title^排序|story_special_pop_sort_tab_0_label_0^类别|story_special_pop_sort_tab_0_label_0_1^现实活动|story_special_pop_sort_tab_0_label_0_2^服装剧情|story_special_pop_sort_tab_0_label_0_3^FES剧情|story_special_pop_sort_tab_0_label_0_4^LIVE纪念|story_special_pop_sort_tab_0_label_0_5^其它|story_topics_title^其它|story_topics_desc_00^アイドルのヒミツはこちらから確認できます|story_topics_desc_01^劇場のヒミツはこちらから確認できます|story_topics_desc_02^オフショットはこちらから確認できます|story_topics_desc_03^4コマはこちらから確認できます|story_topics_desc_04^可以查看偶像和剧场的信息|story_topics_tab_00^偶像|story_topics_tab_01^剧场|story_topics_tab_02^剧场幕后|story_topics_tab_03^四格|story_topics_filter_title_00^タイプ別フィルター|story_topics_filter_head_00^类型|story_topics_filter_btn^筛选|story_topics_filter_popup_btn^搜索|story_topics_00^{0}的秘密|story_topics_01^New|story_topics_10^一览|story_topics_popup_00^没有可以显示的信息|story_topics_popup_10^秘密|story_topics_popup_11^剧场幕后|story_topics_popup_12^四格|story_topics_popup_13^白板|story_topics_name_101^音无 小鸟|story_topics_name_102^青羽 美咲|story_topics_name_103^高木 顺二朗|story_topics_name_900^|story_topics_name_901^|story_topics_name_902^|story_topics_name_903^休息室|story_topics_name_904^入口大厅|story_topics_name_905^着装|story_topics_name_906^办公室|story_topics_name_907^泛用|story_topics_name_908^剧场|story_hitokoma_name_101^音無 小鳥|story_hitokoma_name_102^青羽 美咲|story_hitokoma_name_908^剧场|story_yonkoma_name_101^音無 小鳥|story_yonkoma_name_102^青羽 美咲|story_yonkoma_name_908^剧场|story_advanced_title^高级剧情|story_advanced_desc^可以查看高级剧情|story_main_group_release_msg_01^メインコミュ 第1話「<color=#FF004FFF>メイン</color>」
 を再生する|story_main_story_release_msg_01^メインコミュ 第1話「<color=#FF004FFF>メイン</color>」
 を再生する|story_chapter_release_msg_main^メインコミュ 第{0}話「<color=#FF004FFF>プロローグ</color>」
 を再生する|story_chapter_release_msg_epilogue^メインコミュ 第{0}話「<color=#FF004FFF>メイン</color>」
@@ -8149,7 +8145,7 @@ CENTER效果|idol_unit_stg_pop_label_2^技能|idol_unit_stg_pop_label_3^技能Lv
 
 ※请在信号良好的地方进行下载
 　推荐在Wi-Fi环境下下载|story_event_adv_dl_popup_msg_01^设备上的空闲容量不足
-请确认空闲容量|story_event_adv_dl_popup_msg_02^数据下载完成|live_select_tab_00^一般|live_select_tab_01^特別|live_select_tab_02^活动|live_pop_song_nas_tab_0^筛选|live_pop_song_nas_tab_1^排序|live_pop_song_nas_title^排序|live_pop_song_nas_label_0^目标歌曲|live_pop_song_nas_label_0_0^All
+请确认空闲容量|story_event_adv_dl_popup_msg_02^数据下载完成|live_select_tab_00^一般|live_select_tab_01^特別|live_select_tab_02^活动|live_pop_song_nas_tab_0^筛选|live_pop_song_nas_tab_1^排序|live_pop_song_nas_title^筛选/排序|live_pop_song_nas_label_0^目标歌曲|live_pop_song_nas_label_0_0^All
 类型歌曲|live_pop_song_nas_label_0_1^Princess
 类型歌曲|live_pop_song_nas_label_0_2^Fairy
 类型歌曲|live_pop_song_nas_label_0_3^Angel
@@ -8179,7 +8175,7 @@ S评级未达成|live_pop_song_nas_label_4^推荐|live_pop_song_nas_label_4_1^�
 在剧情功能的主线剧情一览界面点击「连续播放」，可以「剧场接触」「序章」「本篇」「终章」的顺序播放解锁的剧情。
 
 ※即使设置了下列选项，「剧场接触」依然会播放语音
-　・将导航＞系统设置＞偏好＞剧情语音设置为「不显示（总是「不播放语音」）」
+　・将导览＞系统设置＞偏好＞剧情语音设置为「不显示（总是「不播放语音」）」
 　・「连续播放」中选择「不播放语音」|live_song_unreleased_13_1^制作人Lv|live_song_unreleased_13_2^制作人Lv可以通过LIVE和工作获得经验值来提升。
 升级可以提高体力和同僚数的上限，同时还会回复等同于体力上限值的体力。
 部分剧情需要达到一定Lv才能解锁。|live_song_unreleased_14_1^主线剧情|live_song_unreleased_14_2^在主线剧情中可以查看与偶像们创造的故事。
@@ -8515,7 +8511,7 @@ CLEAR|live_sr_popup_dtl_04^SCORE <color=#FF0098FF>{0}</color> 以上|live_sr_pop
 
 2D：
 以2D的偶像或卡面图作为背景进行LIVE
-※渲染压力最低|livesetting_screen_quality_live_001^LIVE画质|livesetting_screen_quality_live_002^3D高画质|livesetting_screen_quality_live_003^3D标准|livesetting_screen_quality_live_004^3D轻量|livesetting_screen_quality_live_005^3D超轻量|livesetting_screen_quality_live_006^2D|livesetting_screen_quality_autolive_001^AUTO LIVE画质|livesetting_screen_quality_autolive_002^3D高画质|livesetting_screen_quality_autolive_003^3D标准|livesetting_screen_quality_autolive_004^3D轻量|livesetting_screen_quality_autolive_005^3D超轻量|livesetting_screen_quality_autolive_006^2D|livesetting_screen_quality_mv_001^MV画质|livesetting_screen_quality_mv_002^3D高画质|livesetting_screen_quality_mv_003^3D标准|livesetting_screen_quality_mv_004^3D轻量|livesetting_screen_quality_mv_005^3D超轻量|livesetting_screen_quality_mv_006^2D|livesetting_screen_quality_mv_allsong^将画质调整应用于所有歌曲|livesetting_screen_quality_navi_text^可以在LIVE组合确认界面中的「LIVE设置」调整歌曲各自的画质设置|livesetting_screen_mvplayback_title^MV播放|livesetting_screen_mvplayback_text_001^可以设置MV播放时，「歌词」「曲名」是否显示|livesetting_screen_mvplayback_text_002^MV歌词显示|livesetting_screen_mvplayback_001^显示|livesetting_screen_mvplayback_002^隐藏|livesetting_screen_mvplayback_text_003^MV曲名显示|livesetting_screen_mvplayback_003^显示|livesetting_screen_mvplayback_004^隐藏|livesetting_screen_skill_title^技能触发显示|livesetting_screen_skill_text_001^可以设置LIVE中是否显示技能触发|livesetting_screen_skill_001^显示|livesetting_screen_skill_002^隐藏|livesetting_screen_sololivecam_title^单人LIVE镜头|livesetting_screen_sololivecam_text_001^可以调整单人LIVE的镜头位置|livesetting_screen_sololivecam_001^上半身&全身|livesetting_screen_sololivecam_002^上半身|livesetting_screen_sololivecam_003^全身|livesetting_screen_backfilter_title^背景滤镜|livesetting_screen_backfilter_text_001^可以调整LIVE中背景的亮度|livesetting_screen_backfilter_msg_001^背景滤镜|livesetting_screen_backfilter_msg_002^可以压暗2D或3D的背景以提高音符可见度。
+※渲染压力最低|livesetting_screen_quality_live_001^LIVE画质|livesetting_screen_quality_live_002^3D高画质|livesetting_screen_quality_live_003^3D标准|livesetting_screen_quality_live_004^3D轻量|livesetting_screen_quality_live_005^3D超轻量|livesetting_screen_quality_live_006^2D|livesetting_screen_quality_autolive_001^AUTO LIVE画质|livesetting_screen_quality_autolive_002^3D高画质|livesetting_screen_quality_autolive_003^3D标准|livesetting_screen_quality_autolive_004^3D轻量|livesetting_screen_quality_autolive_005^3D超轻量|livesetting_screen_quality_autolive_006^2D|livesetting_screen_quality_mv_001^MV画质|livesetting_screen_quality_mv_002^3D高画质|livesetting_screen_quality_mv_003^3D标准|livesetting_screen_quality_mv_004^3D轻量|livesetting_screen_quality_mv_005^3D超轻量|livesetting_screen_quality_mv_006^2D|livesetting_screen_quality_mv_allsong^将画质调整应用于所有歌曲|livesetting_screen_quality_navi_text^可以在LIVE组合确认界面中的「LIVE设置」调整歌曲各自的画质设置|livesetting_screen_mvplayback_title^MV播放|livesetting_screen_mvplayback_text_001^可以设置MV播放时，「歌词」「曲名」是否显示|livesetting_screen_mvplayback_text_002^MV歌词显示|livesetting_screen_mvplayback_001^显示|livesetting_screen_mvplayback_002^隐藏|livesetting_screen_mvplayback_text_003^MV曲名显示|livesetting_screen_mvplayback_003^显示|livesetting_screen_mvplayback_004^隐藏|livesetting_screen_skill_title^技能触发显示|livesetting_screen_skill_text_001^可以设置LIVE中是否显示技能触发|livesetting_screen_skill_001^显示|livesetting_screen_skill_002^隐藏|livesetting_screen_sololivecam_title^单人LIVE镜头|livesetting_screen_sololivecam_text_001^可以调整单人LIVE的镜头位置|livesetting_screen_sololivecam_001^特写&全身|livesetting_screen_sololivecam_002^特写|livesetting_screen_sololivecam_003^全身|livesetting_screen_backfilter_title^背景滤镜|livesetting_screen_backfilter_text_001^可以调整LIVE中背景的亮度|livesetting_screen_backfilter_msg_001^背景滤镜|livesetting_screen_backfilter_msg_002^可以压暗2D或3D的背景以提高音符可见度。
 3D背景滤镜仅在存在音符时压暗背景。
 同时，勾选「AUTO LIVE中不要压暗背景」时，AUTO LIVE中将不会压暗背景。|livesetting_screen_backfilter_001^3D背景|livesetting_screen_backfilter_002^未指定|livesetting_screen_backfilter_003^略微压暗|livesetting_screen_backfilter_004^压暗|livesetting_screen_backfilter_005^2D背景|livesetting_screen_backfilter_006^未指定|livesetting_screen_backfilter_007^压暗|livesetting_screen_backfilter_008^AUTO LIVE中不要压暗背景|livesetting_screen_2dback_image_title^2D背景图片|livesetting_screen_2dback_image_text_001^可以选择作为2D背景的卡面图|livesetting_screen_2dback_image_msg_001^2D背景图片|livesetting_screen_2dback_image_msg_002^在组合编成中处在CENTER位置的卡片为SSR或VC卡片时，将会把卡面图作为2D背景显示。
 在这种情况下，此选项可以设置要显示卡片觉醒前还是觉醒后的卡面图。
@@ -12033,7 +12029,7 @@ OKマークが表示されます。|salmon_tips_head_4^スキルの準備につ�
 　　　　{1}回使用({2}/{1}回)|salmon_profile_voice3_unlock_s^解放条件：{0}を
 　　　　{1}回使用({2}/{1}回)|salmon_profile_voice2_unlock_b^解放条件：{0}を{1}回撃破({2}/{1}回)|salmon_profile_voice3_unlock_b^解放条件：{0}を{1}回撃破({2}/{1}回)|training_value_0s1_unlock^<color=#FF0000FF>{0}/{1}</color>|training_home_title^スペシャルトレーニング|training_home_tab_10^育成状況|training_home_tab_11^任务|training_home_btn_10^帮助|training_home_element_00^スペシャル
 トレーニング|training_home_element_10^未所持|training_home_element_11^引き換える|training_home_element_20^SSR育成達成！！|training_home_element_none^找不到符合条件的卡片|training_home_element_caption_10^トレーニング可能|training_home_element_caption_11^アイテム不足|training_home_element_caption_12^未所持|training_home_element_caption_13^トレーニング完了|training_home_result_title^トレーニング
-成功！|training_home_result_00^生命值|training_home_result_01^VOCAL|training_home_result_02^DANCE|training_home_result_03^VISUAL|training_home_result_04^ランク|training_home_result_05^稀有度|training_home_result_rarity_00^SR+|training_home_result_rarity_01^SSR+|training_home_result_msg_00^SSR+までトレーニング完了しました！|training_jump_home^ホームへ|training_jump_songselect^前往LIVE|training_jump_jobselect^前往工作|training_jump_storyselect2^前往剧情|training_jump_idolnormallesson^レッスンへ|training_jump_idolawakening^覚醒へ|training_jump_idolgift^ギフトへ|training_jump_option_dress^ドレスアップへ|training_jump_option_thirteen^MVへ|training_jump_option_mobile^モバイルへ|training_jump_shop^前往商店|training_jump_costumeaugment^スタイリング
+成功！|training_home_result_00^生命值|training_home_result_01^VOCAL|training_home_result_02^DANCE|training_home_result_03^VISUAL|training_home_result_04^ランク|training_home_result_05^稀有度|training_home_result_rarity_00^SR+|training_home_result_rarity_01^SSR+|training_home_result_msg_00^SSR+までトレーニング完了しました！|training_jump_home^ホームへ|training_jump_songselect^前往LIVE|training_jump_jobselect^前往工作|training_jump_storyselect2^前往剧情|training_jump_idolnormallesson^レッスンへ|training_jump_idolawakening^覚醒へ|training_jump_idolgift^ギフトへ|training_jump_option_dress^前往着装|training_jump_option_thirteen^MVへ|training_jump_option_mobile^モバイルへ|training_jump_shop^前往商店|training_jump_costumeaugment^スタイリング
 レッスン|training_pop_sort_title^排序|training_pop_sort_tab_0^筛选|training_pop_sort_tab_1^排序|training_pop_sort_tab_0_label_0^目标|training_pop_sort_tab_0_label_0_1^偶像名|training_pop_sort_tab_0_label_1^排除设置|training_pop_sort_tab_0_label_1_1^SSRまでトレーニングしたカードは除く|training_pop_sort_tab_1_label_0^排序|training_pop_sort_tab_1_label_0_1^育成可能順|training_pop_sort_tab_1_label_0_2^偶像|training_pop_sort_tab_1_label_0_3^マスターランク順|training_pop_sort_tab_1_label_0_4^ミッション進捗順|training_pop_sort_tab_1_label_1_1^育成可能アイドルを優先する|training_pop_sort_tab_0_label_2^任务|training_pop_sort_tab_0_label_2_1^センターにしてユニットライブを1回成功させよう|training_pop_sort_tab_0_label_2_2^センターにしてソロライブを1回成功させよう|training_pop_sort_tab_0_label_2_3^親愛度を50増やそう|training_pop_sort_tab_0_label_2_4^メモリアルコミュを見よう|training_pop_sort_tab_0_label_2_5^お仕事を1回しよう|training_pop_sort_tab_0_label_2_6^劇場で1回ふれあおう|training_pop_sort_tab_0_label_2_7^ユニットに入れて特定楽曲をクリアしよう|training_pop_sort_tab_0_label_2_8^覚醒しよう|training_pop_sort_tab_0_label_2_9^スキルレベルを5にしよう|training_pop_sort_tab_0_label_2_10^親愛度を200増やそう|training_pop_sort_tab_0_label_2_11^SSR+にしよう|training_pop_sort_tab_1_warning_0^スペシャルトレーニングができるアイドルは常に上部に
 未所持、トレーニング完了アイドルは常に下部に表示されます|training_exchange_10^交换确认|training_exchange_11^获得|training_exchange_12^引換可能回数|training_exchange_13^已获得|training_exchange_20^交换确认|training_exchange_21^カードを獲得しますか？
 引換可能回数 {0}枚 → <color=#FF0000FF>{1}</color>枚|training_exchange_30^引換完了|training_exchange_31^获得了卡片|training_pop_info_title^次回トレーニング用ミッション|training_pop_aaunlock_10_title^アナザーアピール解放|training_pop_aaunlock_10^{0}の
@@ -13135,12 +13131,11 @@ BOT粉丝数增加了<color=#ff0098>{0}</color>人！|eventview_bot_vote_result_
 通常楽曲よりも多くイベントptを獲得できます|eventview_event_c2_info_06_title^チケットライブについて|eventview_event_c2_info_06^チケットライブを行う事で、消費チケット数に応じて最大7倍の
 キラキラの一瞬を獲得する事ができます|eventview_event_c2_info_07_title^今回のイベントのまとめ|eventview_event_c2_info_07^通常楽曲をプレイしてキラキラの一瞬を集め、イベント楽曲を
 プレイしてイベントptを集めて豪華報酬を手に入れよう|eventview_event_c2_info_08_title^キラキラの一瞬消費量選択について|eventview_event_c2_info_08^イベント楽曲プレイ時に消費するコストを2倍、4倍から選べます
-消費数に応じてイベントptをより多く獲得する事ができます|eventview_event_c_rank_title_00^イベントランキング情報一覧|eventview_event_c_rank_desc_00^排名每隔一段时间更新|eventview_event_c_rank_rank_label^第 {0} 名|eventview_event_c_rank_main_tab_00^活动pt排名|eventview_event_c_rank_main_tab_01^最高得分排名|eventview_event_c_rank_main_tab_02^ラウンジアランキング|eventview_event_c_rank_main_item_00^【PLv】|eventview_event_c_rank_main_item_01^【累積イベントpt】|eventview_event_c_rank_main_item_02^【ハイスコア】|eventview_event_c_rank_main_item_03^【ラウンジ】|eventview_event_c_rank_main_label_00^イベントランキングは集計中です|eventview_event_c_rank_sub_label_00^【累積イベントpt】|eventview_event_c_rank_sub_label_01^【累積スコア】|eventview_event_c_rank_sub_label_02^排名确认|eventview_event_c_rank_sub_limit^{0:D2}/{1:D2} {2:D2}:{3:D2} 更新|eventview_event_c_rank_list_name_01^【累積イベントpt】|eventview_event_c_rank_list_name_02^【ハイスコア】|eventview_event_c_pu_ticket_magnification_text^倍|eventview_event_c_pu_ticket_magnification_value^x<b>{0:f1}</b>|eventview_event_c_pu_excard_get_point^獲得まで{0}pt|eventview_cngsh_title_00^コインガシャ|eventview_cngsh_desc_00^コインガシャ説明|eventview_cngsh_msg_00^コインガシャ|eventview_cngsh_msg_01^<color=#3C3CA0>【ガシャ利用期限】</color>{0:D4}/{1:D2}/{2:D2} {3:D2}:{4:D2}まで|eventview_cngsh_msg_02^コインを集めて豪華景品を獲得しよう！
-<size=20>※コインガシャ期限はイベント期限と異なります</size>|eventview_cngsh_msg_03^{0}枚|eventview_cngsh_btn_00^卡片详情|eventview_cngsh_btn_01^獲得状況確認|eventview_cngsh_btn_02^扭蛋详情|eventview_cngsh_btn_03^下个报酬|eventview_cngsh_btn_04^单次抽取|eventview_cngsh_btn_05^{0}连抽|eventview_cngsh_label_00^持有代币|eventview_cngsh_label_01^累计花费代币|eventview_cngsh_pop_title_00^代币扭蛋报酬|eventview_cngsh_pop_tab_00^扭蛋报酬|eventview_cngsh_pop_tab_01^累计花费代币报酬|eventview_cngsh_pop_msg_00^<color=#EC6762>{0}</color>/{1}回|eventview_cngsh_pop_msg_07^{0}/{1}次|eventview_cngsh_pop_msg_01^<color=#FF004F>取得済み</color>|eventview_cngsh_pop_msg_02^无上限|eventview_cngsh_pop_msg_03^カードおよび、所持上限を超えるアイテムはプレゼントへ送られます|eventview_cngsh_pop_msg_06^{0}枚|eventview_cngsh_pop_label_00^報酬取得回数|eventview_cngsh_pop_label_01^消費コイン枚数|eventview_cngsh_pop_title_02^限定カード詳細|eventview_cngsh_msg_05^{0} 枚|eventview_cngsh_title_01^コインガシャ結果|eventview_cngsh_desc_01^コインガシャで得られた報酬です|eventview_cngsh_msg_04^カードおよび、所持上限を超えるアイテムはプレゼントへ送られます|eventview_cngsh_pop_title_03^累積消費コイン報酬獲得|eventview_cngsh_pop_msg_04^累積消費コインが {0}枚 を達成したので以下の報酬を
-獲得しました|eventview_cngsh_pop_msg_05^获得的道具可以从礼物中领取|eventview_camp_gsh_btn_00^ガシャを引く|eventview_camp_gsh_btn_01^卡片详情|eventview_camp_gsh_btn_02^扭蛋详情|eventview_camp_gsh_msg_00^活动期限
+消費数に応じてイベントptをより多く獲得する事ができます|eventview_event_c_rank_title_00^イベントランキング情報一覧|eventview_event_c_rank_desc_00^排名每隔一段时间更新|eventview_event_c_rank_rank_label^第 {0} 名|eventview_event_c_rank_main_tab_00^活动pt排名|eventview_event_c_rank_main_tab_01^最高得分排名|eventview_event_c_rank_main_tab_02^ラウンジアランキング|eventview_event_c_rank_main_item_00^【PLv】|eventview_event_c_rank_main_item_01^【累计活动pt】|eventview_event_c_rank_main_item_02^【最高得分】|eventview_event_c_rank_main_item_03^【ラウンジ】|eventview_event_c_rank_main_label_00^イベントランキングは集計中です|eventview_event_c_rank_sub_label_00^【累计活动pt】|eventview_event_c_rank_sub_label_01^【累積スコア】|eventview_event_c_rank_sub_label_02^排名确认|eventview_event_c_rank_sub_limit^{0:D2}/{1:D2} {2:D2}:{3:D2} 更新|eventview_event_c_rank_list_name_01^【累计活动pt】|eventview_event_c_rank_list_name_02^【最高得分】|eventview_event_c_pu_ticket_magnification_text^倍|eventview_event_c_pu_ticket_magnification_value^x<b>{0:f1}</b>|eventview_event_c_pu_excard_get_point^獲得まで{0}pt|eventview_cngsh_title_00^代币扭蛋|eventview_cngsh_desc_00^代币扭蛋说明|eventview_cngsh_msg_00^代币扭蛋|eventview_cngsh_msg_01^<color=#3C3CA0>【ガシャ利用期限】</color>{0:D4}/{1:D2}/{2:D2} {3:D2}:{4:D2}まで|eventview_cngsh_msg_02^コインを集めて豪華景品を獲得しよう！
+<size=20>※コインガシャ期限はイベント期限と異なります</size>|eventview_cngsh_msg_03^{0}枚|eventview_cngsh_btn_00^卡片详情|eventview_cngsh_btn_01^獲得状況確認|eventview_cngsh_btn_02^扭蛋详情|eventview_cngsh_btn_03^下个报酬|eventview_cngsh_btn_04^单次抽取|eventview_cngsh_btn_05^{0}连抽|eventview_cngsh_label_00^持有代币|eventview_cngsh_label_01^累计花费代币|eventview_cngsh_pop_title_00^代币扭蛋报酬|eventview_cngsh_pop_tab_00^扭蛋报酬|eventview_cngsh_pop_tab_01^累计花费代币报酬|eventview_cngsh_pop_msg_00^<color=#EC6762>{0}</color>/{1}次|eventview_cngsh_pop_msg_07^{0}/{1}次|eventview_cngsh_pop_msg_01^<color=#FF004F>已获得</color>|eventview_cngsh_pop_msg_02^无上限|eventview_cngsh_pop_msg_03^カードおよび、所持上限を超えるアイテムはプレゼントへ送られます|eventview_cngsh_pop_msg_06^{0}枚|eventview_cngsh_pop_label_00^報酬取得回数|eventview_cngsh_pop_label_01^消費コイン枚数|eventview_cngsh_pop_title_02^限定カード詳細|eventview_cngsh_msg_05^{0} 枚|eventview_cngsh_title_01^コインガシャ結果|eventview_cngsh_desc_01^コインガシャで得られた報酬です|eventview_cngsh_msg_04^カードおよび、所持上限を超えるアイテムはプレゼントへ送られます|eventview_cngsh_pop_title_03^累積消費コイン報酬獲得|eventview_cngsh_pop_msg_04^累積消費コインが {0}枚 を達成したので以下の報酬を
+獲得しました|eventview_cngsh_pop_msg_05^获得的道具可以从礼物中领取|eventview_camp_gsh_btn_00^进行扭蛋|eventview_camp_gsh_btn_01^卡片详情|eventview_camp_gsh_btn_02^扭蛋详情|eventview_camp_gsh_msg_00^活动期限
 ～{0:D2}/{1:D2}/{2:D2} {3:D2}:{4:D2}|eventview_camp_gsh_pop_msg_00^由于期限截止，操作失败
-返回标题中|eventview_camp_gsh_pop_title_0^卡片详情|eventview_camp_gsh_pop_title_1^扭蛋详情|eventview_camp_gsh_pop_title_2^扭蛋说明|eventview_camp_gsh_pop_title_3^注意事项|eventview_camp_gsh_pop_btn_00^ガシャを
-引く|eventview_camp_gsh_pop_title_100000^SSR確定ガシャ|eventview_camp_gsh_pop_msg_100000^<color=red>{0}</color> を使用して
+返回标题中|eventview_camp_gsh_pop_title_0^卡片详情|eventview_camp_gsh_pop_title_1^扭蛋详情|eventview_camp_gsh_pop_title_2^扭蛋说明|eventview_camp_gsh_pop_title_3^注意事项|eventview_camp_gsh_pop_btn_00^进行扭蛋|eventview_camp_gsh_pop_title_100000^SSR確定ガシャ|eventview_camp_gsh_pop_msg_100000^<color=red>{0}</color> を使用して
 1回ガシャを引きますか？|eventview_event_d_period^<color=#3C3CA0>【活动期限】</color>{0:D4}/{1:D2}/{2:D2} {3:D2}:{4:D2}截止|eventview_event_d_achivement^活动成绩|eventview_event_d_accumlation_point^<color=#3C3CA0>【累積イベントpt】</color>|eventview_event_d_eventpoint^{0}pt|eventview_event_d_eventranking^<color=#3C3CA0>【活动pt排名】</color>|eventview_event_d_rankcountandname^第{0}名|eventview_event_d_highscore_ranking^<color=#3C3CA0>【ハイスコアランキング】</color>|eventview_event_d_next_reward_point^<color=#3C3CA0>【距离下个报酬】</color>|eventview_event_d_item_count_detail^集めてイベント楽曲に挑戦！|eventview_event_d_item_count_title^持有{0}|eventview_event_d_item_count_word^本|eventview_event_d_comu_title^活动剧情|eventview_event_d_comu_next^<color=#3C3CA0>【距离下一剧情】</color>|eventview_event_d_live_start^前往巡演准备|eventview_event_d_reward_list_button^活动报酬
 一览|eventview_event_d_ranking_button^排名|eventview_event_d_ui_hidden_button^隐藏|eventview_event_d_reward_detail_pu_title^下个报酬|eventview_event_d_reward_detail_pu_nextpt^距离下一报酬  {0}pt|eventview_event_d_tourticket^公演チケット|eventview_event_d_aggregate^集計中|eventview_event_d_aggregate_period^<color=#3C3CA0>【イベント結果集計中】</color>|eventview_event_d_fixed_period^<color=#3C3CA0>【結果発表】</color>{0:D4}/{1:D2}/{2:D2} {3:D2}:{4:D2}まで|eventview_event_d_ptreward_detail_pu_title^累積イベントpt報酬達成状況|eventview_event_d_ptreward_detail_pu_master_rank^現在のマスターランク {0}|eventview_event_d_ptreward_masterrank^<color=#3C3CA0>【現在のマスターランク】</color>|eventview_event_d_detail_pu_btn^※詳細|eventview_event_d_tourcount^{0}本|eventview_event_d_tourcount_title^2色のクレヨン|eventview_event_d_ticket_unit^{0}本|eventview_event_d_point_scale^<color=#FF004F>5.0倍确定！！</color>|eventview_event_d_expired_message^イベントはすでに終了しております。|eventview_event_d_finish_pu_title^イベント結果|eventview_event_d_finish_pu_detail^獲得したイベント報酬はプレゼントへ送られます|eventview_event_d_excard_not_achieved^獲得条件を満たしておりません|eventview_event_d_pu_get_item_title^獲得{0}|eventview_event_d_pu_consume_item_title^花费{0}|eventview_event_d_pu_possession_item_title^持有{0}|eventview_event_d_pu_get_point_title^获得活动pt|eventview_event_d_pu_next_point_title^距离下一报酬|eventview_event_d_pu_item_magnification^{0}倍|eventview_event_d_pu_item_select_description^花费{0}的数量越多
 能获得的活动pt越多|eventview_event_d_pu_result_window_title^结果|eventview_event_d_pu_select_item_window_title^{0}消費数選択|eventview_event_d_pu_get_reward_window_title^イベントpt報酬獲得|eventview_event_d_pu_excard_next_rank_point^次のランクまで{0}pt|eventview_event_d_get_reward_pu_comp^已获得所有累计活动pt报酬|eventview_event_d_user_kakera_btn^{0}使用|eventview_event_d_eventpt_reward_title^活动报酬|eventview_event_d_eventpt_reward_desc^可以查看活动报酬|eventview_event_d_ranking_title^活动排名|eventview_event_d_ranking_desc^ランキングは一定時間経過後に更新されます|eventview_event_d_live_report_pu_title^活动pt变化|eventview_event_d_live_report_pu_event_item_name^{0}|eventview_event_d_live_report_pu_eventpt^活动pt|eventview_event_d_live_report_pu_event_item_count^本|eventview_event_d_live_report_pu_eventpt_count^pt|eventview_event_d_reward_view_accumlation_eventpt^累计活动pt|eventview_event_d_reward_view_tab_0_righttop_label^累计活动pt|eventview_event_d_reward_view_tab_0_righttop_value^{0}pt|eventview_event_d_reward_view_tab_1_righttop_label^活动pt排名|eventview_event_d_reward_view_tab_1_righttop_value^第{0}名|eventview_event_d_reward_view_tab_2_righttop_label^最高得分排名|eventview_event_d_reward_view_tab_2_righttop_value^第{0}名|eventview_event_d_reward_view_tab_3_righttop_label^交流室排名|eventview_event_d_reward_view_tab_3_righttop_value^第{0}名|eventview_event_d_reward_view_tab_0^累積イベントpt
@@ -13237,7 +13232,7 @@ LIVE券|eventview_event_d_tour_item_label_5^歌曲 Lv|eventview_event_d_tour_ite
 解锁Day{0}的所有活动Talk|eventview_f_talk_pu_msg_01^初次阅读Day{0}的所有活动Talk
 可以获得以下报酬|eventview_f_talk_pu_msg_02^要使用{1}{2}{0}
 解锁Day{3}的活动Talk吗？|eventview_f_talk_pu_msg_03^{0}不足|eventview_f_talk_pu_msg_04^已解锁「{0}」的Day{1}的
-所有活动Talk|eventview_f_talk_pu_btn_00^解锁|eventview_f_talk_pu_title_03^活动Talk报酬|eventview_f_talk_pu_msg_05^使用<color=#FF0098>{1}</color>{2}{0}|eventview_g_top_msg_00^<color=#3C3CA0>【代币交换期限】</color>{0:D4}/{1:D2}/{2:D2} {3:D2}:{4:D2}截止|eventview_g_top_msg_01^活动已结束|eventview_g_top_msg_02^{0}枚|eventview_g_top_label_00^スケジュールチェック|eventview_g_top_label_01^持有代币|eventview_g_top_label_02^活动成绩|eventview_g_top_label_03^<color=#3C3CA0>【累计花费代币】</color>|eventview_g_top_label_04^<color=#3C3CA0>【距离下个报酬】</color>|eventview_g_top_label_05^第{0}天|eventview_g_top_label_06^最终日|eventview_g_top_btn_00^详情|eventview_g_top_pu_00_title^活动日程|eventview_g_top_pu_00_text_00^獲得コインボーナスは、下記スケジュールの通り変化します|eventview_g_top_pu_00_warning_00^代币获得奖励将在每天00:00更新|eventview_g_top_pu_01_title^累计花费代币报酬|eventview_g_top_pu_01_label_00^花费代币枚数|eventview_g_top_pu_00_msg_00^{0}枚|eventview_g_top_pu_02_title^累计花费代币报酬|eventview_g_top_pu_02_tab_00^报酬卡片|eventview_g_top_pu_02_tab_01^下个报酬|eventview_g_top_pu_02_text_00^距离下个报酬  {0}枚|eventview_g_top_pu_02_text_01^MASTER星级 {0}|eventview_g_top_pu_02_text_02^獲得まで{0}枚|eventview_g_top_pu_02_warning_00^累積消費コイン報酬はすべて獲得済みです|eventview_g_cngsh_title^代币扭蛋|eventview_g_cngsh_msg_00^<color=#3C3CA0>【扭蛋期限】</color>{0:D4}/{1:D2}/{2:D2} {3:D2}:{4:D2}截止|eventview_g_cngsh_msg_01^コインを集めて豪華景品を獲得しよう！|eventview_g_cngsh_msg_02^距离获得所有道具还需<size=20><color=#E6F178>{0}</color>个</size>!!|eventview_g_cngsh_msg_03^チェック中のアイテム|eventview_g_cngsh_msg_04^{0}/{1}|eventview_g_cngsh_msg_05^重置|eventview_g_cngsh_msg_06^{0}枚|eventview_g_cngsh_msg_07^コインガシャ期限はイベント期限と異なります|eventview_g_cngsh_msg_08^{0}BOX|eventview_g_cngsh_msg_09^エクストラ|eventview_g_cngsh_msg_10^<color=#1149FF>{0}</color> {1}|eventview_g_cngsh_msg_11^{0} <color=#1149FF>{1}</color>{2}|eventview_g_cngsh_btn_00^{0}的报酬|eventview_g_cngsh_btn_01^全部报酬详情|eventview_g_cngsh_btn_02^设置|eventview_g_cngsh_btn_03^更改|eventview_g_cngsh_btn_04^单次抽取|eventview_g_cngsh_btn_05^{0}连抽|eventview_g_cngsh_btn_06^{0}连抽|eventview_g_cngsh_label_00^累计花费代币|eventview_g_cngsh_label_01^持有代币|eventview_g_cngsh_pu_00_title^チェックアイテム選択|eventview_g_cngsh_pu_00_label_00^リセット対象|eventview_g_cngsh_pu_00_label_01^报酬获得次数|eventview_g_cngsh_pu_00_msg_00^<color=#FF004F>{0}</color>/{1}次|eventview_g_cngsh_pu_00_msg_01^{0}/{1}次|eventview_g_cngsh_pu_00_btn_00^重置|eventview_g_cngsh_pu_01_title^道具详情|eventview_g_cngsh_pu_01_label_00^持有数|eventview_g_cngsh_pu_02_title^设置|eventview_g_cngsh_pu_02_label_00^最大交换次数|eventview_g_cngsh_pu_02_toggle_00^10次|eventview_g_cngsh_pu_02_toggle_01^50次|eventview_g_cngsh_pu_02_toggle_02^100次|eventview_g_cngsh_pu_02_warning_00^最大交换次数设置为50次、100次时，将会跳过扭蛋演出|eventview_g_lineup_pu_title^現在のラインナップ|eventview_g_lineup_pu_text_00^<color=#FF0098>{0}</color>のラインナップ|eventview_g_lineup_pu_text_01^{0}特别报酬|eventview_g_lineup_pu_text_02^报酬|eventview_g_lineup_pu_text_03^获得数|eventview_g_lineup_pu_text_04^<color=#FF004F>{0}</color>/{1}|eventview_g_lineup_pu_text_05^{0}/{1}|eventview_g_lineup_pu_text_06^报酬获得次数|eventview_g_lineup_pu_text_07^<color=#FF004F>{0}</color>/{1}次|eventview_g_lineup_pu_text_08^{0}/{1}次|eventview_g_lineup_pu_btn_00^BOX変更|eventview_g_all_lineup_pu_title^全ラインナップの確認|eventview_g_all_lineup_pu_text_00^{0}特别报酬|eventview_g_all_lineup_pu_text_01^报酬|eventview_g_all_lineup_pu_text_02^合计|eventview_g_all_lineup_pu_text_03^総数|eventview_g_all_lineup_pu_btn_00^BOX変更|eventview_g_box_change_pu_title^BOX変更|eventview_g_box_change_pu_text_00^获得数|eventview_g_box_change_pu_text_01^{0}/{1}|eventview_g_box_change_pu_warning_00^BOXはいつでも変更可能です|eventview_g_cngsh_result_pu_title^结果|eventview_g_cngsh_result_pu_text_00^所持コイン|eventview_g_cngsh_result_pu_text_01^{0}枚|eventview_g_cngsh_result_pu_text_02^獲得アイテム|eventview_g_cngsh_result_pu_text_03^×<color=#FF0098>{0}</color>|eventview_g_cngsh_result_pu_btn_00^現在のラインナップ|eventview_g_cngsh_result_pu_btn_01^再抽一次|eventview_g_all_lineup_got_pu_title^全ラインナップ獲得|eventview_g_all_lineup_got_pu_text_00^{0}の報酬ラインナップを全て獲得しました
+所有活动Talk|eventview_f_talk_pu_btn_00^解锁|eventview_f_talk_pu_title_03^活动Talk报酬|eventview_f_talk_pu_msg_05^使用<color=#FF0098>{1}</color>{2}{0}|eventview_g_top_msg_00^<color=#3C3CA0>【代币交换期限】</color>{0:D4}/{1:D2}/{2:D2} {3:D2}:{4:D2}截止|eventview_g_top_msg_01^活动已结束|eventview_g_top_msg_02^{0}枚|eventview_g_top_label_00^查看日程|eventview_g_top_label_01^持有代币|eventview_g_top_label_02^活动成绩|eventview_g_top_label_03^<color=#3C3CA0>【累计花费代币】</color>|eventview_g_top_label_04^<color=#3C3CA0>【距离下个报酬】</color>|eventview_g_top_label_05^第{0}天|eventview_g_top_label_06^最终日|eventview_g_top_btn_00^详情|eventview_g_top_pu_00_title^活动日程|eventview_g_top_pu_00_text_00^代币获得奖励会根据下面的日程表发生变化|eventview_g_top_pu_00_warning_00^代币获得奖励将在每天00:00更新|eventview_g_top_pu_01_title^累计花费代币报酬|eventview_g_top_pu_01_label_00^花费代币枚数|eventview_g_top_pu_00_msg_00^{0}枚|eventview_g_top_pu_02_title^累计花费代币报酬|eventview_g_top_pu_02_tab_00^报酬卡片|eventview_g_top_pu_02_tab_01^下个报酬|eventview_g_top_pu_02_text_00^距离下个报酬  {0}枚|eventview_g_top_pu_02_text_01^MASTER星级 {0}|eventview_g_top_pu_02_text_02^獲得まで{0}枚|eventview_g_top_pu_02_warning_00^累積消費コイン報酬はすべて獲得済みです|eventview_g_cngsh_title^代币扭蛋|eventview_g_cngsh_msg_00^<color=#3C3CA0>【扭蛋期限】</color>{0:D4}/{1:D2}/{2:D2} {3:D2}:{4:D2}截止|eventview_g_cngsh_msg_01^コインを集めて豪華景品を獲得しよう！|eventview_g_cngsh_msg_02^距离获得所有道具还需<size=20><color=#E6F178>{0}</color>个</size>!!|eventview_g_cngsh_msg_03^チェック中のアイテム|eventview_g_cngsh_msg_04^{0}/{1}|eventview_g_cngsh_msg_05^重置|eventview_g_cngsh_msg_06^{0}枚|eventview_g_cngsh_msg_07^コインガシャ期限はイベント期限と異なります|eventview_g_cngsh_msg_08^{0}BOX|eventview_g_cngsh_msg_09^エクストラ|eventview_g_cngsh_msg_10^<color=#1149FF>{0}</color> {1}|eventview_g_cngsh_msg_11^{0} <color=#1149FF>{1}</color>{2}|eventview_g_cngsh_btn_00^{0}的报酬|eventview_g_cngsh_btn_01^全部报酬详情|eventview_g_cngsh_btn_02^设置|eventview_g_cngsh_btn_03^更改|eventview_g_cngsh_btn_04^单次抽取|eventview_g_cngsh_btn_05^{0}连抽|eventview_g_cngsh_btn_06^{0}连抽|eventview_g_cngsh_label_00^累计花费代币|eventview_g_cngsh_label_01^持有代币|eventview_g_cngsh_pu_00_title^チェックアイテム選択|eventview_g_cngsh_pu_00_label_00^リセット対象|eventview_g_cngsh_pu_00_label_01^报酬获得次数|eventview_g_cngsh_pu_00_msg_00^<color=#FF004F>{0}</color>/{1}次|eventview_g_cngsh_pu_00_msg_01^{0}/{1}次|eventview_g_cngsh_pu_00_btn_00^重置|eventview_g_cngsh_pu_01_title^道具详情|eventview_g_cngsh_pu_01_label_00^持有数|eventview_g_cngsh_pu_02_title^设置|eventview_g_cngsh_pu_02_label_00^最大交换次数|eventview_g_cngsh_pu_02_toggle_00^10次|eventview_g_cngsh_pu_02_toggle_01^50次|eventview_g_cngsh_pu_02_toggle_02^100次|eventview_g_cngsh_pu_02_warning_00^最大交换次数设置为50次、100次时，将会跳过扭蛋演出|eventview_g_lineup_pu_title^目前的奖励品类|eventview_g_lineup_pu_text_00^<color=#FF0098>{0}</color>的奖励品类|eventview_g_lineup_pu_text_01^{0}特别报酬|eventview_g_lineup_pu_text_02^报酬|eventview_g_lineup_pu_text_03^获得数|eventview_g_lineup_pu_text_04^<color=#FF004F>{0}</color>/{1}|eventview_g_lineup_pu_text_05^{0}/{1}|eventview_g_lineup_pu_text_06^报酬获得次数|eventview_g_lineup_pu_text_07^<color=#FF004F>{0}</color>/{1}次|eventview_g_lineup_pu_text_08^{0}/{1}次|eventview_g_lineup_pu_btn_00^更改BOX|eventview_g_all_lineup_pu_title^查看所有奖励品类|eventview_g_all_lineup_pu_text_00^{0}特别报酬|eventview_g_all_lineup_pu_text_01^报酬|eventview_g_all_lineup_pu_text_02^合计|eventview_g_all_lineup_pu_text_03^总数|eventview_g_all_lineup_pu_btn_00^更改BOX|eventview_g_box_change_pu_title^更改BOX|eventview_g_box_change_pu_text_00^获得数|eventview_g_box_change_pu_text_01^{0}/{1}|eventview_g_box_change_pu_warning_00^BOX随时都能更改|eventview_g_cngsh_result_pu_title^结果|eventview_g_cngsh_result_pu_text_00^持有代币|eventview_g_cngsh_result_pu_text_01^{0}枚|eventview_g_cngsh_result_pu_text_02^獲得アイテム|eventview_g_cngsh_result_pu_text_03^×<color=#FF0098>{0}</color>|eventview_g_cngsh_result_pu_btn_00^現在のラインナップ|eventview_g_cngsh_result_pu_btn_01^再抽一次|eventview_g_all_lineup_got_pu_title^全ラインナップ獲得|eventview_g_all_lineup_got_pu_text_00^{0}の報酬ラインナップを全て獲得しました
 他のBOXに切り替えました|eventview_g_all_lineup_got_pu_text_01^{0}の報酬ラインナップを全て獲得しました
 エクストラに切り替えました|eventview_g_all_lineup_got_pu_text_02^エクストラの報酬ラインナップを全て獲得しました
 報酬をリセットしました|eventview_g_all_lineup_got_pu_text_03^{0}特別報酬|eventview_g_all_lineup_got_pu_text_04^<color=#FF0000>{0}</color> {1}|eventview_g_all_lineup_got_pu_text_05^{0} <color=#FF0000>{1}</color>{2}|eventview_g_all_lineup_got_pu_warning_00^获得的道具可以从礼物中领取|eventview_g_all_check_item_got_pu_title^チェック中アイテム獲得|eventview_g_all_check_item_got_pu_text_00^チェック中のアイテムをすべて獲得しました|eventview_g_result_title^コインガシャ結果|eventview_g_result_desc^コインガシャで得られた報酬です|eventview_g_result_msg_00^カード、ミリオンジュエル、所持上限を超えるアイテムはプレゼントへ送られます|eventview_g_result_pu_00_title^累積消費コイン報酬獲得|eventview_g_result_pu_00_text_00^累積消費コインが {0}枚 を達成したので以下の報酬を
@@ -13306,9 +13301,9 @@ LIVE券|eventview_event_d_tour_item_label_5^歌曲 Lv|eventview_event_d_tour_ite
 一部のアイテムは獲得できません|eventview_get_ptreward_pu_warning_01^报酬卡片和服装将直接发放|eventview_get_ptreward_pu_warning_02^获得的道具可以从礼物中领取|eventview_get_ptreward_pu_warning_03^获得的道具可以从礼物中领取|eventview_get_ptreward_pu_warning_04^報酬カード、衣装、一部のアイテムは直接付与されます|eventview_get_ptreward_pu_warning_05^一部のアイテムは直接付与されます|eventview_get_ptreward_pu_warning_06^道具将直接发放|eventview_reward_get_title_0^【累積イベントpt報酬】{0:#,0} pt到達報酬|eventview_reward_get_title_1^【デイリーイベントpt報酬】{0:#,0} pt到達報酬|eventview_next_event_play_list_text^次へ|eventview_sp_pu_title_default^任务|eventview_sp_pu_not_found_mission_default^没有可以挑战的任务|eventview_sp_pu_tab_title_default1^1|eventview_sp_pu_tab_title_default2^2|eventview_sp_pu_tab_title_default3^3|eventview_sp_pu_title_166^15周年記念ミッション|eventview_sp_pu_tab_title_sp15mir^春日 未来|eventview_sp_pu_tab_title_sp15siz^最上 静香|eventview_sp_pu_tab_title_sp15tsu^伊吹 翼|eventview_coin_drop_pu_00^活动报酬|eventview_coin_drop_pu_01^持有代币|eventview_coin_drop_pu_02^{0:#,0}枚|eventview_coin_drop_pu_03^{0:#,0}枚(<color=#0000FF>＋{1:#,0}</color>)|eventview_coin_drop_pu_04^报酬|eventview_magnification_select_0^体力|eventview_magnification_select_1^花费体力|eventview_magnification_select_warning_job_defalut^花费倍率越高，
 能获得的LIVE券越多|eventview_magnification_select_warning_live_defalut^花费倍率越高，
 能获得的活动pt越多|eventview_magnification_select_warning_live_d^花费倍率越高，
-能获得的活动pt和宾果越多|eventview_magnification_select_warning_job_g^消費コストに応じて
-コインのドロップ枠が増加します|eventview_magnification_select_warning_live_g^消費コストに応じて
-コインのドロップ枠が増加します|eventview_magnification_select_warning_job_c^花费倍率越高，
+能获得的活动pt和宾果越多|eventview_magnification_select_warning_job_g^花费倍率越高
+代币的掉落栏位越多|eventview_magnification_select_warning_live_g^花费倍率越高
+代币的掉落栏位越多|eventview_magnification_select_warning_job_c^花费倍率越高，
 能获得的LIVE券越多|eventview_magnification_select_warning_job_n^花费倍率越高，
 能获得的LIVE券越多|eventview_magnification_select_warning_live_n^花费倍率越高，
 能获得的活动pt越多|eventview_magnification_select_warning_job_l^花费倍率越高，
@@ -14208,8 +14203,8 @@ Day8：「番組Tシャツ引換券」×5枚
 BOXはいつでも切り替えることができます|eventgview_info_04_title^コインガシャの報酬について|eventgview_info_04^BOX内の報酬をすべて獲得して特別報酬をGET！
 すべてのBOX報酬を獲得するとエクストラBOXに変更されます|eventgview_info_05_title^コインガシャのチェック機能について|eventgview_info_05^目当ての報酬にチェックをつけることができます
 チェック中の報酬をすべて獲得すると通知してくれます|eventgview_info_06_title^コインガシャの設定について|eventgview_info_06^コインガシャの最大交換数を変更することができます！
-50回、100回に設定するとガシャの演出がスキップされます|eventgview_info_07_title^元気消費コスト倍率選択について|eventgview_info_07^お仕事やライブをプレイ時に消費する元気を1倍、2倍から選べます
-消費元気に応じてコインのドロップ枠が増加します|eventhview_info_00_title^关于活动|eventhview_info_00^ツインステージならではの報酬も追加！
+50回、100回に設定するとガシャの演出がスキップされます|eventgview_info_07_title^元気消費コスト倍率選択について|eventgview_info_07^工作和游玩LIVE时可以选择花费1倍或2倍体力
+花费倍率越高，代币的掉落栏位越多|eventhview_info_00_title^关于活动|eventhview_info_00^ツインステージならではの報酬も追加！
 イベントをプレイして豪華報酬を手に入れよう！|eventhview_info_01_title^新要素について|eventhview_info_01^ツインステージならではの新要素を追加！
 詳細についてはヘルプもあわせてご確認ください|eventhview_info_02_title^イベントデッキについて|eventhview_info_02^イベントデッキはイベントトップに遷移すると自動で編成されます
 イベントデッキは楽曲の編成やスコアには影響しません|eventhview_info_03_title^テンションLvについて|eventhview_info_03^テンションLvはイベント楽曲ごとに存在します
@@ -14719,16 +14714,15 @@ pt|gasha_ticket_pop_button_0^前往扭蛋|gasha_ticket_pop_msg_0^{0} 年 {1} 月
 3回目は<color=#FF0098>SSR1枚以上</color>確定！！</size>|gasha_extra_c_desc^<size=17>「1回限り！SSR確定ピックアップ」ガシャ！
 有償ミリオンジュエル2500個で引ける！
 マスターランク5が追加された5カードがピックアップ！
-<color=#FF0098>ピックアップ対象のSSRカードが1枚以上確定！！</color></size>|gasha_popup_bonus_direct_msg^道具已经直接发放|gasha_popup_convert_title^アイテム変換|gasha_popup_convert_01^「{0}」で獲得した
-以下のアイテムが変換されました|gasha_popup_convert_02^已经以礼物形式发放|gasha_popup_exchange_title^卡片确认|gasha_popup_exchange_001^使用{1}个{0}
-获得{2}|gasha_popup_exchange_002^持有{0}|gasha_popup_exchange_003^个|gasha_popup_exchange_004^所持{0}が不足しています|gasha_popup_exchange_005^交换|gasha_popup_exchange_100^目标卡片一览|gasha_popup_exchange_102^SSR|gasha_popup_exchange_103^SR|gasha_popup_exchange_104^R|gasha_popup_exchange_105^対象となるカードはありません|gasha_popup_exchange_200^优先的类型|gasha_popup_exchange_201^优先的数值|gasha_popup_exchange_202^排除设置|gasha_popup_exchange_203^未指定|gasha_popup_exchange_204^已获得的卡片除外|gasha_popup_exchange_205^<color=#FF0098>カード
-取得済</color>|gasha_popup_exchange_notice_title^公告|gasha_popup_exchange_notice_msg^{0}が
-カード交換できる数量分貯まりました|gasha_exchange_label_msg^カードと
-交換できます！|gasha_popup_select_convert_title^アイテム変換確認|gasha_popup_select_convert_01^通过「{0}」获得的
+<color=#FF0098>ピックアップ対象のSSRカードが1枚以上確定！！</color></size>|gasha_popup_bonus_direct_msg^道具已经直接发放|gasha_popup_convert_title^道具转换|gasha_popup_convert_01^通过「{0}」获得的
+以下道具已进行转换|gasha_popup_convert_02^已经以礼物形式发放|gasha_popup_exchange_title^卡片确认|gasha_popup_exchange_001^使用{1}个{0}
+获得{2}|gasha_popup_exchange_002^持有{0}|gasha_popup_exchange_003^个|gasha_popup_exchange_004^持有的{0}不足|gasha_popup_exchange_005^交换|gasha_popup_exchange_100^目标卡片一览|gasha_popup_exchange_102^SSR|gasha_popup_exchange_103^SR|gasha_popup_exchange_104^R|gasha_popup_exchange_105^没有符合条件的卡片|gasha_popup_exchange_200^优先的类型|gasha_popup_exchange_201^优先的数值|gasha_popup_exchange_202^排除设置|gasha_popup_exchange_203^未指定|gasha_popup_exchange_204^已获得的卡片除外|gasha_popup_exchange_205^<color=#FF0098>卡片
+已获得</color>|gasha_popup_exchange_notice_title^公告|gasha_popup_exchange_notice_msg^{0}が
+カード交換できる数量分貯まりました|gasha_exchange_label_msg^可以交换卡片！|gasha_popup_select_convert_title^道具转换确认|gasha_popup_select_convert_01^通过「{0}」获得的
 <color=#757BAB>梦之星</color>达到了300个及以上
-请选择交换卡片或转换为<color=#757BAB>梦之花</color>。|gasha_popup_select_convert_02^カード交換をする|gasha_popup_select_convert_03^转换为梦之花|gasha_popup_convert_confirm_title^アイテム変換|gasha_popup_convert_confirm_01^「{0}」で獲得した
-以下のアイテムを変換します
-本当によろしいですか？|gasha_popup_convert_confirm_02^转换为梦之花|gasha_popup_convert_confirm_03^変換する|gasha_pop_card_sf_header_0^タイプ|gasha_pop_card_sf_header_3^排序|gasha_gashal_msg_01^「SSR確定ガシャチケット」はプレゼントよりお受け取りください|gasha_gashal_msg_02^ガシャを引く|gasha_gashal_msg_03^【期間】{0:D2}/{1:D2}/{2:D2} {3:D2}:{4:D2}まで|gasha_pupup_gashal_title_01^SSR確定ガシャ|gasha_pupup_gashal_msg_01^<color=red>{0}</color> を使用して
+请选择交换卡片或转换为<color=#757BAB>梦之花</color>。|gasha_popup_select_convert_02^交换卡片|gasha_popup_select_convert_03^转换为梦之花|gasha_popup_convert_confirm_title^道具转换|gasha_popup_convert_confirm_01^将要转换通过「{0}」
+获得的以下道具
+确定吗？|gasha_popup_convert_confirm_02^转换为梦之花|gasha_popup_convert_confirm_03^转换|gasha_pop_card_sf_header_0^类型|gasha_pop_card_sf_header_3^排序|gasha_gashal_msg_01^「SSR確定ガシャチケット」はプレゼントよりお受け取りください|gasha_gashal_msg_02^ガシャを引く|gasha_gashal_msg_03^【期間】{0:D2}/{1:D2}/{2:D2} {3:D2}:{4:D2}まで|gasha_pupup_gashal_title_01^SSR確定ガシャ|gasha_pupup_gashal_msg_01^<color=red>{0}</color> を使用して
 SSR確定ガシャを引きますか？|gasha_pupup_gashal_button_01^ガシャを
 引く|gasha_gasham_msg_02^ガシャを引く|gasha_gasham_msg_03^【期間】{0:D2}/{1:D2}/{2:D2} {3:D2}:{4:D2}まで|gasha_gasham_msg_04^所持チケット{0}枚|gasha_pupup_gasham_title_01^限定SSR確定ガシャ|gasha_pupup_gasham_msg_01^<color=red>{0}</color> を使用して
 限定SSR確定ガシャを引きますか？|gasha_pupup_gasham_button_01^ガシャを
@@ -14780,7 +14774,7 @@ ARモード非対応機種ではご利用いただけません</size>|gasha_gash
 {3}|gasha2_confirm_pu_msg_02^{0}{1}を引きますか？|gasha2_confirm_pu_msg_03^{0}{1}を{2}回引きますか？|gasha2_confirm_pu_msg_04^{0}の{1}{2}ステップ目を引きますか？|gasha2_confirm_pu_warning_00^{0}不足|gasha2_confirm_pu_button_00^ガシャを引く|gasha2_confirm_pu_button_01^购买百万宝石|gasha2_error_pu_title_00^错误|gasha2_error_pu_msg_00^開催期間が終了しました。|gasha2_error_pu_msg_01^開催期間、もしくはチケットの有効期限が終了しました。|gasha2_cos_msg_00^可以获得LIVE、工作、硬币扭蛋中出现的
 偶像的共通服装！|gasha2_cos_msg_01^出現する衣装を
 全て所持しているため
-チケットを使用できません|gasha2_cos_button_00^交换服装|gasha2_mil_msg_00^可以获得活动「Millicolle！」中
+チケットを使用できません|gasha2_cos_button_00^交换服装|gasha2_mil_msg_00^可以获得活动「百万收藏！」中
 曾经登场的卡片！|gasha2_mil_button_00^交换卡片|gasha2_birthday_button_00^特典確認|gasha2_birthday_balloon_msg_step1^保底获得1张SR！|gasha2_birthday_balloon_msg_step2^保底获得1张SR|gasha2_birthday_balloon_msg_step3^SSR1枚確定！|gasha2_birthday_bonus_pu_msg_00^{0} <color=#1149FF>{1}</color>{2}|gasha2_step_button_00^{0}ステップ目を引く|gasha2_result_title^扭蛋结果|gasha2_result_desc_0^获得了卡片|gasha2_result_desc_1^获得了服装|gasha2_result_btn_0^继续|gasha2_result_msg_0^已获得的卡片已经转换为道具|gasha2_result_msg_1^{0}{1}(<color=#1149FF>+{2}</color>)|gasha2_result_pu_00_msg_0^以下のアイテムを受け取りました|gasha2_result_pu_00_msg_1^已经以礼物形式发放|gasha2_result_pu_00_msg_2^道具已经直接发放|gasha2_common_result_btn_0^再抽一次|gasha2_select_pu_title_00^使用票券|gasha2_select_pu_title_01^対象アイドル衣装|gasha2_select_pu_label_00^持有数|gasha2_select_pu_button_00^使用|gasha2_select_pu_button_01^好きなカードを
 選ぶ|gasha2_select_pu_button_02^好きな衣装を
 選ぶ|gasha2_select_pu_detail_703^ミリコレガシャを実行できる|gasha2_select_pu_detail_704^ミリコレガシャを実行でき、

@@ -276,45 +276,33 @@ live设定已初始化
 200MB以上的空闲容量
 
 来游玩游戏|title_important_announce_title^重要公告|title_connection_error_0^通讯错误|title_connection_error_1^通讯失败|title_user_custom_title_bg_error_0^错误|title_user_custom_title_bg_error_1^由于读取标题插图失败
-已自动变更为默认设置|title_userdata_delete_error^删除账户失败|title_consent_module_pu_title^关于用户信息的使用|title_consent_module_pu_tab1^概要|title_consent_module_pu_tab2^分析|title_consent_module_pu_tab3^广告投放|title_consent_module_pu_check1^分析|title_consent_module_pu_check2^广告投放|title_consent_module_pu_button1^全部拒绝|title_consent_module_pu_button2^接受选择的项目|title_consent_module_pu_button3^全部接受|title_consent_module_maintenance_pu_title^错误|title_consent_module_maintenance_pu_msg^此功能正在维护中|title_consent_module_timeout_pu_title^错误|title_consent_module_timeout_pu_msg^通讯失败|title_termsofservice_pu_title^使用条款同意确认|title_termsofservice_pu_footer00^不同意|title_termsofservice_pu_footer01^同意|title_termsofservice_pu_btn00^使用条款|title_termsofservice_pu_btn01^隐私政策|title_termsofservice_pu_btn02^全球许可|title_termsofservice_pu_msg00^请先同意使用条款、隐私政策、全球用户同意书后，
-再使用本服务。
-此外，未成年用户需获得法定代理人（如父母等）的同意。
-※ 若不明白内容时，
-请将内容拿给家中大人看。|title_termsofservice_pu_msg01_1^使用条款已更新，
-请再同意后使用本服务。
-此外，未成年用户需获得法定代理人（如父母等）的同意。
-※ 若不明白内容时，
-请将内容拿给家中大人看。|title_termsofservice_pu_msg01_2^隐私政策已更新，
-请再同意后使用本服务。
-此外，未成年用户需获得法定代理人（如父母等）的同意。
-※ 若不明白内容时，
-请将内容拿给家中大人看。|title_termsofservice_pu_msg01_3^使用条款、隐私政策已更新，
-请再同意后使用本服务。
-此外，未成年用户需获得法定代理人（如父母等）的同意。
-※ 若不明白内容时，
-请将内容拿给家中大人看。|title_termsofservice_pu_msg01_4^全球用户同意书已更新，
-请再同意后使用本服务。
-此外，未成年用户需获得法定代理人（如父母等）的同意。
-※ 若不明白内容时，
-请将内容拿给家中大人看。|title_termsofservice_pu_msg01_5^使用条款、全球用户同意书已更新，
-请再同意后使用本服务。
-此外，未成年用户需获得法定代理人（如父母等）的同意。
-※ 若不明白内容时，
-请将内容拿给家中大人看。|title_termsofservice_pu_msg01_6^隐私政策、全球用户同意书已更新，
-请再同意后使用本服务。
-此外，未成年用户需获得法定代理人（如父母等）的同意。
-※ 若不明白内容时，
-请将内容拿给家中大人看。|title_termsofservice_pu_msg01_7^使用条款、隐私政策、全球用户同意书
-已更新，
-请再同意后使用本服务。
-此外，未成年用户需获得法定代理人（如父母等）的同意。
-※ 若不明白内容时，
-请将内容拿给家中大人看。|title_termsofservice_pu_msg02^账号继承绑定已完成。
-请先同意使用条款、隐私政策、全球用户同意书后，
-再使用本服务。
-此外，未成年用户需获得法定代理人（如父母等）的同意。
-※ 若不明白内容时，
-请将内容拿给家中大人看。|title_sst_pu_titme^确认|title_sst_pu_message^要启动摄影棚吗？
+已自动变更为默认设置|title_userdata_delete_error^删除账户失败|title_consent_module_pu_title^关于用户信息的使用|title_consent_module_pu_tab1^概要|title_consent_module_pu_tab2^分析|title_consent_module_pu_tab3^广告投放|title_consent_module_pu_check1^分析|title_consent_module_pu_check2^广告投放|title_consent_module_pu_button1^全部拒绝|title_consent_module_pu_button2^接受选择的项目|title_consent_module_pu_button3^全部接受|title_consent_module_maintenance_pu_title^错误|title_consent_module_maintenance_pu_msg^此功能正在维护中|title_consent_module_timeout_pu_title^错误|title_consent_module_timeout_pu_msg^通讯失败|title_termsofservice_pu_title^使用条款同意确认|title_termsofservice_pu_footer00^不同意|title_termsofservice_pu_footer01^同意|title_termsofservice_pu_btn00^使用条款|title_termsofservice_pu_btn01^隐私政策|title_termsofservice_pu_btn02^全球许可|title_termsofservice_pu_msg00^请同意使用条款、隐私政策、全球用户同意书后再使用本服务。
+此外，未成年人需要在获得法定代理人（如父母等）的同意后游玩。
+※如果看不懂的话，请拿给家里的人看。|title_termsofservice_pu_msg01_1^使用条款已更新，
+请同意后再使用本服务。
+此外，未成年人需要在获得法定代理人（如父母等）的同意后游玩。
+※如果看不懂的话，请拿给家里的人看。|title_termsofservice_pu_msg01_2^隐私政策已更新，
+请同意后再使用本服务。
+此外，未成年人需要在获得法定代理人（如父母等）的同意后游玩。
+※如果看不懂的话，请拿给家里的人看。|title_termsofservice_pu_msg01_3^使用条款、隐私政策已更新，
+请同意后再使用本服务。
+此外，未成年人需要在获得法定代理人（如父母等）的同意后游玩。
+※如果看不懂的话，请拿给家里的人看。|title_termsofservice_pu_msg01_4^全球用户同意书已更新，
+请同意后再使用本服务。
+此外，未成年人需要在获得法定代理人（如父母等）的同意后游玩。
+※如果看不懂的话，请拿给家里的人看。|title_termsofservice_pu_msg01_5^使用条款、全球用户同意书已更新，
+请同意后再使用本服务。
+此外，未成年人需要在获得法定代理人（如父母等）的同意后游玩。
+※如果看不懂的话，请拿给家里的人看。|title_termsofservice_pu_msg01_6^隐私政策、全球用户同意书已更新，
+请同意后再使用本服务。
+此外，未成年人需要在获得法定代理人（如父母等）的同意后游玩。
+※如果看不懂的话，请拿给家里的人看。|title_termsofservice_pu_msg01_7^使用条款、隐私政策、全球用户同意书已更新。
+请同意后再使用本服务。
+此外，未成年人需要在获得法定代理人（如父母等）的同意后游玩。
+※如果看不懂的话，请拿给家里的人看。|title_termsofservice_pu_msg02^账号继承绑定已完成。
+请同意使用条款、隐私政策、全球用户同意书后再使用本服务。
+此外，未成年人需要在获得法定代理人（如父母等）的同意后游玩。
+※如果看不懂的话，请拿给家里的人看。|title_sst_pu_titme^确认|title_sst_pu_message^要启动摄影棚吗？
 
 ※摄影棚也可以通过选择「剧场＞前往设施」后
 点击右上角的「摄影棚」菜单来启动|title_sst_pu_chkbox_text^下次不再显示|title_sst_pu_in_text_warning_message^从标题界面启动时，将无法获得登录奖励等

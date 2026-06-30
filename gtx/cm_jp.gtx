@@ -12963,7 +12963,7 @@ LIVE券|eventview_event_d_tour_item_label_5^歌曲 Lv|eventview_event_d_tour_ite
 设置为<color=#757bab>{0:D2}/{1:D2} {2:D2}:{3:D2}～{4:D2}/{5:D2} {6:D2}:{7:D2}</color>|eventview_e_refresh_setting_pu_message_00_01^更改时间|eventview_e_refresh_setting_pu_message_00_02^※<color=#FF004F>{0:D2}/{1:D2} 22:59</color>前可以更改下次休息时间
 ※设定的内容也会应用到下次休息|eventview_e_refresh_setting_pu_message_00_03^※<color=#FF004F>{0:D2}/{1:D2} 09:59</color>前可以更改下次休息时间
 ※设定的内容也会应用到下次休息|eventview_e_refresh_setting_pu_message_00_04^最后一天不设置休息|eventview_e_refresh_setting_pu_message_01_00^现在正在休息中|eventview_e_refresh_setting_pu_message_01_01^已将当前休息时间
-设置为<color=#757bab>{0:D2}/{1:D2} {2:D2}:{3:D2}～{4:D2}/{5:D2} {6:D2}:{7:D2}</color>|eventview_e_refresh_setting_pu_message_01_02^※設定内容は次回リフレッシュにも適用されます|eventview_e_refresh_setting_ask_pu_title_00^休息设置确认|eventview_e_refresh_setting_ask_pu_message_00_00^現在のリフレッシュを<color=#FF004F>中断</color>し、
+设置为<color=#757bab>{0:D2}/{1:D2} {2:D2}:{3:D2}～{4:D2}/{5:D2} {6:D2}:{7:D2}</color>|eventview_e_refresh_setting_pu_message_01_02^※设定的内容也会应用到下次休息|eventview_e_refresh_setting_ask_pu_title_00^休息设置确认|eventview_e_refresh_setting_ask_pu_message_00_00^現在のリフレッシュを<color=#FF004F>中断</color>し、
 次のリフレッシュを
 <color=#757bab>{0:D2}/{1:D2} {2:D2}:{3:D2}～{4:D2}/{5:D2} {6:D2}:{7:D2}</color>に変更します
 

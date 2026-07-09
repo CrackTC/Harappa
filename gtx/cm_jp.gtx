@@ -324,36 +324,35 @@ Happy Birthday！
 我的打扮，
 不奇怪吧？|system_room_036kan_costume_appeal_001_036kan^诶嘿嘿♪ 　这身合适吗～？|system_room_037nao_costume_appeal_001_037nao^怎么样？　这身适合吗？|system_room_038chz_costume_appeal_001_038chz^适合身为名流的本小姐吗？|system_room_039kon_costume_appeal_001_039kon^怎么样？
 感觉还不错吧？|system_room_040tam_costume_appeal_001_040tam^老大，快看快看！　怎么样？|system_room_041fuk_costume_appeal_001_041fuk^这身衣服，适合我吗？|system_room_042miy_costume_appeal_001_042miy^我换好了，
-来帮我看看吧～|system_room_043nor_costume_appeal_001_043nor^锵锵──！　怎么样！|system_room_044miz_costume_appeal_001_044miz^这身衣服，怎么样？|system_room_045kar_costume_appeal_001_045kar^か、感想……
-聞かせてほしい……です。|system_room_046rio_costume_appeal_001_046rio^どう、似合ってるかしら？　
-ウフフ♪|system_room_047sub_costume_appeal_001_047sub^どーよ、オレの衣装！　
-キマってる？　へへ♪|system_room_048rei_costume_appeal_001_048rei^しゃらら～ん♪　ドレスアーップ♪|system_room_049mom_costume_appeal_001_049mom^ふーん。なかなかいい衣装だね。|system_room_050jul_costume_appeal_001_050jul^着替え完了っと。お待たせ。|system_room_051tmg_costume_appeal_001_051tmg^着替えて参りました。
-……いかがでしょう。|system_room_052kao_costume_appeal_001_052kao^お待たせしました。
-着替え、終わりました。|system_room_001har_costume_wait_001_001har^{$P$}さん、
-どこ見てるんですか？|system_room_002chi_costume_wait_001_002chi^{$P$}、
-用が済んだら、
-声をかけてください。|system_room_003mik_costume_wait_001_003mik^あふぅ。ミキ、
-お昼寝してていーい？|system_room_004yuk_costume_wait_001_004yuk^あの……。私のこと、
-忘れてませんか……？|system_room_005yay_costume_wait_001_005yay^{$P$}、
-起きてますかー？|system_room_006mak_costume_wait_001_006mak^ボクの事、
-ちゃんと見ててくださいねっ♪|system_room_007ior_costume_wait_001_007ior^もしかして、見とれちゃったの？|system_room_008tak_costume_wait_001_008tak^なにか、
-思案なさっているのですか？|system_room_009rit_costume_wait_001_009rit^もしかして、ボーッとしてます？|system_room_010azu_costume_wait_001_010azu^ゆっくりする時間も
-必要ですものね。|system_room_011ami_costume_wait_001_011ami^ねえねえねえ～。
-もっと遊ぼうよ～。|system_room_012mam_costume_wait_001_012mam^あれ。兄ちゃん、生きてる？|system_room_013hib_costume_wait_001_013hib^うう、自分、ヒマで
-寝ちゃいそうだぞ～！|system_room_014mir_costume_wait_001_014mir^もう、よそ見しちゃダメですよ～。|system_room_015siz_costume_wait_001_015siz^ええと……どこを見てるんですか？|system_room_016tsu_costume_wait_001_016tsu^{$P$}さん、
-ちゃんとこっち見て～。|system_room_018ele_costume_wait_001_018ele^ネーネー、感想聞かせてヨー。|system_room_019min_costume_wait_001_019min^{$P$}さん、
-何か言ってくださ～い！|system_room_020meg_costume_wait_001_020meg^なに、ボーっとしてんの？|system_room_021mat_costume_wait_001_021mat^{$P$}さん、
-おねむなのです？|system_room_022ser_costume_wait_001_022ser^どのドレスも、素敵ですね！|system_room_023aka_costume_wait_001_023aka^茜ちゃんに見とれちゃった？|system_room_024ann_costume_wait_001_024ann^那个……杏奈的衣服……
-好看吗……？|system_room_025roc_costume_wait_001_025roc^もう少しアレンジを……
-ブツブツ……。|system_room_026yur_costume_wait_001_026yur^ちゃ、ちゃんと見てくれてますか？|system_room_027say_costume_wait_001_027say^こっち見てください、
-{$P$}！|system_room_028ari_costume_wait_001_028ari^ついつい妄想しちゃいます～。|system_room_029umi_costume_wait_001_029umi^う～ん、体がムズムズする～っ！　
-まだ？|system_room_030iku_costume_wait_001_030iku^へんなところがあったら、
-言ってね。|system_room_031tom_costume_wait_001_031tom^私を無視するとは、
-いい度胸ですね～。|system_room_032emi_costume_wait_001_032emi^あのう……
-見てくださっていますか？|system_room_033sih_costume_wait_001_033sih^どうして、じっと見るんですか？|system_room_034ayu_costume_wait_001_034ayu^う～……。アタシのコト、
-忘れてないよな？|system_room_035hin_costume_wait_001_035hin^{$P$}、
-もういいかい？|system_room_036kan_costume_wait_001_036kan^ねえねえ、
-こっち見てくださいよー！|system_room_037nao_costume_wait_001_037nao^{$P$}さん、
+来帮我看看吧～|system_room_043nor_costume_appeal_001_043nor^锵锵──！　怎么样！|system_room_044miz_costume_appeal_001_044miz^这身衣服，怎么样？|system_room_045kar_costume_appeal_001_045kar^我、我想听听……
+你的感想……|system_room_046rio_costume_appeal_001_046rio^怎么样，好看吗？
+呵呵♪|system_room_047sub_costume_appeal_001_047sub^怎么样，这套衣服！
+很适合吧？　嘿嘿♪|system_room_048rei_costume_appeal_001_048rei^莎啦啦～♪ 　换装完成♪|system_room_049mom_costume_appeal_001_049mom^哼～这身衣服挺不错的嘛。|system_room_050jul_costume_appeal_001_050jul^久等了，我换好了。|system_room_051tmg_costume_appeal_001_051tmg^我换好衣服了。
+……你觉得如何？|system_room_052kao_costume_appeal_001_052kao^久等了。
+我换好衣服了。|system_room_001har_costume_wait_001_001har^{$P$}先生，
+你在看哪里呢？|system_room_002chi_costume_wait_001_002chi^{$P$}，
+忙完的话，
+就和我说一声吧。|system_room_003mik_costume_wait_001_003mik^啊呼。
+美希可以睡午觉吗～？|system_room_004yuk_costume_wait_001_004yuk^那个……
+你没有……把我给忘了吧……？|system_room_005yay_costume_wait_001_005yay^{$P$}，
+你醒着吗──？|system_room_006mak_costume_wait_001_006mak^要好好看着在下哦♪|system_room_007ior_costume_wait_001_007ior^难道说，你看呆啦？|system_room_008tak_costume_wait_001_008tak^有什么需要
+沉思之事吗？|system_room_009rit_costume_wait_001_009rit^你是在发呆吗？|system_room_010azu_costume_wait_001_010azu^有时也需要
+放慢脚步呢。|system_room_011ami_costume_wait_001_011ami^诶诶诶～
+再多陪亚美玩一会儿嘛～|system_room_012mam_costume_wait_001_012mam^咦？大哥哥，你还活着吗？|system_room_013hib_costume_wait_001_013hib^呜呜，
+咱无聊到都快睡着啦～！|system_room_014mir_costume_wait_001_014mir^真是的，不许东张西望啦～|system_room_015siz_costume_wait_001_015siz^那个……请问你在看哪里？|system_room_016tsu_costume_wait_001_016tsu^{$P$}，
+好好看着我嘛～|system_room_018ele_costume_wait_001_018ele^诶诶，跟我说说你的感想嘛──|system_room_019min_costume_wait_001_019min^{$P$}先生，
+给点评价嘛～！|system_room_020meg_costume_wait_001_020meg^咋了，在发呆吗？|system_room_021mat_costume_wait_001_021mat^{$P$}先生，
+难道困了的说？|system_room_022ser_costume_wait_001_022ser^不管哪件都好好看呢！|system_room_023aka_costume_wait_001_023aka^看小茜看入迷了？|system_room_024ann_costume_wait_001_024ann^那个……杏奈的衣服……
+好看吗……？|system_room_025roc_costume_wait_001_025roc^再稍微Arrange下……
+（嘟囔）……|system_room_026yur_costume_wait_001_026yur^你、你有好好看着我吗？|system_room_027say_costume_wait_001_027say^请看这边，
+{$P$}！|system_room_028ari_costume_wait_001_028ari^不小心就陷入妄想了～|system_room_029umi_costume_wait_001_029umi^嗯～浑身痒痒～！
+还没好吗？|system_room_030iku_costume_wait_001_030iku^有什么地方奇怪的话，
+要跟我说哦。|system_room_031tom_costume_wait_001_031tom^竟敢无视我，
+胆子不小嘛～|system_room_032emi_costume_wait_001_032emi^那个……
+请问您在看着吗？|system_room_033sih_costume_wait_001_033sih^为什么一直盯着我看？|system_room_034ayu_costume_wait_001_034ayu^呜……
+你没把我忘了吧？|system_room_035hin_costume_wait_001_035hin^{$P$}，
+好了吗？|system_room_036kan_costume_wait_001_036kan^诶诶，
+看我这边嘛──！|system_room_037nao_costume_wait_001_037nao^{$P$}さん、
 ちゃんとこっち見てや～。|system_room_038chz_costume_wait_001_038chz^……黙ってないで、
 何か言ってくださいまし！|system_room_039kon_costume_wait_001_039kon^あら、よそ見しちゃダメよ？|system_room_040tam_costume_wait_001_040tam^むー……。たまき、つまんないぞ！|system_room_041fuk_costume_wait_001_041fuk^{$P$}さん、
 何か感想は……？|system_room_042miy_costume_wait_001_042miy^む～ん。よそ見するのは、

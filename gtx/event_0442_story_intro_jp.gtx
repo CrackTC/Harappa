@@ -1,33 +1,33 @@
-event_0442_story_intro_1000_null^ガチャ|event_0442_story_intro_1001_p^あれ、青羽さん、どうかしましたか？
-なにやら感慨深そうな。|event_0442_story_intro_1002_102mis^あっ、お疲れさまです、{$P$}さん。
-それが、昔の765プロの資料を見つけたんです。|event_0442_story_intro_1003_102mis^劇場ができる前の資料もたくさんあって。
-みんな、私と出会う前から頑張ってたんだなぁって。|event_0442_story_intro_1004_p^ああ、そうですね。そもそも劇場ができたのも、
-あの13人が頑張ってくれたからですし。|event_0442_story_intro_1005_p^いろいろあったのも確かです。振り返ればあっという間
-だったような、驚くほど長かったような……。|event_0442_story_intro_1006_p^と、ちょうど社長と、そういう話をする予定なんです。
-今日は劇場に来てもらっていて。|event_0442_story_intro_1007_102mis^あ、今度のオールスターライブの打ち合わせですね♪|event_0442_story_intro_1008_p^はい。
-……青羽さん、いつもありがとうございます。|event_0442_story_intro_1009_102mis^えっ？　どうしたんですか、いきなり。|event_0442_story_intro_1010_p^いや、劇場ができてからのことを振り返ると……
-青羽さんと出会えて、本当に良かったなって。|event_0442_story_intro_1011_p^もちろん劇場のアイドル達とも。
-一つ一つの出会いって、本当に奇跡みたいですね。|event_0442_story_intro_1012_102mis^……。そうですね。
-私も、この劇場に出会えてなかったら……。|event_0442_story_intro_1013_102mis^アイドルのみんな、音無先輩、社長さん、それから
-{$P$}さんと出会えてなかったら、|event_0442_story_intro_1014_102mis^今ほど素敵な思い出はできなかったと思います。
-なので、奇跡はお互い様です。ありがとうございます♪|event_0442_story_intro_1015_p^奇跡はお互い様……。
-はは、たしかにそうかもしれませんね！|event_0442_story_intro_1016_p^それじゃ、今後ともよろしくお願いします。
-とりあえず、いってきますね！|event_0442_story_intro_1017_102mis^は～い！　いってらっしゃ～い！！|event_0442_story_intro_1018_null^そして……|event_0442_story_intro_1019_p^社長。ここにいらしたんですね。|event_0442_story_intro_1020_president^ああ。
-今日はなんだか、空に呼ばれている気がしてね。|event_0442_story_intro_1021_101kot^社長ったら、さっきからずっとここにいるんですよ。
-ちょっぴり日焼けが心配ですけど……|event_0442_story_intro_1022_p^日焼け……。
-でも確かに、高くて晴れやかな空ですね。|event_0442_story_intro_1023_president^うむ。どこまでも青く、広く、はてしない。
-まるで我々の行き先そのもののようじゃないか。|event_0442_story_intro_1024_president^というわけで、直近の行き先となる
-オールスターライブの準備は順調かね？|event_0442_story_intro_1025_p^はい、13人とも気合い充分で
-臨んでくれています。|event_0442_story_intro_1026_p^オールスターライブは何度も経験しているはずですが、
-まるで初めてのライブのような意気込みで。|event_0442_story_intro_1027_president^そうだろうね。ライブは常に一期一会。
-一度しかない奇跡に出会える時間だ。|event_0442_story_intro_1028_president^ファンとの出会い、アイドルとの出会い、そして、
-その場でしか味わえないステージとの出会い……。|event_0442_story_intro_1029_president^ライブとは、そんな出会いの当事者となり、
-目撃者ともなれる瞬間なのだろうね。|event_0442_story_intro_1030_101kot^社長と{$P$}さんの
-出会いも、奇跡みたいなものですもんね♪|event_0442_story_intro_1031_p^はい、音無さんとの出会いも奇跡だと思います。
-俺にとっても……社長にとっても。|event_0442_story_intro_1032_101kot^まぁ……。
-ふふっ、そうですね♪|event_0442_story_intro_1033_president^アイドルは、そんな奇跡が詰まったステージを
-繰り返すからこそ、輝きを増していくのだろう。|event_0442_story_intro_1034_president^これからも繰り返していこうじゃないか。
-『巡り会う』という言葉が示す通り……|event_0442_story_intro_1035_president^出会いという名の奇跡は、巡るものだからね！|event_0442_story_intro_1036_p^……そうですね。初めて出会って、また出会って。
-そんな風に、人はお互いを知っていく……。|event_0442_story_intro_1037_p^（俺とアイドルたちとの、初めての出会い。
-それは……）|event_0442_story_intro_1038_president^では、もう少し詳しく聞かせてもらおう。
-今度のオールスターライブ……|event_0442_story_intro_1039_president^『Destiny公演』について！|event_0442_story_intro_1040_p^……はい！
+event_0442_story_intro_1000_null^（咔嚓）|event_0442_story_intro_1001_p^欸，青羽小姐，怎么了吗？
+看你一副很感慨的样子。　|event_0442_story_intro_1002_102mis^啊，辛苦了，{$P$}先生。
+是这样的，我找到了以前765Pro的资料。　|event_0442_story_intro_1003_102mis^还有很多剧场建成前的资料。
+大家在遇见我之前，就已经非常努力了呢。　　|event_0442_story_intro_1004_p^嗯，是啊。说到底剧场能够建成，
+也是因为那13个人的努力。　　|event_0442_story_intro_1005_p^确实发生过各种各样的事情。回首过去，
+感觉时间像是眨眼一样，但又长得惊人……　　|event_0442_story_intro_1006_p^刚好，我也正打算和社长聊聊这些。
+今天特意请他来剧场了。　　|event_0442_story_intro_1007_102mis^啊，是为了接下来的全明星演唱会的会议呢♪　　|event_0442_story_intro_1008_p^是的。
+……青羽小姐，一直以来多谢你了。　|event_0442_story_intro_1009_102mis^欸？　怎么了，突然说这种话。|event_0442_story_intro_1010_p^没，就是回顾剧场建成以来的事情……
+觉得能遇见青羽小姐，真是太好了。|event_0442_story_intro_1011_p^当然还有剧场的偶像们也是。
+每一次的相遇，都真的像是奇迹一样呢。　|event_0442_story_intro_1012_102mis^……　是呢。
+我，如果没有遇到这个剧场的话……　　|event_0442_story_intro_1013_102mis^如果没有遇到各位偶像，音无前辈，社长，
+还有{$P$}先生的话，　　|event_0442_story_intro_1014_102mis^我想我就无法留下现在这么多美好的回忆了。
+所以，奇迹是我们彼此赋予的哦。谢谢你♪　　|event_0442_story_intro_1015_p^奇迹是彼此彼此……
+哈哈，确实可能是这样呢！　　|event_0442_story_intro_1016_p^那么今后也请多多关照了。
+我先走了！　|event_0442_story_intro_1017_102mis^好的！　慢走～！！　　|event_0442_story_intro_1018_null^然后……　　|event_0442_story_intro_1019_p^社长。您原来在这里啊。　　|event_0442_story_intro_1020_president^是啊。
+今天总觉得，好像被这片天空呼唤着呢。　|event_0442_story_intro_1021_101kot^社长真是的，从刚才开始就一直呆在这里。
+虽然稍微有点担心他会不会晒黑……　　|event_0442_story_intro_1022_p^晒黑……
+但是，天空确实又高又晴朗啊。　　|event_0442_story_intro_1023_president^嗯。无比湛蓝，广阔，无边无际。
+简直就像我们前行的目的地一样啊。|event_0442_story_intro_1024_president^那么，关于我们近期的目的地，
+全明星演唱会的准备工作还顺利吗？　|event_0442_story_intro_1025_p^是的，
+13个人都干劲十足地在面对。　|event_0442_story_intro_1026_p^全明星演唱会明明已经经历过好几次了，
+大家却拿出了像面对第一次演唱会一样的干劲。|event_0442_story_intro_1027_president^会这样的吧。Live总是一期一会。
+那是只能相遇一次的奇迹时刻。　　|event_0442_story_intro_1028_president^与粉丝的相遇，与偶像的相遇，还有，
+只有在现场才能体会到的，与舞台的相遇……　　|event_0442_story_intro_1029_president^Live，大概就是这样一个既能成为这些相遇的当事人，
+也能成为见证者的瞬间吧。　　|event_0442_story_intro_1030_101kot^社长和{$P$}先生的相遇，
+也像是一场奇迹一样呢♪　　|event_0442_story_intro_1031_p^是的，我觉得能遇见音无小姐也是一场奇迹。
+对我来说是……对社长来说也是。|event_0442_story_intro_1032_101kot^哎呀……
+呵呵，是啊♪　　|event_0442_story_intro_1033_president^偶像正是因为不断反复经历着这样充满奇迹的舞台，
+身上的光芒才会愈发闪耀吧。　　|event_0442_story_intro_1034_president^今后我们也继续循环往复下去吧。
+正如『邂逅』这个词所表示的那样……　　|event_0442_story_intro_1035_president^名为相遇的奇迹，是会不断巡回往复的！　|event_0442_story_intro_1036_p^……是啊。初次相遇，然后再次相遇。
+像这样，人们在不断相遇中互相了解……　　|event_0442_story_intro_1037_p^（我与偶像们的初次相遇。
+那是……）　　|event_0442_story_intro_1038_president^那么，让我听听更详细的报告吧。
+关于这次的全明星演唱会……　　|event_0442_story_intro_1039_president^关于『Destiny公演』！　|event_0442_story_intro_1040_p^……是！

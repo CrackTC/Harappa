@@ -13202,13 +13202,14 @@ Vermilion Red（クロエ・なる）
 オリジナルメンバーの歌唱音源がランダムで割り当てられます|eventcview_info_10_title^关于活动LIVE舞台登场编成|eventcview_info_10^设置舞台登场编成后活动歌曲将优先使用此编成
 可以沿用一般的组合编成的总绽放值和技能等
 游玩活动歌曲|eventcview_info_11_title^关于百万大富翁|eventcview_info_11^百万大富翁中，可以根据停下和经过的格子触发事件，
-还能根据到达终点的周回数获得报酬。|eventcview_info_12_title^关于偶像Talking|eventcview_info_12^经过偶像Talking的格子后，会触发与偶像的Talk事件，
-看完同一偶像的Talk后能获得服装[Hexa.ac-T]作为报酬|eventcview_info_13_title^关于PUSH偶像的变更以及Talk历史|eventcview_info_13^可以随时更改PUSH偶像
+还能根据到达终点的周回数获得报酬。|eventcview_info_12_title^关于偶像Talking|eventcview_info_12^アイドルトーキングのマスを通過すると、アイドルとのトークイベントが
+発生し、同じアイドルとのトークを最後まで見ると、
+衣装[GlowT]が報酬として貰えます|eventcview_info_13_title^关于PUSH偶像的变更以及Talk历史|eventcview_info_13^可以随时更改PUSH偶像
 此外，偶像的Talk历史可以随时回顾|eventcview_info_14_title^关于百万大富翁的报酬|eventcview_info_14^ミリオンすごろくのゲートに到達した周回数に応じてアイテムが貰えます
 また、コミュが解放されたり、ボーナスライブやイベントpt獲得倍率UPが
 発生するので、報酬の獲得を目指してどんどん周回しましょう|eventcview_info_15_title^关于骰子交换所|eventcview_info_15^要使用骰子交换所，必须完成偶像Talking|eventcview_info_16_title^关于活动限定LIVE跳过|eventcview_info_16^「LIVE SKIP PASS」剩余次数会在每天00:00重置
 「期间限定LIVE SKIP PASS」的使用期限为活动期间购买日的次日为止|eventcview_info_17_title^关于歌单|eventcview_info_17^每日歌单和限定任务歌单的进度
-将在每天00:00更新|eventcview_info_18_title^本次活动的总结|eventcview_info_18^楽曲をプレイして約束を集め、イベント楽曲を
+将在每天00:00更新|eventcview_info_18_title^本次活动的总结|eventcview_info_18^楽曲をプレイしてフラッグを集め、イベント楽曲を
 プレイしてイベントptを集めて豪華報酬を手に入れよう！
 イベント中に獲得したサイコロでミリオンすごろくにもチャレンジ！|eventcview_info_19_title^关于花费数选择|eventcview_info_19^可以在游玩活动歌曲时选择花费倍率2倍、4倍、10倍
 花费数越多，可以获得的活动pt和骰子越多
@@ -14428,7 +14429,7 @@ CDの到着が遅れてしまうトラブルに遭遇する。
 正在返回标题|gasha_popup_msg_09^由于已经拥有
 扭蛋可能出现的所有服装
 无法使用票券|gasha_popup_msg_10^由于扭蛋已结束，扭蛋处理失败|gasha_popup_btn_00^进行
-扭蛋|gasha_popup_btn_01^购买百万宝石|gasha_notice_01^拍到了最棒的一张……没错！|gasha_notice_02^让人雀跃不已、至高无上的一张哦！|gasha_notice_03^轻飘飘、令人心动又暖洋洋的一张！|gasha_notice_04^受静夜所邀……缔结约定的一张！|gasha_notice_05^比梦境更有梦幻感，最棒的一张！|gasha_notice_06^并非魔法……实在是最棒的一张！|gasha_notice_07^就想在梦中遇到的一般…至高的一张！|gasha_notice_08^战斗的结局究竟如何……很有冲击力的一张♪|gasha_notice_09^命运的齿轮为您送上充满希望的一张！|gasha_notice_10^撼动银河的最棒的一张，请收下吧！|gasha_notice_11^秋日凉风中，温暖人心的一张♪|gasha_notice_12^摄人心魄到近乎毁天灭地的一张……！|gasha_notice_13^自己独特的光芒……正在灿烂闪耀哦♪|gasha_notice_r^拍到了大家很开心的样子哦|gasha_notice_sr^拍到了大家很棒的表情！|gasha_notice_ssr^拍到了最棒的一张，请您务必确..|gasha_platinum_message^SSRカードが登場！10回ガシャはSR以上のカードが1枚以上確定！|gasha_ticket_message^ここではメダルガシャや、チケット使用で
+扭蛋|gasha_popup_btn_01^购买百万宝石|gasha_notice_01^拍到了最棒的一张……没错！|gasha_notice_02^让人雀跃不已、至高无上的一张哦！|gasha_notice_03^轻飘飘、令人心动又暖洋洋的一张！|gasha_notice_04^受静夜所邀……缔结约定的一张！|gasha_notice_05^比梦境更有梦幻感，最棒的一张！|gasha_notice_06^并非魔法……实在是最棒的一张！|gasha_notice_07^就想在梦中遇到的一般…至高的一张！|gasha_notice_08^いけない魅力に、心奪われる1枚です！|gasha_notice_09^命运的齿轮为您送上充满希望的一张！|gasha_notice_10^撼动银河的最棒的一张，请收下吧！|gasha_notice_11^秋日凉风中，温暖人心的一张♪|gasha_notice_12^摄人心魄到近乎毁天灭地的一张……！|gasha_notice_13^自己独特的光芒……正在灿烂闪耀哦♪|gasha_notice_r^拍到了大家很开心的样子哦|gasha_notice_sr^拍到了大家很棒的表情！|gasha_notice_ssr^拍到了最棒的一张，请您务必确..|gasha_platinum_message^SSRカードが登場！10回ガシャはSR以上のカードが1枚以上確定！|gasha_ticket_message^ここではメダルガシャや、チケット使用で
 ミリコレガシャ、衣装ガシャを
 引くことができます。|gasha_mdl_detail_message_00^在这里可以进行硬币扭蛋。|gasha_photo_name^摄影师　现在|gasha_result_title_00^扭蛋结果|gasha_result_desc_00^获得了卡片|gasha_result_desc_01^获得了服装|gasha_result_btn_00^再抽一次|gasha_result_btn_01^继续|gasha_result_msg_00^已获得的卡片已经转换为道具|gasha_result_exchange_001^{0}： {1} → <color=#00A0E9FF>{2}<color>|gasha_result_draw_item_on^详情|gasha_result_draw_item_off^OFF|gasha_ticket_00^扭蛋硬币pt槽|gasha_ticket_01^扭蛋硬币pt|gasha_ticket_02^距离下一个扭蛋硬币还需<color=#FF0098>{0}</color>pt|gasha_ticket_03^持有扭蛋硬币数
 {0:D2}/{1:D2} 枚|gasha_ticket_04^使用期限：{0}年{1}月{2}日{3}点{4}分{5}秒|gasha_ticket_05^<color=#00A0E9>{0}枚</color>(<color=#00A0E9>+{1}</color>)|gasha_ticket_pop_title^扭蛋硬币|gasha_ticket_pop_tab_0^扭蛋硬币
@@ -17512,4 +17513,6 @@ ErrorCode [{0}]|title_connection_prl_retry_error_1^ピンキーリングの取�
 お洒落なチェック柄と髪飾りが、アイドルの輝きを
 より鮮やかに彩る衣装です。|gasha2_top_desc_gid_70529^「dual twin live tour名古屋公演打ち上げ39ガシャ」開催！
 有償ミリオンジュエル390個で引ける<color=#FF0098>1回ガシャ</color>で双海亜美、双海真美、三浦あずさ、秋月律子のカードのみ出現！
-さらにSSRの出現率はなんと<color=#FF0098>39％</color>！|gasha2_top_balloon_gid_70529^SR以上確定！|gasha2_top_pop_confirm_title_gid_70529^<size=26>dual twin live tour名古屋公演打ち上げ39ガシャ</size>
+さらにSSRの出現率はなんと<color=#FF0098>39％</color>！|gasha2_top_balloon_gid_70529^SR以上確定！|gasha2_top_pop_confirm_title_gid_70529^<size=26>dual twin live tour名古屋公演打ち上げ39ガシャ</size>|display_character_tizurumirai^千鶴・未来|unitselect_tips_glowto_00_title^楽曲「Glow Together」について|unitselect_tips_glowto_00^「Glow Together」はオリジナルメンバー限定歌い分けに対応！
+楽曲に登場するオリジナルメンバーを配置すると、そのアイドル
+の立ち位置に応じて歌うパートが変わります

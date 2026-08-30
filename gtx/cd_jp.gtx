@@ -338,11 +338,12 @@ card_list_017kth0011_skillname_017kth^---|card_list_017kth0011_flavor_1_017kth^�
 我会真心诚意地为各位歌唱。|card_list_008tak0034_awake_008tak^为了乘着海风，将光辉传递给人们……
 来吧，我们出发吧！|card_list_008tak0034_contact_1_008tak^{$P$}は、
 いつも私に、
-帰るべき場所をくださいますね。|card_list_008tak0034_contact_2_008tak^どれほど遠くに行っても、
-私は必ず帰ります。
-あなた様がいる、この場所に。|card_list_008tak0034_gasha_008tak^{$P$}、夜の海の水面にたゆたう、
-星々の光を……。今、ここにすくいましょう！|card_list_008tak0034_costume_008tak^静かな星月夜のように、
-優しい衣装ですね…。|card_list_008tak0034_awake_gauge25_008tak^この浜辺には、私たちしかいないようですね。|card_list_008tak0034_awake_gauge50_008tak^波の音、風の音……心が洗われるようです。|card_list_008tak0034_awake_gauge75_008tak^何より貴重なのは……今この時、かもしれませんね。|card_list_008tak0034_awake_gauge100_1_008tak^光陰矢のごとし、とは申しますが……。
+帰るべき場所をくださいますね。|card_list_008tak0034_contact_2_008tak^无论走得多远，
+我都一定会回来。
+回到有您在的这个地方。|card_list_008tak0034_gasha_008tak^{$P$}，让我们将……
+漂浮在夜晚海面上的群星之光，
+捧到此刻、此地吧！|card_list_008tak0034_costume_008tak^仿佛宁静的星月之夜，
+真是温柔的衣装呢……。|card_list_008tak0034_awake_gauge25_008tak^この浜辺には、私たちしかいないようですね。|card_list_008tak0034_awake_gauge50_008tak^波の音、風の音……心が洗われるようです。|card_list_008tak0034_awake_gauge75_008tak^何より貴重なのは……今この時、かもしれませんね。|card_list_008tak0034_awake_gauge100_1_008tak^光陰矢のごとし、とは申しますが……。
 楽しい時間というのは、過ぎるのも早いものですね。|card_list_008tak0034_awake_gauge100_2_008tak^ですが……、惜しくはありません。
 今も私は、こうしてあなた様と共にあるのですから。|card_list_008tak0034_awake_gauge100_3_008tak^忙しい予定の合間に、あなた様が作ってくださった、
 この秘密の浜辺でのひととき……決して忘れません。|card_list_008tak0034_master_008tak^レッスン、ありがとうございました。
@@ -31114,24 +31115,24 @@ CAFÉ』記念|card_list_042miy0492_awake_042miy^-|card_list_038chz0492_skillnam
 ……なんて、大げさすぎですかね。へへ……。|card_list_006mak0414_awake_gauge100_3_006mak^{$P$}がよければ、一緒に吸い
 込まれに行っちゃいますか？　なんて。あはは♪|card_list_006mak0414_master_006mak^カワイイもキレイも、磨き続けてこそだそうです。
 よーし、ボクももっと頑張るぞ～！|card_list_006mak0414_master_max_006mak^どうでしょうか？　今のボクなら通りすぎる人の
-視線を奪うことも出来ちゃいそうな気がします！|card_list_039kon0474_skillname_039kon^大人、でしょ？|card_list_039kon0474_flavor_1_039kon^ぷは～♪　やっぱり地元のお酒は最高ね！
-山口に来たからには、日本酒とふぐは
-堪能しなきゃって思ってたけど……うふふ♪
-{$P$}も、ほらほら。
-たくさん食べて飲んで、英気を養いましょ♪|card_list_039kon0474_flavor_2_039kon^うふふ、風が気持ちいいわね……。
-そういえば、デキる男は、
-飲み会の後の行動でわかるっていうけど……
-あなたは、どっちかしら？
-さあ、エスコートしてちょうだい♪|card_list_039kon0474_awake_039kon^ちょっと飲み過ぎちゃったかしら……うふふっ♪
-ねえ、少しだけ酔い冷ましに付き合ってくれる？|card_list_039kon0474_contact_1_039kon^ねえ、{$P$}。
-雰囲気のいい居酒屋で、オススメが
-あったら、教えてくれない？|card_list_039kon0474_contact_2_039kon^姉の威厳がかかってるの……！
-私を助けると思って、お願い！|card_list_039kon0474_gasha_039kon^これこそ、アダルティなお姉さんの私服コーデよ！
-年上の魅力、ちゃんと感じてくれた？|card_list_039kon0474_costume_039kon^この服なら年齢を確認されることも
-ないわよね……そうだと言って！|card_list_039kon0474_awake_gauge25_039kon^乾杯～！　……んん！？　このお酒、すごく美味しい♪|card_list_039kon0474_awake_gauge50_039kon^食べたい物、飲みたい物……じゃんじゃん頼みましょ♪|card_list_039kon0474_awake_gauge75_039kon^久々に帰ってきたけど。地元はほっとするわね～。|card_list_039kon0474_awake_gauge100_1_039kon^美味しい地酒に、美味しい料理……ああ～、幸せ♪
-母親が教えてくれたんだけど、さすがね。|card_list_039kon0474_awake_gauge100_2_039kon^{$P$}も楽しそうで、よかったわ。
-ここにいる間は、ゆっくりしてほしいなって……。|card_list_039kon0474_awake_gauge100_3_039kon^だって、せっかくの旅行よ？　仕事のことは忘れて、
-二人で羽を伸ばしましょ。それじゃ改めて、乾杯～♪|card_list_039kon0474_master_039kon^地元に帰って、リフレッシュできたみたい。よーし……
+視線を奪うことも出来ちゃいそうな気がします！|card_list_039kon0474_skillname_039kon^我是大人，对吧？|card_list_039kon0474_flavor_1_039kon^呼啊～♪ 果然还是家乡的酒最棒了！
+既然来到了山口，不把日本酒和河豚
+尝个遍可不行呢……呵呵♪
+{$P$}，你也快点来吧。
+多吃点多喝点，养足精神吧♪|card_list_039kon0474_flavor_2_039kon^呵呵，微风拂过真舒服呢……
+说起来，听说靠谱的男人，
+能从酒会结束后的举动看出来哦……
+你会怎么做呢？
+来吧，护送我走吧♪|card_list_039kon0474_awake_039kon^好像稍微喝多了一点呢……呵呵♪
+呐，能陪我稍微散散步醒醒酒吗？|card_list_039kon0474_contact_1_039kon^呐，{$P$}。
+有氛围很好的居酒屋推荐吗，
+能不能告诉我呢？|card_list_039kon0474_contact_2_039kon^这可是关系到姐姐我的威严呢……！
+就当是帮帮我，拜托嘛！|card_list_039kon0474_gasha_039kon^这才是成熟大姐姐的私服穿搭哦！
+成熟的魅力，你有好好感受到吗？|card_list_039kon0474_costume_039kon^穿上这套服装应该不会被人查验
+年龄了吧……快说是的！|card_list_039kon0474_awake_gauge25_039kon^乾杯～！　……んん！？　このお酒、すごく美味しい♪|card_list_039kon0474_awake_gauge50_039kon^食べたい物、飲みたい物……じゃんじゃん頼みましょ♪|card_list_039kon0474_awake_gauge75_039kon^久々に帰ってきたけど。地元はほっとするわね～。|card_list_039kon0474_awake_gauge100_1_039kon^香醇的本地美酒，配上美味的菜肴……啊啊～，好幸福♪
+妈妈推荐过的，果然不会有错呢。|card_list_039kon0474_awake_gauge100_2_039kon^看到{$P$}也玩得很开心，真是太好了。
+希望在这边的时光，你可以好好放松呢……|card_list_039kon0474_awake_gauge100_3_039kon^毕竟，是难得出来旅行嘛？就忘掉工作，
+我们两个人好好放松一下呗。那么重新来，干杯～♪|card_list_039kon0474_master_039kon^地元に帰って、リフレッシュできたみたい。よーし……
 いつも以上に張り切ってレッスンするわよ～！|card_list_039kon0474_master_max_039kon^どう？　レッスン、完璧だったでしょ♪
 今日は私服から気合いを入れてきたの。そのおかげね。|card_list_019min0494_skillname_019min^その手、こころ|card_list_019min0494_flavor_1_019min^二人とも、来てくれて、ありがとう！
 ステージの上からも、ちゃんと見えてたよ。
@@ -31221,11 +31222,11 @@ CAFÉ』記念|card_list_042miy0492_awake_042miy^-|card_list_038chz0492_skillnam
 ミリオンライブ野郎ラーメン　
 〜子豚ちゃんいらっしゃい♪〜』記念|card_list_031tom0532_flavor_2_031tom^2024年7月『四条最強！
 ミリオンライブ野郎ラーメン　
-〜子豚ちゃんいらっしゃい♪〜』記念|card_list_031tom0532_awake_031tom^-|card_list_039kon0512_skillname_039kon^お気に入りなの♪|card_list_039kon0512_flavor_1_039kon^2024年7月『アイドルマスター 
-ミリオンライブ！ 
-アニマルパーティーフェア』記念|card_list_039kon0512_flavor_2_039kon^2024年7月『アイドルマスター 
-ミリオンライブ！ 
-アニマルパーティーフェア』記念|card_list_039kon0512_awake_039kon^-|card_list_031tom0542_skillname_031tom^楽しそうで何より|card_list_031tom0542_flavor_1_031tom^2024年7月『アイドルマスター 
+〜子豚ちゃんいらっしゃい♪〜』記念|card_list_031tom0532_awake_031tom^-|card_list_039kon0512_skillname_039kon^这是我喜欢的♪|card_list_039kon0512_flavor_1_039kon^2024年7月『偶像大师 
+百万现场！
+动物派对嘉年华』纪念|card_list_039kon0512_flavor_2_039kon^2024年7月『偶像大师 
+百万现场！
+动物派对嘉年华』纪念|card_list_039kon0512_awake_039kon^-|card_list_031tom0542_skillname_031tom^楽しそうで何より|card_list_031tom0542_flavor_1_031tom^2024年7月『アイドルマスター 
 ミリオンライブ！ 
 アニマルパーティーフェア』記念|card_list_031tom0542_flavor_2_031tom^2024年7月『アイドルマスター 
 ミリオンライブ！ 
@@ -31373,20 +31374,20 @@ CAFÉ』記念|card_list_042miy0492_awake_042miy^-|card_list_038chz0492_skillnam
 机に向かいながらでもできる
 トレーニングがあるそうです！|card_list_027say0503_contact_2_027say^私も早速やってみるので、
 {$P$}も試して
-みませんか？　時間は有限ですよ！|card_list_039kon0483_skillname_039kon^あまねくアクマ|card_list_039kon0483_flavor_1_039kon^悪魔の衣装だなんて、セクシーで
-アダルティな私にピッタリじゃない♪
-これに私の計算されたチラリズムが加われば
-……ああ、私ってなんて罪深いの！
-ちょっと、笑うところじゃないわよ！|card_list_039kon0483_flavor_2_039kon^悪魔になったらどこまでも自堕落な生活を
-しちゃいそうで怖いわ……毎日お酒を飲んで
-好きなだけ美味しいものを食べても、
-怒られるどころか褒められそうじゃない？
-ちゃんと叱ってくれる人が必要ね……。|card_list_039kon0483_awake_039kon^ライブをする悪魔っていうのも面白くないかしら？
-魅惑のお姉さんボイスで、みんなをトリコにするわよ♪|card_list_039kon0483_contact_1_039kon^性格診断をしてたら、
-『悪魔にひとつお願いをするなら』
-っていう質問が出てきたの。|card_list_039kon0483_contact_2_039kon^私なら「この世で一番美味しい
-お酒を{$P$}と
-飲みたい」ってお願いするわね♪|card_list_021mat0513_skillname_021mat^愛のスパイス|card_list_021mat0513_flavor_1_021mat^今日のまつりは、そー・きゅーと！な悪魔の
+みませんか？　時間は有限ですよ！|card_list_039kon0483_skillname_039kon^遍布众生的恶魔|card_list_039kon0483_flavor_1_039kon^这套恶魔服装，对性感又成熟
+的我来说简直绝配♪
+再配上精心设计的若隐若现的魅力
+……啊，我真是罪孽深重啊！
+喂，这不是该笑的时候哦！|card_list_039kon0483_flavor_2_039kon^要是变成恶魔，我恐怕会过上堕落至极
+的生活，好可怕……终日饮酒、
+随心所欲的享用无穷美食，
+不仅不会被责备，甚至还会被夸奖对吧？
+我还是希望能有个人好好管管我呢……。|card_list_039kon0483_awake_039kon^开演唱会的恶魔，不是也挺有意思的嘛？
+就用姐姐那充满魅惑的声音，把大家都迷得神魂颠倒吧♪|card_list_039kon0483_contact_1_039kon^我在做性格测试的时候，
+出现了『如果可以向恶魔许一个愿望』
+这样的问题。|card_list_039kon0483_contact_2_039kon^我的话，就许愿
+「和{$P$}一起，
+共饮这世上最美味的酒」吧♪|card_list_021mat0513_skillname_021mat^愛のスパイス|card_list_021mat0513_flavor_1_021mat^今日のまつりは、そー・きゅーと！な悪魔の
 お姫様なのです♪　だからいつも以上に
 みんなを惑わせちゃうのですよ。
 もちろん、{$P$}さんも。
@@ -31528,19 +31529,19 @@ CAFÉ』記念|card_list_042miy0492_awake_042miy^-|card_list_038chz0492_skillnam
 スペシャル～わたしは花、あなたは
 太陽～』記念|card_list_026yur0552_flavor_2_026yur^2024年9月『プラチナスターシアター
 スペシャル～わたしは花、あなたは
-太陽～』記念|card_list_026yur0552_awake_026yur^-|card_list_039kon0532_skillname_039kon^気に入ってくれたかな？|card_list_039kon0532_flavor_1_039kon^2024年9月『プラチナスターシアター
-スペシャル～わたしは花、あなたは
-太陽～』記念|card_list_039kon0532_flavor_2_039kon^2024年9月『プラチナスターシアター
-スペシャル～わたしは花、あなたは
-太陽～』記念|card_list_039kon0532_awake_039kon^-|card_list_049mom0562_skillname_049mom^アイドルの原動力|card_list_049mom0562_flavor_1_049mom^2024年9月『プラチナスターシアター
+太陽～』記念|card_list_026yur0552_awake_026yur^-|card_list_039kon0532_skillname_039kon^你会喜欢吗？|card_list_039kon0532_flavor_1_039kon^2024年9月『白金星光剧场 
+特别公演～我是花儿，你是太阳～』
+纪念|card_list_039kon0532_flavor_2_039kon^2024年9月『白金星光剧场 
+特别公演～我是花儿，你是太阳～』
+纪念|card_list_039kon0532_awake_039kon^-|card_list_049mom0562_skillname_049mom^アイドルの原動力|card_list_049mom0562_flavor_1_049mom^2024年9月『プラチナスターシアター
 スペシャル～わたしは花、あなたは
 太陽～』記念|card_list_049mom0562_flavor_2_049mom^2024年9月『プラチナスターシアター
 スペシャル～わたしは花、あなたは
 太陽～』記念|card_list_049mom0562_awake_049mom^-|card_list_052kao0462_skillname_052kao^大切なことなので|card_list_052kao0462_flavor_1_052kao^2024年9月『岩手競馬×アイドルマスター
 ミリオンライブ！』記念|card_list_052kao0462_flavor_2_052kao^2024年9月『岩手競馬×アイドルマスター
-ミリオンライブ！』記念|card_list_052kao0462_awake_052kao^-|card_list_039kon0542_skillname_039kon^気合十分よ！|card_list_039kon0542_flavor_1_039kon^2024年9月『岩手競馬×アイドルマスター
-ミリオンライブ！』記念|card_list_039kon0542_flavor_2_039kon^2024年9月『岩手競馬×アイドルマスター
-ミリオンライブ！』記念|card_list_039kon0542_awake_039kon^-|card_list_046rio0492_skillname_046rio^パドック見学♪|card_list_046rio0492_flavor_1_046rio^2024年9月『岩手競馬×アイドルマスター
+ミリオンライブ！』記念|card_list_052kao0462_awake_052kao^-|card_list_039kon0542_skillname_039kon^干劲十足哦！|card_list_039kon0542_flavor_1_039kon^2024年9月『岩手赛马×偶像大师 
+百万现场！』纪念|card_list_039kon0542_flavor_2_039kon^2024年9月『岩手赛马×偶像大师 
+百万现场！』纪念|card_list_039kon0542_awake_039kon^-|card_list_046rio0492_skillname_046rio^パドック見学♪|card_list_046rio0492_flavor_1_046rio^2024年9月『岩手競馬×アイドルマスター
 ミリオンライブ！』記念|card_list_046rio0492_flavor_2_046rio^2024年9月『岩手競馬×アイドルマスター
 ミリオンライブ！』記念|card_list_046rio0492_awake_046rio^-|card_list_036kan0552_skillname_036kan^♪～♪♪～♪|card_list_036kan0552_flavor_1_036kan^2024年8月『夢色乙女 アーバンドック
 ららぽーと豊洲 × THE IDOLM@STER
@@ -31658,19 +31659,19 @@ MILLION LIVE!』記念|card_list_033sih0562_awake_033sih^-|card_list_007ior0432_
 私が好きそうな本を見つけたから
 ってプレゼントしてくれたんです！|card_list_026yur0513_contact_2_026yur^一気に読みたいんですけど、
 せっかくだから少しずつ読みたくも
-あり……悩ましいです……。|card_list_039kon0493_skillname_039kon^それでは一曲|card_list_039kon0493_flavor_1_039kon^さあ、会社員時代に鍛えたカラオケスキルを
-見せてあげるわ！　こういうのは照れたら
-負けなの。必要なのは度胸と愛嬌、
-ついでに合いの手も入れられたら完璧ね。
-それじゃ一番馬場このみ、歌いまーす！|card_list_039kon0493_flavor_2_039kon^花冠なんて作るの、いつぶりかしら。
-手間はかかるけど、作っているだけで
-優しい気持ちになれるのよね。
-いつか花がしおれても、この気持ちは……
-いつまでも変わらないから。|card_list_039kon0493_awake_039kon^私たちはFleurS。空いっぱいの花びらを纏いながら
-これからも3人一緒に、どこまでも咲き誇りましょう！|card_list_039kon0493_contact_1_039kon^{$P$}は、
-甘いカレーも好きだったかしら？|card_list_039kon0493_contact_2_039kon^小さい子用に新しいカレーに挑戦
-してたら、作りすぎちゃって。
-よかったら食べてくれない？|card_list_016tsu0543_skillname_016tsu^ゴールドフリルウェーブ|card_list_016tsu0543_flavor_1_016tsu^も～っ！
+あり……悩ましいです……。|card_list_039kon0493_skillname_039kon^那么，献上一曲|card_list_039kon0493_flavor_1_039kon^来吧，让你见识一下我在职员时期练就的
+卡拉OK技能吧！这种时候，害羞就输啦。
+需要的是胆量和魅力，
+如果能在恰当的时机打cell，那就完美了。
+那么，马场木实，要开唱啦——！|card_list_039kon0493_flavor_2_039kon^做花冠这回事，不知是从何时开始的。
+虽然费工夫，但制作的过程中，
+心就会慢慢变得温柔起来。
+即使花儿终将凋谢，但这份心意……
+将恒古不变。|card_list_039kon0493_awake_039kon^我们是 FleurS。身披漫天花瓣，
+今后三人也要携手，绽放至天涯海角！|card_list_039kon0493_contact_1_039kon^{$P$}，
+你也喜欢甜口的咖喱吗？|card_list_039kon0493_contact_2_039kon^我试着给小朋友的做新式咖喱，
+结果一不小心做多了。
+要是不嫌弃的话，愿意尝尝吗？|card_list_016tsu0543_skillname_016tsu^ゴールドフリルウェーブ|card_list_016tsu0543_flavor_1_016tsu^も～っ！
 体操着が引っかかって、うまく進めない～！
 わわっ、{$P$}さん、
 恥ずかしいから今はこっち見ないで～！|card_list_016tsu0543_flavor_2_016tsu^障害物競走では
@@ -32360,20 +32361,20 @@ MILLION LIVE!』記念|card_list_020meg0562_awake_020meg^-|card_list_028ari0542_
 いいですし、何より
 パフォーマンスが上がるんです。|card_list_002chi0503_contact_2_002chi^よければ{$P$}も
 やってみてください。難しければ
-私もお手伝いしますから。|card_list_039kon0503_skillname_039kon^かわいいこのみさん|card_list_039kon0503_flavor_1_039kon^とてもかわいいパジャマだと思うけど……
-私に似合うかしら？　少し子どもすぎない？
-……素敵なレディに見える？
-そ、そう。わかったわ。素敵なレディとして
-しっかり着こなさなくちゃね、うふふ♪|card_list_039kon0503_flavor_2_039kon^朝日を浴びると、すごく気持ちいいのよね♪
-それだけで「一日やるぞー！」って気に
-なるんだけど……お酒を飲んだ次の日は、
-なかなか早起きできなくて。
-うーん……どっちをとればいいか迷うわね。|card_list_039kon0503_awake_039kon^『セクシー』と『キュート』でお姉さんの魅力も二倍！
-みんなをドキドキさせて、今夜は寝かせないんだから♪|card_list_039kon0503_contact_1_039kon^ねぇ{$P$}。
-夢の続きを見る方法って、
-なにか知らない？|card_list_039kon0503_contact_2_039kon^私の背がグーンと伸びる夢だったん
-だけど……つり革に手が届くか、
-確かめわすれちゃったのよね。|card_list_017kth0533_skillname_017kth^楽しんじゃいました|card_list_017kth0533_flavor_1_017kth^ゆっくりお風呂に入って、
+私もお手伝いしますから。|card_list_039kon0503_skillname_039kon^可爱的木实小姐|card_list_039kon0503_flavor_1_039kon^虽然这套睡衣确实很可爱啦……
+但真的适合我吗？会不会太孩子气了？
+……看起像位优雅的淑女？
+是、是吗。我知道啦。那作为优雅淑女，
+我得好好驾驭它才行呢，呵呵♪|card_list_039kon0503_flavor_2_039kon^沐浴在晨光之中，心情会特别舒畅♪
+光是这样就会有「今天也要加油！」
+的劲头，让人精神满满……
+不过喝完酒的第二天，就很难早起呢。
+唔——……真不知道该如何取舍呢。|card_list_039kon0503_awake_039kon^兼具『性感』与『可爱』让姐姐的魅力直接翻倍吧！
+要撩得大家心跳加速，今晚可不让你们安心入睡哦♪|card_list_039kon0503_contact_1_039kon^呐，{$P$}。
+你知道有什么方法，
+能延续相同的梦吗？|card_list_039kon0503_contact_2_039kon^我梦到自己的个子一下子
+长高了许多……但是还没
+确认到能不能够到吊环呢。|card_list_017kth0533_skillname_017kth^楽しんじゃいました|card_list_017kth0533_flavor_1_017kth^ゆっくりお風呂に入って、
 お気に入りのパジャマに着替えるんです。
 お布団に入ってから、一日を振り返ると……
 すごく幸せだなぁって。ふふ♪
@@ -33035,15 +33036,15 @@ Clove Lounge』記念|card_list_018ele0532_awake_018ele^-|card_list_037nao0492_s
 みんなもそうだけど、あなたもそのうちの一人だよ？|card_list_001har0444_awake_gauge100_3_001har^だから、どうしても直接、みんなにお礼を伝えたくて！
 えへへ……。また、ここで待ってるからねーっ♪|card_list_001har0444_master_001har^難しいことも、練習を続ければ、いつか必ず……！
 レッスンの続きも、よろしくお願いしますね！|card_list_001har0444_master_max_001har^今なら、自信を持って歌えそうです！　私をずっと
-見守ってくれている人がいますから。えへへっ♪|card_list_039kon0524_skillname_039kon^你还差一百年呢！|card_list_039kon0524_flavor_1_039kon^わあ、見て見て歩ちゃん！　一面真っ白！
-足跡も、私たちの分だけよ！
-真っ白なキャンバスに一番乗り～ってね♪
-撮影がはじまったら遊ぶ時間もないだろうし
-今のうちに二人で楽しみましょ♪　うふふ。|card_list_039kon0524_flavor_2_039kon^私が一番にプレゼントを配り終わって、
-サンタレースに勝利してみせるっ！
-うふふ。私のアダルティなソリさばき、
-その目に焼き付けなさい！　ナンバーワンは
-私のもの……誰も私の前を走らせないわ！|card_list_039kon0524_awake_039kon^一晩でプレゼントを配りきってみせる。さあ、全速力で
+見守ってくれている人がいますから。えへへっ♪|card_list_039kon0524_skillname_039kon^你还差一百年呢！|card_list_039kon0524_flavor_1_039kon^哇，步快看快看！一片雪白！
+雪地上只有我们的脚印呢！
+我们是最先踏上这片纯白画布的人～♪
+等拍摄开始之后就没时间玩了，
+趁现在两个人好好享受吧♪ 呵呵。|card_list_039kon0524_flavor_2_039kon^我要第一个派送完礼物，
+拿下圣诞老人竞速赛的胜利！
+呵呵。我那成熟的雪橇操控技术，
+可要好好印烙进你的眼里哦！第一名
+是我的……我可不会让任何人在我前面！|card_list_039kon0524_awake_039kon^一晩でプレゼントを配りきってみせる。さあ、全速力で
 とばすわよーっ！　アユム、私に付いてこれる？|card_list_039kon0524_contact_1_039kon^{$P$}は、
 安全運転には気をつけてると
 思うけど…事前の確認も大事よ！|card_list_039kon0524_contact_2_039kon^ミラーの角度やシートの位置。

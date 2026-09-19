@@ -6566,7 +6566,7 @@ Princess|common_param_05^Lv|common_param_06^技能|common_param_07^技能Lv|comm
 <size=20>「{0}」</size>。
 确定要进行工作吗？|common_check_no_get_event_pt_pu_msg_01^现在正在举办活动
 <size=20>「{0}」</size>。
-确定要进行LIVE吗？|common_check_no_get_event_pt_pu_msg_02^此活动不再提示|common_check_no_get_event_pt_pu_msg_03^このままお仕事を行った場合、イベントptを獲得することはできません|common_check_no_get_event_pt_pu_msg_04^このままライブを行った場合、イベントptを獲得することはできません|common_check_no_get_event_pt_pu_msg_05^存在中断的宣传活动或举办中的舞台
+确定要进行LIVE吗？|common_check_no_get_event_pt_pu_msg_02^此活动不再提示|common_check_no_get_event_pt_pu_msg_03^イベントptを獲得することはできず、またビンゴ抽選は行われません|common_check_no_get_event_pt_pu_msg_04^イベントptを獲得することはできず、またビンゴ抽選は行われません|common_check_no_get_event_pt_pu_msg_05^存在中断的宣传活动或举办中的舞台
 将移动到活动专题页|common_check_no_get_event_pt_pu_msg_06^存在公演中的歌单
 将移动到活动专题页|common_check_no_get_event_pt_pu_msg_07^存在中断的宣传活动或优雅舞台
 将移动到活动专题页|common_check_no_get_event_pt_pu_btn_00^前往活动|common_song_download_pu_title^下载|common_song_download_pu_msg^将要下载歌曲|common_result_idol_bonus_msg_00^<size=14>×</size><size=16>{0:#.##}</size>|common_getitem_pu_msg_0^获得了以下的道具|common_getitem_pu_msg_1^解锁了以下的歌曲|common_getitem_pu_msg_2^获得了以下的服装|common_getitem_pu_msg_3^获得了以下的称号|common_getitem_pu_msg_4^以下的道具已经直接发放到库存|common_getitem_pu_msg_5^以下的道具已经以礼物形式发放|common_getitem_pu_msg_6^领取了以下的卡片|common_getitem_pu_msg_7^以下的卡片已经以礼物形式发放|common_getitem_pu_msg_8^获得了以下的卡片|common_getitem_pu_msg_99^获得了以下的报酬|common_getitem_pu_item_warning_0^超出持有上限的部分已被丢弃|common_getitem_pu_warning_0^获得的道具可以从礼物中领取|common_getitem_pu_warning_1^道具将直接发放|common_getitem_pu_warning_2^服装将直接发放|common_getitem_pu_warning_3^已经以礼物形式发放|common_getitem_pu_warning_4^已直接发放|common_getitem_pu_warning_5^卡片已直接发放|common_costume_icon_possesion^<size=14>×</size>{0}|common_defalut_p_call_text^{0}P|common_costume_exchange_confirm_pu_title^服装交换确认|common_costume_exchange_confirm_pu_msg^将要交换下面的服装。
@@ -8189,7 +8189,7 @@ ALLSTARS|live_unit_slt_rcm_pop_mode_msg_0^恢复默认状态|live_unit_slt_rcm_p
 请横屏进行百万宝石购买|live_play_popup_title_20^确认|live_play_popup_msg_20^要跳过剧情内LIVE吗？|live_play_popup_msg_20_b^要跳过剧情内MV吗？|live_play_popup_msg_20_c^要跳过MV吗？|live_play_popup_msg_20_d^要跳过MV吗？|live_result_00^<color=#3c3ca0>【歌曲Lv】</color>|live_result_01^<color=#3c3ca0>【HIGH SCORE】</color>|live_result_02^<color=#3c3ca0>【歌曲LP】</color>|live_result_03^<color=#3c3ca0>【LP】</color>|live_result_04^|live_result_05^<color=#3c3ca0>亲密度</color>|live_result_06^<color=#3c3ca0>LP</color>|live_result_07^|live_result_08^|live_result_09^前进|live_result_10^OK|live_result_20^制作人Lv|live_result_21^制作人评级|live_result_22^LIVE报酬|live_result_23^资金|live_result_24^通过LIVE获得的报酬|live_result_25^申请同僚|live_result_26^支援信息|live_result_27^PLv|live_result_28^赠送花篮|live_result_36^<color=#ff0000>由于到达持有上限，存在无法获得的资金</color>|live_result_37^<color=#ff0000>使用LIVE券进行的LIVE，
 不会获得「经验值」「资金」「LIVE报酬」。</color>|live_result_42^由于到达持有上限，
 存在无法获得的资金|live_result_43^使用LIVE券进行的LIVE，不会获得「经验值」「资金」「LIVE报酬」。|live_result_44^持有数|live_result_45^{0}个|live_result_30^获得觉醒pt|live_result_31^剧场粉丝数|live_result_32^<color=#3c3ca0>【亲密度】</color>|live_result_33^<color=#3c3ca0>【粉丝数】</color>|live_result_34^回忆解锁！|live_result_35^觉醒pt{0}达成|live_result_38^<color=#ff0000>作为报酬的资金在上方累加。</color>|live_result_39^觉醒槽|live_result_40^亲密度|live_result_41^粉丝数|live_result_37_2^使用LIVE券进行的LIVE，
-不会获得「经验值」「资金」「LIVE报酬」。|live_result_38_2^作为报酬的资金在上方累加。|live_result_38_3^百万宝石以礼物形式发放|live_result_return_prev_view_text^后退|live_result_go_preparation_view_text^接着准备|live_result_auto_go_preparation^接着准备|live_result_return_go_eventtop_view_text^委托
+不会获得「经验值」「资金」「LIVE报酬」。|live_result_38_2^作为报酬的资金在上方累加。|live_result_38_3^百万宝石以礼物形式发放|live_result_return_prev_view_text^后退|live_result_go_preparation_view_text^ツアー準備へ|live_result_auto_go_preparation^接着准备|live_result_return_go_eventtop_view_text^委托
 完成确认|live_result_35_2^觉醒pt达到<size=20><color=#e6f078>{0}</color></size>|live_result_fullrandom_text_1^<color=#e6f078>随机公演</color>CLEAR奖励！|live_result_fullrandom_text_2^【<color=#e6f078>觉醒pt</color>】 【<color=#e6f078>亲密度</color>】 【<color=#e6f078>粉丝数</color>】<color=#ff004f>1.5倍</color>|live_result_songrandom_text_1^<color=#e6f078>随机选曲</color>CLEAR奖励！|live_result_songrandom_text_2^【<color=#e6f078>觉醒pt</color>】 【<color=#e6f078>亲密度</color>】 【<color=#e6f078>粉丝数</color>】<color=#ff004f>1.2倍</color>|live_result_center_effect_info_text^通过CENTER效果获得了更多亲密度|live_popup_title_00^解锁主线剧情|live_popup_msg_00^解锁了第{0}话主线剧情！
 去剧场查看剧情吧！|live_popup_msg_01^前往剧场|live_popup_title_01^评级上升报酬|live_popup_msg_02^<color=#ff0000>可以在礼物中领取报酬</color>|live_popup_title_10^活动剧情解锁|live_popup_msg_10^解锁了第{0}话活动剧情！
 去查看剧情吧！|live_popup_msg_11^前往活动剧情|live_popup_msg_12^解锁了{0}篇 第{1}话的活动剧情！
@@ -8331,7 +8331,7 @@ CLEAR|live_sr_popup_dtl_04^SCORE <color=#FF0098FF>{0}</color> 以上|live_sr_pop
 ※按键音指的是「按键音」设置中选择的触摸音效。
 ※部分歌曲的欢呼声和应援声是歌曲的一部分。此时将使用歌曲的音量，无法分别进行调整。|livesetting_sound_live_mv_volume_001^歌曲|livesetting_sound_live_mv_volume_002^音效|livesetting_sound_live_mv_volume_003^按键音|livesetting_sound_live_mv_volume_004^欢呼声|livesetting_sound_live_mv_volume_005^应援声|livesetting_sound_live_mv_volume_006^重置|livesetting_sound_beep_title^按键音|livesetting_sound_beep_text_001^可以选择点击音效和滑动音效的组合|livesetting_sound_beep_msg_001^按键音|livesetting_sound_beep_msg_002^可以更改点击、滑动下落的音符时播放的音效的组合。
 可以分别试听点击音效和滑动音效。
-※「活力」「清新」的滑动音效相同。|livesetting_sound_beep_001^点击音效|livesetting_sound_beep_002^滑动音效|livesetting_sound_beep_003^活力（默认）|livesetting_sound_beep_004^温和|livesetting_sound_beep_005^清新|livesetting_sound_beep_006^摇滚|livesetting_sound_beep_007^沙滩排球|livesetting_sound_beep_008^Takoyaki|livesetting_sound_beep_009^太鼓|livesetting_sound_beep_010^鸟|livesetting_sound_beep_011^火焰|livesetting_sound_beep_012^Pop|livesetting_sound_beep_013^方块|livesetting_sound_beep_014^魔法少女|livesetting_sound_beep_name_001^活力（默认）|livesetting_sound_beep_name_002^温和|livesetting_sound_beep_name_003^清新|livesetting_sound_beep_name_004^摇滚|livesetting_sound_beep_name_005^沙滩排球|livesetting_sound_beep_name_006^太鼓|livesetting_sound_beep_name_007^鸟|livesetting_sound_beep_name_008^火焰|livesetting_sound_beep_name_009^Pop|livesetting_sound_beep_name_010^方块|livesetting_sound_beep_name_011^魔法少女|livesetting_sound_beep_name_012^梅花|livesetting_sound_beep_name_013^Mirage|livesetting_sound_beep_name_014^剑与子弹|livesetting_sound_beep_name_015^红心|livesetting_sound_beep_name_016^将棋与足球|livesetting_sound_beep_name_017^黑桃|livesetting_sound_beep_name_018^吸血鬼|livesetting_sound_beep_name_019^4花色|livesetting_sound_beep_name_020^青蛙|livesetting_sound_combocut_title^断连音效|livesetting_sound_combocut_text_001^可以禁用Combo中断时播放的音效|livesetting_sound_combocut_001^启用音效|livesetting_sound_combocut_002^禁用音效|livesetting_sound_beep_sp_note^SP音符语音|livesetting_sound_beep_combocut^断连音效|jobv_select_tab_01^一般|jobv_select_tab_02^特别|jobv_btn_01^OK|jobv_btn_02^继续开始|jobv_btn_03^接着准备|jobv_btn_04^委托
+※「活力」「清新」的滑动音效相同。|livesetting_sound_beep_001^点击音效|livesetting_sound_beep_002^滑动音效|livesetting_sound_beep_003^活力（默认）|livesetting_sound_beep_004^温和|livesetting_sound_beep_005^清新|livesetting_sound_beep_006^摇滚|livesetting_sound_beep_007^沙滩排球|livesetting_sound_beep_008^Takoyaki|livesetting_sound_beep_009^太鼓|livesetting_sound_beep_010^鸟|livesetting_sound_beep_011^火焰|livesetting_sound_beep_012^Pop|livesetting_sound_beep_013^方块|livesetting_sound_beep_014^魔法少女|livesetting_sound_beep_name_001^活力（默认）|livesetting_sound_beep_name_002^温和|livesetting_sound_beep_name_003^清新|livesetting_sound_beep_name_004^摇滚|livesetting_sound_beep_name_005^沙滩排球|livesetting_sound_beep_name_006^太鼓|livesetting_sound_beep_name_007^鸟|livesetting_sound_beep_name_008^火焰|livesetting_sound_beep_name_009^Pop|livesetting_sound_beep_name_010^方块|livesetting_sound_beep_name_011^魔法少女|livesetting_sound_beep_name_012^梅花|livesetting_sound_beep_name_013^Mirage|livesetting_sound_beep_name_014^剑与子弹|livesetting_sound_beep_name_015^红心|livesetting_sound_beep_name_016^将棋与足球|livesetting_sound_beep_name_017^黑桃|livesetting_sound_beep_name_018^吸血鬼|livesetting_sound_beep_name_019^4花色|livesetting_sound_beep_name_020^青蛙|livesetting_sound_combocut_title^断连音效|livesetting_sound_combocut_text_001^可以禁用Combo中断时播放的音效|livesetting_sound_combocut_001^启用音效|livesetting_sound_combocut_002^禁用音效|livesetting_sound_beep_sp_note^SP音符语音|livesetting_sound_beep_combocut^断连音效|jobv_select_tab_01^一般|jobv_select_tab_02^特别|jobv_btn_01^OK|jobv_btn_02^继续开始|jobv_btn_03^ツアー準備へ|jobv_btn_04^委托
 完成确认|jobv_ticket_00^LIVE券持有数|jobv_ticket_01^<color=#ff0000>MAX</color>|jobv_select_00^花费体力：|jobv_select_10^今天的工作也请加油哦！|jobv_select_30^特别Princess|jobv_select_31^特别Fairy|jobv_select_32^特别Angel|jobv_select_33^特别全类型|jobv_select_msg_00^没有特别的工作|jobv_select_msg_01^<color=#ff0000>※由于到达持有上限，无法获得</color>|jobv_type_00^道具日|jobv_type_01^Pr|jobv_type_02^Fa|jobv_type_03^An|jobv_type_04^All|jobv_popup_title_00^工作|jobv_popup_msg_00^LIVE券到达了上限
 仍要继续工作吗？|jobv_popup_msg_01^<color=#ff0000>将无法获得LIVE券</color>|jobv_pop_overticket_msg_0^下份工作会使LIVE券超出持有上限
 确定要接受工作吗？|jobv_pop_overticket_warning_msg_0^将无法获得超出上限的LIVE券|jobv_popup_btn_00^前往LIVE|jobv_popup_btn_02^前往活动|jobv_popup_subtitle_00^道具日是什么？|jobv_popup_msg_02^进行与道具日当天指定类型相同类型的「LIVE」或「工作」，可以仅获得对应类型的道具及卡片|jobv_popup_msg_03^※进行Princess类型的LIVE和工作，可以获得以下道具和卡片|jobv_popup_msg_04^‧Princess镜子　‧Princess香水　‧Princess唇膏
@@ -8339,54 +8339,61 @@ CLEAR|live_sr_popup_dtl_04^SCORE <color=#FF0098FF>{0}</color> 以上|live_sr_pop
 ‧Fairy类型的卡片|jobv_popup_msg_07^※进行Angel类型的LIVE和工作，可以获得以下道具和卡片|jobv_popup_msg_08^‧Angel镜子　‧Angel香水　‧Angel唇膏
 ‧Angel类型的卡片|jobv_popup_msg_09^※进行All类型的LIVE和工作，可以获得以下道具和卡片|jobv_popup_msg_10^‧舞台礼服　‧迷你皇冠|jobv_popup_title_01^工作确认|jobv_popup_msg_11^要花费<color=#ff0000>{0}</color>体力
 开始{1}吗？|jobv_popup_msg_12^|jobv_popup_msg_13^|jobv_popup_msg_14^|jobv_popup_msg_15^(<color=#ff0000>-{0}</color>)|jobv_popup_btn_01^连续工作|jobv_popup_title_02^连续工作确认|jobv_popup_title_03^关于连续工作|jobv_popup_title_04^预定自动使用道具确认|jobv_popup_msg_16^将会自动重复进行工作|jobv_popup_continue_warining_msg_00^<color=#FF004F>将在LIVE券即将超出最大持有量时结束工作</color>|jobv_popup_subtitle_01^预定自动使用道具|jobv_popup_itemtitle_00^优先级<color=yellow>{0}</color>|jobv_popup_item_icon_msg_00^点击以
-进行切换|jobv_popup_item_icon_msg_01^<color=yellow>持有数</color>|jobv_popup_info_msg_00^本功能可以在LIVE券达到持有上限前，自动重复进行工作。
-在开始连续工作后，可以在屏幕右上角切换开启/关闭本功能。
-LIVE券已到达持有上限时，无法进行连续工作。
+进行切换|jobv_popup_item_icon_msg_01^<color=yellow>持有数</color>|jobv_popup_info_msg_00^ライブチケットの最大所持数をオーバーする手前まで、自動でお仕事を繰り返す機能です。
+連続お仕事を実行した後、画面右上から本機能のON/OFFを切り替えることができます。
+ライブチケットの所持数がMAXの場合は、連続お仕事を実行できません。
+ 
+■自動使用予定アイテムについて
+本機能をONにした状態で連続お仕事中に元気が不足した場合、自動的にアイテムを使用してお仕事を継続することができます。
+ 
+自動的に使用されるアイテムは、優先度の高いものから順に選択されます。
+また、優先度は任意に入れ替えることができます。
+ 
+自動的に使用されるアイテムの中には「ミリオンジュエル」も含まれているのでお気を付けください。
+なお、一部の特別なアイテムは、自動的に使用されるアイテムには含まれておりません。
+ 
+■自動使用予定アイテム確認について
+ライブチケット所持枚数がMAXに到達するか、所持枚数がMAXをオーバーする手前までお仕事を実行する際に使用する予定のアイテム個数が表示されます。
 
-■关于预定自动使用的道具
-在开启本功能时，如果连续工作期间体力不足，将自动使用道具以继续工作。
+なお、自然回復やレベルアップ、当日限定ドリンクの消費期限切れ等により、自動的に使用される予定のアイテム数が増減する場合があります。
 
-系统将按照优先级从高到低自动选择要使用的道具。
-您也可以根据需要调整优先级顺序。
+■演出について
+レベルアップなどの各演出は自動的にスキップされますが、知名度UP！など一部の特殊な演出はスキップされません。
+なお、連続お仕事中でも、画面タッチによるスキップは行うことができます。
+ 
+ ■選択肢について
+選択肢が2種類ある場合、左側が自動的に選択されます。
+選択肢が3種類ある場合、最も選択率の高いものが自動的に選択されます。
+ 
+最も選択率の高い選択肢が2つ以上並んだ場合、同率の選択肢の中からランダムで選択されます。
+なお、連続お仕事中に選んだ選択肢は、選択率の増減には影響しません。
+ 
+■連続お仕事終了について
+以下の条件を満たすと連続お仕事は自動的に終了します。
+・ライブチケットの所持数がMAXになった場合
+・次のお仕事を実行すると、ライブチケットの所持上限をオーバーしてしまう場合
+・次のお仕事を実行するための元気が不足した状態で、自動的に使用される予定のアイテムが不足している、または自動使用予定アイテム機能をOFFにしている場合
+・連続お仕事中に手動で連続お仕事機能をOFFにした場合
+・連続お仕事中にゲームを終了し、ゲームを再開時に「お仕事再開確認」の画面が表示された際に「はい」を選択した場合
+ 
+■設定について
+「劇場＞ナビ＞システム設定＞連続お仕事の設定」から、演出速度とお仕事終了時を告知するバイブレーションの設定を行えます。
+一部の端末では、バイブレーションが正常に行われない場合があります。
+ 
+■ミリオンジュエルについて
+自動的に元気を回復するためにミリオンジュエルを消費する場合、無償ミリオンジュエルから優先的に使用されます。
+ミリオンジュエルを消費して元気を回復する際は、1回につきミリオンジュエル50個を消費して元気を全回復することができます。
+ミリオンジュエルより優先度の高いアイテムが不足している場合、ミリオンジュエルが自動で消費される場合がありますのでご注意ください。
+ 
+■イベント「プラチナスターツアー」の連続お仕事について
+「プラチナスターツアー」では、進捗度が合計360進むまで自動でお仕事を繰り返すことができます。
+ツアー準備画面の「連続お仕事設定」ボタンから、ON/OFFの切り替えを行えます。
+「自動使用予定アイテム確認」では、進捗度が360に到達するかイベントアイテムがMAXになるまでお仕事を実行する際に、使用されるアイテムの個数が表示されます。
+イベントアイテムの所持数がMAXの場合は、連続お仕事を実行できません。
 
-请注意，自动使用的道具列表中也包含「百万宝石」。
-此外，部分特殊道具不会被包含在自动使用的范围内。
-
-■关于预定自动使用道具的确认
-系统将会显示进行工作直到LIVE券达到MAX（或继续进行工作将溢出时）预计消耗的道具数量。
-
-不过，由于自然回复、升级、当天限定饮料的过期等原因，实际自动使用的道具数量可能会有出入。
-
-■关于演出
-升级之类的演出将会被自动跳过，但诸如知名度UP！之类的部分特殊演出可能无法跳过。
-此外，即使在连续工作时，也可以通过点击屏幕来手动进行跳过。
-
- ■关于选项选择
-如果出现2种选项，将自动选择左侧选项。
-如果出现3种选项，将自动选择选择率高的选项。
-
-如果有2个或以上的选项选择率并列最高，则会从中随机选择。
-需要注意的是，连续工作时系统自动作出的选择不会计入选择率的统计中。
-
-■关于连续工作的结束
-满足以下条件时，连续工作将自动结束：
-・LIVE券持有数达到MAX
-・进行下一次工作会使LIVE券超出上限
-・进行下一次工作所需体力不足，且预定自动使用的道具已耗尽，或关闭了自动使用功能
-・在进行连续工作时手动将该功能设置为OFF
-・在进行连续工作时退出游戏，并在重启游戏弹出「工作恢复确认」时选择恢复工作。
-
-■关于设置
-可以在「剧场＞导览＞系统设置＞连续工作设置」中调整演出速度以及工作结束时的震动提醒。
-部分设备可能无法正常进行震动。
-
-■关于百万宝石
-通过百万宝石自动回复体力时，将优先消耗免费百万宝石。
-通过百万宝石回复体力时，每次消耗50个百万宝石即可回复全部体力。
-请注意，当优先级高于百万宝石的道具不足时，系统可能会自动消耗百万宝石。
-
-※本功能是仅在特定的活动期间可以使用的特殊功能。
-※购买高级通行证DX+后可以在通行证有效期内随时使用本功能。|jobv_popup_toggle_00^OFF|jobv_popup_toggle_01^ON|jobv_popup_toggle_02^总是ON|jobv_popup_auto_recovery_fixed_on_msg^默认将选择「总是ON」
+■注意事項
+※本機能は特定のイベント期間中のみご利用いただける特別な機能です。
+※プレミアムパスDX+を購入すると、有効期間中はいつでもご利用いただけます。|jobv_popup_toggle_00^OFF|jobv_popup_toggle_01^ON|jobv_popup_toggle_02^总是ON|jobv_popup_auto_recovery_fixed_on_msg^默认将选择「总是ON」
 确定要继续吗？|jobv_popup_toggle_msg_00^AUTO|jobv_popup_btn_sctl_title^特定商业交易法标识|jobv_popup_beused_msg_00^这是LIVE券溢出为止消耗的道具|jobv_popup_beused_subtitle_00^预定自动使用道具|jobv_popup_beused_amount^×{0}|jobv_popup_beused_msg_01^<color=#666666>没有预定使用的道具</color>|jobv_popup_beused_msg_02^<color=#FF004F>设置了百万宝石的优先级为{0}</color>
 当优先级高于百万宝石的道具不足时，
 可能会自动消耗百万宝石，确定要继续吗？|jobv_popup_beused_warining_00^<color=#FF004F>由于自然回复、升级、当天限定饮料的消耗等原因，
@@ -12880,8 +12887,8 @@ BOT粉丝数增加了<color=#ff0098>{0}</color>人！|eventview_bot_vote_result_
 报酬|eventview_ed_gamesel_pop_t0_btn_1^活动歌曲
 信息|eventview_ed_gamesel_pop_t0_msg_0^工作获得 <color=#ff004f>{0}</color>　LIVE获得 <color=#ff004f>{1}</color>|eventview_ed_gamesel_pop_t0_msg_1^{0}倍还需 <color=#ff004f>{1}</color> 进度|eventview_ed_gamesel_pop_t0_msg_2^活动歌曲的活动pt倍率<color=#ff004f>{0:f1}</color>倍确定中！|eventview_ed_gamesel_pop_t0_warning^<size=22><color=#FF004FFF>工作花费的体力和所选LIVE模式相同，决定后将无法更改模式。</color></size>|eventview_ed_gamesel_pop_t0_warning_1^使用pt5.0倍确定券将会重置5倍确定所需进度。|eventview_ed_gamesel_pop_t0_check_title^注意|eventview_ed_gamesel_pop_t0_check_message^所选难度可游玩的歌曲并未达到规定数量
 视情况可能无法游玩歌曲，确定要继续吗？|eventview_ed_gamesel_pop_t1_label_0^排练模式选择 <color=#757bab>♪{0}</color>|eventview_ed_gamesel_pop_t1_label_1^资金|eventview_ed_gamesel_pop_t2_label^MV模式选择 <color=#757bab>♪{0}</color>|eventview_event_d_tour_item_label_0^×{0:f1}倍|eventview_event_d_tour_item_label_1^【获得活动pt】|eventview_event_d_tour_item_label_2^{0} ～ {1}|eventview_event_d_tour_item_label_3^{0}的工作|eventview_event_d_tour_item_label_4^※将无法获得
-LIVE券|eventview_event_d_tour_item_label_5^歌曲 Lv|eventview_event_d_tour_item_label_6^花费体力|eventview_event_d_tour_item_label_7^【消耗蜡笔】 {0}枝|eventview_event_d_tour_item_label_8^{0}枝|eventview_event_d_tour_item_job_type_0^Princess的工作|eventview_event_d_tour_item_job_type_1^Fairy的工作|eventview_event_d_tour_item_job_type_2^Angel的工作|eventview_event_d_tour_item_job_type_3^大家的工作|eventview_event_d_tour_item_btn_0^决定|eventview_event_d_tour_pop_title^倍率选择|eventview_event_d_tour_pop_label_0^体力|eventview_event_d_tour_pop_label_1^花费体力|eventview_event_d_tour_pop_label_2^蜡笔|eventview_event_d_tour_pop_label_3^消耗蜡笔|eventview_event_d_tour_pop_label_4^{0}枝|eventview_event_d_tour_pop_label_5^{0}倍|eventview_event_d_tour_pop_warning^花费倍率越高，
-能获得的活动pt越多|eventview_event_top_appeal_1_type_text^vo加成激活中|eventview_event_top_appeal_2_type_text^vi加成激活中|eventview_event_top_appeal_3_type_text^da加成激活中|eventview_event_top_appeal_4_type_text^Pr加成激活中|eventview_event_top_appeal_5_type_text^Fa加成激活中|eventview_event_top_appeal_6_type_text^An加成激活中|eventview_event_ranking_pop_title^交流室内排名|eventview_event_ranking_pop_label_0^第 {0} 名|eventview_event_ranking_pop_label_1^【PLv】|eventview_event_ranking_pop_label_2^活动名次|eventview_event_ranking_pop_label_3^【累计活动pt】|eventview_event_ranking_pop_label_4^未加入|eventview_event_ranking_pop_label_5^暂无提交排名的成员|eventview_event_lounge_ranking_button_0^查看交流室内排名|eventview_event_lounge_ranking_top_label^<color=#3C3CA0>【交流室排名】</color>|eventview_event_lounge_ranking_warning^交流室排名报酬获得pt未达成|eventview_event_lounge_ranking_cutback_pt^距离获得交流室排名报酬还需{0}pt|eventview_event_ranking_reward_detail_pu_title^报酬|eventview_event_ranking_reward_detail_pu_tab0^累计pt报酬卡片|eventview_event_ranking_reward_detail_pu_tab1^下个报酬|eventview_event_login_bonus_count_limit^由于超出持有上限，无法追加计算|eventview_event_login_bonus_count_limit_multi^由于超过持有上限，部分道具无法获得|eventview_event_login_bonus_itemname_and_amount^{0}　<color=#FF0098FF>{1}</color>{2}|eventview_reward_title^活动报酬|eventview_reward_desc^可以查看活动报酬|eventview_reward_tab_0^累计活动pt|eventview_reward_tab_1^每日达成pt|eventview_reward_tab_2^活动pt排名|eventview_reward_tab_3^分偶像排名|eventview_reward_tab_4^最高得分排名|eventview_reward_tab_5^交流室排名|eventview_reward_tab_6^宾果完成报酬|eventview_reward_msg_0^报酬卡片和服装将直接发放|eventview_reward_msg_1^您获得的pt|eventview_reward_msg_2^{0}pt|eventview_reward_msg_3^您的排名|eventview_reward_msg_4^所在交流室的排名|eventview_reward_msg_5^第{0}名|eventview_reward_msg_6^---名|eventview_reward_msg_7^未加入|eventview_reward_msg_8^仅会显示当前选择中的偶像|eventview_reward_msg_9^统计中|eventview_reward_msg_10^圈外|eventview_reward_msg_11^宾果完成数|eventview_reward_msg_12^{0}条|eventview_reward_label_0^{0}名～{1}名|eventview_reward_label_1^获得pt|eventview_reward_label_2^宾果完成数|eventview_reward_breward_set_text^{0}<size=14>/{1}</size>|eventview_reward_breward_set_tab^EX {0}|eventview_ranking_title_00^活动排名|eventview_ranking_title_01^分偶像排名|eventview_ranking_desc_00^排名每隔一段时间更新|eventview_ranking_tab_00^活动pt排名|eventview_ranking_tab_01^最高得分排名|eventview_ranking_tab_02^交流室排名|eventview_ranking_msg_00^活动排名统计中|eventview_ranking_category_00^累计活动pt|eventview_ranking_category_01^最高得分|eventview_ranking_category_02^交流室|eventview_ranking_category_03^累计 {0}pt|eventview_ranking_label_00^PLv|eventview_ranking_label_01^第 {0} 名 ～ 第 {1} 名|eventview_ranking_label_02^第 {0} 名 ～|eventview_ranking_info_label_00^第 {0} 名|eventview_ranking_info_label_01^第 --- 名|eventview_ranking_info_label_02^未加入|eventview_ranking_info_label_03^圈外|eventview_ranking_info_msg_00^{0:D2}/{1:D2} {2:D2}:{3:D2} 更新|eventview_ranking_info_btn_00^查看交流室内排名|eventview_ranking_info_btn_01^排名确认|eventview_ranking_pop_title_00^交流室内排名|eventview_ranking_pop_msg_00^暂无提交排名的成员|eventview_ranking_pop_title_01^排名更新|eventview_ranking_pop_msg_01^排名发生了更新　将刷新排名界面|eventview_e_top_event_period_00^{0:D4}/{1:D2}/{2:D2} {3:D2}:{4:D2}开始|eventview_e_top_achievement_title^活动成绩|eventview_e_top_achievement_tab0_title^偶像|eventview_e_top_achievement_tab1_title^综合|eventview_e_top_achievement_tab2_title^pt报酬|eventview_e_top_achievement_tab0_rank_border_pt_title^第{0}名的{1}pt|eventview_e_top_achievement_tab0_pt_title^{0}pt|eventview_e_top_achievement_tab0_pt_ranking_title^{0}pt排名|eventview_e_top_achievement_tab0_pt_ranking_title_out^与第1000名的差距|eventview_e_top_achievement_tab0_idol_change_btn^更改|eventview_e_top_achievement_tab0_idol_detail_btn^确认|eventview_e_top_achievement_tab0_update_date^{0:D2}/{1:D2} {2:D2}:{3:D2}更新|eventview_e_top_achievement_tab1_eventpt_ranking^活动pt排名|eventview_e_top_achievement_tab1_lounge_ranking^交流室排名|eventview_e_top_achievement_tab1_highscore_ranking^最高得分排名|eventview_e_top_achievement_tab2_daily_title^每日|eventview_e_top_achievement_tab2_total_title^总计|eventview_e_top_achievement_tab2_next_reward^距离下一报酬|eventview_e_top_achievement_tab2_detail_btn^详情|eventview_e_top_item_title^{0}花费预测|eventview_e_top_item_count_title^持有{0}|eventview_e_top_commu_title^活动剧情 / 任务|eventview_e_top_commu_next_title^下一篇剧情|eventview_e_top_commu_next^{0:D4}/{1:D2}/{2:D2} {3:D2}:{4:D2}公开|eventview_e_top_commu_daily_aniversary_mission_next_title^每日|eventview_e_top_commu_total_aniversary_mission_next_title^综合|eventview_e_top_commu_aniversary_mission_rest_title^还需|eventview_e_top_commu_aniversary_mission_complete^完成！|eventview_e_top_commu_aniversary_mission_detail_btn^报酬|eventview_e_top_live_start_btn_00^前往活动歌曲|eventview_e_top_live_start_btn_01^休息中|eventview_e_top_live_start_btn_subtext_00^距离休息开始还有{0:D2}:{1:D2}:{2:D2}|eventview_e_top_live_start_btn_subtext_01^距离活动重启还有{0:D2}:{1:D2}:{2:D2}|eventview_e_top_endroll_btn^播放
+LIVE券|eventview_event_d_tour_item_label_5^歌曲 Lv|eventview_event_d_tour_item_label_6^花费体力|eventview_event_d_tour_item_label_7^【消耗蜡笔】 {0}枝|eventview_event_d_tour_item_label_8^{0}枝|eventview_event_d_tour_item_job_type_0^Princess的工作|eventview_event_d_tour_item_job_type_1^Fairy的工作|eventview_event_d_tour_item_job_type_2^Angel的工作|eventview_event_d_tour_item_job_type_3^大家的工作|eventview_event_d_tour_item_btn_0^决定|eventview_event_d_tour_pop_title^倍率选择|eventview_event_d_tour_pop_label_0^体力|eventview_event_d_tour_pop_label_1^花费体力|eventview_event_d_tour_pop_label_2^蜡笔|eventview_event_d_tour_pop_label_3^消耗蜡笔|eventview_event_d_tour_pop_label_4^{0}枝|eventview_event_d_tour_pop_label_5^{0}倍|eventview_event_d_tour_pop_warning^消費コストが多いほど、
+イベントptやビンゴを多く獲得できます|eventview_event_top_appeal_1_type_text^vo加成激活中|eventview_event_top_appeal_2_type_text^vi加成激活中|eventview_event_top_appeal_3_type_text^da加成激活中|eventview_event_top_appeal_4_type_text^Pr加成激活中|eventview_event_top_appeal_5_type_text^Fa加成激活中|eventview_event_top_appeal_6_type_text^An加成激活中|eventview_event_ranking_pop_title^交流室内排名|eventview_event_ranking_pop_label_0^第 {0} 名|eventview_event_ranking_pop_label_1^【PLv】|eventview_event_ranking_pop_label_2^活动名次|eventview_event_ranking_pop_label_3^【累计活动pt】|eventview_event_ranking_pop_label_4^未加入|eventview_event_ranking_pop_label_5^暂无提交排名的成员|eventview_event_lounge_ranking_button_0^查看交流室内排名|eventview_event_lounge_ranking_top_label^<color=#3C3CA0>【交流室排名】</color>|eventview_event_lounge_ranking_warning^交流室排名报酬获得pt未达成|eventview_event_lounge_ranking_cutback_pt^距离获得交流室排名报酬还需{0}pt|eventview_event_ranking_reward_detail_pu_title^报酬|eventview_event_ranking_reward_detail_pu_tab0^累计pt报酬卡片|eventview_event_ranking_reward_detail_pu_tab1^下个报酬|eventview_event_login_bonus_count_limit^由于超出持有上限，无法追加计算|eventview_event_login_bonus_count_limit_multi^由于超过持有上限，部分道具无法获得|eventview_event_login_bonus_itemname_and_amount^{0}　<color=#FF0098FF>{1}</color>{2}|eventview_reward_title^活动报酬|eventview_reward_desc^可以查看活动报酬|eventview_reward_tab_0^累计活动pt|eventview_reward_tab_1^每日达成pt|eventview_reward_tab_2^活动pt排名|eventview_reward_tab_3^分偶像排名|eventview_reward_tab_4^最高得分排名|eventview_reward_tab_5^交流室排名|eventview_reward_tab_6^宾果完成报酬|eventview_reward_msg_0^报酬卡片和服装将直接发放|eventview_reward_msg_1^您获得的pt|eventview_reward_msg_2^{0}pt|eventview_reward_msg_3^您的排名|eventview_reward_msg_4^所在交流室的排名|eventview_reward_msg_5^第{0}名|eventview_reward_msg_6^---名|eventview_reward_msg_7^未加入|eventview_reward_msg_8^仅会显示当前选择中的偶像|eventview_reward_msg_9^统计中|eventview_reward_msg_10^圈外|eventview_reward_msg_11^宾果完成数|eventview_reward_msg_12^{0}条|eventview_reward_label_0^{0}名～{1}名|eventview_reward_label_1^获得pt|eventview_reward_label_2^宾果完成数|eventview_reward_breward_set_text^{0}<size=14>/{1}</size>|eventview_reward_breward_set_tab^EX {0}|eventview_ranking_title_00^活动排名|eventview_ranking_title_01^分偶像排名|eventview_ranking_desc_00^排名每隔一段时间更新|eventview_ranking_tab_00^活动pt排名|eventview_ranking_tab_01^最高得分排名|eventview_ranking_tab_02^交流室排名|eventview_ranking_msg_00^活动排名统计中|eventview_ranking_category_00^累计活动pt|eventview_ranking_category_01^最高得分|eventview_ranking_category_02^交流室|eventview_ranking_category_03^累计 {0}pt|eventview_ranking_label_00^PLv|eventview_ranking_label_01^第 {0} 名 ～ 第 {1} 名|eventview_ranking_label_02^第 {0} 名 ～|eventview_ranking_info_label_00^第 {0} 名|eventview_ranking_info_label_01^第 --- 名|eventview_ranking_info_label_02^未加入|eventview_ranking_info_label_03^圈外|eventview_ranking_info_msg_00^{0:D2}/{1:D2} {2:D2}:{3:D2} 更新|eventview_ranking_info_btn_00^查看交流室内排名|eventview_ranking_info_btn_01^排名确认|eventview_ranking_pop_title_00^交流室内排名|eventview_ranking_pop_msg_00^暂无提交排名的成员|eventview_ranking_pop_title_01^排名更新|eventview_ranking_pop_msg_01^排名发生了更新　将刷新排名界面|eventview_e_top_event_period_00^{0:D4}/{1:D2}/{2:D2} {3:D2}:{4:D2}开始|eventview_e_top_achievement_title^活动成绩|eventview_e_top_achievement_tab0_title^偶像|eventview_e_top_achievement_tab1_title^综合|eventview_e_top_achievement_tab2_title^pt报酬|eventview_e_top_achievement_tab0_rank_border_pt_title^第{0}名的{1}pt|eventview_e_top_achievement_tab0_pt_title^{0}pt|eventview_e_top_achievement_tab0_pt_ranking_title^{0}pt排名|eventview_e_top_achievement_tab0_pt_ranking_title_out^与第1000名的差距|eventview_e_top_achievement_tab0_idol_change_btn^更改|eventview_e_top_achievement_tab0_idol_detail_btn^确认|eventview_e_top_achievement_tab0_update_date^{0:D2}/{1:D2} {2:D2}:{3:D2}更新|eventview_e_top_achievement_tab1_eventpt_ranking^活动pt排名|eventview_e_top_achievement_tab1_lounge_ranking^交流室排名|eventview_e_top_achievement_tab1_highscore_ranking^最高得分排名|eventview_e_top_achievement_tab2_daily_title^每日|eventview_e_top_achievement_tab2_total_title^总计|eventview_e_top_achievement_tab2_next_reward^距离下一报酬|eventview_e_top_achievement_tab2_detail_btn^详情|eventview_e_top_item_title^{0}花费预测|eventview_e_top_item_count_title^持有{0}|eventview_e_top_commu_title^活动剧情 / 任务|eventview_e_top_commu_next_title^下一篇剧情|eventview_e_top_commu_next^{0:D4}/{1:D2}/{2:D2} {3:D2}:{4:D2}公开|eventview_e_top_commu_daily_aniversary_mission_next_title^每日|eventview_e_top_commu_total_aniversary_mission_next_title^综合|eventview_e_top_commu_aniversary_mission_rest_title^还需|eventview_e_top_commu_aniversary_mission_complete^完成！|eventview_e_top_commu_aniversary_mission_detail_btn^报酬|eventview_e_top_live_start_btn_00^前往活动歌曲|eventview_e_top_live_start_btn_01^休息中|eventview_e_top_live_start_btn_subtext_00^距离休息开始还有{0:D2}:{1:D2}:{2:D2}|eventview_e_top_live_start_btn_subtext_01^距离活动重启还有{0:D2}:{1:D2}:{2:D2}|eventview_e_top_endroll_btn^播放
 谢幕演出|eventview_e_top_costume_get_list_btn^领取服装|eventview_e_top_reward_list_btn^活动报酬
 一览|eventview_e_top_total_ranking_btn^综合
 排名|eventview_e_top_idol_ranking_btn^分偶像
@@ -13794,21 +13801,19 @@ PUSH偶像|eventdiceboard_diceroll_count_01^1次|eventdiceboard_diceroll_count_0
 　　　言動がチャラい
 
 
-<color=#5B6580>演じるアイドル</color>　田中 琴葉（4幕）</size>|eventdview_tourcount^{0}篇|eventdview_tourcount_title^2色蜡笔|eventdview_ticket_unit^{0}篇|eventdview_live_report_pu_event_item_name^{0}|eventdview_live_report_pu_event_item_count^篇|eventdview_get_eventticket_count^【{0}】|eventdview_get_eventticket_pu_warning^超出持有上限的「{0}」将无法获得|eventdview_info_00_title^关于活动①|eventdview_info_00^本イベントは「バトルロイヤル」対決　最終戦です
-応援しているチームに「プロデュースパワー」を使用して
-「BOTファン」を獲得しよう！|eventdview_info_01_title^关于活动②|eventdview_info_01^折り返し順位と終了時順位に応じてチームptを獲得！
-チームptを稼いでチームを頂点に導こう！|eventdview_info_02_title^关于活动③|eventdview_info_02^イベントptランキング報酬、累積イベントpt報酬、
-ハイスコアランキング報酬で、豪華報酬を手に入れよう|eventdview_info_03_title^关于报酬卡片和服装|eventdview_info_03^累積イベントpt報酬で獲得できる一部カードは獲得ptに
+<color=#5B6580>演じるアイドル</color>　田中 琴葉（4幕）</size>|eventdview_tourcount^{0}篇|eventdview_tourcount_title^2色蜡笔|eventdview_ticket_unit^{0}篇|eventdview_live_report_pu_event_item_name^{0}|eventdview_live_report_pu_event_item_count^篇|eventdview_get_eventticket_count^【{0}】|eventdview_get_eventticket_pu_warning^超出持有上限的「{0}」将无法获得|eventdview_info_00_title^イベントについて|eventdview_info_00^イベントptランキング報酬、累積イベントpt報酬、
+ハイスコアランキング報酬で、豪華報酬を手に入れよう|eventdview_info_01_title^報酬カードと衣装について|eventdview_info_01^累積イベントpt報酬で獲得できる一部カードは獲得ptに
 応じてマスターランクが上昇！イベントptランキング報酬で
-獲得できるカードは順位に応じてマスターランクが上昇！|eventdview_info_04_title^关于活动服装交换|eventdview_info_04^累積イベントpt報酬からイベント衣装引換券を手に入れて
-メンバーの衣装を交換しよう！|eventdview_info_05_title^关于巡演准备|eventdview_info_05^イベントトップの「ツアー準備へ」からコースを選択すると
+獲得できるカードは順位に応じてマスターランクが上昇！|eventdview_info_02_title^イベント衣装交換について|eventdview_info_02^累積イベントpt報酬からイベント衣装引換券を手に入れて
+メンバーの衣装を交換しよう！|eventdview_info_03_title^ツアー準備について|eventdview_info_03^イベントトップの「ツアー準備へ」からコースを選択すると
 楽曲またはお仕事がランダムに抽選されます
-進捗度が上昇し一定値に達すると「ハイブランド・バッグ」を獲得できます|eventdview_info_06_title^关于活动歌曲|eventdview_info_06^ボーナスはツアー準備選択時にランダムで変化します
-pt5.0倍確定チケットはイベントログインボーナスや
-チャレンジミッションで獲得できます|eventdview_info_07_title^オリジナルメンバー限定歌い分けについて|eventdview_info_07^オリジナルメンバーを配置してイベント楽曲を楽しもう！
+進捗度が上昇し一定値に達すると「キャラメルチョコバー」を獲得できます|eventdview_info_04_title^イベント楽曲について|eventdview_info_04^イベント楽曲は通常楽曲よりも多くイベントptを獲得できます|eventdview_info_05_title^オリジナルメンバー限定歌い分けについて|eventdview_info_05^オリジナルメンバーを配置してイベント楽曲を楽しもう！
 なお、オリジナルメンバー以外を編成した場合は未編成の
-オリジナルメンバーの歌唱音源がランダムで割り当てられます|eventdview_info_08_title^关于宾果|eventdview_info_08^イベント楽曲で3回、通常楽曲で2回、お仕事で1回抽選されます
-抽選の数字は重複しません|eventdview_gamesel_pop_t0_label_2^【花费体力】{0} 或 【{1}】 {2}|eventdview_tour_item_label_7^花费{0}|eventdview_tour_item_label_8^{0}|eventdview_tour_pop_label_2^蜡笔|eventdview_tour_pop_label_3^花费{0}|eventdview_tour_pop_label_4^{0}|eventdview_tour_pop_label_5^记住所选的倍率|eventdview_get_eventticket_top_value^{0}/{1}|eventdview_get_eventticket_diff_value^<color=#2800FFFF>{0}{1}</color>|eventdview_get_eventticket_pu_msg_01^活动歌曲的活动pt倍率<color=#FF0098>5.0</color>倍确定中！|eventdview_get_eventticket_pu_msg_02^距离活动歌曲的活动pt<color=#FF0098>5.0</color>倍确定还需<color=#FF0098>{0}</color>进度|eventdview_get_eventticket_pu_msg_03^【进度】{0}/{1}|eventdview_get_eventticket_pu_msg_04^距离获得1{1}【{0}】还需<color=#FF0098>{2}</color>进度|eventdview_breward_cardlist_btn_00^报酬一览|eventdview_breward_rewardlist_pop_title^宾果报酬一览|eventdview_breward_rewardlist_msg_1^宾果完成数|eventdview_breward_rewardlist_msg_2^{0}条|eventdview_remaining_bonus_live_count_msg^<size=16><color=#B6EFED>{0}回分</color></size>のボーナスライブ発生中 !|eventdview_preparation_use_ticket_button^5.0倍确定
+オリジナルメンバーの歌唱音源がランダムで割り当てられます|eventdview_info_06_title^ビンゴについて|eventdview_info_06^イベント楽曲で3回、通常楽曲で2回、お仕事で1回抽選されます
+抽選の数字は重複しません|eventdview_info_07_title^ビンゴ報酬について|eventdview_info_07^ボーナスライブで獲得できるボーナスptはpt倍率の影響を受けません
+エクストラビンゴカードではボーナスライブは発生しません|eventdview_info_08_title^イベント限定ライブスキップについて|eventdview_info_08^「ライブスキップPASS」は毎日00:00に残り回数がリセットされます
+「期間限定ライブスキップPASS」の使用期限はイベント期間中の
+購入した日の翌日までとなります|eventdview_gamesel_pop_t0_label_2^【花费体力】{0} 或 【{1}】 {2}|eventdview_tour_item_label_7^花费{0}|eventdview_tour_item_label_8^{0}|eventdview_tour_pop_label_2^蜡笔|eventdview_tour_pop_label_3^花费{0}|eventdview_tour_pop_label_4^{0}|eventdview_tour_pop_label_5^记住所选的倍率|eventdview_get_eventticket_top_value^{0}/{1}|eventdview_get_eventticket_diff_value^<color=#2800FFFF>{0}{1}</color>|eventdview_get_eventticket_pu_msg_01^活动歌曲的活动pt倍率<color=#FF0098>5.0</color>倍确定中！|eventdview_get_eventticket_pu_msg_02^距离活动歌曲的活动pt<color=#FF0098>5.0</color>倍确定还需<color=#FF0098>{0}</color>进度|eventdview_get_eventticket_pu_msg_03^【进度】{0}/{1}|eventdview_get_eventticket_pu_msg_04^距离获得1{1}【{0}】还需<color=#FF0098>{2}</color>进度|eventdview_breward_cardlist_btn_00^报酬一览|eventdview_breward_rewardlist_pop_title^宾果报酬一览|eventdview_breward_rewardlist_msg_1^宾果完成数|eventdview_breward_rewardlist_msg_2^{0}条|eventdview_remaining_bonus_live_count_msg^<size=16><color=#B6EFED>{0}回分</color></size>のボーナスライブ発生中 !|eventdview_preparation_use_ticket_button^5.0倍确定
 券|eventdview_preparation_use_ticket_pu_tile^确认|eventdview_preparation_use_ticket_pu_msg^将要使用<color=#757BAB>{0}</color>
 确定吗？|eventdview_preparation_use_ticket_pu_warning^请注意使用票券会重置5倍确定所需的进度|eventdview_preparation_use_ticket_pu_item_label^持有{0}|eventdview_preparation_use_ticket_pu_item_after^<color=#FF0098FF>{0}</color>{1}|eventdview_preparation_use_ticket_pu_button_01^进度确认|eventdview_breward_bonus_live_occur_pu_00^奖励LIVE已激活！|eventdview_breward_bonus_live_occur_pu_01^{0}的宾果卡片完成奖励已激活！
 下次活动歌曲CLEAR将获得<color=#FF004F>奖励pt：{1}pt</color>！|eventdview_breward_bonus_live_occur_pu_02^奖励pt不受pt倍率影响|eventdview_point_get_pu_breward_bonus_live_pt_00^<color=#FF8400>奖励</color> <color=#FF004F>+{0}!</color>|eventdview_top_btn_reward^报酬|eventdview_top_msg_remain^デイリー達成まで あと|eventdview_coop_info_pu_title^日替わりチャレンジミッション！|eventdview_coop_detail_pu_title_reward^日替わりチャレンジミッション報酬|eventdview_coop_detail_pu_title_info^日替わりチャレンジミッションについて|eventdview_coop_detail_pu_msg_info^全員で達成する日替わりのミッションです。
@@ -13837,9 +13842,9 @@ Day8：「番組Tシャツ引換券」×5枚
 「{0}」
 可以领取每日挑战任务报酬|eventdview_coop_exchange_pu_title^服装交换|eventdview_coop_exchange_period^交换期限|eventdview_coop_exchange_period_msg^{0:D4}/{1:D2}/{2:D2} {3:D2}:{4:D2} 截止|eventdview_coop_exchange_done^已交换|eventdview_coop_exchange_selected^选择中|eventdview_coop_exchange_denominator^/{0}|eventdview_coop_exchange_btn_clear^清除|eventdview_coop_exchange_confirm_pu_title^服装交换确认|eventdview_coop_exchange_confirm_pu_msg^将要交换下面的服装。
 确认吗？|eventdview_coop_exchange_result_pu_title^交换结果|eventdview_coop_exchange_result_pu_msg^获得了以下的服装！|eventdview_coop_exchange_result_pu_warning^服装将直接发放|eventdview_coop_mission_ticket_unit^{0}枚|eventdview_breward_discharge_overflow_title^注意|eventdview_breward_discharge_overflow_message^可获得的宾果数将会溢出
-要继续吗？|eventdview_breward_discharge_overflow_warning^溢出的宾果数将无法获得|eventdview_breward_discharge_overflow_checkbox^下次不再显示|eventdview_top_btn_max_scale_band^<color=yellow>5.0倍</color>确定！！|eventdview_info_09_title^关于宾果报酬|eventdview_info_09^通过奖励LIVE获得的奖励pt不受pt倍率的影响
-额外宾果卡片不会触发奖励LIVE|eventdview_info_10_title^关于活动限定LIVE跳过券|eventdview_info_10^「LIVE SKIP PASS」剩余次数会在每天00:00重置
-「期间限定LIVE SKIP PASS」的使用期限为活动期间购买日的次日为止|eventdview_info_11_title^关于歌单|eventdview_info_11^每日歌单的进度将在每天00:00更新|eventdview_info_12_title^关于会议中心|eventdview_info_12^在会议中心可以与其他制作人聊天|eventdview_info_13_title^本次活动的总结|eventdview_info_13^ツアー準備時通常曲やお仕事を行ってハイブランド・バッグを獲得しよう
+要继续吗？|eventdview_breward_discharge_overflow_warning^溢出的宾果数将无法获得|eventdview_breward_discharge_overflow_checkbox^下次不再显示|eventdview_top_btn_max_scale_band^<color=yellow>5.0倍</color>确定！！|eventdview_info_09_title^リストについて|eventdview_info_09^デイリーリストの進捗状況は、毎日00:00に当日のものに更新されます|eventdview_info_10_title^今回のイベントのまとめ|eventdview_info_10^ツアー準備時通常曲やお仕事を行ってキャラメルチョコバーを獲得しよう
+イベント楽曲のプレイで大量のイベントptを獲得しよう|eventdview_info_11_title^消費量選択について|eventdview_info_11^ツアー準備時に消費するコストを2倍、3倍から選べます
+選択した倍率に応じてイベントptをより多く獲得する事ができます|eventdview_info_12_title^关于会议中心|eventdview_info_12^在会议中心可以与其他制作人聊天|eventdview_info_13_title^本次活动的总结|eventdview_info_13^ツアー準備時通常曲やお仕事を行ってハイブランド・バッグを獲得しよう
 イベント楽曲のプレイで大量のイベントptを獲得しよう|eventdview_info_14_title^关于花费数选择|eventdview_info_14^巡演准备时可以选择2倍、3倍花费倍率
 选择的倍率越高，可获得的活动pt越多|eventdview_info_15_title^イベント限定ライブスキップについて|eventdview_info_15^「LIVE SKIP PASS」剩余次数会在每天00:00重置
 「期间限定LIVE SKIP PASS」的使用期限为活动期间购买日的次日为止|eventdview_info_16_title^リストについて|eventdview_info_16^デイリーリストの進捗状況は、毎日00:00に当日のものに更新されます|eventdview_info_17_title^本次活动的总结|eventdview_info_17^ツアー準備時通常曲やお仕事を行ってリングを獲得しよう
@@ -14420,7 +14425,7 @@ CDの到着が遅れてしまうトラブルに遭遇する。
 正在返回标题|gasha_popup_msg_09^由于已经拥有
 扭蛋可能出现的所有服装
 无法使用票券|gasha_popup_msg_10^由于扭蛋已结束，扭蛋处理失败|gasha_popup_btn_00^进行
-扭蛋|gasha_popup_btn_01^购买百万宝石|gasha_notice_01^拍到了最棒的一张……没错！|gasha_notice_02^让人雀跃不已、至高无上的一张哦！|gasha_notice_03^轻飘飘、令人心动又暖洋洋的一张！|gasha_notice_04^受静夜所邀……缔结约定的一张！|gasha_notice_05^比梦境更有梦幻感，最棒的一张！|gasha_notice_06^并非魔法……实在是最棒的一张！|gasha_notice_07^就想在梦中遇到的一般…至高的一张！|gasha_notice_08^いけない魅力に、心奪われる1枚です！|gasha_notice_09^命运的齿轮为您送上充满希望的一张！|gasha_notice_10^撼动银河的最棒的一张，请收下吧！|gasha_notice_11^秋日凉风中，温暖人心的一张♪|gasha_notice_12^摄人心魄到近乎毁天灭地的一张……！|gasha_notice_13^自己独特的光芒……正在灿烂闪耀哦♪|gasha_notice_r^拍到了大家很开心的样子哦|gasha_notice_sr^拍到了大家很棒的表情！|gasha_notice_ssr^拍到了最棒的一张，请您务必确..|gasha_platinum_message^SSRカードが登場！10回ガシャはSR以上のカードが1枚以上確定！|gasha_ticket_message^ここではメダルガシャや、チケット使用で
+扭蛋|gasha_popup_btn_01^购买百万宝石|gasha_notice_01^拍到了最棒的一张……没错！|gasha_notice_02^让人雀跃不已、至高无上的一张哦！|gasha_notice_03^轻飘飘、令人心动又暖洋洋的一张！|gasha_notice_04^受静夜所邀……缔结约定的一张！|gasha_notice_05^比梦境更有梦幻感，最棒的一张！|gasha_notice_06^并非魔法……实在是最棒的一张！|gasha_notice_07^就想在梦中遇到的一般…至高的一张！|gasha_notice_08^いけない魅力に、心奪われる1枚です！|gasha_notice_09^狂信の闇と真実の光を秘めた1枚です！|gasha_notice_10^撼动银河的最棒的一张，请收下吧！|gasha_notice_11^秋日凉风中，温暖人心的一张♪|gasha_notice_12^摄人心魄到近乎毁天灭地的一张……！|gasha_notice_13^自己独特的光芒……正在灿烂闪耀哦♪|gasha_notice_r^拍到了大家很开心的样子哦|gasha_notice_sr^拍到了大家很棒的表情！|gasha_notice_ssr^拍到了最棒的一张，请您务必确..|gasha_platinum_message^SSRカードが登場！10回ガシャはSR以上のカードが1枚以上確定！|gasha_ticket_message^ここではメダルガシャや、チケット使用で
 ミリコレガシャ、衣装ガシャを
 引くことができます。|gasha_mdl_detail_message_00^在这里可以进行硬币扭蛋。|gasha_photo_name^摄影师　现在|gasha_result_title_00^扭蛋结果|gasha_result_desc_00^获得了卡片|gasha_result_desc_01^获得了服装|gasha_result_btn_00^再抽一次|gasha_result_btn_01^继续|gasha_result_msg_00^已获得的卡片已经转换为道具|gasha_result_exchange_001^{0}： {1} → <color=#00A0E9FF>{2}<color>|gasha_result_draw_item_on^详情|gasha_result_draw_item_off^OFF|gasha_ticket_00^扭蛋硬币pt槽|gasha_ticket_01^扭蛋硬币pt|gasha_ticket_02^距离下一个扭蛋硬币还需<color=#FF0098>{0}</color>pt|gasha_ticket_03^持有扭蛋硬币数
 {0:D2}/{1:D2} 枚|gasha_ticket_04^使用期限：{0}年{1}月{2}日{3}点{4}分{5}秒|gasha_ticket_05^<color=#00A0E9>{0}枚</color>(<color=#00A0E9>+{1}</color>)|gasha_ticket_pop_title^扭蛋硬币|gasha_ticket_pop_tab_0^扭蛋硬币
@@ -17761,4 +17766,34 @@ X-STREAMパス共通衣装引換券は<color=#FF0098>X-STREAM VOL.1パス内の
 なります|seasonpass_reward_pu_title_00_season_15^X-STREAM VOL.1パス|seasonpass_reward2_pu_msg_02_season_15^<color=#E6F078>X-STREAM VOL.1チケット</color>を使用すると解放できます|seasonpass_reward_pu_label_00_season_15^<size=14>X-STREAM VOL.1 pt</size>|seasonpass_reward_pu_point_exchange_error_msg_00_season_15^X-STREAM VOL.1ポイントは最大値まで獲得しています|seasonpass_point_exchange_pu_title_00_season_15^X-STREAM VOL.1ポイント交換|seasonpass_point_exchange_pu_msg_00_season_15^有償ミリオンジュエル<color=#FF0098FF>{0}</color>個を使用して
 X-STREAM VOL.1ポイント<color=#FF0098FF>{1}</color>ポイントと交換します
 交換回数を選択してください|seasonpass_point_exchange_pu_warning_00_season_15^<size=17>X-STREAM VOL.1ポイントは、{0}/{1:00}/{2:00} {3:00}:{4:00}まで交換できます</size>|seasonpass_point_exchange_pu_warning_01_season_15^<size=17>交換できるX-STREAM VOL.1ポイントは、{0}ポイントまでです</size>|seasonpass_point_exchange_pu_warning_02_season_15^<size=17>X-STREAM VOL.1ポイントは、2026/12/16にリセットされます</size>|seasonpass_point_exchange_pu_label_00_season_15^現在のポイント|seasonpass_point_exchange_pu_label_01_season_15^交換後のポイント|seasonpass_point_exchange_check_pu_title_00_season_15^<size=30>X-STREAM VOL.1ポイント交換</size>|seasonpass_point_exchange_check_pu_msg_00_season_15^有償ミリオンジュエル{0}個を使用して
-X-STREAM VOL.1ポイントを交換しますか？|seasonpass_point_exchange_check_pu_label_00_season_15^X-STREAM VOL.1ポイント|seasonpass_point_exchange_result_pu_msg_00_season_15^X-STREAM VOL.1ポイントを交換しました|seasonpass_point_exchange_result_pu_label_00_season_15^X-STREAM VOL.1ポイント|seasonpass_point_achievement_pu_title_00_season_15^X-STREAM VOL.1パス達成|seasonpass_point_achievement_pu_msg_00_season_15^X-STREAM VOL.1パスの達成報酬がプレゼントに送られました|seasonpass_premium_release_pu_warn_season_15^メールは2026/09/01から一定期間ごとに届きます|seasonpass_premium_release_complete_pu_warn_season_15^メールは2026/09/01から一定期間ごとに届きます|seasonpass_season_select_logo_season_15^X-STREAM VOL.1|navi_premium_shop_season_pass_select_pu_3^必要メダル|navi_premium_shop_season_pass_select_pu_require_amount_format^{0}{1}|navi_premium_shop_exchange_confirm_item_pu_warning_msg^プレミアムメダルが不足しています|navi_premium_shop_exchange_confirm02_warning_pu_title^交換内容確認|navi_premium_shop_exchange_confirm02_warning_pu_message^プレミアムメダルが不足しています|standpop_pu_idol_select_title^パネル選択
+X-STREAM VOL.1ポイントを交換しますか？|seasonpass_point_exchange_check_pu_label_00_season_15^X-STREAM VOL.1ポイント|seasonpass_point_exchange_result_pu_msg_00_season_15^X-STREAM VOL.1ポイントを交換しました|seasonpass_point_exchange_result_pu_label_00_season_15^X-STREAM VOL.1ポイント|seasonpass_point_achievement_pu_title_00_season_15^X-STREAM VOL.1パス達成|seasonpass_point_achievement_pu_msg_00_season_15^X-STREAM VOL.1パスの達成報酬がプレゼントに送られました|seasonpass_premium_release_pu_warn_season_15^メールは2026/09/01から一定期間ごとに届きます|seasonpass_premium_release_complete_pu_warn_season_15^メールは2026/09/01から一定期間ごとに届きます|seasonpass_season_select_logo_season_15^X-STREAM VOL.1|navi_premium_shop_season_pass_select_pu_3^必要メダル|navi_premium_shop_season_pass_select_pu_require_amount_format^{0}{1}|navi_premium_shop_exchange_confirm_item_pu_warning_msg^プレミアムメダルが不足しています|navi_premium_shop_exchange_confirm02_warning_pu_title^交換内容確認|navi_premium_shop_exchange_confirm02_warning_pu_message^プレミアムメダルが不足しています|standpop_pu_idol_select_title^パネル選択|navi_shop_13_item_label_07^購入上限|navi_shop_13_item_label_08^yyyy/MM/dd HH:mm|navi_shop_13_item_label_09^<color=#757bab>{0}</color>まで|navi_shop_13_item_label_10^<color=#FF8400>{0}</color>まで|navi_shop_13_item_label_11^<color=#FF004F>{0}</color>まで|navi_shop_13_confirm_label_07^このアイテムの購入上限はリセットされません|navi_shop_13_02_tab_03^期間限定|navi_shop_13_02_detail_title_2^セット詳細|navi_shop_13_02_confirm_title_2^購入確認|navi_shop_13_02_result_title_2^購入結果|navi_shop_13_02_result_desc_2^{0}を購入しました！|navi_shop_13_ex_detail_30015_00^14thLIVE DAY1セット・Sには
+プラチナガシャ10回チケット1枚にマツリサイト・S、
+エミリアン・S、ツインミラージュ・Sが1つずつ含まれます|navi_shop_13_ex_detail_30016_00^14thLIVE DAY1セット・Lには
+プラチナガシャ10回チケット1枚にマツリサイト・L、
+エミリアン・L、ツインミラージュ・Lが1つずつ含まれます|navi_shop_13_ex_detail_30017_00^14thLIVE DAY2セット・Sには
+プラチナガシャ10回チケット1枚にコノミライト・S、
+リオクォーツ・S、ブルーミンバディ・Sが1つずつ含まれます|navi_shop_13_ex_detail_30018_00^14thLIVE DAY2セット・Lには
+プラチナガシャ10回チケット1枚にコノミライト・L、
+リオクォーツ・L、ブルーミンバディ・Lが1つずつ含まれます|navi_shop_13_ex_detail_30019_00^11thLIVEセット・Sには
+プラチナガシャ10回チケット1枚にロコザナイト・S、
+ユリコイズ・S、レムリアトリエ・Sが1つずつ含まれます|navi_shop_13_ex_detail_30020_00^11thLIVEセット・Lには
+プラチナガシャ10回チケット1枚にロコザナイト・L、
+ユリコイズ・L、レムリアトリエ・Lが1つずつ含まれます|navi_shop_13_ex_detail_30021_00^12thLIVEセット・Sには
+プラチナガシャ10回チケット1枚にレイカイド・S、
+カオリドール・S、ウィングシング・Sが1つずつ含まれます|navi_shop_13_ex_detail_30022_00^12thLIVEセット・Lには
+プラチナガシャ10回チケット1枚にレイカイド・L、
+カオリドール・L、ウィングシング・Lが1つずつ含まれます|navi_shop_13_ex_detail_30023_00^13thLIVEセット・Sには
+プラチナガシャ10回チケット1枚にサヨコット・S、
+チヅルアイ・S、ノーブルブースター・Sが1つずつ含まれます|navi_shop_13_ex_detail_30024_00^13thLIVEセット・Lには
+プラチナガシャ10回チケット1枚にサヨコット・L、
+チヅルアイ・L、ノーブルブースター・Lが1つずつ含まれます|display_character_toukatumaneja^統括マネージャー|display_character_kirano^希良乃|display_character_moa^萌亞|display_character_kanon^香喃|display_character_kiranomoakanon^希良乃・香喃・萌亞|display_character_pmisaki^P・美咲|display_character_tumugimiraikana^紬・未来・可奈|display_character_jinrou^人狼|display_character_uranaisi^占い師|tutorial_info179_00_title^<size=24>プレミアムパスDX+特典の連続お仕事について</size>|tutorial_info179_00^進捗度が合計360進むまで自動でお仕事を続ける機能です
+元気が不足してる場合は自動で回復してお仕事を続けることもできます|jobv_popup_btn_03^ツアー準備へ|jobv_popup_continue_warining_msg_01^<color=#FF004F>進捗度を合計{0}進めるか、{1}が最大になるとお仕事は終了されます</color>|jobv_popup_beused_msg_03^進捗度を合計{0}進めるか、{1}が最大になるまでに消費するアイテムです|jobv_popup_beused_warining_03^<color=#FF004F>進捗度を合計{0}進めるか、{1}が最大になるとお仕事は終了されます</color>|jobv_result_19^進捗度が{0}に到達したので
+お仕事を終了しました|jobv_result_20^「{0}」が所持上限に達したので
+お仕事を終了しました|jobv_result_replay_reason_8^イベントアイテムが所持
+上限に到達しています|navi_systemsetting_58_desc_1^連続お仕事機能のON/OFFや、演出速度、終了時のバイブレーションを設定できます|navi_systemsetting_58_2^連続お仕事|navi_systemsetting_58_2_a^ON|navi_systemsetting_58_2_b^OFF|doordeco_pu_detach_f_from_b_notice_title^確認|doordeco_pu_detach_f_from_b_notice_msg^このモチーフを設定すると
+アイドルが設定できなくなります
+設定を変更します|doordeco_pu_detach_f_from_b_notice_check^次回以降表示しない|doordeco_pu_detach_f_from_b_swap_notice_title^確認|doordeco_pu_detach_f_from_b_swap_notice_msg^モチーフの左右交換で
+アイドルが設定できなくなります
+設定を変更します|doordeco_pu_detach_f_from_b_swap_notice_check^次回以降表示しない|doordeco_pu_detach_b_from_f_notice_title^確認|doordeco_pu_detach_b_from_f_notice_msg^アイドルを設定するには
+設定中のモチーフを外す必要があります
+設定を変更します|doordeco_pu_detach_b_from_f_notice_check^次回以降表示しない|doordeco_pu_idolselect_event^イベント|standpop_pu_idolselect_event^イベント|eventview_item_shop_limited_count^本日あと<color=#e6f078>{0}回</color>|eventview_item_shop_limited_date_2^<color=#e6f078>{0}/{1}/{2} {3:00}:{4:00}</color>まで|eventview_item_shop_exchange_reward_pu_message^以下のアイテムを受け取りました|eventview_item_shop_detail_pu_preview_btn^詳細

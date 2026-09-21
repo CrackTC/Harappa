@@ -14521,7 +14521,7 @@ SRカードが確定する
 是能在标题插画、名片、摄影棚中使用的道具
 
 请通过「礼包一览」的详情按钮确认内容后再进行购买|gasha2_fortune_wallpaper_notice_pu_button^前往礼包一览|gasha2_top_pop_confirm_title_dc_9^美咲のオススメコーディネイトガシャ|gasha2_top_pop_confirm_title_dc_10^美咲のオススメコーディネイトガシャ|gasha2_top_pop_confirm_title_dc_17^美咲のオススメコーディネイトガシャ|gasha2_top_pop_confirm_title_dc_15^必出SSR扭蛋|gasha2_top_pop_confirm_title_dc_28^PICK UP阶梯扭蛋|gasha2_top_pop_confirm_title_dc_29^PICK UP阶梯扭蛋|gasha2_top_pop_confirm_title_dc_30^PICK UP阶梯扭蛋|gasha2_top_pop_confirm_title_dc_42^Birthday扭蛋第{step}阶|gasha2_top_pop_confirm_msg_dc_41^要进行{0}的{1}第{2}次扭蛋吗？|gasha2_top_desc_dc_9^テーマに合わせたカードがピックアップされ、
-3回限定で引ける「美咲のオススメコーディネイト♪#25 夏を先取り☆サマーガールガシャ」
+3回限定で引ける「美咲のオススメコーディネイト♪#26 清く美しく…ホワイトプリンセスガシャ」
 有償ミリオンジュエルのみで1回目<color=#FF0098>1500</color>個、2回目<color=#FF0098>2000</color>個、3回目<color=#FF0098>2500</color>個！さらに3回目は<color=#FF0098>ピックアップされているSSRカードが1枚</color>確定！！|gasha2_top_desc_dc_41^「ミリシタ9周年記念！39ガシャ VOL.2」開催！
 有償ミリオンジュエル390個で引ける<color=#FF0098>1回ガシャ</color>でSSRの出現率はなんと<color=#FF0098>39％</color>！
 さらに出現するSSRカードは52人の「ミリオンフェスカード」と「期間限定カード」のみ！|gasha2_top_balloon_gid_70132^保底获得1张SR！|gasha2_top_balloon_gid_70133^保底获得1张SR！|gasha2_top_balloon_gid_70134^<size=16>保底获得1张期间限定SSR！</size>|gasha2_top_pop_confirm_title_dc_41^ミリシタ9周年記念！39ガシャ VOL.2|gasha2_top_desc_gid_70144^<size=16>3回限定で引ける「ミリシタ感謝祭 2021～2022 打ち上げガシャ」
@@ -17796,4 +17796,11 @@ X-STREAM VOL.1ポイントを交換しますか？|seasonpass_point_exchange_che
 アイドルが設定できなくなります
 設定を変更します|doordeco_pu_detach_f_from_b_swap_notice_check^次回以降表示しない|doordeco_pu_detach_b_from_f_notice_title^確認|doordeco_pu_detach_b_from_f_notice_msg^アイドルを設定するには
 設定中のモチーフを外す必要があります
-設定を変更します|doordeco_pu_detach_b_from_f_notice_check^次回以降表示しない|doordeco_pu_idolselect_event^イベント|standpop_pu_idolselect_event^イベント|eventview_item_shop_limited_count^本日あと<color=#e6f078>{0}回</color>|eventview_item_shop_limited_date_2^<color=#e6f078>{0}/{1}/{2} {3:00}:{4:00}</color>まで|eventview_item_shop_exchange_reward_pu_message^以下のアイテムを受け取りました|eventview_item_shop_detail_pu_preview_btn^詳細
+設定を変更します|doordeco_pu_detach_b_from_f_notice_check^次回以降表示しない|doordeco_pu_idolselect_event^イベント|standpop_pu_idolselect_event^イベント|eventview_item_shop_limited_count^本日あと<color=#e6f078>{0}回</color>|eventview_item_shop_limited_date_2^<color=#e6f078>{0}/{1}/{2} {3:00}:{4:00}</color>まで|eventview_item_shop_exchange_reward_pu_message^以下のアイテムを受け取りました|eventview_item_shop_detail_pu_preview_btn^詳細|tutorial_info_box100005_00_title^<size=16>14thLIVE DAY1 夢咲くワンダーミラージュ打ち上げセレクションガシャとは</size>|tutorial_info_box100005_00^14thLIVE DAY1 夢咲くワンダーミラージュ打ち上げセレクション
+ガシャとは出現するカードを決められた候補の中から自分で選んで
+設定できます|tutorial_info_box100005_01_title^<size=16>14thLIVE DAY1 夢咲くワンダーミラージュ打ち上げセレクションガシャとは</size>|tutorial_info_box100005_01^引くたびにボックスの中身が減っていき、最終的に選択したカードを
+すべて獲得することができるガシャです|tutorial_info_box100005_02_title^<size=16>14thLIVE DAY1 夢咲くワンダーミラージュ打ち上げセレクションガシャとは</size>|tutorial_info_box100005_02^さらにボックスに設定したカードをすべて獲得するとおまけで
+アイテムを獲得できます|gasha2_ex03_card_select_random_select_notice_pu_msg2^現在表示されている選択可能なカードから未獲得カードを優先的に自動選択を行います
+絞り込み対象外のカードがない場合、獲得済みカードも選択します
+※選択制限のあるカード種別が必ず選ばれるわけではありません
+　未獲得カードがある場合でも選択制限を越えて選ばれることはありません|gasha2_ex03_card_select_limit_msg^選択制限：{0}まで|gasha2_ex03_card_select_limit_category1^期間限定{0}種|gasha2_ex03_card_select_limit_category2^FES{0}種|gasha2_ex03_card_select_limit_category3^SHS{0}種|gasha2_ex03_card_select_limit_category4^LNK{0}種|gasha2_ex03_card_select_limit_separator^、

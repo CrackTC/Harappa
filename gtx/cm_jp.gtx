@@ -12727,11 +12727,11 @@ SPECIALを発動すると、パズルクリア1手前の状態になります|ho
 左上から順番に揃えてみましょう|hotate_tips_body_3^最後に置きたい箇所の一手前を考えよう
 逆から考えていくと道筋が見えやすいです|hotate_tips_body_4^一度に多くのパネルを正しい位置におくのは難しい
 少し面倒でも、１つずつやっていくと揃えやすいです|hotate_tips_body_5^アイドルのつぶやきはパズルを解いている時にランダムで獲得可能です
-獲得したつぶやきは、パズルクリア後にアーカイブから確認できます|hotate_tips_body_6^各エリアごとに集めたつぶやきの数に応じてトークが解放されます
-解放されたトークは、アーカイブから確認できます|hotate_tips_body_7^クリアしたエリアの秘宝はトレジャーで確認できます
-各秘宝の説明も見れるのでぜひ見に行きましょう|hotate_ex_setting_pu_select_label^卡片＆插图|hotate_ex_setting_pu_sprite_lavel_1^谜题1|hotate_ex_setting_pu_sprite_lavel_2^谜题2|hotate_ex_setting_pu_sprite_lavel_3^谜题3|hotate_ex_setting_pu_sprite_lavel_4^谜题4|hotate_ex_setting_pu_sprite_lavel_5^谜题5|hotate_ex_setting_pu_sprite_lavel_6^谜题6|hotate_select_archive_speech_bubble_count_text_format^{0:D2}/{1:D2}|hotate_select_archive_talk_count_title^Talk|hotate_select_archive_offshot_count_title^つぶやき|hotate_select_archive_talk_complete^COMPLETE|hotate_select_archive_offshot_complete^COMPLETE|hotate_top_dulation^<color=#3C3CA0>【活动期限】</color>2024/4/1 23:59为止|hotate_offshot_00^{0}/{1}|hotate_unselected_treasure_desc^各秘宝をタッチすると、秘宝の名前と説明文を確認できます。|hotate_unselected_treasure_desc_no_treasure^各エリアの謎を解き、5つの秘宝を獲得しよう|hotate_ingame_giveup_pu_warning^GIVE UPを行うと、今回獲得した
-アイドルのつぶやきが未獲得状態に戻ります|hotate_ingame_reset_pu_warning^RESETを行うと、今回獲得したアイドルのつぶやきが未獲得状態に戻り、
-SPECIALのカウントもSTART直後の状態になります|hotate_profile_unrelease_description^？？？？|hotate_ingame_assist_btn_time_format^{0}|hotate_talk_next_button_text^下一篇|hotate_mission_share_msg^获得了以下的称号
+獲得したつぶやきは、パズルクリア後にアーカイブから確認できます|hotate_tips_body_6^根据各区域收集到的推文数量，将解锁相应的对话
+已解锁的对话可在存档中查看|hotate_tips_body_7^已通关区域的秘宝可在宝藏中查看
+还可以看到各秘宝的说明，请务必前往查看|hotate_ex_setting_pu_select_label^卡片＆插图|hotate_ex_setting_pu_sprite_lavel_1^谜题1|hotate_ex_setting_pu_sprite_lavel_2^谜题2|hotate_ex_setting_pu_sprite_lavel_3^谜题3|hotate_ex_setting_pu_sprite_lavel_4^谜题4|hotate_ex_setting_pu_sprite_lavel_5^谜题5|hotate_ex_setting_pu_sprite_lavel_6^谜题6|hotate_select_archive_speech_bubble_count_text_format^{0:D2}/{1:D2}|hotate_select_archive_talk_count_title^Talk|hotate_select_archive_offshot_count_title^推文|hotate_select_archive_talk_complete^COMPLETE|hotate_select_archive_offshot_complete^COMPLETE|hotate_top_dulation^<color=#3C3CA0>【活动期限】</color>2024/4/1 23:59为止|hotate_offshot_00^{0}/{1}|hotate_unselected_treasure_desc^点击各秘宝，可查看其名称和说明。|hotate_unselected_treasure_desc_no_treasure^解开各区域的谜题，获取五件秘宝|hotate_ingame_giveup_pu_warning^执行GIVE　UP后，本次获得的
+偶像推文将恢复为未获得状态|hotate_ingame_reset_pu_warning^执行RESET后，本次获得的偶像推文将恢复为未获得状态，
+SPECIAL计数也会回到START后的初始状态|hotate_profile_unrelease_description^？？？？|hotate_ingame_assist_btn_time_format^{0}|hotate_talk_next_button_text^下一篇|hotate_mission_share_msg^获得了以下的称号
 {0}
 #ミリシタ
 #ラビットガールズ|hotate_share_msg^#ミリシタ
@@ -12743,13 +12743,11 @@ SPECIALのカウントもSTART直後の状態になります|hotate_profile_unre
 #pacman
 #パックマン|manbou_share_msg^#ミリシタ
 #pacman
-#パックマン|manbou_talk_next_button_text^下一篇|manbou_tips_head_0^THEATER MAZE ～Play PAC-MAN!～の豆知識①|manbou_tips_body_0^STORY MODEでは
-ステージのクリア数に応じて難易度が変化します|manbou_tips_head_1^THEATER MAZE ～Play PAC-MAN!～の豆知識②|manbou_tips_body_1^ボーナスアイテムを獲得するとスコアがアップします
-ひとつのステージに2回まで出現します|manbou_tips_head_2^THEATER MAZE ～Play PAC-MAN!～の豆知識③|manbou_tips_body_2^メイズに配置されたクッキーをすべて食べると
-ゲームクリアとなります|manbou_tips_head_3^THEATER MAZE ～Play PAC-MAN!～の豆知識④|manbou_tips_body_3^ミニゲームに登場する「スパークドリンク」を
-獲得するとパワーアップします
-パワーアップ中はゴーストを一時的に撃退できます|manbou_tips_head_4^THEATER MAZE ～Play PAC-MAN!～の豆知識⑤|manbou_tips_body_4^ゴーストはそれぞれ性格が異なり
-追いかけ方もさまざまです|manbou_tips_head_5^剧场迷宫～来玩吃豆人吧！～小知识⑥|manbou_tips_body_5^可通过迷宫两侧的通道传送到对面
+#パックマン|manbou_talk_next_button_text^下一篇|manbou_tips_head_0^剧场迷宫～来玩吃豆人吧！～小知识①|manbou_tips_body_0^STORY　MODE中
+难度会随着通关关卡数量的增加而变化|manbou_tips_head_1^剧场迷宫～来玩吃豆人吧！～小知识②|manbou_tips_body_1^获得奖励道具可提升分数
+每个关卡最多出现2次|manbou_tips_head_2^剧场迷宫～来玩吃豆人吧！～小知识⑥|manbou_tips_body_2^吃光迷宫中放置的所有饼干即可通关|manbou_tips_head_3^剧场迷宫～来玩吃豆人吧！～小知识④|manbou_tips_body_3^获得迷你游戏中出现的「能量饮料」后，角色将强化
+在强化期间，可以暂时击退幽灵|manbou_tips_head_4^剧场迷宫～来玩吃豆人吧！～小知识⑤|manbou_tips_body_4^每个幽灵的性格各不相同
+追逐方式也多种多样|manbou_tips_head_5^剧场迷宫～来玩吃豆人吧！～小知识⑥|manbou_tips_body_5^可通过迷宫两侧的通道传送到对面
 被逼到绝境时可以用传送来脱身|manbou_tips_head_6^剧场迷宫～来玩吃豆人吧！～小知识⑦|manbou_tips_body_6^在传送隧道中
 被幽灵操控的偶像们
 移动速度会变慢|manbou_tips_head_7^什么是吃豆人|manbou_tips_body_7^总是充满活力、快快乐乐，

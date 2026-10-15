@@ -1,6 +1,6 @@
 event_0014_story_intro_title^无|event_0014_story_intro_synopsis^无|event_0014_story_intro_1000_102mis^啊，{$P$}先生！
-你该不会工作到现在吧？|event_0014_story_intro_1001_p^ええ、収録が押してしまって。
-今戻ってきたところです。|event_0014_story_intro_1002_102mis^果然是这样……
+你该不会工作到现在吧？|event_0014_story_intro_1001_p^是啊，录制拖延了。
+我才刚回来。|event_0014_story_intro_1002_102mis^果然是这样……
 辛苦了♪|event_0014_story_intro_1003_102mis^啊，不过，其实社长正在找你。
 抱歉，您刚回来就说这个……。|event_0014_story_intro_1004_p^社长？  我知道了。那我先过去一趟，
 这里就麻烦你再看顾一下了！|event_0014_story_intro_1005_102mis^好的，交给我吧！
@@ -9,15 +9,15 @@ event_0014_story_intro_title^无|event_0014_story_intro_synopsis^无|event_0014_
 你怎么了……？|event_0014_story_intro_1010_101kot^其实……我珍藏的书
 不见了……呜呜。|event_0014_story_intro_1011_p^这样啊？  可能是混在资料里了。
 我也来找找吧。是什么样的书？|event_0014_story_intro_1012_101kot^诶。……啊，没关系的！
-我自己会找到的！  呵呵，呵呵呵呵！|event_0014_story_intro_1013_p^哈、哈啊……。|event_0014_story_intro_1014_president^やあ、待っていたよ！
-先日のFairy公演のプロデュース、ご苦労だったね。|event_0014_story_intro_1015_president^アイドル諸君の情熱を感じる、すばらしい公演だった。
-評判も上々で、私も鼻が高いよ！|event_0014_story_intro_1016_101kot^そ、そうそう。お客さんやSNSの反応もバッチリで、
-ファンレターもたくさん届いてますよ♪|event_0014_story_intro_1017_p^ありがたいですね。これも、
-メンバーの頑張りと、ファンの応援のおかげです。|event_0014_story_intro_1018_president^うむ！　そこで、この熱が残っているうちに、
-Angelチームのお披露目公演といこうじゃないか！|event_0014_story_intro_1019_p^原来如此。接下来是Angel吗……！|event_0014_story_intro_1020_president^そういうことだ。そして、公演のオープニングを飾る
-新曲を歌ってもらう『ANGEL STARS』だが……。|event_0014_story_intro_1021_president^这次我想指定伊吹翼、箱崎星梨花、望月杏奈、
-北上丽花、樱守歌织这五位。|event_0014_story_intro_1022_president^公演の采配は、今回も君に任せたいと思っている。
-引き受けてくれるかね？|event_0014_story_intro_1023^好的！|event_0014_story_intro_2000_p^好的，请交给我吧！
+我自己会找到的！  呵呵，呵呵呵呵！|event_0014_story_intro_1013_p^哈、哈啊……。|event_0014_story_intro_1014_president^唷，等你好久了！
+之前Fairy公演的培育工作，辛苦你了。|event_0014_story_intro_1015_president^感受到诸位偶像们的热情，非常精彩的公演。
+也大受好评，我也很骄傲呢！|event_0014_story_intro_1016_101kot^是、是啊。观众们和SNS的反响也非常好，
+还收到了很多粉丝信件呢♪|event_0014_story_intro_1017_p^真是令人感激啊。这都多亏了
+成员们的努力，和粉丝们的支持。|event_0014_story_intro_1018_president^嗯！  所以趁着这股热潮还没散去，
+来办一场Angel团队的首次公开演出吧！|event_0014_story_intro_1019_p^原来如此。接下来是Angel吗……！|event_0014_story_intro_1020_president^正是如此。然后，让『ANGEL STARS』演唱
+这首为公演开场增色的新曲……。|event_0014_story_intro_1021_president^这次我想指定伊吹翼、箱崎星梨花、望月杏奈、
+北上丽花、樱守歌织这五位。|event_0014_story_intro_1022_president^公演的指挥，这次我想还是交给你。
+你愿意接受吗？|event_0014_story_intro_1023^好的！|event_0014_story_intro_2000_p^好的，请交给我吧！
 我一定会打造出最棒的舞台给你看的！|event_0014_story_intro_2001_president^就是这个气势！  你和偶像们会为我们呈现
 什么样的舞台呢……。我也很期待啊！|event_0014_story_intro_2002_101kot^我也很期待Angel团队的重要演出！
 {$P$}先生，请加油哦♪|event_0014_story_intro_2003_p^（Angel的偶像们……。

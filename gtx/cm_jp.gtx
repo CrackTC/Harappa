@@ -2630,10 +2630,10 @@ Let's dance吧！嘿嘿♪|system_theater_035hin_touch_030_035hin^学习新东�
 来れなくったって、多分平気！|system_storyidol_031tom_greeting_001_031tom^{$P$}さん♪
 うふっ、私が見込んだ以上は、
 誰よりも私に優しくして
-くださいね～♪|system_storyidol_032emi_greeting_001_032emi^仕掛け人さま、昨日学校で…あ！
-…お、お喋りは大和撫子らしく
-ありませんよね？|system_storyidol_033sih_greeting_001_033sih^話してる時間があったら、
-練習しないと……。|system_storyidol_034ayu_greeting_001_034ayu^{$P$}、
+くださいね～♪|system_storyidol_032emi_greeting_001_032emi^当家的，昨天在学校……啊！
+…是、是不是不像
+大和抚子该说的话呀？|system_storyidol_033sih_greeting_001_033sih^与其在这里闲聊，
+不如去练习……。|system_storyidol_034ayu_greeting_001_034ayu^{$P$}、
 今日も一日、プロデュース
 よろしくなっ！|system_storyidol_035hin_greeting_001_035hin^わあ……東京は
 あっちゃもこっちゃも、
@@ -2727,12 +2727,11 @@ Let's dance吧！嘿嘿♪|system_theater_035hin_touch_030_035hin^学习新东�
 …えー、ダメなんだ…。|system_storyidol_031tom_greeting_002_031tom^{$P$}さん
 ったら、真面目にやらない
 とワンコをけしかけちゃい
-ますよ～♪|system_storyidol_032emi_greeting_002_032emi^可愛い服が
-たくさん着られて嬉しいですけど
-喜んでばかりだとはしたなく
-見えはしないでしょうか？|system_storyidol_033sih_greeting_002_033sih^何か用ですか？
-私、レッスンに集中したいん
-ですけど……。|system_storyidol_034ayu_greeting_002_034ayu^ほらほら！
+ますよ～♪|system_storyidol_032emi_greeting_002_032emi^能穿各种可爱的衣裳
+虽说很是高兴
+但如此眉开眼笑
+是否会显得无理呢？|system_storyidol_033sih_greeting_002_033sih^有什么事吗？
+我想专心上课……。|system_storyidol_034ayu_greeting_002_034ayu^ほらほら！
 {$P$}、
 遅いって。早くしないと
 遅刻するぞ！|system_storyidol_035hin_greeting_002_035hin^あのね、はぐれないように
@@ -2819,9 +2818,10 @@ HiHo——！　的说。|system_storyidol_022ser_greeting_003_022ser^わぁ、�
 ほら、私の腕さわってみて？
 なんだか筋肉ついてきたでしょ！|system_storyidol_030iku_greeting_003_030iku^もっと難しいレッスンだって、
 わたし、できるよ？|system_storyidol_031tom_greeting_003_031tom^みんなの愛に応える為にも、
-レッスンは欠かせませんね～。|system_storyidol_032emi_greeting_003_032emi^何事も平常心、平常心…です！|system_storyidol_033sih_greeting_003_033sih^あぁ、ステージの掃除なら
-もう私がやっておきましたよ。
-気付くの、遅すぎです……。|system_storyidol_034ayu_greeting_003_034ayu^イテテテテ……。
+レッスンは欠かせませんね～。|system_storyidol_032emi_greeting_003_032emi^不管何事都是平常心，
+平常心……的说！|system_storyidol_033sih_greeting_003_033sih^啊、舞台的卫生
+我已经打扫过了。
+你发现的也太晚了……。|system_storyidol_034ayu_greeting_003_034ayu^イテテテテ……。
 ご、ごめん。今日は、
 ちょっと筋肉痛で……。|system_storyidol_035hin_greeting_003_035hin^とろくさくてもね、
 ちゃあんと一歩ずつ前に
@@ -2915,11 +2915,11 @@ HiHo——！　的说。|system_storyidol_022ser_greeting_003_022ser^わぁ、�
 するとかイヤだからね！|system_storyidol_031tom_greeting_004_031tom^そんなに、
 じっと私を見るなんて……。
 私のことが、大好きに
-なっちゃったんですか～♪|system_storyidol_032emi_greeting_004_032emi^同じ大和撫子を目指す方々と
-お友達になれて、
-毎日が楽しいです！|system_storyidol_033sih_greeting_004_033sih^アイドルって、思ってたより
-ハードなダンスが多いんですね。
-もっと頑張らなくちゃ……。|system_storyidol_034ayu_greeting_004_034ayu^なんかさ、あなたも
+なっちゃったんですか～♪|system_storyidol_032emi_greeting_004_032emi^每日和各位
+同要做大和抚子的友人们
+交心，甚是快乐！|system_storyidol_033sih_greeting_004_033sih^偶像的舞蹈，
+高难动作比想象中还多呢。
+必须更加努力练习……。|system_storyidol_034ayu_greeting_004_034ayu^なんかさ、あなたも
 ナンバーワンになれるっ！て
 メールが届いたんだ！
 これはチャンスかも！|system_storyidol_035hin_greeting_004_035hin^……あたし、もしも
@@ -3019,11 +3019,10 @@ TVって面白すぎですよね～。|system_storyidol_015siz_greeting_005_015s
 見てるだけでいいよ。|system_storyidol_031tom_greeting_005_031tom^そんな寝癖で来るなんて～。
 朝起きるところから
 やり直しさせますよ、
-ダメプロデューサー♪|system_storyidol_032emi_greeting_005_032emi^仕掛け人さまは着物が
-よく似合いそうですね♪|system_storyidol_033sih_greeting_005_033sih^{$P$}さんも、
-もう少し社長みたいな
-渋さが増せば……。ああ、
-こっちの話です。|system_storyidol_034ayu_greeting_005_034ayu^アメリカの生活は
+ダメプロデューサー♪|system_storyidol_032emi_greeting_005_032emi^当家的要是穿和服
+定是非常合适♪|system_storyidol_033sih_greeting_005_033sih^{$P$}要是和社长一样，
+更老练一点的话……。
+啊、我只是在自言自语。|system_storyidol_034ayu_greeting_005_034ayu^アメリカの生活は
 どうだったのかって？
 ……ノーコメントで！|system_storyidol_035hin_greeting_005_035hin^{$P$}、
 今日はどこに行くんかな。
@@ -3117,11 +3116,10 @@ TVって面白すぎですよね～。|system_storyidol_015siz_greeting_005_015s
 わたし、疲れてないもん！
 全然へっちゃらだからっ！|system_storyidol_031tom_greeting_006_031tom^体調はいかがです～？
 ふふっ、健やかでないと、
-偉業は達成できませんよ～♪|system_storyidol_032emi_greeting_006_032emi^美しい花火の打ち上がる、
-大きな舞台で踊れるように
-なれれば幸せです。|system_storyidol_033sih_greeting_006_033sih^私ならひとりで大丈夫なので、
-他の子たちを見て
-あげてください。|system_storyidol_034ayu_greeting_006_034ayu^あ～あ、早くナンバーワンに
+偉業は達成できませんよ～♪|system_storyidol_032emi_greeting_006_032emi^若是能在烟花绽放，
+宽敞歌台之上起舞，
+则福满我心呀。|system_storyidol_033sih_greeting_006_033sih^我一个人也没问题的。
+去帮帮其他人吧。|system_storyidol_034ayu_greeting_006_034ayu^あ～あ、早くナンバーワンに
 なれないかな～。|system_storyidol_035hin_greeting_006_035hin^したっけ{$P$}
 今日も一日よろしくねぇ。|system_storyidol_036kan_greeting_006_036kan^あっ窓際の小鳥さん、
 一緒に歌おっ♪
@@ -3227,11 +3225,11 @@ TVって面白すぎですよね～。|system_storyidol_015siz_greeting_005_015s
 もっと上手にできるのに。|system_storyidol_031tom_greeting_007_031tom^うふっ、
 この劇場が大きくなれば、
 それだけ多くの子豚ちゃん達が
-安らげる訳ですね…♪|system_storyidol_032emi_greeting_007_032emi^書道を習い始めました。
-…スミの匂いは落ち着きます。
-…しあわせ～。|system_storyidol_033sih_greeting_007_033sih^っ！　ま、まだ体がついて
-いかないだけでダンスの
-振付は覚えてますよっ！|system_storyidol_034ayu_greeting_007_034ayu^えへへへ……。
+安らげる訳ですね…♪|system_storyidol_032emi_greeting_007_032emi^小女子近日始学书法。
+…墨香沁人心脾，安神养息。
+…余心甚安。|system_storyidol_033sih_greeting_007_033sih^唔！只、只是身体
+还跟不上而已，舞蹈动作
+我可是记住了哦！|system_storyidol_034ayu_greeting_007_034ayu^えへへへ……。
 今日はいいことあったから、
 いつもより、いいもの
 食べようかな！|system_storyidol_035hin_greeting_007_035hin^{$P$}、
@@ -3336,10 +3334,10 @@ TVって面白すぎですよね～。|system_storyidol_015siz_greeting_005_015s
 低いのかな？|system_storyidol_030iku_greeting_008_030iku^んー、もうちょっと
 レッスンしていこうかなぁ…。|system_storyidol_031tom_greeting_008_031tom^ふふ、弱音を許されているのは
 子豚ちゃん達だけですからね、
-{$P$}さん♪|system_storyidol_032emi_greeting_008_032emi^仕掛け人さま、
-今日もお稽古のご指導、
-よろしくお願いします。|system_storyidol_033sih_greeting_008_033sih^今日は演劇を観に行って
-演技の勉強してきます。|system_storyidol_034ayu_greeting_008_034ayu^今日は身体が、
+{$P$}さん♪|system_storyidol_032emi_greeting_008_032emi^当家的，
+今日操演之指导，
+也请拜托你了。|system_storyidol_033sih_greeting_008_033sih^今天打算看话剧
+来学习一下演技。|system_storyidol_034ayu_greeting_008_034ayu^今日は身体が、
 いい感じで動きそう！
 {$P$}、
 レッスンつきあってよ！|system_storyidol_035hin_greeting_008_035hin^東京の人らはせわしないねぇ。
@@ -3457,12 +3455,12 @@ TVって面白すぎですよね～。|system_storyidol_015siz_greeting_005_015s
 今度ご褒美にお菓子あげるね！|system_storyidol_031tom_greetingsp_001_031tom^私のこと、
 すごく普通に扱いますよね～。
 ……新鮮ですけど、調子に
-のっちゃダメですよ～♪|system_storyidol_032emi_greetingsp_001_032emi^私、毎日がとても楽しいです。
-きっと仕掛け人さまが、
-やさしくして下さるからですね。|system_storyidol_033sih_greetingsp_001_033sih^ふ～ん……
-{$P$}さんの
-手、働いてる男の手って
-感じですね。けっこう素敵です。|system_storyidol_034ayu_greetingsp_001_034ayu^{$P$}の
+のっちゃダメですよ～♪|system_storyidol_032emi_greetingsp_001_032emi^小女子朝朝快活，
+定是因为当家的
+每日都温柔的对我。|system_storyidol_033sih_greetingsp_001_033sih^嗯~……
+{$P$}的手看起来就
+经常干活。相当不错呢。
+|system_storyidol_034ayu_greetingsp_001_034ayu^{$P$}の
 顔を見ると、なんか安心するよ。
 ……い、意外と相性
 いいのかもな。|system_storyidol_035hin_greetingsp_001_035hin^{$P$}さえ
@@ -3592,12 +3590,11 @@ TVって面白すぎですよね～。|system_storyidol_015siz_greeting_005_015s
 たまには休んでね？|system_storyidol_031tom_greetingsp_002_031tom^ふ～…あら。つい、笑顔を
 忘れてしまいました～。
 私の気を緩ませるなんて、
-罪深い方です～。|system_storyidol_032emi_greetingsp_002_032emi^これが日本の駄菓子、ですね！
-はい、仕掛け人さま。せっかく
-ですから、半分こしましょう？|system_storyidol_033sih_greetingsp_002_033sih^へぇ……
-{$P$}さんって
-けっこう人のことを
-よく見てるんですね？|system_storyidol_034ayu_greetingsp_002_034ayu^今度、兄貴が舞台を
+罪深い方です～。|system_storyidol_032emi_greetingsp_002_032emi^原来这便是日本的粗点心呢！
+来，当家的。难得如此机会，
+分你一半如何？|system_storyidol_033sih_greetingsp_002_033sih^唔……
+{$P$}观察别人
+还挺仔细的嘛。|system_storyidol_034ayu_greetingsp_002_034ayu^今度、兄貴が舞台を
 見に来るんだ。
 いいところ見せたいからさ、
 特訓よろしくな！|system_storyidol_035hin_greetingsp_002_035hin^ばあちゃんにね、お番茶に
@@ -3728,13 +3725,13 @@ TVって面白すぎですよね～。|system_storyidol_015siz_greeting_005_015s
 {$P$}さんも、
 そう？|system_storyidol_031tom_greetingsp_003_031tom^次の休日は、身分を隠した私に
 尽くすのはいかがです～？
-何事も経験ですよ～♪|system_storyidol_032emi_greetingsp_003_032emi^あの…久しぶりにかるたで
-遊びたいのですが…
-よろしければお相手
-してくださいませんか？|system_storyidol_033sih_greetingsp_003_033sih^たまには
-{$P$}さんと
-ゆっくり話す時間も必要かなって
-…迷惑ならいいですけど。|system_storyidol_034ayu_greetingsp_003_034ayu^アメリカのことを
+何事も経験ですよ～♪|system_storyidol_032emi_greetingsp_003_032emi^是说…好久没有
+玩耍歌牌了…
+当家的不介意的话
+能否做我对手？|system_storyidol_033sih_greetingsp_003_033sih^有时候
+是不是要抽点时间
+和{$P$}一起好好谈谈呢
+……嫌麻烦的话就算了。|system_storyidol_034ayu_greetingsp_003_034ayu^アメリカのことを
 ききたいって？　えーと……
 一緒に行こう！　実際に
 体験したほうがいいからさ！|system_storyidol_035hin_greetingsp_003_035hin^あのね、あたし最近、
@@ -3863,12 +3860,11 @@ TVって面白すぎですよね～。|system_storyidol_015siz_greeting_005_015s
 いいよね。そのぶん、
 お仕事が多いの？|system_storyidol_031tom_greetingsp_004_031tom^腕を組んでくださいますか？
 ……子豚ちゃん達に紛れる
-練習のため、ですからね～♪|system_storyidol_032emi_greetingsp_004_032emi^もし、英国に帰ることになれば
-仕掛け人さまに
-会えなくなりますね…
-それだけはイヤです。|system_storyidol_033sih_greetingsp_004_033sih^{$P$}さんも、
-もっと低い声で話したほうが、
-渋くてかっこいいかも、ですね。|system_storyidol_034ayu_greetingsp_004_034ayu^ゲーム？　うん、嫌いじゃ
+練習のため、ですからね～♪|system_storyidol_032emi_greetingsp_004_032emi^若是我归乡英吉利了，
+就见不着当家的了…
+唯独这个，我不肯。|system_storyidol_033sih_greetingsp_004_033sih^{$P$}说话的时候
+要是声音更低沉的话，
+可能更显得成熟，更帅呢。|system_storyidol_034ayu_greetingsp_004_034ayu^ゲーム？　うん、嫌いじゃ
 ないよ。でも封印してる。
 対戦とかで負けると
 ムキになっちゃうから…。|system_storyidol_035hin_greetingsp_004_035hin^仕事の帰りに
@@ -3998,12 +3994,10 @@ TVって面白すぎですよね～。|system_storyidol_015siz_greeting_005_015s
 したほうがいいって。
 おかあさんが言ってた！|system_storyidol_031tom_greetingsp_005_031tom^何もしない人間には、小さな
 奇跡も起こせませんね～。
-共に奇跡を起こしましょう♪|system_storyidol_032emi_greetingsp_005_032emi^ふふっ…毎日、仕掛け人さまに
-お会いできるなんて、
-夢のようです♪|system_storyidol_033sih_greetingsp_005_033sih^今日も勉強のために
-演劇を見に行くんですけど……
-{$P$}さんも
-行きますか？|system_storyidol_034ayu_greetingsp_005_034ayu^あれ、どうしたんだ？
+共に奇跡を起こしましょう♪|system_storyidol_032emi_greetingsp_005_032emi^呵呵…每日和当家的见面，
+像是在做梦呢♪|system_storyidol_033sih_greetingsp_005_033sih^今天也打算去
+看话剧来学习……
+{$P$}要一起去吗？|system_storyidol_034ayu_greetingsp_005_034ayu^あれ、どうしたんだ？
 なんか顔色良くないけど…。
 ちゃんと寝てるか？
 心配だなぁ…。|system_storyidol_035hin_greetingsp_005_035hin^背中にひなたって書いた
@@ -4142,13 +4136,12 @@ TVって面白すぎですよね～。|system_storyidol_015siz_greeting_005_015s
 肩たたきしてあげよっか？
 おかあさんが、じょうずだって！|system_storyidol_031tom_greetingsp_006_031tom^うふふっ、私の弱さを
 知りたいと思ってますね？
-その意気を、心強く思います～♪|system_storyidol_032emi_greetingsp_006_032emi^お仕事のお手伝いをしていると、
-仕掛け人さまの
-お役に立てている気がして、
-嬉しいです。ふふっ♪|system_storyidol_033sih_greetingsp_006_033sih^えっと……
-今からレッスンですけど、
-ちょっとくらいなら、
-話す時間……ありますよ？|system_storyidol_034ayu_greetingsp_006_034ayu^たくさん仕事した日の夜って、
+その意気を、心強く思います～♪|system_storyidol_032emi_greetingsp_006_032emi^和当家的一起搭伴儿上工，
+小女子也发挥了些作用，
+甚是开心。呵呵♪|system_storyidol_033sih_greetingsp_006_033sih^呃……
+马上就要上课了，
+但是稍微说两句的时间
+……也不是没有哟？|system_storyidol_034ayu_greetingsp_006_034ayu^たくさん仕事した日の夜って、
 よく眠れていいよな。
 次の日の朝、寝坊しそうに
 なるのが怖いけど。|system_storyidol_035hin_greetingsp_006_035hin^都会には、魔法の絨毯が
@@ -4370,11 +4363,11 @@ TVって面白すぎですよね～。|system_storyidol_015siz_greeting_005_015s
 このかみがた、いろんな人に
 見てもらいたいな♪|system_storyidol_031tom_greetingshs_001_031tom^{$P$}さん、
 なにか言うことはありませんか？
-なければ別にいいのですが～。|system_storyidol_032emi_greetingshs_001_032emi^髪型が変わると、なんだか
-気持ちも切り替わるような……？
-心機一転、頑張ります！|system_storyidol_033sih_greetingshs_001_033sih^別に、髪型に好きとか嫌いとかは
-あまりないです。
-邪魔にならなければ、それで。|system_storyidol_034ayu_greetingshs_001_034ayu^踊る曲に合わせてヘアスタイル
+なければ別にいいのですが～。|system_storyidol_032emi_greetingshs_001_032emi^换个髻样，好似心情也
+和着一起换了……？
+心机一转，小女子要努力！|system_storyidol_033sih_greetingshs_001_033sih^我对发型其实没有
+特别的喜好。
+只要不碍事的，就可以。|system_storyidol_034ayu_greetingshs_001_034ayu^踊る曲に合わせてヘアスタイル
 を変えていくのって、面白そう
 じゃない？　イェーイ♪|system_storyidol_035hin_greetingshs_001_035hin^家族に写真を送ったら、すっかり
 あか抜けたって言われてしまって
@@ -15490,13 +15483,13 @@ SRカード「愛され事務員、頑張ります！　青羽美咲」が含ま
 可以更改在剧场或剧情等场景登场时穿着的服装。
 <color=red>※部分剧情中可能会以与设置不同的服装登场</color>|costumesales_0001_info^トップ！クローバー
 夢を追う女の子たちに幸あれと、
-クローバーの意匠が施されています。|costumesales_0002_info^トップ！クローバー（FAIRY STARS）
-夢を追う女の子たちに幸あれと、
-クローバーの意匠が施されています。|costumesales_0003_info^トップ！クローバー（ANGEL STARS）
-夢を追う女の子たちに幸あれと、
-クローバーの意匠が施されています。|costumesales_0004_info^トップ！クローバー（PRINCESS STARS）
-夢を追う女の子たちに幸あれと、
-クローバーの意匠が施されています。|costumesales_0005_info^ブレイビングフェアリアル（FAIRY STARS）
+クローバーの意匠が施されています。|costumesales_0002_info^巅峰！四叶草（FAIRY　STARS）
+寄托着愿追逐梦想的女孩们能够收获幸福的心愿，
+点缀着可爱的四叶草设计。|costumesales_0003_info^巅峰！四叶草（ANGEL　STARS）
+寄托着愿追逐梦想的女孩们能够收获幸福的心愿，
+点缀着可爱的四叶草设计。|costumesales_0004_info^巅峰！四叶草（PRINCESS　STARS）
+寄托着愿追逐梦想的女孩们能够收获幸福的心愿，
+点缀着可爱的四叶草设计。|costumesales_0005_info^ブレイビングフェアリアル（FAIRY STARS）
 胸に灯る、輝く青い炎をイメージした衣装。新しい世界へ踏み出す
 妖精たちの小さな勇気と強い心は力強く燃え続けることでしょう。|costumesales_0006_info^シャイニートリニティ+（FAIRY STARS）
 「シャイニートリニティ」の
@@ -15512,34 +15505,34 @@ SRカード「愛され事務員、頑張ります！　青羽美咲」が含ま
 胸に灯る、輝く青い炎をイメージした衣装。新しい世界へ踏み出す
 妖精たちの小さな勇気と強い心は力強く燃え続けることでしょう。|costumesales_0011_info_01^ブレイビングフェアリアル
 胸に灯る、輝く青い炎をイメージした衣装。新しい世界へ踏み出す
-妖精たちの小さな勇気と強い心は力強く燃え続けることでしょう。|costumesales_0011_info_02^キュアリーエンジェリック
-楽しげな歌声が聞こえるのは、天使たちのパレード♪楽園から祝福
-を届けるその声は、聴くもの全てを癒して包む、優しい黄色の光。|costumesales_0011_info_03^キュアリーエンジェリック
-楽しげな歌声が聞こえるのは、天使たちのパレード♪楽園から祝福
-を届けるその声は、聴くもの全てを癒して包む、優しい黄色の光。|costumesales_0011_info_04^キューティープリンセス
-ドレスアップした女の子は誰もがプリンセス！愛らしいピンク色が
-輝かせる乙女の笑顔は、運命の王子様の心を射抜いちゃうかも…？|costumesales_0011_info_05^キューティープリンセス
-ドレスアップした女の子は誰もがプリンセス！愛らしいピンク色が
-輝かせる乙女の笑顔は、運命の王子様の心を射抜いちゃうかも…？|costumesales_0011_info_06^キューティープリンセス
-ドレスアップした女の子は誰もがプリンセス！愛らしいピンク色が
-輝かせる乙女の笑顔は、運命の王子様の心を射抜いちゃうかも…？|costumesales_0012_info^シャイニートリニティ+（765PRO ALLSTARS）
-「シャイニートリニティ」の
-アナザー衣装です。|costumesales_0013_info_00^煌星装華（765PRO ALLSTARS）
-新春の夜空で光り輝く初星が麗しく咲き誇る花たちへ降り注ぎ
-まるで願いを叶える流星のように優美高妙な衣装を紡ぎました。|costumesales_0013_info_01^煌星装華（765PRO ALLSTARS）
-新春の夜空で光り輝く初星が麗しく咲き誇る花たちへ降り注ぎ
-まるで願いを叶える流星のように優美高妙な衣装を紡ぎました。|costumesales_0013_info_02^煌星装華（765PRO ALLSTARS）
-新春の夜空で光り輝く初星が麗しく咲き誇る花たちへ降り注ぎ
-まるで願いを叶える流星のように優美高妙な衣装を紡ぎました。|costumesales_0013_info_03^煌星装華（765PRO ALLSTARS）
-新春の夜空で光り輝く初星が麗しく咲き誇る花たちへ降り注ぎ
-まるで願いを叶える流星のように優美高妙な衣装を紡ぎました。|costumesales_0013_info_04^煌星装華（765PRO ALLSTARS）
-新春の夜空で光り輝く初星が麗しく咲き誇る花たちへ降り注ぎ
-まるで願いを叶える流星のように優美高妙な衣装を紡ぎました。|costumesales_0013_info_05^煌星装華（765PRO ALLSTARS）
-Exカード詩花の衣装もセット内容に含まれています。|costumesales_0013_info_06^煌星装華（765PRO ALLSTARS）
-新春の夜空で光り輝く初星が麗しく咲き誇る花たちへ降り注ぎ
-まるで願いを叶える流星のように優美高妙な衣装を紡ぎました。|costumesales_0014_info_00^トップ！クローバー+（765PRO ALLSTARS）
-本衣装はトップ！クローバー（765PRO ALLSTARS）を購入すると
-購入可能になります。|costumesales_0014_info_01^巅峰！四叶草+（765PRO ALLSTARS）
+妖精たちの小さな勇気と強い心は力強く燃え続けることでしょう。|costumesales_0011_info_02^天使般纯洁的歌声
+能听到欢快歌声的，是天使们的游行♪　伴随着从乐园传来
+的祝福之声，聆听一切并治愈环抱其中温柔的黄色光芒。|costumesales_0011_info_03^天使般纯洁的歌声
+能听到欢快歌声的，是天使们的游行♪　伴随着从乐园传来
+的祝福之声，聆听一切并治愈环抱其中温柔的黄色光芒。|costumesales_0011_info_04^可爱公主
+打扮得漂漂亮亮的女孩，无论谁都是公主！那粉嫩的色彩
+让少女的熠熠生辉，连命运王子殿下的心也能射穿呢……？|costumesales_0011_info_05^可爱公主
+打扮得漂漂亮亮的女孩，无论谁都是公主！那粉嫩的色彩
+让少女的熠熠生辉，连命运王子殿下的心也能射穿呢……？|costumesales_0011_info_06^可爱公主
+打扮得漂漂亮亮的女孩，无论谁都是公主！那粉嫩的色彩
+让少女的熠熠生辉，连命运王子殿下的心也能射穿呢……？|costumesales_0012_info^辉煌一体+（765PRO　ALLSTARS）
+这是「辉煌一体」的
+另一款异色服装。|costumesales_0013_info_00^煌星装华（765PRO　ALLSTARS）
+流光溢彩的夜空与新春初星交相辉映，如实现愿望的流星
+般的奇迹，化作了这套优雅高妙、绽放着华丽光芒的衣装。|costumesales_0013_info_01^煌星装华（765PRO　ALLSTARS）
+流光溢彩的夜空与新春初星交相辉映，如实现愿望的流星
+般的奇迹，化作了这套优雅高妙、绽放着华丽光芒的衣装。|costumesales_0013_info_02^煌星装华（765PRO　ALLSTARS）
+流光溢彩的夜空与新春初星交相辉映，如实现愿望的流星
+般的奇迹，化作了这套优雅高妙、绽放着华丽光芒的衣装。|costumesales_0013_info_03^煌星装华（765PRO　ALLSTARS）
+流光溢彩的夜空与新春初星交相辉映，如实现愿望的流星
+般的奇迹，化作了这套优雅高妙、绽放着华丽光芒的衣装。|costumesales_0013_info_04^煌星装华（765PRO　ALLSTARS）
+流光溢彩的夜空与新春初星交相辉映，如实现愿望的流星
+般的奇迹，化作了这套优雅高妙、绽放着华丽光芒的衣装。|costumesales_0013_info_05^煌星装華（765PRO ALLSTARS）
+Exカード詩花の衣装もセット内容に含まれています。|costumesales_0013_info_06^煌星装华（765PRO　ALLSTARS）
+流光溢彩的夜空与新春初星交相辉映，如实现愿望的流星
+般的奇迹，化作了这套优雅高妙、绽放着华丽光芒的衣装。|costumesales_0014_info_00^巅峰！四叶草+（765PRO　ALLSTARS）
+本服装在购买「巅峰！四叶草（765PRO　ALLSTARS）」
+后即可解锁购买。|costumesales_0014_info_01^巅峰！四叶草+（765PRO ALLSTARS）
 这是「巅峰！四叶草」的
 异色服装。|costumesales_0014_info_02^巅峰！四叶草+（765PRO ALLSTARS）
 这是「巅峰！四叶草」的
@@ -15547,9 +15540,9 @@ Exカード詩花の衣装もセット内容に含まれています。|costumes
 这是「巅峰！四叶草」的
 异色服装。|costumesales_0014_info_04^巅峰！四叶草+（765PRO ALLSTARS）
 这是「巅峰！四叶草」的
-异色服装。|costumesales_0015_info_00^トップ！クローバー+（PRINCESS STARS）
-本衣装はトップ！クローバー（PRINCESS STARS）を購入すると
-購入可能になります。|costumesales_0015_info_01^巅峰！四叶草+（PRINCESS STARS）
+异色服装。|costumesales_0015_info_00^巅峰！四叶草+（PRINCESS　STARS）
+本服装在购买「巅峰！四叶草（PRINCESS　STARS）」
+后即可解锁购买。|costumesales_0015_info_01^巅峰！四叶草+（PRINCESS STARS）
 这是「巅峰！四叶草」的
 异色服装。|costumesales_0015_info_02^巅峰！四叶草+（PRINCESS STARS）
 这是「巅峰！四叶草」的
@@ -15557,9 +15550,9 @@ Exカード詩花の衣装もセット内容に含まれています。|costumes
 这是「巅峰！四叶草」的
 异色服装。|costumesales_0015_info_04^巅峰！四叶草+（PRINCESS STARS）
 这是「巅峰！四叶草」的
-异色服装。|costumesales_0016_info_00^トップ！クローバー+（FAIRY STARS）
-本衣装はトップ！クローバー（FAIRY STARS）を購入すると
-購入可能になります。|costumesales_0016_info_01^巅峰！四叶草+（FAIRY STARS）
+异色服装。|costumesales_0016_info_00^巅峰！四叶草+（FAIRY　STARS）
+本服装在购买「巅峰！四叶草（FAIRY　STARS）」
+后即可解锁购买。|costumesales_0016_info_01^巅峰！四叶草+（FAIRY STARS）
 这是「巅峰！四叶草」的
 异色服装。|costumesales_0016_info_02^巅峰！四叶草+（FAIRY STARS）
 这是「巅峰！四叶草」的
@@ -15567,9 +15560,9 @@ Exカード詩花の衣装もセット内容に含まれています。|costumes
 这是「巅峰！四叶草」的
 异色服装。|costumesales_0016_info_04^巅峰！四叶草+（FAIRY STARS）
 这是「巅峰！四叶草」的
-异色服装。|costumesales_0017_info_00^トップ！クローバー+（ANGEL STARS）
-本衣装はトップ！クローバー（ANGEL STARS）を購入すると
-購入可能になります。|costumesales_0017_info_01^巅峰！四叶草+（ANGEL STARS）
+异色服装。|costumesales_0017_info_00^巅峰！四叶草+（ANGEL　STARS）
+本服装在购买「巅峰！四叶草（ANGEL　STARS）」
+后即可解锁购买。|costumesales_0017_info_01^巅峰！四叶草+（ANGEL STARS）
 这是「巅峰！四叶草」的
 异色服装。|costumesales_0017_info_02^巅峰！四叶草+（ANGEL STARS）
 这是「巅峰！四叶草」的
@@ -15577,48 +15570,48 @@ Exカード詩花の衣装もセット内容に含まれています。|costumes
 这是「巅峰！四叶草」的
 异色服装。|costumesales_0017_info_04^巅峰！四叶草+（ANGEL STARS）
 这是「巅峰！四叶草」的
-异色服装。|costumesales_0018_info^トップ！クローバー（765PRO ALLSTARS）
-夢を追う女の子たちに幸あれと、
-クローバーの意匠が施されています。|costumesales_0019_info^トップ！クローバー（ANGEL STARS）
-夢を追う女の子たちに幸あれと、
-クローバーの意匠が施されています。|costumesales_0020_info^トップ！クローバー（PRINCESS STARS）
-夢を追う女の子たちに幸あれと、
-クローバーの意匠が施されています。|costumesales_0021_info^トップ！クローバー（FAIRY STARS）
-夢を追う女の子たちに幸あれと、
-クローバーの意匠が施されています。|costumesales_0022_info^パステル・トリコロール（PRINCESS STARS）
-「ヌーベル・トリコロール」の
-アナザー衣装です。|costumesales_0023_info^パステル・トリコロール（FAIRY STARS）
-「ヌーベル・トリコロール」の
-アナザー衣装です。|costumesales_0024_info^パステル・トリコロール（ANGEL STARS）
-「ヌーベル・トリコロール」の
-アナザー衣装です。|costumesales_0025_info^パステル・トリコロール（765PRO ALLSTARS）
-「ヌーベル・トリコロール」の
-アナザー衣装です。|costumesales_0026_info^メリー・ドリームナイト（765PRO ALLSTARS）
-聖夜の祝福がドレスになって届きました。きっと貴方も私も
-誰かへと幸せをプレゼントするサンタクロースになれるはず。|costumesales_0027_info^煌星装華（PRINCESS STARS）
-新春の夜空で光り輝く初星が麗しく咲き誇る花たちへ降り注ぎ
-まるで願いを叶える流星のように優美高妙な衣装を紡ぎました。|costumesales_0028_info^煌星装華（FAIRY STARS）
-新春の夜空で光り輝く初星が麗しく咲き誇る花たちへ降り注ぎ
-まるで願いを叶える流星のように優美高妙な衣装を紡ぎました。|costumesales_0029_info^煌星装華（ANGEL STARS）
-新春の夜空で光り輝く初星が麗しく咲き誇る花たちへ降り注ぎ
-まるで願いを叶える流星のように優美高妙な衣装を紡ぎました。|costumesales_0030_info_00^トップ！クローバー（765PRO ALLSTARS）
-夢を追う女の子たちに幸あれと、
-クローバーの意匠が施されています。|costumesales_0030_info_01^トップ！クローバー（765PRO ALLSTARS）
-夢を追う女の子たちに幸あれと、
-クローバーの意匠が施されています。|costumesales_0030_info_02^トップ！クローバー（765PRO ALLSTARS）
-夢を追う女の子たちに幸あれと、
-クローバーの意匠が施されています。|costumesales_0030_info_03^トップ！クローバー（765PRO ALLSTARS）
-夢を追う女の子たちに幸あれと、
-クローバーの意匠が施されています。|costumesales_0030_info_04^トップ！クローバー（765PRO ALLSTARS）
-夢を追う女の子たちに幸あれと、
-クローバーの意匠が施されています。|costumesales_0030_info_05^トップ！クローバー（765PRO ALLSTARS）
-夢を追う女の子たちに幸あれと、
-クローバーの意匠が施されています。|costumesales_0030_info_06^トップ！クローバー（765PRO ALLSTARS）
-Exカード詩花の衣装もセット内容に含まれています。|costumesales_0030_info_07^トップ！クローバー（765PRO ALLSTARS）
-夢を追う女の子たちに幸あれと、
-クローバーの意匠が施されています。|costumesales_0031_info_00^トップ！クローバー+（765PRO ALLSTARS）
-本衣装はトップ！クローバー（765PRO ALLSTARS）を購入すると
-購入可能になります。|costumesales_0031_info_01^巅峰！四叶草+（765PRO ALLSTARS）
+异色服装。|costumesales_0018_info^巅峰！四叶草（765PRO　ALLSTARS）
+寄托着愿追逐梦想的女孩们能够收获幸福的心愿，
+点缀着可爱的四叶草设计。|costumesales_0019_info^巅峰！四叶草（ANGEL　STARS）
+寄托着愿追逐梦想的女孩们能够收获幸福的心愿，
+点缀着可爱的四叶草设计。|costumesales_0020_info^巅峰！四叶草（PRINCESS　STARS）
+寄托着愿追逐梦想的女孩们能够收获幸福的心愿，
+点缀着可爱的四叶草设计。|costumesales_0021_info^巅峰！四叶草（FAIRY　STARS）
+寄托着愿追逐梦想的女孩们能够收获幸福的心愿，
+点缀着可爱的四叶草设计。|costumesales_0022_info^粉彩三色（PRINCESS　STARS）
+这是「崭新三色」的
+另一款异色服装哦。|costumesales_0023_info^粉彩三色（FAIRY　STARS）
+这是「崭新三色」的
+另一款异色服装哦。|costumesales_0024_info^粉彩三色（ANGEL　STARS）
+这是「崭新三色」的
+另一款异色服装哦。|costumesales_0025_info^粉彩三色（765PRO　ALLSTARS）
+这是「崭新三色」的
+另一款异色服装哦。|costumesales_0026_info^圣诞夜美梦（765PRO　ALLSTARS）
+圣夜的祝福化作礼服如期而至。坚信无论是你还是我，
+定能化身为将幸福传递他人的圣诞老人。|costumesales_0027_info^煌星装华（PRINCESS　STARS）
+新春的夜空中闪耀的初星倾洒在娇艳绽放的花丛之上
+织就了这身仿佛实现心愿的流星般优雅曼妙的衣装。|costumesales_0028_info^煌星装华（FAIRY　STARS）
+新春的夜空中闪耀的初星倾洒在娇艳绽放的花丛之上
+织就了这身仿佛实现心愿的流星般优雅曼妙的衣装。|costumesales_0029_info^煌星装华（ANGEL　STARS）
+新春的夜空中闪耀的初星倾洒在娇艳绽放的花丛之上
+织就了这身仿佛实现心愿的流星般优雅曼妙的衣装。|costumesales_0030_info_00^巅峰！四叶草（765PRO　ALLSTARS）
+寄托着愿追逐梦想的女孩们能够收获幸福的心愿，
+点缀着可爱的四叶草设计。|costumesales_0030_info_01^巅峰！四叶草（765PRO　ALLSTARS）
+寄托着愿追逐梦想的女孩们能够收获幸福的心愿，
+点缀着可爱的四叶草设计。|costumesales_0030_info_02^巅峰！四叶草（765PRO　ALLSTARS）
+寄托着愿追逐梦想的女孩们能够收获幸福的心愿，
+点缀着可爱的四叶草设计。|costumesales_0030_info_03^巅峰！四叶草（765PRO　ALLSTARS）
+寄托着愿追逐梦想的女孩们能够收获幸福的心愿，
+点缀着可爱的四叶草设计。|costumesales_0030_info_04^巅峰！四叶草（765PRO　ALLSTARS）
+寄托着愿追逐梦想的女孩们能够收获幸福的心愿，
+点缀着可爱的四叶草设计。|costumesales_0030_info_05^巅峰！四叶草（765PRO　ALLSTARS）
+寄托着愿追逐梦想的女孩们能够收获幸福的心愿，
+点缀着可爱的四叶草设计。|costumesales_0030_info_06^巅峰！四叶草（765PRO　ALLSTARS）
+套装内容中还包含了Ex卡片「诗花」的服装哦。|costumesales_0030_info_07^巅峰！四叶草（765PRO　ALLSTARS）
+寄托着愿追逐梦想的女孩们能够收获幸福的心愿，
+点缀着可爱的四叶草设计。|costumesales_0031_info_00^巅峰！四叶草+（765PRO　ALLSTARS）
+本服装在购买「巅峰！四叶草（765PRO　ALLSTARS）」
+后即可解锁购买。|costumesales_0031_info_01^巅峰！四叶草+（765PRO ALLSTARS）
 这是「巅峰！四叶草」的
 异色服装。|costumesales_0031_info_02^巅峰！四叶草+（765PRO ALLSTARS）
 这是「巅峰！四叶草」的
@@ -16980,14 +16973,14 @@ BOT VOL.4ポイントを交換しますか？|seasonpass_point_exchange_check_pu
 {1}的博客已解锁
 
 ※已解锁的博客已作为<color=#FF0098>{2}</color>追加|story_event_contents_pu_msg_18^要使用<color=#FF0098>{1}</color>{2} {0}
-解锁{3}的博客吗？|story_event_name_search_placeholder^搜索活动名|navi_buy_premium_pass_deluxe_purchase_success_pu_warning7_9^解锁了「标题语音」偶像的设置|navi_buy_premium_pass_deluxe_purchase_success_pu_warning7_10^解锁了「入场演出」迎接偶像的设置|navi_buy_premium_pass_deluxe_end_date_warning_pu_title^注意|navi_buy_premium_pass_deluxe_end_date_warning_pu_message^{0}的
+解锁{3}的博客吗？|story_event_name_search_placeholder^搜索活动名|navi_buy_premium_pass_deluxe_purchase_success_pu_warning7_9^解锁了「标题播报」偶像的设置|navi_buy_premium_pass_deluxe_purchase_success_pu_warning7_10^解锁了「入场演出」迎接偶像的设置|navi_buy_premium_pass_deluxe_end_date_warning_pu_title^注意|navi_buy_premium_pass_deluxe_end_date_warning_pu_message^{0}的
 有效期到月底为止
 无论在一个月的哪个时候购买
 需要的付费百万宝石数和有效期都是固定的
 这点还请注意|navi_buy_premium_pass_deluxe_end_date_warning_pu_warning^有效期: {0}截止|navi_buy_premium_pass_deluxe_end_date_warning_pu_datetime_format^yyyy/MM/dd HH:mm|navi_buy_premium_pass_deluxe_detail_pu_button_label3^附带继续购买特典|navi_buy_premium_pass_deluxe_promotion_present_title^早期继续购买特典|navi_buy_premium_pass_deluxe_promotion_present_message^领取了以下的道具|navi_item_button_09^iDOL
 GRAND-PRIX|navi_item_detail_button_03^前往iDOL GRAND-PRIX|navi_notice_jump_form_navi2igp_title^确认|navi_notice_jump_form_navi2igp_message^将前往iDOL GRAND-PRIX
 要继续吗？|navi_systemsetting_79^「入场演出」迎接偶像设置|navi_systemsetting_79_desc^可以设置剧场入场时的登场偶像|navi_systemsetting_79_warn_1^应用设置后将在次日登录起生效
-生日等部分出现特殊演出的日子里登场偶像也会是指定的偶像|navi_systemsetting_80^「标题语音」偶像设置|navi_systemsetting_80_desc^可以设置喊标题call的偶像|navi_deluxe_shop_exchange_button_confirm^交换|navi_deluxe_shop_exchange_button_allselect^全选|navi_deluxe_shop_exchange_button_clear^清空|navi_deluxe_shop_exchange_required_points^需要剧场DX点数|navi_deluxe_shop_select_all_confirm_pu_title^确认|navi_deluxe_shop_select_all_confirm_pu_msg^将会自动从开头开始选择，直至剧场DX点数用尽为止|navi_deluxe_shop_open_filter_confirm_pu_title^确认|navi_deluxe_shop_exchange_confirm_pu_title^交换内容确认|navi_deluxe_shop_exchange_confirm_pu_msg^可以使用剧场DX点数交换以下的商品|navi_deluxe_shop_exchange_confirm_pu_amount^需要剧场DX点数|navi_deluxe_shop_exchange_confirm_pu_shortage_warning^需要的剧场DX点数不足|navi_deluxe_shop_exchange_result_pu_title^交换结果确认|navi_deluxe_shop_exchange_result_pu_msg^交换了以下的商品|navi_deluxe_shop_exchange_pu_costume_warning^服装将直接发放|navi_deluxe_shop_exchange_pu_achievement_warning^称号已经以礼物形式发放|item_igp_title^iDOL GRAND-PRIX|item_igp_desc^可以查看iDOL GRAND-PRIX道具|unitselect_tips_stickt_00_title^关于歌曲「Stick to my weapon」|unitselect_tips_stickt_00^「Stick to my weapon」支持原唱成员限定分唱！
+生日等部分出现特殊演出的日子里登场偶像也会是指定的偶像|navi_systemsetting_80^「标题播报」偶像设置|navi_systemsetting_80_desc^可以设置进行标题播报的偶像|navi_deluxe_shop_exchange_button_confirm^交换|navi_deluxe_shop_exchange_button_allselect^全选|navi_deluxe_shop_exchange_button_clear^清空|navi_deluxe_shop_exchange_required_points^需要剧场DX点数|navi_deluxe_shop_select_all_confirm_pu_title^确认|navi_deluxe_shop_select_all_confirm_pu_msg^将会自动从开头开始选择，直至剧场DX点数用尽为止|navi_deluxe_shop_open_filter_confirm_pu_title^确认|navi_deluxe_shop_exchange_confirm_pu_title^交换内容确认|navi_deluxe_shop_exchange_confirm_pu_msg^可以使用剧场DX点数交换以下的商品|navi_deluxe_shop_exchange_confirm_pu_amount^需要剧场DX点数|navi_deluxe_shop_exchange_confirm_pu_shortage_warning^需要的剧场DX点数不足|navi_deluxe_shop_exchange_result_pu_title^交换结果确认|navi_deluxe_shop_exchange_result_pu_msg^交换了以下的商品|navi_deluxe_shop_exchange_pu_costume_warning^服装将直接发放|navi_deluxe_shop_exchange_pu_achievement_warning^称号已经以礼物形式发放|item_igp_title^iDOL GRAND-PRIX|item_igp_desc^可以查看iDOL GRAND-PRIX道具|unitselect_tips_stickt_00_title^关于歌曲「Stick to my weapon」|unitselect_tips_stickt_00^「Stick to my weapon」支持原唱成员限定分唱！
 如果组合中编入了歌曲中登场的原唱成员，该偶像将根据站位
 演唱不同的部分|eventcview_lookback_pu_message^本活动剧情是以异能学园战斗为主题的「Hexa Academics」系列第3部剧情。观看过去活动中公开的第1部与第2部剧情，可以更好地享受本次内容。|gasha_notice_14^在校园窗畔舞动着曼妙身段的一张！|gasha2_top_desc_gid_70502^仅能使用<color=#FF0098>2500</color>个付费百万宝石抽取一次的特别10连扭蛋「仅出现Princess类型！第二发型扭蛋～my brand篇 with glasses～ First Half Special」现已开启！
 必出1张<color=#FF0098>第二发型卡片！</color>|gasha2_top_desc_gid_70504^仅能使用<color=#FF0098>2500</color>个付费百万宝石抽取一次的特别10连扭蛋「仅出现Fairy类型！第二发型扭蛋～my brand篇 with glasses～ First Half Special」现已开启！

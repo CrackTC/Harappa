@@ -3,7 +3,7 @@ event_0030_story_intro_1000_p^くんくん……。
 やっぱり、どら焼きにつられちゃったんですか？|event_0030_story_intro_1002_p^いい匂いがしたので、つい。
 これは、どら焼きの匂いだったんですね。|event_0030_story_intro_1003_102mis^はい♪　あっ、社長さんが{$P$}さん
 を探してて……。事務所に行ってもらえますか？|event_0030_story_intro_1004_102mis^ついでに、差し入れのどら焼きを
-届けてもらえると助かります！|event_0030_story_intro_1030^受け取る|event_0030_story_intro_1005_102mis^もちろん{$P$}さんも
+届けてもらえると助かります！|event_0030_story_intro_1030^收下|event_0030_story_intro_1005_102mis^もちろん{$P$}さんも
 一緒に食べてくださいね♪|event_0030_story_intro_1006_p^ありがとうございます！
 それじゃ、行ってきます。|event_0030_story_intro_1007_null^そして……|event_0030_story_intro_1008_p^失礼します。|event_0030_story_intro_1009_101kot^おはようございます、{$P$}さん。
 あら？　なんだかいい匂いがしますけど……。|event_0030_story_intro_1010_p^わかりますか？

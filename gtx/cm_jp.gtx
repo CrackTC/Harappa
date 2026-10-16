@@ -2591,8 +2591,8 @@ Let's dance吧！嘿嘿♪|system_theater_035hin_touch_030_035hin^学习新东�
 とりあえず事務所の周りを
 ランニングでもしましょう！|system_storyidol_007ior_greeting_001_007ior^トップアイドルの座ぐらい、
 この伊織ちゃんにかかれば
-楽勝よね？　にひひっ♪|system_storyidol_008tak_greeting_001_008tak^{$P$}の
-手腕、頼りにしています。|system_storyidol_009rit_greeting_001_009rit^今日は
+楽勝よね？　にひひっ♪|system_storyidol_008tak_greeting_001_008tak^小女子很是仰仗
+{$P$}的才能。|system_storyidol_009rit_greeting_001_009rit^今日は
 どんなプランでいきますか、
 {$P$}殿？|system_storyidol_010azu_greeting_001_010azu^天気がよくて、
 お散歩日和ですね。…え？
@@ -2631,7 +2631,7 @@ Let's dance吧！嘿嘿♪|system_theater_035hin_touch_030_035hin^学习新东�
 うふっ、私が見込んだ以上は、
 誰よりも私に優しくして
 くださいね～♪|system_storyidol_032emi_greeting_001_032emi^当家的，昨天在学校……啊！
-…是、是不是不像
+…这、这是不是不像
 大和抚子该说的话呀？|system_storyidol_033sih_greeting_001_033sih^与其在这里闲聊，
 不如去练习……。|system_storyidol_034ayu_greeting_001_034ayu^{$P$}、
 今日も一日、プロデュース
@@ -2662,9 +2662,9 @@ Let's dance吧！嘿嘿♪|system_theater_035hin_touch_030_035hin^学习新东�
 每天都充满期待，好开心♪|system_storyidol_049mom_greeting_001_049mom^お兄ちゃんと桃子は
 ビジネスライクな関係なのよ。
 馴れ馴れしくしないで。|system_storyidol_050jul_greeting_001_050jul^よっ、{$P$}！
-今日もよろしくな。|system_storyidol_051tmg_greeting_001_051tmg^{$P$}、
-いつからそこに…。まさか、
-ずっと盗み見していたのですか？|system_storyidol_052kao_greeting_001_052kao^この先に広がる
+今日もよろしくな。|system_storyidol_051tmg_greeting_001_051tmg^{$P$}，什么时候开始
+在那里的…。难道说，
+你一直在那里偷看吗？|system_storyidol_052kao_greeting_001_052kao^この先に広がる
 アイドルの世界を想像したら、
 ドキドキが止まりません♪|system_storyidol_001har_greeting_002_001har^張り切って
 いっちゃいましょうっ！|system_storyidol_002chi_greeting_002_002chi^あの……
@@ -2680,10 +2680,10 @@ Let's dance吧！嘿嘿♪|system_theater_035hin_touch_030_035hin^学习新东�
 じっとしてると、
 なまっちゃいそうです。|system_storyidol_007ior_greeting_002_007ior^ぼーっとしてないで、
 さっさとやること
-決めてちょうだい。|system_storyidol_008tak_greeting_002_008tak^何やら面妖な気配が…！
-{$P$}、
-もしやよからぬことを
-考えているのでは？|system_storyidol_009rit_greeting_002_009rit^{$P$}の
+決めてちょうだい。|system_storyidol_008tak_greeting_002_008tak^如此面妖之气场…！
+{$P$}，莫非你是
+心怀不轨？
+|system_storyidol_009rit_greeting_002_009rit^{$P$}の
 今後のビジョンを、
 きかせてもらえます？|system_storyidol_010azu_greeting_002_010azu^帰りが遅いと、
 お洗濯とか困りますよね。
@@ -2766,9 +2766,9 @@ Let's dance吧！嘿嘿♪|system_theater_035hin_touch_030_035hin^学习新东�
 好可爱，好想紧紧抱上去♪|system_storyidol_049mom_greeting_002_049mom^お兄ちゃんが思ってるほど
 芸能界は甘くないよ？|system_storyidol_050jul_greeting_002_050jul^ふあぁ～……ねむ……。
 今日は、仕事さぼって
-昼寝でもしたい気分だぜ。|system_storyidol_051tmg_greeting_002_051tmg^東京にも、静かに過ごせる
-甘味処がたくさんあるのですね。
-素晴らしいことです。|system_storyidol_052kao_greeting_002_052kao^日ごろから声の調子を整えるには
+昼寝でもしたい気分だぜ。|system_storyidol_051tmg_greeting_002_051tmg^在东京也有许多
+安静放松的甜品店呢。
+真是非常不错。|system_storyidol_052kao_greeting_002_052kao^日ごろから声の調子を整えるには
 喉に潤いを与えるハーブティーが
 おすすめですよ。|system_storyidol_001har_greeting_003_001har^あの、クッキー焼いてきたんです
 けど、食べてもらえますか…？|system_storyidol_002chi_greeting_003_002chi^オフの日ですか？
@@ -2778,9 +2778,8 @@ Let's dance吧！嘿嘿♪|system_theater_035hin_touch_030_035hin^学习新东�
 お願いしまーすっ！|system_storyidol_006mak_greeting_003_006mak^ダンスで確認しておきたい
 ところがあるんですよね。|system_storyidol_007ior_greeting_003_007ior^アイドルやるって
 決めたからには、とびっきりの
-アイドルになってやるんだから！|system_storyidol_008tak_greeting_003_008tak^空模様が少し怪しいようです。
-今宵は月が見られないかも
-しれませんね…。|system_storyidol_009rit_greeting_003_009rit^気をひきしめていきましょう、
+アイドルになってやるんだから！|system_storyidol_008tak_greeting_003_008tak^天象微有不正之势。
+今宵恐难见明月…。|system_storyidol_009rit_greeting_003_009rit^気をひきしめていきましょう、
 {$P$}！|system_storyidol_010azu_greeting_003_010azu^次の休日は何をしようかしら？
 考えようとすると、中々
 思いつかないものですよね～。|system_storyidol_011ami_greeting_003_011ami^亜美は準備まんたんだよ～！
@@ -2856,9 +2855,10 @@ HiHo——！　的说。|system_storyidol_022ser_greeting_003_022ser^わぁ、�
 買ってきて。|system_storyidol_050jul_greeting_003_050jul^{$P$}、
 カラオケ行こうぜ！
 ……って、わざわざ行かなくても
-仕事で歌えるか。|system_storyidol_051tmg_greeting_003_051tmg^春は蒲公英、夏は朝顔…
-庭先で咲く小さな花も、
-風情があって良いものです。|system_storyidol_052kao_greeting_003_052kao^目覚まし時計の代わりに、
+仕事で歌えるか。|system_storyidol_051tmg_greeting_003_051tmg^春天的蒲公英，
+夏天的牵牛花…
+花园里的小花小草，
+都有着各自的雅致呢。|system_storyidol_052kao_greeting_003_052kao^目覚まし時計の代わりに、
 好きな音楽を流すように
 しているんです。
 気持ちよく目が覚めますよ。|system_storyidol_001har_greeting_004_001har^{$P$}さん、
@@ -2871,10 +2871,9 @@ HiHo——！　的说。|system_storyidol_022ser_greeting_003_022ser^わぁ、�
 お仕事したいかなーって。|system_storyidol_006mak_greeting_004_006mak^厳しいレッスンでも、ボク、
 へこたれませんから！|system_storyidol_007ior_greeting_004_007ior^私にふさわしい仕事を、
 ちゃんと選ばないと
-承知しないわよ？|system_storyidol_008tak_greeting_004_008tak^私は勝たねばなりません。
-アイドルの道を歩むなら、
-その頂点に立つのが
-私のさだめ…！！|system_storyidol_009rit_greeting_004_009rit^あ、事務書類ためないで
+承知しないわよ？|system_storyidol_008tak_greeting_004_008tak^小女子不得不胜。
+站在偶像之道的顶点，
+便是我的宿命…！！|system_storyidol_009rit_greeting_004_009rit^あ、事務書類ためないで
 くださいね、あとで私が
 迷惑しますから。|system_storyidol_010azu_greeting_004_010azu^実は私、占いが好きなんです。
 今度{$P$}さん
@@ -2915,9 +2914,9 @@ HiHo——！　的说。|system_storyidol_022ser_greeting_003_022ser^わぁ、�
 するとかイヤだからね！|system_storyidol_031tom_greeting_004_031tom^そんなに、
 じっと私を見るなんて……。
 私のことが、大好きに
-なっちゃったんですか～♪|system_storyidol_032emi_greeting_004_032emi^每日和各位
-同要做大和抚子的友人们
-交心，甚是快乐！|system_storyidol_033sih_greeting_004_033sih^偶像的舞蹈，
+なっちゃったんですか～♪|system_storyidol_032emi_greeting_004_032emi^与同要做大和抚子的
+各位成为朋友，
+每日都很开心！|system_storyidol_033sih_greeting_004_033sih^偶像的舞蹈，
 高难动作比想象中还多呢。
 必须更加努力练习……。|system_storyidol_034ayu_greeting_004_034ayu^なんかさ、あなたも
 ナンバーワンになれるっ！て
@@ -2951,9 +2950,9 @@ HiHo——！　的说。|system_storyidol_022ser_greeting_003_022ser^わぁ、�
 咬、咬到舌头了……|system_storyidol_049mom_greeting_004_049mom^あ、あれ！？
 桃子の大事な踏み台、どこ？
 お兄ちゃん、早く探してきて。|system_storyidol_050jul_greeting_004_050jul^あたしの調子？
-別に、いつもどおりさ。|system_storyidol_051tmg_greeting_004_051tmg^もっとたくさんの人に、
-和服の良さをわかって
-もらえると良いのですが。|system_storyidol_052kao_greeting_004_052kao^環ちゃんや育ちゃん、
+別に、いつもどおりさ。|system_storyidol_051tmg_greeting_004_051tmg^要是能让更多人
+知道和服的优点就好了。
+|system_storyidol_052kao_greeting_004_052kao^環ちゃんや育ちゃん、
 桃子ちゃんを見ていると、つい
 頬が緩んでしまって……ふふ♪|system_storyidol_001har_greeting_005_001har^いたたた…。うう、事務所の
 前で転んじゃいました…。|system_storyidol_002chi_greeting_005_002chi^{$P$}、あの、
@@ -2967,8 +2966,8 @@ HiHo——！　的说。|system_storyidol_022ser_greeting_003_022ser^わぁ、�
 着て、めいっぱい女の子！って
 感じの仕事がしたいなあ。|system_storyidol_007ior_greeting_005_007ior^アンタ、ちゃんと仕事してんの？
 …私のプロデューサーなんだから
-しっかりしなさいよねっ！|system_storyidol_008tak_greeting_005_008tak^ふふっ、先がよめないというのも
-楽しいものですね。|system_storyidol_009rit_greeting_005_009rit^今日もよろしくお願いします、
+しっかりしなさいよねっ！|system_storyidol_008tak_greeting_005_008tak^呵呵，未来难卜
+也是有趣之事。|system_storyidol_009rit_greeting_005_009rit^今日もよろしくお願いします、
 {$P$}。|system_storyidol_010azu_greeting_005_010azu^うふふっ、さすが
 {$P$}さん
 です。いつも、一生懸命
@@ -3020,7 +3019,7 @@ TVって面白すぎですよね～。|system_storyidol_015siz_greeting_005_015s
 朝起きるところから
 やり直しさせますよ、
 ダメプロデューサー♪|system_storyidol_032emi_greeting_005_032emi^当家的要是穿和服
-定是非常合适♪|system_storyidol_033sih_greeting_005_033sih^{$P$}要是和社长一样，
+肯定非常合适♪|system_storyidol_033sih_greeting_005_033sih^{$P$}要是和社长一样，
 更老练一点的话……。
 啊、我只是在自言自语。|system_storyidol_034ayu_greeting_005_034ayu^アメリカの生活は
 どうだったのかって？
@@ -3056,9 +3055,9 @@ TVって面白すぎですよね～。|system_storyidol_015siz_greeting_005_015s
 当然ぜんぶ見てるんだよね？|system_storyidol_050jul_greeting_005_050jul^たまにはギターでも弾くかな。
 あ、今度、
 {$P$}にも
-教えようか？|system_storyidol_051tmg_greeting_005_051tmg^東京の地下鉄は、
-どうしてあのように
-入り組んでいるのでしょうか…。|system_storyidol_052kao_greeting_005_052kao^ゴルフは結構得意なんです。
+教えようか？|system_storyidol_051tmg_greeting_005_051tmg^东京的地铁，
+为什么像那样子
+错综复杂呢…。|system_storyidol_052kao_greeting_005_052kao^ゴルフは結構得意なんです。
 父がお休みの日は、一緒に
 練習場に行ったり……。|system_storyidol_001har_greeting_006_001har^えへへっ。私、すっごく
 ワクワクしてきました！|system_storyidol_002chi_greeting_006_002chi^歌わせていただけるのであれば、
@@ -3071,9 +3070,8 @@ TVって面白すぎですよね～。|system_storyidol_015siz_greeting_005_015s
 え？　何だそれって…
 自主練です！|system_storyidol_007ior_greeting_006_007ior^もっと予定を入れてもいいわよ。
 今ぐらいのペースじゃ、
-ヒマすぎてあくびが出ちゃうわ。|system_storyidol_008tak_greeting_006_008tak^私を応援してくださる人が
-いる…。真、感謝すべき
-ことですね。|system_storyidol_009rit_greeting_006_009rit^さて、
+ヒマすぎてあくびが出ちゃうわ。|system_storyidol_008tak_greeting_006_008tak^是有为小女子应援之人…。
+当真应该感谢。|system_storyidol_009rit_greeting_006_009rit^さて、
 {$P$}殿の
 お手並み拝見、といきますか！|system_storyidol_010azu_greeting_006_010azu^あら？
 駅に行こうと思ってたのに、
@@ -3118,7 +3116,7 @@ TVって面白すぎですよね～。|system_storyidol_015siz_greeting_005_015s
 ふふっ、健やかでないと、
 偉業は達成できませんよ～♪|system_storyidol_032emi_greeting_006_032emi^若是能在烟花绽放，
 宽敞歌台之上起舞，
-则福满我心呀。|system_storyidol_033sih_greeting_006_033sih^我一个人也没问题的。
+那真是幸福极了。|system_storyidol_033sih_greeting_006_033sih^我一个人也没问题的。
 去帮帮其他人吧。|system_storyidol_034ayu_greeting_006_034ayu^あ～あ、早くナンバーワンに
 なれないかな～。|system_storyidol_035hin_greeting_006_035hin^したっけ{$P$}
 今日も一日よろしくねぇ。|system_storyidol_036kan_greeting_006_036kan^あっ窓際の小鳥さん、
@@ -3152,9 +3150,9 @@ TVって面白すぎですよね～。|system_storyidol_015siz_greeting_005_015s
 ニコニコしてるだけの大人に
 なっちゃダメだよ。|system_storyidol_050jul_greeting_006_050jul^女ばっかに囲まれて疲れない？
 ……ふーん、疲れないのか。
-あんたにとって天職なんだな。|system_storyidol_051tmg_greeting_006_051tmg^散策の終わりには、
-甘味処に寄ることにしています。
-心が落ち着きますから。|system_storyidol_052kao_greeting_006_052kao^音楽教室の生徒さん達から、
+あんたにとって天職なんだな。|system_storyidol_051tmg_greeting_006_051tmg^我散完步之后
+会顺便去甜品店坐坐。
+因为那里可以让我静下心来。|system_storyidol_052kao_greeting_006_052kao^音楽教室の生徒さん達から、
 メールをもらうことがあります。
 応援って、本当に
 ありがたいですね。|system_storyidol_001har_greeting_007_001har^よろしくお願いします、
@@ -3170,8 +3168,8 @@ TVって面白すぎですよね～。|system_storyidol_015siz_greeting_005_015s
 ちょっと筋肉痛です。|system_storyidol_007ior_greeting_007_007ior^伊織、オレンジジュースが
 飲みたいな♪
 …つべこべ言わず、とっとと
-持ってきなさーいっ！？|system_storyidol_008tak_greeting_007_008tak^今宵は満月でしょうか？
-何やら心がざわつきます…。|system_storyidol_009rit_greeting_007_009rit^健康管理は社会人の基本ですよ？
+持ってきなさーいっ！？|system_storyidol_008tak_greeting_007_008tak^今霄是满月吗？
+小女子心中若有所扰…。|system_storyidol_009rit_greeting_007_009rit^健康管理は社会人の基本ですよ？
 {$P$}。|system_storyidol_010azu_greeting_007_010azu^やっぱりアイドルですから、
 体型にも気をつかわないと…。
 あの、私…、大丈夫ですか？|system_storyidol_011ami_greeting_007_011ami^うあうあ！
@@ -3225,9 +3223,9 @@ TVって面白すぎですよね～。|system_storyidol_015siz_greeting_005_015s
 もっと上手にできるのに。|system_storyidol_031tom_greeting_007_031tom^うふっ、
 この劇場が大きくなれば、
 それだけ多くの子豚ちゃん達が
-安らげる訳ですね…♪|system_storyidol_032emi_greeting_007_032emi^小女子近日始学书法。
-…墨香沁人心脾，安神养息。
-…余心甚安。|system_storyidol_033sih_greeting_007_033sih^唔！只、只是身体
+安らげる訳ですね…♪|system_storyidol_032emi_greeting_007_032emi^小女子最近开始学习书法了。
+…墨香沁人心脾，让人安心。
+…好幸福呀～|system_storyidol_033sih_greeting_007_033sih^唔！只、只是身体
 还跟不上而已，舞蹈动作
 我可是记住了哦！|system_storyidol_034ayu_greeting_007_034ayu^えへへへ……。
 今日はいいことあったから、
@@ -3264,10 +3262,10 @@ TVって面白すぎですよね～。|system_storyidol_015siz_greeting_005_015s
 难道说，我有作词的天赋吗？|system_storyidol_049mom_greeting_007_049mom^ハァ～疲れた……お兄ちゃん、
 ボーっとしてないで肩揉んで。|system_storyidol_050jul_greeting_007_050jul^え？　そろそろ、
 あたしの本名教えろ？
-……だから、それはナイショ！|system_storyidol_051tmg_greeting_007_051tmg^三味線ですか？
-はい、たしなむ程度には…。
-家のお得意さま方に
-教えていただきました。|system_storyidol_052kao_greeting_007_052kao^ファルセットを出す時は、
+……だから、それはナイショ！|system_storyidol_051tmg_greeting_007_051tmg^三味线吗？
+是稍微会一点…。
+有个技艺精湛的亲戚，
+曾教过我一些。|system_storyidol_052kao_greeting_007_052kao^ファルセットを出す時は、
 頭のてっぺんで響かせる
 イメージをすると、
 上手くいきます。|system_storyidol_001har_greeting_008_001har^ふわあぁ～…っ！
@@ -3285,9 +3283,9 @@ TVって面白すぎですよね～。|system_storyidol_015siz_greeting_005_015s
 {$P$}、
 バリバリ行きましょうねっ！|system_storyidol_007ior_greeting_008_007ior^私のプロデュースが
 できるなんて、アンタは
-最高に幸せ者ね♪|system_storyidol_008tak_greeting_008_008tak^郷に入っては郷に従えと、
-幼少のころじいやに
-教わりました。|system_storyidol_009rit_greeting_008_009rit^手を抜かずに、しっかり
+最高に幸せ者ね♪|system_storyidol_008tak_greeting_008_008tak^入乡要随俗，
+小时候便从老仆那里
+学过这道理了。|system_storyidol_009rit_greeting_008_009rit^手を抜かずに、しっかり
 仕事していきましょうね！|system_storyidol_010azu_greeting_008_010azu^最近よく眠れるせいか、
 とってもお肌の調子が
 いいんです♪|system_storyidol_011ami_greeting_008_011ami^アイドルがんばったら、
@@ -3335,8 +3333,8 @@ TVって面白すぎですよね～。|system_storyidol_015siz_greeting_005_015s
 レッスンしていこうかなぁ…。|system_storyidol_031tom_greeting_008_031tom^ふふ、弱音を許されているのは
 子豚ちゃん達だけですからね、
 {$P$}さん♪|system_storyidol_032emi_greeting_008_032emi^当家的，
-今日操演之指导，
-也请拜托你了。|system_storyidol_033sih_greeting_008_033sih^今天打算看话剧
+今天的操演
+也请拜托你指导了。|system_storyidol_033sih_greeting_008_033sih^今天打算看话剧
 来学习一下演技。|system_storyidol_034ayu_greeting_008_034ayu^今日は身体が、
 いい感じで動きそう！
 {$P$}、
@@ -3373,10 +3371,10 @@ TVって面白すぎですよね～。|system_storyidol_015siz_greeting_005_015s
 お兄ちゃんにはまだ早くない？|system_storyidol_050jul_greeting_008_050jul^ま、今日もそれなりに
 がんばるさ！
 {$P$}も、
-力抜いて行こう！|system_storyidol_051tmg_greeting_008_051tmg^金沢にいらしたら、
-召し上がっていただきたい
-甘味があるんです。はい、
-見た目に驚かれるかと…。|system_storyidol_052kao_greeting_008_052kao^気分転換なら、
+力抜いて行こう！|system_storyidol_051tmg_greeting_008_051tmg^要是你来金泽的话
+有一种甜品想让你尝尝。
+是，看起来可能会
+大吃一惊…。|system_storyidol_052kao_greeting_008_052kao^気分転換なら、
 ドライブでしょうか。車で
 走りながら歌うと、気分が
 変わって楽しいんです。ふふ！|system_storyidol_001har_greetingsp_001_001har^{$P$}さんと
@@ -3398,9 +3396,9 @@ TVって面白すぎですよね～。|system_storyidol_015siz_greeting_005_015s
 へへっ。|system_storyidol_007ior_greetingsp_001_007ior^アンタって見る目だけは
 確かよね。私のプロデューサーを
 してるんだもの。
-そこはほめてあげる。|system_storyidol_008tak_greetingsp_001_008tak^あなた様が共に
-歩んでくださると思えば、
-少々の苦労など吹き飛びます…。|system_storyidol_009rit_greetingsp_001_009rit^なかなかやるじゃないですか、
+そこはほめてあげる。|system_storyidol_008tak_greetingsp_001_008tak^即使有些许辛苦，
+念在小女子与官人同行，
+也都涣然冰释了…。|system_storyidol_009rit_greetingsp_001_009rit^なかなかやるじゃないですか、
 {$P$}！
 正直、見直しました、ふふっ！|system_storyidol_010azu_greetingsp_001_010azu^実は昨日、シチューを
 作りすぎてしまって。
@@ -3455,9 +3453,9 @@ TVって面白すぎですよね～。|system_storyidol_015siz_greeting_005_015s
 今度ご褒美にお菓子あげるね！|system_storyidol_031tom_greetingsp_001_031tom^私のこと、
 すごく普通に扱いますよね～。
 ……新鮮ですけど、調子に
-のっちゃダメですよ～♪|system_storyidol_032emi_greetingsp_001_032emi^小女子朝朝快活，
-定是因为当家的
-每日都温柔的对我。|system_storyidol_033sih_greetingsp_001_033sih^嗯~……
+のっちゃダメですよ～♪|system_storyidol_032emi_greetingsp_001_032emi^小女子每天都很开心～
+肯定是因为当家的
+天天都温柔的对我。|system_storyidol_033sih_greetingsp_001_033sih^嗯~……
 {$P$}的手看起来就
 经常干活。相当不错呢。
 |system_storyidol_034ayu_greetingsp_001_034ayu^{$P$}の
@@ -3501,10 +3499,8 @@ TVって面白すぎですよね～。|system_storyidol_015siz_greeting_005_015s
 頑張ってるお兄ちゃんのこと、
 認めてあげてもいいよ？|system_storyidol_050jul_greetingsp_001_050jul^なんだ、調子よさそうじゃん。
 ……あんたを見習って、
-あたしもがんばろうかな。|system_storyidol_051tmg_greetingsp_001_051tmg^{$P$}は、
-いつもスーツなのですね。
-和服も、お召しになってみては
-どうですか？|system_storyidol_052kao_greetingsp_001_052kao^{$P$}さんの
+あたしもがんばろうかな。|system_storyidol_051tmg_greetingsp_001_051tmg^{$P$}总是穿着西装呢。
+偶尔也试试穿和服怎么样？|system_storyidol_052kao_greetingsp_001_052kao^{$P$}さんの
 目って、お馬さんの目と
 似ていますね。…優しい所が♪|system_storyidol_001har_greetingsp_002_001har^{$P$}さん、
 ケーキとクッキーのどっちが
@@ -3526,9 +3522,8 @@ TVって面白すぎですよね～。|system_storyidol_015siz_greeting_005_015s
 …あ、モチはつけます！|system_storyidol_007ior_greetingsp_002_007ior^今日の予定は…っと。
 ふぅん、アンタにしちゃ、
 頑張ったじゃない。なかなか
-いいスケジュールね♪|system_storyidol_008tak_greetingsp_002_008tak^あなた様…。今宵は共に、
-らーめんでも食べに
-参りましょう。|system_storyidol_009rit_greetingsp_002_009rit^{$P$}、
+いいスケジュールね♪|system_storyidol_008tak_greetingsp_002_008tak^官人…。今宵，
+一同去吃些拉面吧。|system_storyidol_009rit_greetingsp_002_009rit^{$P$}、
 劇場の機材の注文票って
 書きました？　もう、
 今日までですからね？|system_storyidol_010azu_greetingsp_002_010azu^今度、模様替えをする
@@ -3640,9 +3635,9 @@ TVって面白すぎですよね～。|system_storyidol_015siz_greeting_005_015s
 他の子にはゆずらないよ。|system_storyidol_050jul_greetingsp_002_050jul^おはようございま～すっ♪
 な、なんだよ、その顔！
 アイドルらしくあいさつした
-だけだろ～！？|system_storyidol_051tmg_greetingsp_002_051tmg^またそのように、ジロジロと…。
-あなたは誰のことでも、
-そのように見つめるのですか？|system_storyidol_052kao_greetingsp_002_052kao^母が、マドレーヌを
+だけだろ～！？|system_storyidol_051tmg_greetingsp_002_051tmg^又像这样子盯着人看…。
+你难道对谁
+都这样盯着吗？|system_storyidol_052kao_greetingsp_002_052kao^母が、マドレーヌを
 焼いてくれたんです。
 {$P$}さん、
 おひとついかがですか？|system_storyidol_001har_greetingsp_003_001har^{$P$}さん、
@@ -3662,10 +3657,10 @@ TVって面白すぎですよね～。|system_storyidol_015siz_greeting_005_015s
 前髪、少し切ったんですよ！|system_storyidol_007ior_greetingsp_003_007ior^ほ、ほら！　コーヒー、
 いれてきてあげたわ…。
 いいから、精一杯感謝して
-飲みなさいっ！|system_storyidol_008tak_greetingsp_003_008tak^最新の文化を
-学ぼうと思うのですが、
-{$P$}、
-付き合っていただけますか？|system_storyidol_009rit_greetingsp_003_009rit^少し息抜きしません？
+飲みなさいっ！|system_storyidol_008tak_greetingsp_003_008tak^小女子想学些
+崭新的文化，
+{$P$}，
+可否陪我一同？|system_storyidol_009rit_greetingsp_003_009rit^少し息抜きしません？
 {$P$}が
 倒れたら、私達、
 路頭に迷っちゃうんですから。|system_storyidol_010azu_greetingsp_003_010azu^{$P$}さんは、
@@ -3725,10 +3720,10 @@ TVって面白すぎですよね～。|system_storyidol_015siz_greeting_005_015s
 {$P$}さんも、
 そう？|system_storyidol_031tom_greetingsp_003_031tom^次の休日は、身分を隠した私に
 尽くすのはいかがです～？
-何事も経験ですよ～♪|system_storyidol_032emi_greetingsp_003_032emi^是说…好久没有
-玩耍歌牌了…
+何事も経験ですよ～♪|system_storyidol_032emi_greetingsp_003_032emi^那个…好久没有
+玩歌牌了…
 当家的不介意的话
-能否做我对手？|system_storyidol_033sih_greetingsp_003_033sih^有时候
+能否做小女子的对手？|system_storyidol_033sih_greetingsp_003_033sih^有时候
 是不是要抽点时间
 和{$P$}一起好好谈谈呢
 ……嫌麻烦的话就算了。|system_storyidol_034ayu_greetingsp_003_034ayu^アメリカのことを
@@ -3776,10 +3771,10 @@ TVって面白すぎですよね～。|system_storyidol_015siz_greeting_005_015s
 一番お気に入りなんだけど……
 お兄ちゃんにもあげようか？|system_storyidol_050jul_greetingsp_003_050jul^フリフリした衣装も、
 着続ければ慣れるもんだなー。
-よし、今日も頑張るか！|system_storyidol_051tmg_greetingsp_003_051tmg^え？
-う、うちにファンレターが？
-あ、あんや…と…、コホン。
-ありがとうございます。|system_storyidol_052kao_greetingsp_003_052kao^あら、
+よし、今日も頑張るか！|system_storyidol_051tmg_greetingsp_003_051tmg^欸？
+俺，俺的粉丝信？
+谢、谢过了…昂…、咳咳。
+真是非常感谢。|system_storyidol_052kao_greetingsp_003_052kao^あら、
 {$P$}さん、
 髪がはねてますよ？　……はい、
 これで大丈夫です♪|system_storyidol_001har_greetingsp_004_001har^{$P$}さんの
@@ -3801,10 +3796,9 @@ TVって面白すぎですよね～。|system_storyidol_015siz_greeting_005_015s
 気合い入れていきたいんです！|system_storyidol_007ior_greetingsp_004_007ior^仕事、まだ終わらないの！？
 タイミング悪いわね～。
 買い物に付き合って
-欲しかったのに…。|system_storyidol_008tak_greetingsp_004_008tak^先ほどから、
-何やら心が浮き立つのは…
-{$P$}といる
-せいでしょうか…。ふふっ。|system_storyidol_009rit_greetingsp_004_009rit^読んでみたい本が
+欲しかったのに…。|system_storyidol_008tak_greetingsp_004_008tak^方才开始，
+小女子就有些心旌摇曳…
+是因{$P$}在身旁吗，呵呵。|system_storyidol_009rit_greetingsp_004_009rit^読んでみたい本が
 いろいろ出てるんですけど、
 買いに行くヒマも読むヒマも
 ないんですよね～。|system_storyidol_010azu_greetingsp_004_010azu^私、輝けていますか？　私、まず
@@ -3860,9 +3854,9 @@ TVって面白すぎですよね～。|system_storyidol_015siz_greeting_005_015s
 いいよね。そのぶん、
 お仕事が多いの？|system_storyidol_031tom_greetingsp_004_031tom^腕を組んでくださいますか？
 ……子豚ちゃん達に紛れる
-練習のため、ですからね～♪|system_storyidol_032emi_greetingsp_004_032emi^若是我归乡英吉利了，
+練習のため、ですからね～♪|system_storyidol_032emi_greetingsp_004_032emi^要是我回英国了，
 就见不着当家的了…
-唯独这个，我不肯。|system_storyidol_033sih_greetingsp_004_033sih^{$P$}说话的时候
+唯独这个，我不愿意。|system_storyidol_033sih_greetingsp_004_033sih^{$P$}说话的时候
 要是声音更低沉的话，
 可能更显得成熟，更帅呢。|system_storyidol_034ayu_greetingsp_004_034ayu^ゲーム？　うん、嫌いじゃ
 ないよ。でも封印してる。
@@ -3910,10 +3904,9 @@ TVって面白すぎですよね～。|system_storyidol_015siz_greeting_005_015s
 しないとね…。|system_storyidol_050jul_greetingsp_004_050jul^わ、なんだよ突然！？
 …髪に葉っぱがついてた？
 言ってくれたら自分で
-取ったのに…サンキュ。|system_storyidol_051tmg_greetingsp_004_051tmg^あんみつの美味しいお店…？
-お待ちください、すぐ住所を
-したためます。
-…10件で足りますか？|system_storyidol_052kao_greetingsp_004_052kao^{$P$}さんの声
+取ったのに…サンキュ。|system_storyidol_051tmg_greetingsp_004_051tmg^有好吃的馅蜜的店？
+稍等一下，我马上给你地址。
+…10家店够了吗？|system_storyidol_052kao_greetingsp_004_052kao^{$P$}さんの声
 素敵だと思います。
 今度一緒に、合唱してくださいね♪|system_storyidol_001har_greetingsp_005_001har^{$P$}さん、
 あんまりムリはしないで
@@ -3933,10 +3926,9 @@ TVって面白すぎですよね～。|system_storyidol_015siz_greeting_005_015s
 どうですか？|system_storyidol_007ior_greetingsp_005_007ior^このクッキー、
 家で余ってたから、アンタに
 あげるわ。…もう、つべこべ
-言わずに受け取りなさい！|system_storyidol_008tak_greetingsp_005_008tak^もしもいつか、
-私が遠くに去ってしまう時が
-来たとしたら…。いえ、
-ただの仮定の話です。|system_storyidol_009rit_greetingsp_005_009rit^オンラインゲームも案外
+言わずに受け取りなさい！|system_storyidol_008tak_greetingsp_005_008tak^倘若有朝一日，
+小女子将远行的话…。
+非也，只是胡思乱想。|system_storyidol_009rit_greetingsp_005_009rit^オンラインゲームも案外
 面白いですよ。トレンドの
 分析に役立ちますし、
 技術的にも興味深いです。|system_storyidol_010azu_greetingsp_005_010azu^あら？　ここはいったい……。
@@ -3994,7 +3986,8 @@ TVって面白すぎですよね～。|system_storyidol_015siz_greeting_005_015s
 したほうがいいって。
 おかあさんが言ってた！|system_storyidol_031tom_greetingsp_005_031tom^何もしない人間には、小さな
 奇跡も起こせませんね～。
-共に奇跡を起こしましょう♪|system_storyidol_032emi_greetingsp_005_032emi^呵呵…每日和当家的见面，
+共に奇跡を起こしましょう♪|system_storyidol_032emi_greetingsp_005_032emi^呵呵…每天都能
+和当家的见面，
 像是在做梦呢♪|system_storyidol_033sih_greetingsp_005_033sih^今天也打算去
 看话剧来学习……
 {$P$}要一起去吗？|system_storyidol_034ayu_greetingsp_005_034ayu^あれ、どうしたんだ？
@@ -4044,10 +4037,10 @@ TVって面白すぎですよね～。|system_storyidol_015siz_greeting_005_015s
 ……ゆうえんちとか。|system_storyidol_050jul_greetingsp_005_050jul^劇場って、騒がしいけど
 落ち着くな。ホームって
 感じがするっていうか…
-ふぁ、眠くなってきた…。|system_storyidol_051tmg_greetingsp_005_051tmg^スーツに合う
-和の小物もあります。
-もしよろしければ、
-実家から取り寄せますが…。|system_storyidol_052kao_greetingsp_005_052kao^父が、
+ふぁ、眠くなってきた…。|system_storyidol_051tmg_greetingsp_005_051tmg^也有搭配西装的
+和风小饰品呢。
+如果可以的话，
+我能从老家寄过来…。|system_storyidol_052kao_greetingsp_005_052kao^父が、
 {$P$}さんは
 信頼できるって言っていました。
 …珍しいんですよ？|system_storyidol_001har_greetingsp_006_001har^アイドルになれるなんて、
@@ -4071,10 +4064,9 @@ TVって面白すぎですよね～。|system_storyidol_015siz_greeting_005_015s
 頑張りましょう！|system_storyidol_007ior_greetingsp_006_007ior^アンタって、私の
 プロデューサーとしては
 まだまだだけど…。さ、最初
-よりは成長したんじゃない？|system_storyidol_008tak_greetingsp_006_008tak^{$P$}に
-ならば…いつか、すべてを
-お話ししても…いえ、
-なんでもありません。|system_storyidol_009rit_greetingsp_006_009rit^スケジュールは効率的に
+よりは成長したんじゃない？|system_storyidol_008tak_greetingsp_006_008tak^若是{$P$}的话，
+终有一日，也可道出所有…
+无事，切勿担心。|system_storyidol_009rit_greetingsp_006_009rit^スケジュールは効率的に
 組まないとね。ま、
 {$P$}なら
 ぬかりないでしょうけど！|system_storyidol_010azu_greetingsp_006_010azu^今は携帯電話で、
@@ -4136,9 +4128,9 @@ TVって面白すぎですよね～。|system_storyidol_015siz_greeting_005_015s
 肩たたきしてあげよっか？
 おかあさんが、じょうずだって！|system_storyidol_031tom_greetingsp_006_031tom^うふふっ、私の弱さを
 知りたいと思ってますね？
-その意気を、心強く思います～♪|system_storyidol_032emi_greetingsp_006_032emi^和当家的一起搭伴儿上工，
+その意気を、心強く思います～♪|system_storyidol_032emi_greetingsp_006_032emi^和当家的一起工作，
 小女子也发挥了些作用，
-甚是开心。呵呵♪|system_storyidol_033sih_greetingsp_006_033sih^呃……
+好开心呀。呵呵♪|system_storyidol_033sih_greetingsp_006_033sih^呃……
 马上就要上课了，
 但是稍微说两句的时间
 ……也不是没有哟？|system_storyidol_034ayu_greetingsp_006_034ayu^たくさん仕事した日の夜って、
@@ -4189,10 +4181,9 @@ TVって面白すぎですよね～。|system_storyidol_015siz_greeting_005_015s
 ビシッとかっこよくしてね！|system_storyidol_050jul_greetingsp_006_050jul^この間、サイン会あっただろ？
 うっかり本名を書きかけて…。
 あぁ…思い出すだけで
-ゾッとする。|system_storyidol_051tmg_greetingsp_006_051tmg^ま、また、そのような
-おべっかを…。あなたは、
-私が恥ずかしがる姿を
-楽しんでいるのですか？|system_storyidol_052kao_greetingsp_006_052kao^{$P$}さん。
+ゾッとする。|system_storyidol_051tmg_greetingsp_006_051tmg^又、又在这样拍马屁…。
+看我害羞的样子，
+你很享受吗？|system_storyidol_052kao_greetingsp_006_052kao^{$P$}さん。
 これからも私のこと、ドキドキ
 させてくださいますか……？|system_storyidol_017kth_greeting_001_017kth^今日のスケジュールを教えて
 ください。レッスンでも
@@ -4315,9 +4306,9 @@ TVって面白すぎですよね～。|system_storyidol_015siz_greeting_005_015s
 なっちゃいました！　どんなのが
 いいかなぁ？　……へへっ♪|system_storyidol_007ior_greetingshs_001_007ior^スーパー美少女の伊織ちゃんは、
 どんな髪型でも似合うでしょ？
-ありがたく目に焼きつけなさい♪|system_storyidol_008tak_greetingshs_001_008tak^この髪型は、らーめんを食べる
-とき、邪魔にならないのです。
-……では、いざ。|system_storyidol_009rit_greetingshs_001_009rit^今の市場を考えると、この髪型、
+ありがたく目に焼きつけなさい♪|system_storyidol_008tak_greetingshs_001_008tak^此发型，吃拉面的时候
+也不会碍事呢。
+……既如此，行矣。|system_storyidol_009rit_greetingshs_001_009rit^今の市場を考えると、この髪型、
 一定の需要は見込めるかなと。
 プロデューサー殿はどう見ます？|system_storyidol_010azu_greetingshs_001_010azu^そうそう、ロングの髪って、
 結構重く感じるんですよね。
@@ -4363,9 +4354,9 @@ TVって面白すぎですよね～。|system_storyidol_015siz_greeting_005_015s
 このかみがた、いろんな人に
 見てもらいたいな♪|system_storyidol_031tom_greetingshs_001_031tom^{$P$}さん、
 なにか言うことはありませんか？
-なければ別にいいのですが～。|system_storyidol_032emi_greetingshs_001_032emi^换个髻样，好似心情也
-和着一起换了……？
-心机一转，小女子要努力！|system_storyidol_033sih_greetingshs_001_033sih^我对发型其实没有
+なければ別にいいのですが～。|system_storyidol_032emi_greetingshs_001_032emi^换了发型，好像心情也
+一起变了……？
+发型焕然一新，我要也努力！|system_storyidol_033sih_greetingshs_001_033sih^我对发型其实没有
 特别的喜好。
 只要不碍事的，就可以。|system_storyidol_034ayu_greetingshs_001_034ayu^踊る曲に合わせてヘアスタイル
 を変えていくのって、面白そう
@@ -4401,9 +4392,9 @@ TVって面白すぎですよね～。|system_storyidol_015siz_greeting_005_015s
 と、からかわれてる気分かも……
 別に、イヤじゃないけど。|system_storyidol_050jul_greetingshs_001_050jul^髪型変えたくらいで、そんなに
 変わんないだろ？　ったく……
-可愛いって言いすぎだ、バカP！|system_storyidol_051tmg_greetingshs_001_051tmg^慣れない髪型は、少々、
-気恥ずかしさが……あ、
-あんまり見んといてっ！|system_storyidol_052kao_greetingshs_001_052kao^髪をおろしていると、少しだけ
+可愛いって言いすぎだ、バカP！|system_storyidol_051tmg_greetingshs_001_051tmg^不习惯的发型，还是，
+有一点害羞……啊、
+别一直瞅着我！|system_storyidol_052kao_greetingshs_001_052kao^髪をおろしていると、少しだけ
 油断してしまうみたいで……あの
 何かあったら教えてくださいね？|system_storyidol_024ann_greetingshson_001_024ann^耶！制作人喜欢吗？
 喜欢的话，杏奈以后

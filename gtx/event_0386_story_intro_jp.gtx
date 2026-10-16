@@ -11,7 +11,7 @@ event_0386_story_intro_1000_p^青羽さん、お疲れ様です。
 溜まってて……それじゃ、行ってきますね。|event_0386_story_intro_1010_102mis^はーい、行ってらっしゃい♪
 お留守番、モチベあげてこ～！　いえーい！|event_0386_story_intro_1011_null^そして……|event_0386_story_intro_1012_president^やあ、君！　待っていたよ。
 今日はちょっと、相談したいことがあってね。|event_0386_story_intro_1013_p^相談ですか？　なんでしょう？|event_0386_story_intro_1014_president^うむ。音無君、彼に資料を渡してくれたまえ。|event_0386_story_intro_1015_101kot^はい、社長！　{$P$}さん、
-こちら、プリントアウトした資料です。|event_0386_story_intro_1016^受け取る|event_0386_story_intro_2000_p^ありがとうございます、音無さん。
+こちら、プリントアウトした資料です。|event_0386_story_intro_1016^收下|event_0386_story_intro_2000_p^ありがとうございます、音無さん。
 ええと、これは……。|event_0386_story_intro_2001_p^『Japan Cutie Collection』の資料ですか？
 この前、のり子達がモデルで出演した……。|event_0386_story_intro_2002_president^うむ！　通称JCC、日本中のカワイイが集まるという
 一大ファッションショーだね。|event_0386_story_intro_2003_101kot^のり子ちゃん達、とっても可愛かったですよね～。

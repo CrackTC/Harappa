@@ -8154,8 +8154,8 @@ ALLSTARS|live_unit_slt_rcm_pop_mode_msg_0^恢复默认状态|live_unit_slt_rcm_p
 请横屏进行百万宝石购买|live_play_popup_title_20^确认|live_play_popup_msg_20^要跳过剧情内LIVE吗？|live_play_popup_msg_20_b^要跳过剧情内MV吗？|live_play_popup_msg_20_c^要跳过MV吗？|live_play_popup_msg_20_d^要跳过MV吗？|live_result_00^<color=#3c3ca0>【歌曲Lv】</color>|live_result_01^<color=#3c3ca0>【HIGH SCORE】</color>|live_result_02^<color=#3c3ca0>【歌曲LP】</color>|live_result_03^<color=#3c3ca0>【LP】</color>|live_result_04^|live_result_05^<color=#3c3ca0>亲密度</color>|live_result_06^<color=#3c3ca0>LP</color>|live_result_07^|live_result_08^|live_result_09^前进|live_result_10^OK|live_result_20^制作人Lv|live_result_21^制作人评级|live_result_22^LIVE报酬|live_result_23^资金|live_result_24^通过LIVE获得的报酬|live_result_25^申请同僚|live_result_26^支援信息|live_result_27^PLv|live_result_28^赠送花篮|live_result_36^<color=#ff0000>由于到达持有上限，存在无法获得的资金</color>|live_result_37^<color=#ff0000>使用LIVE券进行的LIVE，
 不会获得「经验值」「资金」「LIVE报酬」。</color>|live_result_42^由于到达持有上限，
 存在无法获得的资金|live_result_43^使用LIVE券进行的LIVE，不会获得「经验值」「资金」「LIVE报酬」。|live_result_44^持有数|live_result_45^{0}个|live_result_30^获得觉醒pt|live_result_31^剧场粉丝数|live_result_32^<color=#3c3ca0>【亲密度】</color>|live_result_33^<color=#3c3ca0>【粉丝数】</color>|live_result_34^回忆解锁！|live_result_35^觉醒pt{0}达成|live_result_38^<color=#ff0000>作为报酬的资金在上方累加。</color>|live_result_39^觉醒槽|live_result_40^亲密度|live_result_41^粉丝数|live_result_37_2^使用LIVE券进行的LIVE，
-不会获得「经验值」「资金」「LIVE报酬」。|live_result_38_2^作为报酬的资金在上方累加。|live_result_38_3^百万宝石以礼物形式发放|live_result_return_prev_view_text^后退|live_result_go_preparation_view_text^ツアー準備へ|live_result_auto_go_preparation^接着准备|live_result_return_go_eventtop_view_text^委托
-完成确认|live_result_35_2^觉醒pt达到<size=20><color=#e6f078>{0}</color></size>|live_result_fullrandom_text_1^<color=#e6f078>随机公演</color>CLEAR奖励！|live_result_fullrandom_text_2^【<color=#e6f078>觉醒pt</color>】 【<color=#e6f078>亲密度</color>】 【<color=#e6f078>粉丝数</color>】<color=#ff004f>1.5倍</color>|live_result_songrandom_text_1^<color=#e6f078>随机选曲</color>CLEAR奖励！|live_result_songrandom_text_2^【<color=#e6f078>觉醒pt</color>】 【<color=#e6f078>亲密度</color>】 【<color=#e6f078>粉丝数</color>】<color=#ff004f>1.2倍</color>|live_result_center_effect_info_text^通过CENTER效果获得了更多亲密度|live_popup_title_00^解锁主线剧情|live_popup_msg_00^解锁了第{0}话主线剧情！
+不会获得「经验值」「资金」「LIVE报酬」。|live_result_38_2^作为报酬的资金在上方累加。|live_result_38_3^百万宝石以礼物形式发放|live_result_return_prev_view_text^后退|live_result_go_preparation_view_text^ツアー準備へ|live_result_auto_go_preparation^接着准备|live_result_return_go_eventtop_view_text^リクエスト
+確認|live_result_35_2^觉醒pt达到<size=20><color=#e6f078>{0}</color></size>|live_result_fullrandom_text_1^<color=#e6f078>随机公演</color>CLEAR奖励！|live_result_fullrandom_text_2^【<color=#e6f078>觉醒pt</color>】 【<color=#e6f078>亲密度</color>】 【<color=#e6f078>粉丝数</color>】<color=#ff004f>1.5倍</color>|live_result_songrandom_text_1^<color=#e6f078>随机选曲</color>CLEAR奖励！|live_result_songrandom_text_2^【<color=#e6f078>觉醒pt</color>】 【<color=#e6f078>亲密度</color>】 【<color=#e6f078>粉丝数</color>】<color=#ff004f>1.2倍</color>|live_result_center_effect_info_text^通过CENTER效果获得了更多亲密度|live_popup_title_00^解锁主线剧情|live_popup_msg_00^解锁了第{0}话主线剧情！
 去剧场查看剧情吧！|live_popup_msg_01^前往剧场|live_popup_title_01^评级上升报酬|live_popup_msg_02^<color=#ff0000>可以在礼物中领取报酬</color>|live_popup_title_10^活动剧情解锁|live_popup_msg_10^解锁了第{0}话活动剧情！
 去查看剧情吧！|live_popup_msg_11^前往活动剧情|live_popup_msg_12^解锁了{0}篇 第{1}话的活动剧情！
 去看看剧情吧！|live_lvup_popup_msg_00^体力全部恢复了！|live_lvup_popup_dtl_00^体力最大值|live_lvup_popup_dtl_01^同僚人数上限|live_lvup_popup_dtl_02^<color=#00A0E9>{0}</color>|live_lvup_popup_dtl_03^体力|live_lvup_popup_dtl_04^<color=#ff0000>由于到达持有上限，存在无法获得的票券</color>|live_lvup_popup_dtl_05^<color=#ff0000>{0}</color>|live_lvup_popup_dtl_06^<color=#00A0E9>{0}</color> (<color=#00A0E9>+{1}</color>)|live_lvup_popup_dtl_07^<color=#ff0000>多余的体力已经以溢出形式累加</color>|live_resalt_popup_00^获得CLEAR报酬|live_resalt_popup_01^|live_notes_mismatch_popup_msg^LIVE CLEAR时的总音符数不正确
@@ -8296,8 +8296,8 @@ CLEAR|live_sr_popup_dtl_04^SCORE <color=#FF0098FF>{0}</color> 以上|live_sr_pop
 ※按键音指的是「按键音」设置中选择的触摸音效。
 ※部分歌曲的欢呼声和应援声是歌曲的一部分。此时将使用歌曲的音量，无法分别进行调整。|livesetting_sound_live_mv_volume_001^歌曲|livesetting_sound_live_mv_volume_002^音效|livesetting_sound_live_mv_volume_003^按键音|livesetting_sound_live_mv_volume_004^欢呼声|livesetting_sound_live_mv_volume_005^应援声|livesetting_sound_live_mv_volume_006^重置|livesetting_sound_beep_title^按键音|livesetting_sound_beep_text_001^可以选择点击音效和滑动音效的组合|livesetting_sound_beep_msg_001^按键音|livesetting_sound_beep_msg_002^可以更改点击、滑动下落的音符时播放的音效的组合。
 可以分别试听点击音效和滑动音效。
-※「活力」「清新」的滑动音效相同。|livesetting_sound_beep_001^点击音效|livesetting_sound_beep_002^滑动音效|livesetting_sound_beep_003^活力（默认）|livesetting_sound_beep_004^温和|livesetting_sound_beep_005^清新|livesetting_sound_beep_006^摇滚|livesetting_sound_beep_007^沙滩排球|livesetting_sound_beep_008^Takoyaki|livesetting_sound_beep_009^太鼓|livesetting_sound_beep_010^鸟|livesetting_sound_beep_011^火焰|livesetting_sound_beep_012^Pop|livesetting_sound_beep_013^方块|livesetting_sound_beep_014^魔法少女|livesetting_sound_beep_name_001^活力（默认）|livesetting_sound_beep_name_002^温和|livesetting_sound_beep_name_003^清新|livesetting_sound_beep_name_004^摇滚|livesetting_sound_beep_name_005^沙滩排球|livesetting_sound_beep_name_006^太鼓|livesetting_sound_beep_name_007^鸟|livesetting_sound_beep_name_008^火焰|livesetting_sound_beep_name_009^Pop|livesetting_sound_beep_name_010^方块|livesetting_sound_beep_name_011^魔法少女|livesetting_sound_beep_name_012^梅花|livesetting_sound_beep_name_013^Mirage|livesetting_sound_beep_name_014^剑与子弹|livesetting_sound_beep_name_015^红心|livesetting_sound_beep_name_016^将棋与足球|livesetting_sound_beep_name_017^黑桃|livesetting_sound_beep_name_018^吸血鬼|livesetting_sound_beep_name_019^4花色|livesetting_sound_beep_name_020^青蛙|livesetting_sound_combocut_title^断连音效|livesetting_sound_combocut_text_001^可以禁用Combo中断时播放的音效|livesetting_sound_combocut_001^启用音效|livesetting_sound_combocut_002^禁用音效|livesetting_sound_beep_sp_note^SP音符语音|livesetting_sound_beep_combocut^断连音效|jobv_select_tab_01^一般|jobv_select_tab_02^特别|jobv_btn_01^OK|jobv_btn_02^继续开始|jobv_btn_03^ツアー準備へ|jobv_btn_04^委托
-完成确认|jobv_ticket_00^LIVE券持有数|jobv_ticket_01^<color=#ff0000>MAX</color>|jobv_select_00^花费体力：|jobv_select_10^今天的工作也请加油哦！|jobv_select_30^特别Princess|jobv_select_31^特别Fairy|jobv_select_32^特别Angel|jobv_select_33^特别全类型|jobv_select_msg_00^没有特别的工作|jobv_select_msg_01^<color=#ff0000>※由于到达持有上限，无法获得</color>|jobv_type_00^道具日|jobv_type_01^Pr|jobv_type_02^Fa|jobv_type_03^An|jobv_type_04^All|jobv_popup_title_00^工作|jobv_popup_msg_00^LIVE券到达了上限
+※「活力」「清新」的滑动音效相同。|livesetting_sound_beep_001^点击音效|livesetting_sound_beep_002^滑动音效|livesetting_sound_beep_003^活力（默认）|livesetting_sound_beep_004^温和|livesetting_sound_beep_005^清新|livesetting_sound_beep_006^摇滚|livesetting_sound_beep_007^沙滩排球|livesetting_sound_beep_008^Takoyaki|livesetting_sound_beep_009^太鼓|livesetting_sound_beep_010^鸟|livesetting_sound_beep_011^火焰|livesetting_sound_beep_012^Pop|livesetting_sound_beep_013^方块|livesetting_sound_beep_014^魔法少女|livesetting_sound_beep_name_001^活力（默认）|livesetting_sound_beep_name_002^温和|livesetting_sound_beep_name_003^清新|livesetting_sound_beep_name_004^摇滚|livesetting_sound_beep_name_005^沙滩排球|livesetting_sound_beep_name_006^太鼓|livesetting_sound_beep_name_007^鸟|livesetting_sound_beep_name_008^火焰|livesetting_sound_beep_name_009^Pop|livesetting_sound_beep_name_010^方块|livesetting_sound_beep_name_011^魔法少女|livesetting_sound_beep_name_012^梅花|livesetting_sound_beep_name_013^Mirage|livesetting_sound_beep_name_014^剑与子弹|livesetting_sound_beep_name_015^红心|livesetting_sound_beep_name_016^将棋与足球|livesetting_sound_beep_name_017^黑桃|livesetting_sound_beep_name_018^吸血鬼|livesetting_sound_beep_name_019^4花色|livesetting_sound_beep_name_020^青蛙|livesetting_sound_combocut_title^断连音效|livesetting_sound_combocut_text_001^可以禁用Combo中断时播放的音效|livesetting_sound_combocut_001^启用音效|livesetting_sound_combocut_002^禁用音效|livesetting_sound_beep_sp_note^SP音符语音|livesetting_sound_beep_combocut^断连音效|jobv_select_tab_01^一般|jobv_select_tab_02^特别|jobv_btn_01^OK|jobv_btn_02^继续开始|jobv_btn_03^ツアー準備へ|jobv_btn_04^リクエスト
+確認|jobv_ticket_00^LIVE券持有数|jobv_ticket_01^<color=#ff0000>MAX</color>|jobv_select_00^花费体力：|jobv_select_10^今天的工作也请加油哦！|jobv_select_30^特别Princess|jobv_select_31^特别Fairy|jobv_select_32^特别Angel|jobv_select_33^特别全类型|jobv_select_msg_00^没有特别的工作|jobv_select_msg_01^<color=#ff0000>※由于到达持有上限，无法获得</color>|jobv_type_00^道具日|jobv_type_01^Pr|jobv_type_02^Fa|jobv_type_03^An|jobv_type_04^All|jobv_popup_title_00^工作|jobv_popup_msg_00^LIVE券到达了上限
 仍要继续工作吗？|jobv_popup_msg_01^<color=#ff0000>将无法获得LIVE券</color>|jobv_pop_overticket_msg_0^下份工作会使LIVE券超出持有上限
 确定要接受工作吗？|jobv_pop_overticket_warning_msg_0^将无法获得超出上限的LIVE券|jobv_popup_btn_00^前往LIVE|jobv_popup_btn_02^前往活动|jobv_popup_subtitle_00^道具日是什么？|jobv_popup_msg_02^进行与道具日当天指定类型相同类型的「LIVE」或「工作」，可以仅获得对应类型的道具及卡片|jobv_popup_msg_03^※进行Princess类型的LIVE和工作，可以获得以下道具和卡片|jobv_popup_msg_04^‧Princess镜子　‧Princess香水　‧Princess唇膏
 ‧Princess类型的卡片|jobv_popup_msg_05^※进行Fairy类型的LIVE和工作，可以获得以下道具和卡片|jobv_popup_msg_06^‧Fairy镜子　‧Fairy香水　‧Fairy唇膏
@@ -13155,18 +13155,21 @@ Vermilion Red（クロエ・なる）
 メンバーの衣装を交換しよう！|eventcview_info_05_title^{0}について|eventcview_info_05^通常楽曲をプレイして、{0}を手に入れよう
 消費コストとSCOREランクに応じて獲得量が変化します|eventcview_info_06_title^イベント楽曲について|eventcview_info_06^イベント楽曲は通常楽曲よりも多くイベントptを獲得できます
 イベント楽曲では、アピールボーナスがスコアに反映されます|eventcview_info_07_title^チケットライブについて|eventcview_info_07^チケットライブを行う事で、消費チケット数に応じて最大7倍の
-{0}を獲得する事ができます|eventcview_info_08_title^イベントライブステージ登場編成について|eventcview_info_08^ステージ登場編成を設定するとイベント楽曲はその編成が優先されます
+{0}を獲得する事ができます|eventcview_info_08_title^オリジナルメンバー限定歌い分けについて|eventcview_info_08^オリジナルメンバーを配置してイベント楽曲を楽しもう！
+なお、オリジナルメンバー以外を編成した場合は未編成の
+オリジナルメンバーの歌唱音源がランダムで割り当てられます|eventcview_info_09_title^イベントライブステージ登場編成について|eventcview_info_09^ステージ登場編成を設定するとイベント楽曲はその編成が優先されます
 総アピール値やスキルなどは通常のユニット編成のままで
-イベント楽曲をプレイすることができます|eventcview_info_09_title^イベント専用ドロップアイテムについて|eventcview_info_09^獲得した専用アイテムはイベント専用ページのアイテム交換ボタンから
-各アイテムと交換することができます|eventcview_info_10_title^ボーナスライブについて|eventcview_info_10^ボーナスライブで獲得できるボーナスptは消費コスト倍率の
+イベント楽曲をプレイすることができます|eventcview_info_10_title^ミリオンリクエストについて|eventcview_info_10^達成したリクエストミッションの報酬は
+各リザルト画面にて自動的に付与されます
+報酬の獲得が完了すると、次のリクエストミッションが発生します|eventcview_info_11_title^ボーナスライブについて|eventcview_info_11^ボーナスライブで獲得できるボーナスptは消費コスト倍率の
 影響を受けません
-最大5回分ストックできます|eventcview_info_11_title^イベント限定ライブスキップについて|eventcview_info_11^「ライブスキップPASS」は毎日00:00に残り回数がリセットされます
+最大5回分ストックできます|eventcview_info_12_title^イベント限定ライブスキップについて|eventcview_info_12^「ライブスキップPASS」は毎日00:00に残り回数がリセットされます
 「期間限定ライブスキップPASS」の使用期限はイベント期間中の
-購入した日の翌日までとなります|eventcview_info_12_title^リストについて|eventcview_info_12^デイリーリストと限定ミッションリストの進捗状況は
-毎日00:00に当日のものに更新されます|eventcview_info_13_title^今回のイベントのまとめ|eventcview_info_13^通常楽曲をプレイして制服を集め、イベント楽曲を
-プレイしてイベントptを集めて豪華報酬を手に入れよう|eventcview_info_14_title^消費量選択について|eventcview_info_14^イベント楽曲プレイ時に消費するコストを2倍、4倍、10倍から選べます
+購入した日の翌日までとなります|eventcview_info_13_title^リストについて|eventcview_info_13^デイリーリストと限定ミッションリストの進捗状況は
+毎日00:00に当日のものに更新されます|eventcview_info_14_title^今回のイベントのまとめ|eventcview_info_14^通常楽曲をプレイしてお弁当を集め、イベント楽曲を
+プレイしてイベントptを集めて豪華報酬を手に入れよう|eventcview_info_15_title^消費量選択について|eventcview_info_15^イベント楽曲プレイ時に消費するコストを2倍、4倍、10倍から選べます
 消費数に応じてイベントptをより多く獲得する事ができます
-10倍は1日1回選択でき、消費コスト倍率の影響を受けません|eventcview_info_15_title^关于骰子交换所|eventcview_info_15^要使用骰子交换所，必须完成偶像Talking|eventcview_info_16_title^关于活动限定LIVE跳过|eventcview_info_16^「LIVE SKIP PASS」剩余次数会在每天00:00重置
+10倍は1日1回選択でき、消費コスト倍率の影響を受けません|eventcview_info_16_title^关于活动限定LIVE跳过|eventcview_info_16^「LIVE SKIP PASS」剩余次数会在每天00:00重置
 「期间限定LIVE SKIP PASS」的使用期限为活动期间购买日的次日为止|eventcview_info_17_title^关于歌单|eventcview_info_17^每日歌单和限定任务歌单的进度
 将在每天00:00更新|eventcview_info_18_title^本次活动的总结|eventcview_info_18^楽曲をプレイしてフラッグを集め、イベント楽曲を
 プレイしてイベントptを集めて豪華報酬を手に入れよう！
@@ -14386,7 +14389,7 @@ CDの到着が遅れてしまうトラブルに遭遇する。
 正在返回标题|gasha_popup_msg_09^由于已经拥有
 扭蛋可能出现的所有服装
 无法使用票券|gasha_popup_msg_10^由于扭蛋已结束，扭蛋处理失败|gasha_popup_btn_00^进行
-扭蛋|gasha_popup_btn_01^购买百万宝石|gasha_notice_01^拍到了最棒的一张……没错！|gasha_notice_02^让人雀跃不已、至高无上的一张哦！|gasha_notice_03^轻飘飘、令人心动又暖洋洋的一张！|gasha_notice_04^受静夜所邀……缔结约定的一张！|gasha_notice_05^比梦境更有梦幻感，最棒的一张！|gasha_notice_06^并非魔法……实在是最棒的一张！|gasha_notice_07^就像在梦中遇到的一般…至高的一张！|gasha_notice_08^散发着禁忌的魅力，令人神魂颠倒的一张！|gasha_notice_09^深藏着狂信之暗与真实之光的一张！|gasha_notice_10^撼动银河的最棒的一张，请收下吧！|gasha_notice_11^秋日凉风中，温暖人心的一张♪|gasha_notice_12^摄人心魄到近乎毁天灭地的一张……！|gasha_notice_13^自己独特的光芒……正在灿烂闪耀哦♪|gasha_notice_r^拍到了大家很开心的样子哦|gasha_notice_sr^拍到了大家很棒的表情！|gasha_notice_ssr^拍到了最棒的一张，请您务必确..|gasha_platinum_message^SSRカードが登場！10回ガシャはSR以上のカードが1枚以上確定！|gasha_ticket_message^ここではメダルガシャや、チケット使用で
+扭蛋|gasha_popup_btn_01^购买百万宝石|gasha_notice_01^拍到了最棒的一张……没错！|gasha_notice_02^让人雀跃不已、至高无上的一张哦！|gasha_notice_03^轻飘飘、令人心动又暖洋洋的一张！|gasha_notice_04^受静夜所邀……缔结约定的一张！|gasha_notice_05^比梦境更有梦幻感，最棒的一张！|gasha_notice_06^并非魔法……实在是最棒的一张！|gasha_notice_07^就像在梦中遇到的一般…至高的一张！|gasha_notice_08^散发着禁忌的魅力，令人神魂颠倒的一张！|gasha_notice_09^深藏着狂信之暗与真实之光的一张！|gasha_notice_10^隣り合う希望と絶望…運命の1枚です！|gasha_notice_11^秋日凉风中，温暖人心的一张♪|gasha_notice_12^摄人心魄到近乎毁天灭地的一张……！|gasha_notice_13^自己独特的光芒……正在灿烂闪耀哦♪|gasha_notice_r^拍到了大家很开心的样子哦|gasha_notice_sr^拍到了大家很棒的表情！|gasha_notice_ssr^拍到了最棒的一张，请您务必确..|gasha_platinum_message^SSRカードが登場！10回ガシャはSR以上のカードが1枚以上確定！|gasha_ticket_message^ここではメダルガシャや、チケット使用で
 ミリコレガシャ、衣装ガシャを
 引くことができます。|gasha_mdl_detail_message_00^在这里可以进行硬币扭蛋。|gasha_photo_name^摄影师　现在|gasha_result_title_00^扭蛋结果|gasha_result_desc_00^获得了卡片|gasha_result_desc_01^获得了服装|gasha_result_btn_00^再抽一次|gasha_result_btn_01^继续|gasha_result_msg_00^已获得的卡片已经转换为道具|gasha_result_exchange_001^{0}： {1} → <color=#00A0E9FF>{2}<color>|gasha_result_draw_item_on^详情|gasha_result_draw_item_off^OFF|gasha_ticket_00^扭蛋硬币pt槽|gasha_ticket_01^扭蛋硬币pt|gasha_ticket_02^距离下一个扭蛋硬币还需<color=#FF0098>{0}</color>pt|gasha_ticket_03^持有扭蛋硬币数
 {0:D2}/{1:D2} 枚|gasha_ticket_04^使用期限：{0}年{1}月{2}日{3}点{4}分{5}秒|gasha_ticket_05^<color=#00A0E9>{0}枚</color>(<color=#00A0E9>+{1}</color>)|gasha_ticket_pop_title^扭蛋硬币|gasha_ticket_pop_tab_0^扭蛋硬币
@@ -17479,7 +17482,7 @@ ErrorCode [{0}]|title_connection_prl_retry_error_1^ピンキーリングの取�
 さらにSSRの出現率はなんと<color=#FF0098>39％</color>！|gasha2_top_balloon_gid_70529^SR以上確定！|gasha2_top_pop_confirm_title_gid_70529^<size=26>dual twin live tour名古屋公演打ち上げ39ガシャ</size>|display_character_tizurumirai^千鶴・未来|unitselect_tips_glowto_00_title^楽曲「Glow Together」について|unitselect_tips_glowto_00^「Glow Together」はオリジナルメンバー限定歌い分けに対応！
 楽曲に登場するオリジナルメンバーを配置すると、そのアイドル
 の立ち位置に応じて歌うパートが変わります|common_footer_ex_5^前往
-重置|tutorial_info177_00_title^公式セットリストでライブ公演を追体験！|tutorial_info177_00^過去のライブ公演を再現した公式セットリストを公開中です！
+歌单|tutorial_info177_00_title^公式セットリストでライブ公演を追体験！|tutorial_info177_00^過去のライブ公演を再現した公式セットリストを公開中です！
 ※実際の公演で行われた構成とは異なる場合があります
 ※内容は予告なく変更する場合がございます|tutorial_info177_01_title^さまざまな再生方法を用意|tutorial_info177_01^セットリスト内のすべての楽曲MVを繰り返し再生する「リピート」と
 ランダムな曲順で再生する「シャッフル」を利用できます
@@ -17749,7 +17752,7 @@ X-STREAM VOL.1ポイントを交換しますか？|seasonpass_point_exchange_che
 プラチナガシャ10回チケット1枚にサヨコット・S、
 チヅルアイ・S、ノーブルブースター・Sが1つずつ含まれます|navi_shop_13_ex_detail_30024_00^13thLIVEセット・Lには
 プラチナガシャ10回チケット1枚にサヨコット・L、
-チヅルアイ・L、ノーブルブースター・Lが1つずつ含まれます|display_character_toukatumaneja^統括マネージャー|display_character_kirano^希良乃|display_character_moa^萌亞|display_character_kanon^香喃|display_character_kiranomoakanon^希良乃・香喃・萌亞|display_character_pmisaki^P・美咲|display_character_tumugimiraikana^紬・未来・可奈|display_character_jinrou^人狼|display_character_uranaisi^占い師|tutorial_info179_00_title^<size=24>プレミアムパスDX+特典の連続お仕事について</size>|tutorial_info179_00^進捗度が合計360進むまで自動でお仕事を続ける機能です
+チヅルアイ・L、ノーブルブースター・Lが1つずつ含まれます|display_character_toukatumaneja^统管经理|display_character_kirano^希良乃|display_character_moa^萌亞|display_character_kanon^香喃|display_character_kiranomoakanon^希良乃・香喃・萌亞|display_character_pmisaki^P・美咲|display_character_tumugimiraikana^紬・未来・可奈|display_character_jinrou^人狼|display_character_uranaisi^占い師|tutorial_info179_00_title^<size=24>プレミアムパスDX+特典の連続お仕事について</size>|tutorial_info179_00^進捗度が合計360進むまで自動でお仕事を続ける機能です
 元気が不足してる場合は自動で回復してお仕事を続けることもできます|jobv_popup_btn_03^ツアー準備へ|jobv_popup_continue_warining_msg_01^<color=#FF004F>進捗度を合計{0}進めるか、{1}が最大になるとお仕事は終了されます</color>|jobv_popup_beused_msg_03^進捗度を合計{0}進めるか、{1}が最大になるまでに消費するアイテムです|jobv_popup_beused_warining_03^<color=#FF004F>進捗度を合計{0}進めるか、{1}が最大になるとお仕事は終了されます</color>|jobv_result_19^進捗度が{0}に到達したので
 お仕事を終了しました|jobv_result_20^「{0}」が所持上限に達したので
 お仕事を終了しました|jobv_result_replay_reason_8^イベントアイテムが所持
@@ -17798,4 +17801,8 @@ X-STREAM VOL.1ポイントを交換しますか？|seasonpass_point_exchange_che
 獲得することができます
 
 スタイリングレッスン画面に遷移しますか？|gasha_bg_item_pu_button^スタイリング
-レッスンへ
+レッスンへ|display_character_senntounokyaku^排在队首的顾客|costumesales_0303_info^クロリス・パレシア（765PRO ALLSTARS）
+「モルフォ・パレシア」のアナザー衣装です。|costumesales_0304_info^クロリス・パレシア（PRINCESS STARS）
+「モルフォ・パレシア」のアナザー衣装です。|costumesales_0305_info^クロリス・パレシア（FAIRY STARS）
+「モルフォ・パレシア」のアナザー衣装です。|costumesales_0306_info^クロリス・パレシア（ANGEL STARS）
+「モルフォ・パレシア」のアナザー衣装です。

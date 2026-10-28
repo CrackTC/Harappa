@@ -800,8 +800,8 @@ OK的说♪|system_room_026yur_costume_turn_001_026yur^在这里转圈吗！？|
 メールを読んでいただけです。|system_theater_016tsu_touch_005_016tsu^いっつも、
 ハネちゃうんですよね～。|system_theater_018ele_touch_005_018ele^好想跳出更华丽的舞呀～|system_theater_019min_touch_005_019min^新しい寝ぐせなおし、
 買おうかなぁ……。|system_theater_020meg_touch_005_020meg^总觉得今天的发型不太对劲啊——。|system_theater_021mat_touch_005_021mat^关于打理卷发的方法？
-这是秘密哦～|system_theater_022ser_touch_005_022ser^うう、髪が
-ぴょこぴょこしちゃいます。|system_theater_023aka_touch_005_023aka^诶，什么？
+这是秘密哦～|system_theater_022ser_touch_005_022ser^呜呜，头发
+翘来翘去的。|system_theater_023aka_touch_005_023aka^诶，什么？
 想知道小茜的秘密吗？|system_theater_024ann_touch_005_024ann^啊……
 是{$P$}先生啊。|system_theater_025roc_touch_005_025roc^うぅ……今日は
 髪の毛がモワモワします。|system_theater_026yur_touch_005_026yur^发型，会不会很怪？|system_theater_027say_touch_005_027say^麻花辫和散发，
@@ -864,8 +864,8 @@ OK的说♪|system_room_026yur_costume_turn_001_026yur^在这里转圈吗！？|
 我已经完全明白了哦！|system_theater_014mir_touch_007_014mir^我，好像看懂了♪|system_theater_015siz_touch_007_015siz^この役、狙ってみます！|system_theater_016tsu_touch_007_016tsu^バッチリ、覚えちゃいました♪|system_theater_018ele_touch_007_018ele^嗯！这样看来我也能做到的哟——！|system_theater_019min_touch_007_019min^次のお仕事も、楽しみです♪　
 えへへっ！|system_theater_020meg_touch_007_020meg^嗯，完美♪　
 准备好了哦！|system_theater_021mat_touch_007_021mat^公主的角色，
-茉莉是最适合的说。|system_theater_022ser_touch_007_022ser^わたし、この役、
-やってみたいです！|system_theater_023aka_touch_007_023aka^この役は茜ちゃん以外
+茉莉是最适合的说。|system_theater_022ser_touch_007_022ser^我想演
+这个角色！|system_theater_023aka_touch_007_023aka^この役は茜ちゃん以外
 ありえないね！|system_theater_025roc_touch_007_025roc^モチベーション、バッチリです！|system_theater_026yur_touch_007_026yur^原作ファンも納得の完成度、
 素晴らしいです！|system_theater_027say_touch_007_027say^这剧情真让人热血沸腾呢！
 好想试着演演看！|system_theater_028ari_touch_007_028ari^お話の続きが気になりますっ！|system_theater_029umi_touch_007_029umi^这样啊！
@@ -892,7 +892,7 @@ Thank you♪|system_theater_036kan_touch_007_036kan^よしっ！　暗記はバ�
 你也要用热水吗？|system_theater_014mir_touch_008_014mir^えへへ、
 もうすぐお湯が沸きますからね♪|system_theater_015siz_touch_008_015siz^あっ。お湯、使いますか？|system_theater_016tsu_touch_008_016tsu^えへへ、ちょっと休憩で～す♪|system_theater_018ele_touch_008_018ele^{$P$}，
 你要不要也喝点茶——？|system_theater_019min_touch_008_019min^あっ、お茶でもいれましょうか？|system_theater_021mat_touch_008_021mat^转圈圈！
-魔法把水烧开了的说。|system_theater_022ser_touch_008_022ser^えへへ、こぽこぽいってます♪|system_theater_024ann_touch_008_024ann^嗯……想要……
+魔法把水烧开了的说。|system_theater_022ser_touch_008_022ser^欸嘿嘿，咕嘟咕嘟地冒泡呢♪|system_theater_024ann_touch_008_024ann^嗯……想要……
 喝点热的……|system_theater_025roc_touch_008_025roc^ティーブレイクで、
 リフレッシュしましょう！|system_theater_026yur_touch_008_026yur^辛苦了。
 要喝点茶吗？|system_theater_027say_touch_008_027say^适当转换一下心情，
@@ -1007,8 +1007,8 @@ Thank you♪|system_theater_036kan_touch_007_036kan^よしっ！　暗記はバ�
 不要吓我呀——。|system_theater_019min_touch_011_019min^に、二の腕はちょっと……
 やり返しますよ？|system_theater_020meg_touch_011_020meg^呀！
 真是的，都说了会痒的啊～|system_theater_021mat_touch_011_021mat^真是的。你就这么
-想要了解公主的说？|system_theater_022ser_touch_011_022ser^そんなに見られると、
-恥ずかしいです……。|system_theater_023aka_touch_011_023aka^{$P$}ちゃん……。
+想要了解公主的说？|system_theater_022ser_touch_011_022ser^被这么盯着看，
+会害羞的……|system_theater_023aka_touch_011_023aka^{$P$}ちゃん……。
 女の子は視線で
 すぐに気づくんだよ？|system_theater_024ann_touch_011_024ann^呀！这种事……
 不太……好。|system_theater_025roc_touch_011_025roc^わっ、やめてください～っ！|system_theater_026yur_touch_011_026yur^きゃっ！？　
@@ -1039,7 +1039,7 @@ Thank you♪|system_theater_036kan_touch_007_036kan^よしっ！　暗記はバ�
 {$P$}さーん♪|system_theater_016tsu_touch_012_016tsu^{$P$}さん♪　
 えへへ♪|system_theater_018ele_touch_012_018ele^啊，{$P$}！|system_theater_019min_touch_012_019min^{$P$}さーん！
 お疲れ様で～す♪|system_theater_020meg_touch_012_020meg^呀吼。还精神吗？|system_theater_021mat_touch_012_021mat^{$P$}先生，
-HiHo——！|system_theater_022ser_touch_012_022ser^お疲れさまです♪|system_theater_023aka_touch_012_023aka^あっ、
+HiHo——！|system_theater_022ser_touch_012_022ser^您辛苦了♪|system_theater_023aka_touch_012_023aka^あっ、
 {$P$}ちゃん。|system_theater_025roc_touch_012_025roc^找Roco有什么事吗？|system_theater_026yur_touch_012_026yur^あっ、
 {$P$}さん！|system_theater_027say_touch_012_027say^啊，{$P$}！
 您辛苦了♪|system_theater_028ari_touch_012_028ari^あっ、
@@ -1065,7 +1065,7 @@ HiHo——！|system_theater_022ser_touch_012_022ser^お疲れさまです♪|sy
 頑張っちゃいますよ～！|system_theater_018ele_touch_013_018ele^天气真好呀——。
 去外面踢足球吧！|system_theater_019min_touch_013_019min^ごはんがおいしい
 一日になりそうですね♪|system_theater_021mat_touch_013_021mat^Ho？
-公主正在寻找妖精的说。|system_theater_022ser_touch_013_022ser^今日もお仕事、頑張りましょうね！|system_theater_023aka_touch_013_023aka^よし。
+公主正在寻找妖精的说。|system_theater_022ser_touch_013_022ser^今天也要努力工作哦！|system_theater_023aka_touch_013_023aka^よし。
 {$P$}ちゃん、
 今日は外で遊ぼう！|system_theater_024ann_touch_013_024ann^心里正念着，
 想见到你……吓了一跳。|system_theater_025roc_touch_013_025roc^今、ナイスなアイディアを
@@ -1090,7 +1090,7 @@ HiHo——！|system_theater_022ser_touch_012_022ser^お疲れさまです♪|sy
 我发现了有趣的信息哦♪|system_theater_010azu_touch_014_010azu^あ、お疲れさまです～。|system_theater_011ami_touch_014_011ami^妈妈发来信息了♪|system_theater_012mam_touch_014_012mam^爸爸发来信息了♪|system_theater_013hib_touch_014_013hib^有什么事的话，
 可以叫我来哦，
 {$P$}！|system_theater_014mir_touch_014_014mir^お疲れ様でーす！|system_theater_015siz_touch_014_015siz^あっ、お疲れ様です。|system_theater_016tsu_touch_014_016tsu^お疲れさまで～す♪|system_theater_018ele_touch_014_018ele^辛苦了♪|system_theater_019min_touch_014_019min^お疲れさまです！|system_theater_020meg_touch_014_020meg^嗯。辛苦啦。|system_theater_021mat_touch_014_021mat^先对邮件施加咒语之后
-再发送的说。|system_theater_022ser_touch_014_022ser^スマホって、面白いですね！|system_theater_023aka_touch_014_023aka^おっ、
+再发送的说。|system_theater_022ser_touch_014_022ser^手机真有意思呢！|system_theater_023aka_touch_014_023aka^おっ、
 {$P$}ちゃん、
 がんばってる～？|system_theater_024ann_touch_014_024ann^要玩……游戏吗？|system_theater_025roc_touch_014_025roc^今日のレッスンは……
 あ、{$P$}。|system_theater_026yur_touch_014_026yur^新刊の発売日、
@@ -1118,7 +1118,7 @@ HiHo——！|system_theater_022ser_touch_012_022ser^お疲れさまです♪|sy
 毎日の積み重ねが大事です。|system_theater_016tsu_touch_015_016tsu^お掃除中で～す！　
 ほめてほめて～♪|system_theater_018ele_touch_015_018ele^在打扫哟——。
 快夸夸我♪|system_theater_019min_touch_015_019min^お掃除なら任せてください♪|system_theater_020meg_touch_015_020meg^啊，{$P$}，
-你要替我来值日打扫吗？|system_theater_021mat_touch_015_021mat^清洁到一闪一闪亮晶晶的吧──|system_theater_022ser_touch_015_022ser^ぴかぴかにしちゃいます！|system_theater_023aka_touch_015_023aka^ニャッ！？　
+你要替我来值日打扫吗？|system_theater_021mat_touch_015_021mat^清洁到一闪一闪亮晶晶的吧──|system_theater_022ser_touch_015_022ser^把它擦得亮晶晶！|system_theater_023aka_touch_015_023aka^ニャッ！？　
 ちゃ、ちゃんと掃除してるよ！|system_theater_024ann_touch_015_024ann^杏奈……在努力哦……。|system_theater_025roc_touch_015_025roc^Clean up的话，
 就交给Roco吧！|system_theater_026yur_touch_015_026yur^ここは特に
 キレイにしておかないと！|system_theater_027say_touch_015_027say^我不会马虎的！
@@ -1146,7 +1146,7 @@ HiHo——！|system_theater_022ser_touch_012_022ser^お疲れさまです♪|sy
 成为清扫大师？|system_theater_012mam_touch_016_012mam^好想要大型吸尘器呀——。
 不行吗？|system_theater_013hib_touch_016_013hib^不用担心啦，
 我在好好打扫哦？|system_theater_014mir_touch_016_014mir^えへへ、お片付け中です♪|system_theater_015siz_touch_016_015siz^やるからには、
-徹底的に片付けますよ。|system_theater_016tsu_touch_016_016tsu^整理整頓はバッチリですよ！|system_theater_018ele_touch_016_018ele^看，变干净了吧♪|system_theater_019min_touch_016_019min^こっち、今キレイにしてますから！|system_theater_021mat_touch_016_021mat^要把公主们的城堡打扫干净吗？|system_theater_022ser_touch_016_022ser^えへへ、片付きましたよね？|system_theater_023aka_touch_016_023aka^茜ちゃん、サボってないからねー。|system_theater_024ann_touch_016_024ann^Mission……Complete……♪|system_theater_025roc_touch_016_025roc^クリーンなオフィス、
+徹底的に片付けますよ。|system_theater_016tsu_touch_016_016tsu^整理整頓はバッチリですよ！|system_theater_018ele_touch_016_018ele^看，变干净了吧♪|system_theater_019min_touch_016_019min^こっち、今キレイにしてますから！|system_theater_021mat_touch_016_021mat^要把公主们的城堡打扫干净吗？|system_theater_022ser_touch_016_022ser^欸嘿嘿，已经收拾好了吧？|system_theater_023aka_touch_016_023aka^茜ちゃん、サボってないからねー。|system_theater_024ann_touch_016_024ann^Mission……Complete……♪|system_theater_025roc_touch_016_025roc^クリーンなオフィス、
 ワンダフルです！|system_theater_026yur_touch_016_026yur^本棚はばっちり、
 整頓しておきましたよ！|system_theater_027say_touch_016_027say^这边的架子，
 也已经整理好了！|system_theater_028ari_touch_016_028ari^ムフフ♪　片付け、完了です！|system_theater_030iku_touch_016_030iku^これでキレイになったよね。|system_theater_032emi_touch_016_032emi^見えない場所も、
@@ -1172,7 +1172,7 @@ HiHo——！|system_theater_022ser_touch_012_022ser^お疲れさまです♪|sy
 キレイになりましたよ。|system_theater_016tsu_touch_017_016tsu^きれいになるのって、
 気分いいですね～♪|system_theater_018ele_touch_017_018ele^要好好爱护剧场才行呢！|system_theater_019min_touch_017_019min^快適に過ごしてほしい
 ですからね～。|system_theater_021mat_touch_017_021mat^偶尔不使用魔法
-也不错的说。|system_theater_022ser_touch_017_022ser^一生懸命、やりました！|system_theater_023aka_touch_017_023aka^これが茜ちゃんの
+也不错的说。|system_theater_022ser_touch_017_022ser^非常努力地做了！|system_theater_023aka_touch_017_023aka^これが茜ちゃんの
 メイドスキルだよ！|system_theater_024ann_touch_017_024ann^杏奈……今天值日。|system_theater_025roc_touch_017_025roc^シアターへ、ウェルカムです♪|system_theater_026yur_touch_017_026yur^余裕があれば、
 ワックスもかけたいですね！|system_theater_027say_touch_017_027say^和大家一起清洁打扫，
 也很有乐趣哦！|system_theater_028ari_touch_017_028ari^今日もいろいろ拾っちゃいました！|system_theater_029umi_touch_017_029umi^あははっ♪　
@@ -1203,7 +1203,7 @@ Just打扫中now！♪|system_theater_001har_touch_018_001har^見てください
 很合适对吧！|system_theater_014mir_touch_018_014mir^えへへ……どうですかー？|system_theater_015siz_touch_018_015siz^一応、聞きますけど……
 これ、どうですか？|system_theater_016tsu_touch_018_016tsu^どうどう？　
 わたし、カワイイでしょ♪|system_theater_018ele_touch_018_018ele^快看快看，这件！帮我看看啦——。|system_theater_019min_touch_018_019min^わっほーい！　見てくださーい！|system_theater_020meg_touch_018_020meg^快看看这件。不觉得很棒吗？|system_theater_021mat_touch_018_021mat^公主，世界上第一Cute！
-的说？|system_theater_022ser_touch_018_022ser^えへへ、どうですか？|system_theater_023aka_touch_018_023aka^あ。どうよ
+的说？|system_theater_022ser_touch_018_022ser^欸嘿嘿，怎么样？|system_theater_023aka_touch_018_023aka^あ。どうよ
 {$P$}ちゃん！
 茜ちゃんの魅力全開だよ～！|system_theater_025roc_touch_018_025roc^どうですか？　
 ニュースタイルですよ！|system_theater_026yur_touch_018_026yur^あっ、
@@ -1246,8 +1246,8 @@ Just打扫中now！♪|system_theater_001har_touch_018_001har^見てください
 まだダメですよ～！|system_theater_015siz_touch_019_015siz^きゃっ！？　
 み、見ないでくださいっ！|system_theater_016tsu_touch_019_016tsu^ちょ、ちょっと～！　
 まだ見ちゃダメ～！|system_theater_018ele_touch_019_018ele^呀！现在还不可以看哟——！|system_theater_019min_touch_019_019min^え、ちょ、見ないでください～！|system_theater_020meg_touch_019_020meg^等等，现在还不能看啦——！|system_theater_021mat_touch_019_021mat^Ho！？　要是吓到公主的话，
-不行！的说。|system_theater_022ser_touch_019_022ser^きゃっ！？　
-見られちゃいました……。|system_theater_025roc_touch_019_025roc^{$P$}、
+不行！的说。|system_theater_022ser_touch_019_022ser^呀！？
+被看到了……。|system_theater_025roc_touch_019_025roc^{$P$}、
 ウェイトです～っ！|system_theater_026yur_touch_019_026yur^きゃあっ！　
 いつからそこにいたんですか！？|system_theater_027say_touch_019_027say^啊！？
 现、现在请先不要看！|system_theater_028ari_touch_019_028ari^ひゃ～っ！？　
@@ -1279,8 +1279,8 @@ Just打扫中now！♪|system_theater_001har_touch_018_001har^見てください
 音游的话就交给我好啦～♪|system_theater_019min_touch_020_019min^なんか、ハマってきちゃいました！|system_theater_020meg_touch_020_020meg^呀吼。
 {$P$}，
 要不要也来玩游戏？|system_theater_021mat_touch_020_021mat^公主喜欢的漫画
-改编成了游戏的说♪|system_theater_022ser_touch_020_022ser^ゲームをしてたんです。
-おもしろいですよ！|system_theater_023aka_touch_020_023aka^茜ちゃんのゲームテクを
+改编成了游戏的说♪|system_theater_022ser_touch_020_022ser^我在玩游戏呢。
+很好玩哦！|system_theater_023aka_touch_020_023aka^茜ちゃんのゲームテクを
 見たいのかニャ？|system_theater_024ann_touch_020_024ann^嗯……合作模式……
 要，一起玩吗？|system_theater_025roc_touch_020_025roc^このゲーム、
 とてもインタレスティングです♪|system_theater_026yur_touch_020_026yur^ハッ！？　す、すみません、
@@ -1318,7 +1318,7 @@ Just打扫中now！♪|system_theater_001har_touch_018_001har^見てください
 也太悲伤了吧——。|system_theater_019min_touch_021_019min^あはは……私ってば、
 涙もろいですねー。|system_theater_020meg_touch_021_020meg^这也太犯规了吧——。
 真的让人忍不住哭啊……|system_theater_021mat_touch_021_021mat^努力生存的海蛞蝓
-真令人感动的说。|system_theater_022ser_touch_021_022ser^素敵な映画ですね……ぐすっ。|system_theater_023aka_touch_021_023aka^全茜ちゃんが泣いたよ……！|system_theater_024ann_touch_021_024ann^嗯……杏奈，
+真令人感动的说。|system_theater_022ser_touch_021_022ser^真是部美好的电影呢……抽泣。|system_theater_023aka_touch_021_023aka^全茜ちゃんが泣いたよ……！|system_theater_024ann_touch_021_024ann^嗯……杏奈，
 眼泪止不住了……|system_theater_025roc_touch_021_025roc^うう、ハートムーヴィングです～。|system_theater_026yur_touch_021_026yur^このゲームはもう娯楽ではない、
 芸術です！！|system_theater_027say_touch_021_027say^我……对动物题材，
 很没抵抗力……|system_theater_028ari_touch_021_028ari^ありさの推しが、
@@ -1384,8 +1384,8 @@ Good morning！|system_theater_035hin_touch_022_035hin^早上好呀。|system_th
 我还是活力满满的哟～|system_theater_019min_touch_023_019min^お疲れさまです！　
 肩こってませんか？|system_theater_020meg_touch_023_020meg^已经累了？
 喵哈哈，太懒散啦。|system_theater_021mat_touch_023_021mat^太阳先生
-也差不多要休息了的说？|system_theater_022ser_touch_023_022ser^ま、まだ眠くありません！　
-頑張れます！|system_theater_023aka_touch_023_023aka^うんうん、
+也差不多要休息了的说？|system_theater_022ser_touch_023_022ser^我、我还不困！
+我能坚持！|system_theater_023aka_touch_023_023aka^うんうん、
 今日も茜ちゃんは頑張った！|system_theater_024ann_touch_023_024ann^已经，是傍晚了……
 一天，过的真快……呢。|system_theater_025roc_touch_023_025roc^{$P$}、
 今日もナイスフォローでした♪|system_theater_026yur_touch_023_026yur^日も傾いてきましたが、
@@ -1423,8 +1423,8 @@ Good morning！|system_theater_035hin_touch_022_035hin^早上好呀。|system_th
 一緒に帰ろ？|system_theater_018ele_touch_024_018ele^夜晚才刚刚开始呢♪|system_theater_019min_touch_024_019min^もう夜なんですね。
 一日って早いなぁ……。|system_theater_020meg_touch_024_020meg^已经这个时间了啊——。
 得跟家里联系一下了呢。|system_theater_021mat_touch_024_021mat^公主也差不多
-到睡觉的时间了的说。|system_theater_022ser_touch_024_022ser^今日も楽しいことが
-いっぱいありました！|system_theater_023aka_touch_024_023aka^茜ちゃんの夜更かしはこれからだ！|system_theater_024ann_touch_024_024ann^{$P$}先生
+到睡觉的时间了的说。|system_theater_022ser_touch_024_022ser^今天也发生了
+许多开心的事情！|system_theater_023aka_touch_024_023aka^茜ちゃんの夜更かしはこれからだ！|system_theater_024ann_touch_024_024ann^{$P$}先生
 ……不困吗？|system_theater_025roc_touch_024_025roc^呜呜……Roco现在很Sleepy。|system_theater_026yur_touch_024_026yur^遅くまで大変ですね！　
 まだ疲れてませんか？|system_theater_027say_touch_024_027say^差不多，
 该准备回去了呢。|system_theater_028ari_touch_024_028ari^{$P$}さん、
@@ -1518,9 +1518,9 @@ Good morning！|system_theater_035hin_touch_022_035hin^早上好呀。|system_th
 你有没有兴趣
 把自己打扮得更时髦一点？|system_theater_021mat_approach_001_1_021mat^娇弱的公主，
 需要一位能保护自己的
-骑士的说。|system_theater_022ser_approach_001_1_022ser^{$P$}さんが
-そばにいてくれると、
-ほっとします。|system_theater_023aka_approach_001_1_023aka^ねえ、
+骑士的说。|system_theater_022ser_approach_001_1_022ser^{$P$}先生
+在身边时，
+我会感到安心。|system_theater_023aka_approach_001_1_023aka^ねえ、
 {$P$}ちゃんって、
 彼女いない歴どれくらいー？|system_theater_024ann_approach_001_1_024ann^啊……
 {$P$}先生。
@@ -1613,9 +1613,9 @@ Good morning！|system_theater_035hin_touch_022_035hin^早上好呀。|system_th
 让我来给你搭配一下嘛，
 好不好♪|system_theater_021mat_approach_001_2_021mat^{$P$}先生，
 公主可是很依赖你的说哦。
-是吧？　……对吧？|system_theater_022ser_approach_001_2_022ser^パパみたいで、
-甘えたくなっちゃいます♪
-えへへ……♪|system_theater_023aka_approach_001_2_023aka^まあ、聞くまでもないよね！
+是吧？　……对吧？|system_theater_022ser_approach_001_2_022ser^像爸爸一样，
+让人忍不住想撒娇呢♪
+欸嘿嘿……♪|system_theater_023aka_approach_001_2_023aka^まあ、聞くまでもないよね！
 でも大丈夫！　
 茜ちゃんに万事任せろー！|system_theater_024ann_approach_001_2_024ann^……不，没什么……事。
 今天也要充满活力地……
@@ -1707,8 +1707,8 @@ Good morning！|system_theater_035hin_touch_022_035hin^早上好呀。|system_th
 スリムですよねー。|system_theater_020meg_contact_001_1_020meg^なんか暑い……さっき動いたから
 かな？ねー{$P$}、
 脱いでもいい？|system_theater_021mat_contact_001_1_021mat^就算被问是不是天然呆，
-茉莉也搞不太懂的说。|system_theater_022ser_contact_001_1_022ser^わたし、まだまだ知らないことが
-たくさんあるみたいです。|system_theater_023aka_contact_001_1_023aka^茜ちゃんが、このまますぐに
+茉莉也搞不太懂的说。|system_theater_022ser_contact_001_1_022ser^我好像还有很多
+不知道的事情。|system_theater_023aka_contact_001_1_023aka^茜ちゃんが、このまますぐに
 トップアイドルに
 なっちゃっても……。|system_theater_024ann_contact_001_1_024ann^今天……发生了……好事……
 和{$P$}先生
@@ -1803,9 +1803,9 @@ DVD、見たってホント？|system_theater_050jul_contact_001_1_050jul^ここ
 べつにいいじゃん、
 減るもんでもないしさー。|system_theater_021mat_contact_001_2_021mat^公主只是维持
 自己该有的样子而已的说。
-从很久以前开始就是这样的哦？|system_theater_022ser_contact_001_2_022ser^{$P$}さん。
-これからもわたしに
-いろんなこと教えてくださいね。|system_theater_023aka_contact_001_2_023aka^{$P$}ちゃんは、
+从很久以前开始就是这样的哦？|system_theater_022ser_contact_001_2_022ser^{$P$}先生，
+今后也请继续教我
+各种各样的事情哦。|system_theater_023aka_contact_001_2_023aka^{$P$}ちゃんは、
 もれなく茜ちゃんの
 プロデューサーだから安心してね？|system_theater_024ann_contact_001_2_024ann^杏奈喜欢，待在一起……
 所以……所以今天，
@@ -1898,9 +1898,9 @@ DVD、見たってホント？|system_theater_050jul_contact_001_1_050jul^ここ
 何とかしてあげたいけど、
 うーん……。|system_theater_021mat_contact_002_1_021mat^{$P$}先生。
 公主训练完后，
-腿都好僵硬的说。|system_theater_022ser_contact_002_1_022ser^お仕事が夜遅くなると、
-ちょっとだけ、
-うとうとしてきちゃうんです。|system_theater_023aka_contact_002_1_023aka^{$P$}ちゃん……。
+腿都好僵硬的说。|system_theater_022ser_contact_002_1_022ser^工作到深夜的话，
+会稍微有点
+开始犯困呢。|system_theater_023aka_contact_002_1_023aka^{$P$}ちゃん……。
 悩みがあるなら
 相談に乗ってあげるよ。|system_theater_024ann_contact_002_1_024ann^杏奈，虽然……喜欢说话，
 但是……还不习惯，
@@ -1996,9 +1996,9 @@ DVD、見たってホント？|system_theater_050jul_contact_001_1_050jul^ここ
 よくわかんないしなー。
 {$P$}は、詳しい？|system_theater_021mat_contact_002_2_021mat^胳膊也变得硬邦邦的说。
 所以说，{$P$}先生，
-好吗？　可以吗？|system_theater_022ser_contact_002_2_022ser^{$P$}さん
-みたいに夜も起きていられるように
-なりたいです！|system_theater_023aka_contact_002_2_023aka^ん？　茜ちゃんのワガママが
+好吗？　可以吗？|system_theater_022ser_contact_002_2_022ser^我也想像
+{$P$}先生一样，
+晚上也能保持清醒！|system_theater_023aka_contact_002_2_023aka^ん？　茜ちゃんのワガママが
 悩みの原因？　ふむふむ、
 それ以外の悩みはないのかな？|system_theater_024ann_contact_002_2_024ann^想大声说话……
 也很困难……有朝一日……
@@ -2087,9 +2087,9 @@ DVD、見たってホント？|system_theater_050jul_contact_001_1_050jul^ここ
 倒せばいいんだろう……。|system_theater_020meg_contact_003_1_020meg^あのさ、マナーとか礼儀って、
 具体的にどうすればいいわけ？|system_theater_021mat_contact_003_1_021mat^{$P$}先生，茉莉
 想出了能让剧场变得
-更加WonderHo！的方法哦。|system_theater_022ser_contact_003_1_022ser^パパはわたしのこと、
-まだ子どもだと
-思ってるんです……。|system_theater_023aka_contact_003_1_023aka^ニャー！　
+更加WonderHo！的方法哦。|system_theater_022ser_contact_003_1_022ser^爸爸
+还觉得我
+是个孩子呢……|system_theater_023aka_contact_003_1_023aka^ニャー！　
 茜ちゃんのプリンがない～！
 大切にしまっといたのに！|system_theater_024ann_contact_003_1_024ann^杏奈，喜欢的网游……
 现在……正在举办，大型活动……|system_theater_025roc_contact_003_1_025roc^{$P$}、
@@ -2185,9 +2185,9 @@ DVD、見たってホント？|system_theater_050jul_contact_001_1_050jul^ここ
 投げ技は、私の美学ですから！|system_theater_020meg_contact_003_2_020meg^よく注意されるんだけど、
 アタシ的には
 普通にしてるつもりなんだよねー。|system_theater_021mat_contact_003_2_021mat^在剧场周围造出森林和湖泊，
-然后在庭院里还要养马的说！|system_theater_022ser_contact_003_2_022ser^わたしだって、一人前の
-アイドルなんです。そんなに
-心配しなくても、大丈夫ですよね？|system_theater_023aka_contact_003_2_023aka^犯人は茜ちゃん人形の材料にして
+然后在庭院里还要养马的说！|system_theater_022ser_contact_003_2_022ser^我也是个独当一面的偶像了。
+算不用那么担心，
+也没问题的吧？|system_theater_023aka_contact_003_2_023aka^犯人は茜ちゃん人形の材料にして
 やるー！　{$P$}
 ちゃんも手伝って！|system_theater_024ann_contact_003_2_024ann^报酬，很丰富……
 不能输……
@@ -2277,8 +2277,8 @@ DVD、見たってホント？|system_theater_050jul_contact_001_1_050jul^ここ
 頭にいれなくちゃ……！|system_theater_018ele_touch_027_018ele^跳舞的话，我也是不会输的哟——！|system_theater_019min_touch_027_019min^難しそうですけど、
 頑張って練習しなくちゃ。|system_theater_020meg_touch_027_020meg^像这种的，
 光是看着就能学到不少呢。|system_theater_021mat_touch_027_021mat^茉莉随时都准备OK！
-的说♪|system_theater_022ser_touch_027_022ser^みなさんのダンスを見ていると、
-勉強になります！|system_theater_023aka_touch_027_023aka^フッ……茜ちゃんは
+的说♪|system_theater_022ser_touch_027_022ser^看着大家的舞蹈，
+真是受益匪浅！|system_theater_023aka_touch_027_023aka^フッ……茜ちゃんは
 もうマスターしたよ。だいたい！|system_theater_024ann_touch_027_024ann^杏奈，也能像这样……
 就好了……|system_theater_025roc_touch_027_025roc^ふたりのダンス、
 アメイジングです♪|system_theater_026yur_touch_027_026yur^私も頑張れば、
@@ -2320,7 +2320,7 @@ Nice dance♪　Nice rhythm♪|system_theater_035hin_touch_027_035hin^大家都�
 水分補給できてるかな？|system_theater_018ele_touch_028_018ele^出了汗，
 就会想喝冷饮呢！|system_theater_019min_touch_028_019min^{$P$}さんも、
 飲みますか？|system_theater_020meg_touch_028_020meg^浑身是汗……
-不喝点东西可真撑不住呢～|system_theater_021mat_touch_028_021mat^公主也想要甜甜的果汁的说。|system_theater_022ser_touch_028_022ser^ノドが、かわいちゃいました。|system_theater_023aka_touch_028_023aka^{$P$}ちゃんも
+不喝点东西可真撑不住呢～|system_theater_021mat_touch_028_021mat^公主也想要甜甜的果汁的说。|system_theater_022ser_touch_028_022ser^喉咙有点渴了呢。|system_theater_023aka_touch_028_023aka^{$P$}ちゃんも
 飲みたかったりする？|system_theater_024ann_touch_028_024ann^回复道具，Get……
 味道，不错。|system_theater_025roc_touch_028_025roc^レッスンに水分補給はマストです！|system_theater_026yur_touch_028_026yur^はぁ……まさに
 砂漠のオアシスですね……。|system_theater_027say_touch_028_027say^活过来了！
@@ -2357,8 +2357,8 @@ Nice dance♪　Nice rhythm♪|system_theater_035hin_touch_027_035hin^大家都�
 一緒に休憩しましょ～♪|system_theater_017kth_touch_029_017kth^休憩が終わったら、次は……。|system_theater_018ele_touch_029_018ele^没事的！我还能继续活动哟——。|system_theater_019min_touch_029_019min^ちょっと、
 張り切りすぎちゃいましたかねー。|system_theater_020meg_touch_029_020meg^啊——，累死了。
 能让我再多歇一下吗？|system_theater_021mat_touch_029_021mat^腿好累的说。……可以吗？
-{$P$}先生。……可以吧？|system_theater_022ser_touch_029_022ser^ちょっと疲れたけど、
-まだ頑張れます！|system_theater_023aka_touch_029_023aka^あ……茜ちゃんは、
+{$P$}先生。……可以吧？|system_theater_022ser_touch_029_022ser^有点累了，
+但还能继续努力！|system_theater_023aka_touch_029_023aka^あ……茜ちゃんは、
 まだまだ全然ヨユーだけど～？|system_theater_024ann_touch_029_024ann^杏奈，Hit Point……
 正在……回复中。|system_theater_025roc_touch_029_025roc^さ、サボタージュじゃないですよ！？
 リフレッシュです！|system_theater_026yur_touch_029_026yur^ちょっと休憩……
@@ -2401,8 +2401,8 @@ Nice dance♪　Nice rhythm♪|system_theater_035hin_touch_027_035hin^大家都�
 要好好做热身运动呢！|system_theater_019min_touch_030_019min^次のライブは
 大活躍してみせますよー！|system_theater_020meg_touch_030_020meg^只要有伙伴在一起，
 我就能一直努力下去哦。|system_theater_021mat_touch_030_021mat^公主干劲满满的说。
-现在是充满激情的茉莉。|system_theater_022ser_touch_030_022ser^見てください。身体、だいぶ
-やわらかくなってきました！|system_theater_023aka_touch_030_023aka^今度のライブで
+现在是充满激情的茉莉。|system_theater_022ser_touch_030_022ser^看，
+身体已经变得相当柔软了！|system_theater_023aka_touch_030_023aka^今度のライブで
 本気出しちゃおっかなー♪|system_theater_024ann_touch_030_024ann^提升经验值，很重要……
 所以，要加油……|system_theater_025roc_touch_030_025roc^ライブのアイディア、
 どんどんわいてきます！|system_theater_026yur_touch_030_026yur^少しずつですが、
@@ -2434,7 +2434,7 @@ Let's dance吧！嘿嘿♪|system_theater_035hin_touch_030_035hin^学习新东�
 この時間が好きなんです♪|system_theater_001har_common_012_001har^んしょ……あいたたたぁ……。|system_theater_002chi_common_012_002chi^ふっ……。|system_theater_003mik_common_012_003mik^嘿咻……的说。|system_theater_004yuk_common_012_004yuk^ううっ、う～ん……！|system_theater_005yay_common_012_005yay^う～～～。|system_theater_006mak_common_012_006mak^イチ、ニッ……と！|system_theater_007ior_common_012_007ior^んー！　
 もうちょっと強くてもいいわよ？|system_theater_008tak_common_012_008tak^はっ……！|system_theater_009rit_common_012_009rit^いたたた……！
 も、もう少し、優しく……。|system_theater_010azu_common_012_010azu^ん～……よいっしょっと……。|system_theater_011ami_common_012_011ami^いっちにっ、さーんほいっ！|system_theater_012mam_common_012_012mam^んっ、ふっ、ふ～っ！|system_theater_013hib_common_012_013hib^咕……还差一点……|system_theater_014mir_common_012_014mir^うう～っ……。
-私、体かたいのかな？|system_theater_015siz_common_012_015siz^も、もう少し……う～ん……。|system_theater_016tsu_common_012_016tsu^せーのっ……と。|system_theater_017kth_common_012_017kth^まだできるはず……う～ん……！|system_theater_018ele_common_012_018ele^うぅ～ん…これでどう…カナ？|system_theater_019min_common_012_019min^準備は入念に…ですね！|system_theater_020meg_common_012_020meg^こんなもんかな…っと。|system_theater_021mat_common_012_021mat^要伸长的说。ExpandHo——！|system_theater_022ser_common_012_022ser^う～～～ん！|system_theater_023aka_common_012_023aka^茜ちゃんのことは
+私、体かたいのかな？|system_theater_015siz_common_012_015siz^も、もう少し……う～ん……。|system_theater_016tsu_common_012_016tsu^せーのっ……と。|system_theater_017kth_common_012_017kth^まだできるはず……う～ん……！|system_theater_018ele_common_012_018ele^うぅ～ん…これでどう…カナ？|system_theater_019min_common_012_019min^準備は入念に…ですね！|system_theater_020meg_common_012_020meg^こんなもんかな…っと。|system_theater_021mat_common_012_021mat^要伸长的说。ExpandHo——！|system_theater_022ser_common_012_022ser^嗯～～～！|system_theater_023aka_common_012_023aka^茜ちゃんのことは
 優しく扱ってぇ～！|system_theater_024ann_common_012_024ann^呜呜，好痛心……|system_theater_025roc_common_012_025roc^うう～、もう少しジェントルに
 お願いします～。|system_theater_026yur_common_012_026yur^んーっ、
 すみませ、体、かた、くてっ！|system_theater_027say_common_012_027say^これぐらい……っ！
@@ -2517,9 +2517,9 @@ Let's dance吧！嘿嘿♪|system_theater_035hin_touch_030_035hin^学习新东�
 再稍微卷一点的话，
 会不会更可爱呢～？|system_theater_021mat_touch_shs_001_021mat^咕噜灵～！　……刚才那是，
 把头发打理得漂亮的魔法的说！
-想要公主为你施展吗？|system_theater_022ser_touch_shs_001_022ser^あ、{$P$}さん！
-髪型、ちゃんとできてますか？
-どこか変だったら教えてください。|system_theater_023aka_touch_shs_001_023aka^ギニャー！？　こ、この髪型は調整
+想要公主为你施展吗？|system_theater_022ser_touch_shs_001_022ser^啊，{$P$}先生！
+我的发型弄好了吗？
+如果有哪里奇怪请告诉我。|system_theater_023aka_touch_shs_001_023aka^ギニャー！？　こ、この髪型は調整
 中で……まだその時ではないのだ、　
 {$P$}ちゃん！|system_theater_024ann_touch_shs_001_024ann^就算，梳了双马尾……
 侧边的头发，也好好留了……
@@ -4565,8 +4565,8 @@ Honey，那里不行的说……
 どっちもいいんだよな。|system_unique_047sub_loop_006_047sub^右の方が女の子っぽいかなー
 あ、やっぱ左かな？
 う～、じゃあ両方！|system_unique_049mom_loop_006_049mom^ロコさんの好きな方でいいよ。
-桃子、どっちも好きだから。|system_unique_022ser_touch_004_022ser^{$P$}さんも
-『せーふく』しちゃいます♪|system_unique_024ann_touch_004_024ann^……杏奈たちが……
+桃子、どっちも好きだから。|system_unique_022ser_touch_004_022ser^{$P$}先生也来
+『制服』一下♪|system_unique_024ann_touch_004_024ann^……杏奈たちが……
 『せんのー』しちゃう、よ♪|system_unique_035hin_touch_004_035hin^ありゃ、見てたのかい？
 ちょっこし恥ずかしいべさ……。|system_unique_040tam_touch_004_040tam^たまきうちゅうじんだぞ！
 おやぶんも一緒にあそぼ～！|system_unique_014mir_touch_006_014mir^琴葉ちゃんにいっぱい教えて
@@ -4605,9 +4605,9 @@ Honey，那里不行的说……
 もうちょっとで完成なのです。
 ぐつぐつ、ぐつぐつ…。|system_unique_013hib_touch_009_013hib^う、うわあ！？
 なんかスゴい色してるけど、
-本当に食べられるの…？|system_unique_022ser_touch_009_022ser^なんだか、お鍋がブクブク
-いってます…。魔法使いさんの
-あやしいお薬じゃないですよね？|system_unique_049mom_touch_009_049mom^ね、ねえお兄ちゃん。
+本当に食べられるの…？|system_unique_022ser_touch_009_022ser^锅好像咕嘟咕嘟地冒着泡呢
+……这不是魔法师的
+那种可疑的药吧？|system_unique_049mom_touch_009_049mom^ね、ねえお兄ちゃん。
 これ本当に、桃子たちが味見するの？|system_unique_047sub_touch_009_047sub^うわ～、すっげー！　でもさ、
 煮込むんだったら、もうちょっと
 火力抑えたほうがいいんじゃないか？|system_unique_032emi_touch_009_032emi^し、仕掛け人さま、大変です！
@@ -4669,14 +4669,14 @@ Honey，那里不行的说……
 みんなで盛り上がれそうだよ♪|system_unique_034ayu_loop_012_034ayu^こんな感じに担ぐのが、
 一番クールなんだ！|system_unique_029umi_loop_012_029umi^うんうん！
 バッチリ似合ってるよ、歩！|system_unique_042miy_loop_013_042miy^ひそひそ…ですな～。|system_unique_045kar_loop_013_045kar^こそこそ…かな。
-えへへ♪|system_unique_035hin_loop_013_035hin^ごにょごにょ…だねえ。|system_unique_022ser_loop_013_022ser^こしょこしょ…です♪
-ふふ♪|system_unique_042miy_touch_013_042miy^びっくりしました～。
+えへへ♪|system_unique_035hin_loop_013_035hin^ごにょごにょ…だねえ。|system_unique_022ser_loop_013_022ser^窃窃私语……的说♪
+呵呵♪|system_unique_042miy_touch_013_042miy^びっくりしました～。
 聞かれてしまったでしょうか～？
 む～ん。|system_unique_045kar_touch_013_045kar^え、えっと…今のは
 …な、内緒で
 お願いします……！|system_unique_035hin_touch_013_035hin^ありゃあ…星梨花ちゃん
-聞かれてたかもだねえ…。|system_unique_022ser_touch_013_022ser^今、ひなたさんと……
-えへへ……秘密です♪|system_unique_033sih_loop_014_033sih^僕と、結婚してください。|system_unique_052kao_loop_014_052kao^僕の心、受け取ってくれるね？|system_unique_021mat_loop_014_021mat^ほら。君にだけ、特別だ。|system_unique_017kth_loop_014_017kth^これが……僕の気持ちだよ。|system_unique_033sih_touch_014_033sih^{$P$}さん、
+聞かれてたかもだねえ…。|system_unique_022ser_touch_013_022ser^现在，我要和日向小姐……
+欸嘿嘿……是秘密♪|system_unique_033sih_loop_014_033sih^僕と、結婚してください。|system_unique_052kao_loop_014_052kao^僕の心、受け取ってくれるね？|system_unique_021mat_loop_014_021mat^ほら。君にだけ、特別だ。|system_unique_017kth_loop_014_017kth^これが……僕の気持ちだよ。|system_unique_033sih_touch_014_033sih^{$P$}さん、
 バラを渡したことがありますか？
 いえ、なければいいです。|system_unique_052kao_touch_014_052kao^{$P$}さん、
 誰にバラを渡しますか？
@@ -4796,9 +4796,9 @@ Honey，那里不行的说……
 楽しみですな～。|system_unique_049mom_loop_032_049mom^今日は『甘い月』の日だから、
 遅れたらダメだよ。|system_unique_052kao_loop_032_052kao^『貝殻のお菓子』を持ってきたの。
 ふふ、楽しみね♪|system_unique_014mir_loop_032_014mir^け…じゃなくて、生…でもなくて、
-えっと…冷蔵庫に入ってます！|system_unique_022ser_touch_029_022ser^今、みんながわたしの絵を
-描いてくれているんです！
-できあがりが楽しみです！|system_unique_010azu_touch_029_010azu^じっとしているのって、
+えっと…冷蔵庫に入ってます！|system_unique_022ser_touch_029_022ser^现在，大家都在为我
+画画呢！
+我很期待完成后的样子！|system_unique_010azu_touch_029_010azu^じっとしているのって、
 けっこう大変ですね……
 眠くなってしまいそうです……。|system_unique_029umi_touch_029_029umi^うずうず、うずうず……！
 ダメーっ、動きたくなるよーっ！|system_unique_025roc_loop_033_025roc^楽しくドローイングすることが、
@@ -4981,19 +4981,18 @@ Roco非常欢迎哦！|system_photo_026yur_order_hg_bday_00_026yur^等、等一�
 {$P$}だけに
 見せてあげる……なんてね♪|system_photo_023aka_order_hg_bday_00_023aka^最高に可愛い茜ちゃんを撮って…
 {$P$}ちゃんの
-お守りにしてもいいんだぞ☆|system_photo_001har_order_lop_duo_00_001har^一緒に……仲良く。|system_photo_002chi_order_lop_duo_00_002chi^一緒に頑張りましょう。|system_photo_003mik_order_lop_duo_00_003mik^在一起的话就能努力。|system_photo_004yuk_order_lop_duo_00_004yuk^一緒に……がんばりますぅ。|system_photo_005yay_order_lop_duo_00_005yay^一緒に撮れてうれしいですー！|system_photo_006mak_order_lop_duo_00_006mak^ふたりなら、大丈夫だよ！|system_photo_007ior_order_lop_duo_00_007ior^どう？　一緒に……ふふっ。|system_photo_008tak_order_lop_duo_00_008tak^共に参りましょう。|system_photo_009rit_order_lop_duo_00_009rit^一緒に、ふふっ。|system_photo_010azu_order_lop_duo_00_010azu^一緒に……頑張ります♪|system_photo_011ami_order_lop_duo_00_011ami^一緒に楽しくー！|system_photo_012mam_order_lop_duo_00_012mam^一緒にやっぴょーん！|system_photo_013hib_order_lop_duo_00_013hib^一緒に、楽しく！|system_photo_014mir_order_lop_duo_00_014mir^決めちゃいますよー！|system_photo_015siz_order_lop_duo_00_015siz^ふたりで、団結して……。|system_photo_016tsu_order_lop_duo_00_016tsu^バッチリでしょ？|system_photo_017kth_order_lop_duo_00_017kth^ふたりで……気持ちを合わせて。|system_photo_018ele_order_lop_duo_00_018ele^一緒だと、楽しいネっ♪|system_photo_019min_order_lop_duo_00_019min^息、ぴったり！|system_photo_020meg_order_lop_duo_00_020meg^一緒にキメるよ～！|system_photo_021mat_order_lop_duo_00_021mat^一緒に、魔法をかけるのです！|system_photo_022ser_order_lop_duo_00_022ser^ふたりで…はい！|system_photo_023aka_order_lop_duo_00_023aka^アイドルパワー、
+お守りにしてもいいんだぞ☆|system_photo_001har_order_lop_duo_00_001har^一緒に……仲良く。|system_photo_002chi_order_lop_duo_00_002chi^一緒に頑張りましょう。|system_photo_003mik_order_lop_duo_00_003mik^在一起的话就能努力。|system_photo_004yuk_order_lop_duo_00_004yuk^一緒に……がんばりますぅ。|system_photo_005yay_order_lop_duo_00_005yay^一緒に撮れてうれしいですー！|system_photo_006mak_order_lop_duo_00_006mak^ふたりなら、大丈夫だよ！|system_photo_007ior_order_lop_duo_00_007ior^どう？　一緒に……ふふっ。|system_photo_008tak_order_lop_duo_00_008tak^共に参りましょう。|system_photo_009rit_order_lop_duo_00_009rit^一緒に、ふふっ。|system_photo_010azu_order_lop_duo_00_010azu^一緒に……頑張ります♪|system_photo_011ami_order_lop_duo_00_011ami^一緒に楽しくー！|system_photo_012mam_order_lop_duo_00_012mam^一緒にやっぴょーん！|system_photo_013hib_order_lop_duo_00_013hib^一緒に、楽しく！|system_photo_014mir_order_lop_duo_00_014mir^決めちゃいますよー！|system_photo_015siz_order_lop_duo_00_015siz^ふたりで、団結して……。|system_photo_016tsu_order_lop_duo_00_016tsu^バッチリでしょ？|system_photo_017kth_order_lop_duo_00_017kth^ふたりで……気持ちを合わせて。|system_photo_018ele_order_lop_duo_00_018ele^一緒だと、楽しいネっ♪|system_photo_019min_order_lop_duo_00_019min^息、ぴったり！|system_photo_020meg_order_lop_duo_00_020meg^一緒にキメるよ～！|system_photo_021mat_order_lop_duo_00_021mat^一緒に、魔法をかけるのです！|system_photo_022ser_order_lop_duo_00_022ser^两个人……好的！|system_photo_023aka_order_lop_duo_00_023aka^アイドルパワー、
 2倍なのだ～！|system_photo_024ann_order_lop_duo_00_024ann^一緒にビビッとキメよう♪|system_photo_025roc_order_lop_duo_00_025roc^シンクロナイズしましょう！|system_photo_026yur_order_lop_duo_00_026yur^ふたりなら、何も怖くないです。|system_photo_027say_order_lop_duo_00_027say^息を合わせましょう！|system_photo_028ari_order_lop_duo_00_028ari^ああ～……
 ありさ、幸せです～♪|system_photo_029umi_order_lop_duo_00_029umi^息、ピッタリだね！|system_photo_030iku_order_lop_duo_00_030iku^ばっちりキマったね！|system_photo_031tom_order_lop_duo_00_031tom^ふたりで、
 魅了しますよ～♪|system_photo_032emi_order_lop_duo_00_032emi^これもまた、和の心です。|system_photo_033sih_order_lop_duo_00_033sih^息、あってますか？|system_photo_034ayu_order_lop_duo_00_034ayu^一緒に、イエーイ！|system_photo_035hin_order_lop_duo_00_035hin^おそろいだよぉ。|system_photo_036kan_order_lop_duo_00_036kan^デュオで笑顔～♪　えいえいお～♪|system_photo_037nao_order_lop_duo_00_037nao^ふたりやと楽しいな♪|system_photo_038chz_order_lop_duo_00_038chz^いい感じに、合いましたわね。|system_photo_039kon_order_lop_duo_00_039kon^ウフフ、息ピッタリね！|system_photo_040tam_order_lop_duo_00_040tam^いくぞ～！　とりゃ～！|system_photo_041fuk_order_lop_duo_00_041fuk^うまくできました♪|system_photo_042miy_order_lop_duo_00_042miy^ふたりで、ですね～。|system_photo_043nor_order_lop_duo_00_043nor^どう？　いけてる？|system_photo_044miz_order_lop_duo_00_044miz^息ピッタリです。……いぇい。|system_photo_045kar_order_lop_duo_00_045kar^これで、合ってますか……？|system_photo_046rio_order_lop_duo_00_046rio^私たち、いい感じ♪|system_photo_047sub_order_lop_duo_00_047sub^どう？　息、合ってる？|system_photo_048rei_order_lop_duo_00_048rei^素敵な写真になりそうですね！|system_photo_049mom_order_lop_duo_00_049mom^ばっちりだね！|system_photo_050jul_order_lop_duo_00_050jul^ウチらに任せな！|system_photo_051tmg_order_lop_duo_00_051tmg^ふたり、共に参ります。|system_photo_052kao_order_lop_duo_00_052kao^ふたり揃って……いかがですか？|system_photo_001har_start_bow_00_001har^撮影、よろしくお願いします！|system_photo_002chi_start_bow_00_002chi^拍摄，请多多指教。|system_photo_003mik_start_bow_00_003mik^拜托了的说☆|system_photo_004yuk_start_bow_00_004yuk^撮影、よろしくお願いしますぅ！|system_photo_005yay_start_bow_00_005yay^よろしくおねがいしまーす！|system_photo_006mak_start_bow_00_006mak^撮影、よろしくお願いしますっ！|system_photo_007ior_start_bow_00_007ior^さあ、キレイに撮ってよね♪|system_photo_008tak_start_bow_00_008tak^撮影、お願いいたします。|system_photo_009rit_start_bow_00_009rit^それじゃ、
-よろしくお願いしますね！|system_photo_010azu_start_bow_00_010azu^よろしくお願いしますね～。|system_photo_011ami_start_bow_00_011ami^れっつ！　フォーカスチャンス！|system_photo_012mam_start_bow_00_012mam^激写ターイム！　よろよろ～！|system_photo_013hib_start_bow_00_013hib^撮影、よろしくねっ！|system_photo_014mir_start_bow_00_014mir^よろしくお願いしまーす♪|system_photo_015siz_start_bow_00_015siz^拍摄，请多多指教。|system_photo_016tsu_start_bow_00_016tsu^撮影、よろしくお願いしま～す♪|system_photo_017kth_start_bow_00_017kth^拍摄，请多多指教。|system_photo_018ele_start_bow_00_018ele^撮影、よろしくネっ♪|system_photo_019min_start_bow_00_019min^撮影、よろしくお願いします！|system_photo_020meg_start_bow_00_020meg^やっほ！　よろしくね！|system_photo_021mat_start_bow_00_021mat^撮影、よろしくなのです♪|system_photo_022ser_start_bow_00_022ser^撮影、がんばります！|system_photo_023aka_start_bow_00_023aka^撮影、よろしくね♪|system_photo_024ann_start_bow_00_024ann^撮影、よろしくお願いします！|system_photo_025roc_start_bow_00_025roc^撮影、お願いしますね♪|system_photo_026yur_start_bow_00_026yur^よろしくお願いします！|system_photo_027say_start_bow_00_027say^よろしく、お願いしますっ！|system_photo_028ari_start_bow_00_028ari^撮影、よろしくお願いしますっ！|system_photo_029umi_start_bow_00_029umi^よろしくお願いしまーす！|system_photo_030iku_start_bow_00_030iku^グラビアさつえいだね。
+よろしくお願いしますね！|system_photo_010azu_start_bow_00_010azu^よろしくお願いしますね～。|system_photo_011ami_start_bow_00_011ami^れっつ！　フォーカスチャンス！|system_photo_012mam_start_bow_00_012mam^激写ターイム！　よろよろ～！|system_photo_013hib_start_bow_00_013hib^撮影、よろしくねっ！|system_photo_014mir_start_bow_00_014mir^よろしくお願いしまーす♪|system_photo_015siz_start_bow_00_015siz^拍摄，请多多指教。|system_photo_016tsu_start_bow_00_016tsu^撮影、よろしくお願いしま～す♪|system_photo_017kth_start_bow_00_017kth^拍摄，请多多指教。|system_photo_018ele_start_bow_00_018ele^撮影、よろしくネっ♪|system_photo_019min_start_bow_00_019min^撮影、よろしくお願いします！|system_photo_020meg_start_bow_00_020meg^やっほ！　よろしくね！|system_photo_021mat_start_bow_00_021mat^撮影、よろしくなのです♪|system_photo_022ser_start_bow_00_022ser^摄影，我会加油的！|system_photo_023aka_start_bow_00_023aka^撮影、よろしくね♪|system_photo_024ann_start_bow_00_024ann^撮影、よろしくお願いします！|system_photo_025roc_start_bow_00_025roc^撮影、お願いしますね♪|system_photo_026yur_start_bow_00_026yur^よろしくお願いします！|system_photo_027say_start_bow_00_027say^よろしく、お願いしますっ！|system_photo_028ari_start_bow_00_028ari^撮影、よろしくお願いしますっ！|system_photo_029umi_start_bow_00_029umi^よろしくお願いしまーす！|system_photo_030iku_start_bow_00_030iku^グラビアさつえいだね。
 まかせて！|system_photo_031tom_start_bow_00_031tom^聖母の撮影を、許可しますよ～。|system_photo_032emi_start_bow_00_032emi^撮影ですね。
 いざ、参ります！|system_photo_033sih_start_bow_00_033sih^拍摄，请多多指教。|system_photo_034ayu_start_bow_00_034ayu^へへっ、撮影よろしくっ！|system_photo_035hin_start_bow_00_035hin^よろしくお願いします。|system_photo_036kan_start_bow_00_036kan^よろしくお願いしまーす♪|system_photo_037nao_start_bow_00_037nao^よろしくお願いしま～す！|system_photo_038chz_start_bow_00_038chz^撮影、よろしく
 お願いいたしますわ！|system_photo_039kon_start_bow_00_039kon^よろしくね、
 {$P$}!|system_photo_040tam_start_bow_00_040tam^たまき、がんばるぞ～！|system_photo_041fuk_start_bow_00_041fuk^拍摄，请多多指教。|system_photo_042miy_start_bow_00_042miy^撮影、頑張りましょう～。|system_photo_043nor_start_bow_00_043nor^よろしく、
 {$P$}！|system_photo_044miz_start_bow_00_044miz^よろしくお願いします。|system_photo_045kar_start_bow_00_045kar^さ、撮影、お願いします……！|system_photo_046rio_start_bow_00_046rio^撮影よろしくね♪|system_photo_047sub_start_bow_00_047sub^撮影、よろしくな！|system_photo_048rei_start_bow_00_048rei^撮影、楽しみましょう！|system_photo_049mom_start_bow_00_049mom^撮影よろしくね、お兄ちゃん。|system_photo_050jul_start_bow_00_050jul^撮影、よろしくな！|system_photo_051tmg_start_bow_00_051tmg^よろしくお願いいたします。|system_photo_052kao_start_bow_00_052kao^よろしくお願いしますね。|system_photo_001har_order_lop_sol_00_001har^かわいくですね！　えへへっ♪|system_photo_002chi_order_lop_sol_00_002chi^こんな感じ、でしょうか。|system_photo_003mik_order_lop_sol_00_003mik^啊哈☆|system_photo_004yuk_order_lop_sol_00_004yuk^明るく、笑顔……ですぅ！|system_photo_005yay_order_lop_sol_00_005yay^かわいく……いぇい！|system_photo_006mak_order_lop_sol_00_006mak^かわいく……きゅん♪|system_photo_007ior_order_lop_sol_00_007ior^かわいく、ね。にひひっ♪|system_photo_008tak_order_lop_sol_00_008tak^……ふふっ♪|system_photo_009rit_order_lop_sol_00_009rit^かわいく、ですね。
 どうぞ。|system_photo_010azu_order_lop_sol_00_010azu^かわいく、ですね♪|system_photo_011ami_order_lop_sol_00_011ami^かわいく、だね！|system_photo_012mam_order_lop_sol_00_012mam^きゃわわだね♪|system_photo_013hib_order_lop_sol_00_013hib^ふふん、どう？|system_photo_014mir_order_lop_sol_00_014mir^笑顔で、ですね♪|system_photo_015siz_order_lop_sol_00_015siz^かわいく、ですね。|system_photo_016tsu_order_lop_sol_00_016tsu^笑顔で、えへへ♪|system_photo_017kth_order_lop_sol_00_017kth^自然に、笑わなくちゃ……。|system_photo_018ele_order_lop_sol_00_018ele^元気に行くヨ～♪|system_photo_019min_order_lop_sol_00_019min^スマイルが一番ですよね♪|system_photo_020meg_order_lop_sol_00_020meg^カワイイっしょ？|system_photo_021mat_order_lop_sol_00_021mat^とびきり・きゅーと！
-なのです♪|system_photo_022ser_order_lop_sol_00_022ser^かわいく
-できてますか？|system_photo_023aka_order_lop_sol_00_023aka^ああ。カワイイは、罪！|system_photo_024ann_order_lop_sol_00_024ann^ビビッとキュートに！|system_photo_025roc_order_lop_sol_00_025roc^どうです、チャーミングですか？|system_photo_026yur_order_lop_sol_00_026yur^笑顔……笑顔……。|system_photo_027say_order_lop_sol_00_027say^自然な笑顔で……
+なのです♪|system_photo_022ser_order_lop_sol_00_022ser^做得可爱吗？|system_photo_023aka_order_lop_sol_00_023aka^ああ。カワイイは、罪！|system_photo_024ann_order_lop_sol_00_024ann^ビビッとキュートに！|system_photo_025roc_order_lop_sol_00_025roc^どうです、チャーミングですか？|system_photo_026yur_order_lop_sol_00_026yur^笑顔……笑顔……。|system_photo_027say_order_lop_sol_00_027say^自然な笑顔で……
 ふふっ。|system_photo_028ari_order_lop_sol_00_028ari^アイドルスマイル！　ムフフ♪|system_photo_029umi_order_lop_sol_00_029umi^全力で…かわいく！！|system_photo_030iku_order_lop_sol_00_030iku^かわいく撮ってね！|system_photo_031tom_order_lop_sol_00_031tom^聖母の微笑みですよ～。|system_photo_032emi_order_lop_sol_00_032emi^私、笑えていますか？|system_photo_033sih_order_lop_sol_00_033sih^かわいく、ですね。|system_photo_034ayu_order_lop_sol_00_034ayu^はい、スマイル、っと！|system_photo_035hin_order_lop_sol_00_035hin^かわいく、
 できてるかい？|system_photo_036kan_order_lop_sol_00_036kan^ルンルン、スマイル～♪
 いざ参る～♪|system_photo_037nao_order_lop_sol_00_037nao^かわいく、かわいく……えへ♪|system_photo_038chz_order_lop_sol_00_038chz^セレブらしく、上品に。|system_photo_039kon_order_lop_sol_00_039kon^どう、アイドルらしいかしら？|system_photo_040tam_order_lop_sol_00_040tam^笑顔だぞ～、くふふ♪|system_photo_041fuk_order_lop_sol_00_041fuk^正統派アイドルって感じです♪|system_photo_042miy_order_lop_sol_00_042miy^笑顔ですよ～。お～。|system_photo_043nor_order_lop_sol_00_043nor^カワいく……できてるかな。|system_photo_044miz_order_lop_sol_00_044miz^かわいく、ですね。
@@ -5002,7 +5001,7 @@ Roco非常欢迎哦！|system_photo_026yur_order_hg_bday_00_026yur^等、等一�
 ……キメすぎ？|system_photo_010azu_order_lop_sol_01_010azu^気を引き締めて……
 どうでしょう？|system_photo_011ami_order_lop_sol_01_011ami^決め決めの、キメッ！|system_photo_012mam_order_lop_sol_01_012mam^フッ……惚れるなよ？|system_photo_013hib_order_lop_sol_01_013hib^カッコいいでしょ？|system_photo_014mir_order_lop_sol_01_014mir^キリッ。
 …えへへ、どうですか？|system_photo_015siz_order_lop_sol_01_015siz^まかせてください。|system_photo_016tsu_order_lop_sol_01_016tsu^キマってますか～？|system_photo_017kth_order_lop_sol_01_017kth^これで、どうでしょう？|system_photo_018ele_order_lop_sol_01_018ele^クールに決めるヨ！|system_photo_019min_order_lop_sol_01_019min^クールな私、どうですか？|system_photo_020meg_order_lop_sol_01_020meg^カッコよく……どう？|system_photo_021mat_order_lop_sol_01_021mat^みらくる・くーる！
-なのです！|system_photo_022ser_order_lop_sol_01_022ser^かっこよく…！|system_photo_023aka_order_lop_sol_01_023aka^フッ……茜ちゃんは
+なのです！|system_photo_022ser_order_lop_sol_01_022ser^帅气地……！|system_photo_023aka_order_lop_sol_01_023aka^フッ……茜ちゃんは
 いつだってクールなのさ。|system_photo_024ann_order_lop_sol_01_024ann^カッコよく、イェイ♪|system_photo_025roc_order_lop_sol_01_025roc^フフ、クールに決めてみました！|system_photo_026yur_order_lop_sol_01_026yur^風の戦士を
 イメージしてみました。|system_photo_027say_order_lop_sol_01_027say^クールに……こうですか？|system_photo_028ari_order_lop_sol_01_028ari^ありさなりの、
 カッコイイポーズです！|system_photo_029umi_order_lop_sol_01_029umi^全力で…カッコよく！！|system_photo_030iku_order_lop_sol_01_030iku^カッコいいのも、得意だよ！|system_photo_031tom_order_lop_sol_01_031tom^見とれることを許します～♪|system_photo_032emi_order_lop_sol_01_032emi^凛々しく！|system_photo_033sih_order_lop_sol_01_033sih^クールに、ですね。|system_photo_034ayu_order_lop_sol_01_034ayu^へへっ♪　キマってるだろ？|system_photo_035hin_order_lop_sol_01_035hin^カッコイイべさ！|system_photo_036kan_order_lop_sol_01_036kan^わ、私…カッコいいですか？|system_photo_037nao_order_lop_sol_01_037nao^カッコつけてみました！
@@ -5014,8 +5013,7 @@ Roco非常欢迎哦！|system_photo_026yur_order_hg_bday_00_026yur^等、等一�
 いい？　もっと？|system_photo_050jul_order_lop_sol_01_050jul^こういうのは任せろ！|system_photo_051tmg_order_lop_sol_01_051tmg^凛として……いかがです。|system_photo_052kao_order_lop_sol_01_052kao^カッコよく……どうですか？|system_photo_001har_order_lop_sol_02_001har^セクシーに……できてますか？|system_photo_002chi_order_lop_sol_02_002chi^せ、セクシー……くっ。|system_photo_003mik_order_lop_sol_02_003mik^要好好感受美希哦？|system_photo_004yuk_order_lop_sol_02_004yuk^せ、セクシーっ！　……すみません。|system_photo_005yay_order_lop_sol_02_005yay^こ、こんな感じですかー？|system_photo_006mak_order_lop_sol_02_006mak^フェロモン、出てますよね！|system_photo_007ior_order_lop_sol_02_007ior^こんな感じかしら……？|system_photo_008tak_order_lop_sol_02_008tak^はい、妖艶に……。|system_photo_009rit_order_lop_sol_02_009rit^セクシー……
 って言われても。|system_photo_010azu_order_lop_sol_02_010azu^セクシーに……うふふっ♪|system_photo_011ami_order_lop_sol_02_011ami^うっふ～ん、色っポイぃ～ん♪|system_photo_012mam_order_lop_sol_02_012mam^ちょっとダケよ～ん♪|system_photo_013hib_order_lop_sol_02_013hib^カンペキさー！|system_photo_014mir_order_lop_sol_02_014mir^よくわかんないけど、
 こんな感じですか？|system_photo_015siz_order_lop_sol_02_015siz^もう、子どもじゃないですから。|system_photo_016tsu_order_lop_sol_02_016tsu^グッときました？|system_photo_017kth_order_lop_sol_02_017kth^やっぱり、恥ずかしいです……。|system_photo_018ele_order_lop_sol_02_018ele^セクシーに……ハイ♪|system_photo_019min_order_lop_sol_02_019min^せ、セクシーですか？|system_photo_020meg_order_lop_sol_02_020meg^セクシーに撮ってよ～？|system_photo_021mat_order_lop_sol_02_021mat^オトナなまつりを
-見たいのです？|system_photo_022ser_order_lop_sol_02_022ser^セクシーに
-なってますか？|system_photo_023aka_order_lop_sol_02_023aka^いまのセクシーは、
+見たいのです？|system_photo_022ser_order_lop_sol_02_022ser^变得性感了吗？|system_photo_023aka_order_lop_sol_02_023aka^いまのセクシーは、
 本気の半分だよ！|system_photo_024ann_order_lop_sol_02_024ann^セクシー…
 こんな感じ？|system_photo_025roc_order_lop_sol_02_025roc^こ、これで…いいの？|system_photo_026yur_order_lop_sol_02_026yur^{$P$}さんも
 ドキドキしてますか？|system_photo_027say_order_lop_sol_02_027say^わ、私なりのセクシーです！|system_photo_028ari_order_lop_sol_02_028ari^や、やっぱりコレ、
@@ -5031,7 +5029,7 @@ Roco非常欢迎哦！|system_photo_026yur_order_hg_bday_00_026yur^等、等一�
 無理難題を……。|system_photo_052kao_order_lop_sol_02_052kao^恥ずかしいけど、頑張ります！|system_photo_001har_wait_lop_01_001har^フンフフフ～ン♪|system_photo_002chi_wait_lop_01_002chi^何か、問題でも……？|system_photo_003mik_wait_lop_01_003mik^有好好看着美希吗？|system_photo_004yuk_wait_lop_01_004yuk^あれ、撮らないんですか……？|system_photo_005yay_wait_lop_01_005yay^あれ？　撮らないんですかー？|system_photo_006mak_wait_lop_01_006mak^まだ撮りませんか？|system_photo_007ior_wait_lop_01_007ior^早く撮りなさいよねっ。|system_photo_008tak_wait_lop_01_008tak^はて、面妖な……。|system_photo_009rit_wait_lop_01_009rit^カメラの調子、
 よくないんですか？|system_photo_010azu_wait_lop_01_010azu^ゆっくり、いきましょうか。|system_photo_011ami_wait_lop_01_011ami^兄ちゃん、
 なーにしてるのかなー。|system_photo_012mam_wait_lop_01_012mam^兄ちゃん、真美タイクツだよ～。|system_photo_013hib_wait_lop_01_013hib^なんで撮らないのー？|system_photo_014mir_wait_lop_01_014mir^どうかしたんですか？|system_photo_015siz_wait_lop_01_015siz^あの……どうかしたんですか？|system_photo_016tsu_wait_lop_01_016tsu^{$P$}さん、
-まだですか～？|system_photo_017kth_wait_lop_01_017kth^私……何か間違えてますか？|system_photo_018ele_wait_lop_01_018ele^どうしたのかナ？|system_photo_019min_wait_lop_01_019min^どうかしましたか？|system_photo_020meg_wait_lop_01_020meg^おーい、どしたの～？|system_photo_021mat_wait_lop_01_021mat^姫に見とれているのです？|system_photo_022ser_wait_lop_01_022ser^撮らないんですか？|system_photo_023aka_wait_lop_01_023aka^茜ちゃんに、
+まだですか～？|system_photo_017kth_wait_lop_01_017kth^私……何か間違えてますか？|system_photo_018ele_wait_lop_01_018ele^どうしたのかナ？|system_photo_019min_wait_lop_01_019min^どうかしましたか？|system_photo_020meg_wait_lop_01_020meg^おーい、どしたの～？|system_photo_021mat_wait_lop_01_021mat^姫に見とれているのです？|system_photo_022ser_wait_lop_01_022ser^不拍摄吗？|system_photo_023aka_wait_lop_01_023aka^茜ちゃんに、
 見とれちゃったのかニャ？|system_photo_024ann_wait_lop_01_024ann^どうしたのかな？|system_photo_025roc_wait_lop_01_025roc^撮影はペンディングですか？|system_photo_026yur_wait_lop_01_026yur^撮影、中断でしょうか？|system_photo_027say_wait_lop_01_027say^{$P$}、
 どうしたんですか？|system_photo_028ari_wait_lop_01_028ari^もしや……
 ありさ、放置されてます！？|system_photo_029umi_wait_lop_01_029umi^女子力足りてない？|system_photo_030iku_wait_lop_01_030iku^お仕事しないとダメだよ？|system_photo_031tom_wait_lop_01_031tom^考える時間をあげましょう～♪|system_photo_032emi_wait_lop_01_032emi^仕掛け人さま、
@@ -5617,8 +5615,8 @@ Roco非常欢迎哦！|system_photo_026yur_order_hg_bday_00_026yur^等、等一�
 とびきりの笑顔にできたらいいナ！　楽しもうネっ♪|system_other_019min_name_003_019min^佐竹美奈子です。みんなで楽しくアイドルをやれたら、
 素敵ですよね～♪　私、おいしいご飯作っちゃいます！|system_other_020meg_name_003_020meg^所恵美だよ。アイドルって柄じゃないけど、
 やるからには頑張るよ。ま、テキトーによろしく♪|system_other_021mat_name_003_021mat^茉莉是公主的说。用轻飘飘的魔法
-让大家的心情变得Happy——！起来的说！|system_other_022ser_name_003_022ser^箱崎星梨花です。まだ知らないことばかりですけど、
-アイドルのこと、もっともっと教えてくださいっ！|system_other_023aka_name_003_023aka^世界の運命っぽいなんかそのへんのものに導かれし
+让大家的心情变得Happy——！起来的说！|system_other_022ser_name_003_022ser^我是箱崎星梨花。虽然还有很多不了解的事情，
+但请多告诉我关于偶像的事！|system_other_023aka_name_003_023aka^世界の運命っぽいなんかそのへんのものに導かれし
 野々原茜ちゃんを、トップアイドルにするのだ～！|system_other_024ann_name_003_024ann^杏奈……かわいいアイドルに、なりたい……です。
 えっと……よろしく、お願いします……。|system_other_025roc_name_003_025roc^ロコです。ロコはニュージェネレーションのアイドルを
 アクチュアライズしたいの。よろしくお願いしますね♪|system_other_026yur_name_003_026yur^七尾百合子です。百年後の世界でも、決して色褪せない
@@ -6130,9 +6128,8 @@ MVPはいただきだーっ！|system_aspiration_048rei_anniv6_eventtop_048rei^�
 大好き♪　アタシも、おめでとうと
 ありがとう、伝えてくるね！|system_aspiration_021mat_anniv_dailymission_021mat^夢の時間が始まるのです♪　
 {$P$}さん……
-姫と一緒に、踊ってくれますか？|system_aspiration_022ser_anniv_dailymission_022ser^今日はどんな景色が見られるの
-かな……。早くステージに
-立ちたくて、待ちきれませんっ！|system_aspiration_023aka_anniv_dailymission_023aka^ぐっ……茜ちゃんが登場する前から
+姫と一緒に、踊ってくれますか？|system_aspiration_022ser_anniv_dailymission_022ser^今天能看到怎样的景色呢……
+迫不及待地想站上舞台了！|system_aspiration_023aka_anniv_dailymission_023aka^ぐっ……茜ちゃんが登場する前から
 この盛り上がり！　出番はまだ
 だけど、ちょっと行ってくるね～！|system_aspiration_024ann_anniv_dailymission_024ann^記念公演でも、杏奈がやることは
 変わらない。最高の思い出を
@@ -7610,11 +7607,11 @@ CENTER效果|idol_unit_stg_pop_label_2^技能|idol_unit_stg_pop_label_3^技能Lv
 无法使用更衣室
 
 要使用此功能，请前往活动道具交换所
-交换附赠服装的卡片|idol_pop_category_list_unrelease^未达成|idol_dress_btn_00^重置|idol_dress_btn_01^隐藏|idol_dress_btn_02^偶像|idol_dress_btn_03^服装|idol_dress_title_00^试穿|idol_dress_exp_00^可以查看偶像试穿服装的样子|idol_dress_btn_shader_level_0^未指定|idol_dress_btn_shader_level_1^弱|idol_dress_btn_shader_level_2^中|idol_dress_btn_shader_level_3^强|idol_dress_btn_set_shader_level^应用设置|idol_dress_btn_not_has_costume^显示未获得的服装|idol_dress_pop_viewer_title_0^没有符合条件的服装|idol_dress_pop_viewer_msg_0^由于指定的偶像未持有支持ANOTHER SHADER的服装
+交换附赠服装的卡片|idol_pop_category_list_unrelease^未达成|idol_dress_btn_00^重置|idol_dress_btn_01^隐藏|idol_dress_btn_02^偶像|idol_dress_btn_03^服装|idol_dress_title_00^试穿|idol_dress_exp_00^可以查看偶像试穿服装的样子|idol_dress_btn_shader_level_0^关闭|idol_dress_btn_shader_level_1^弱|idol_dress_btn_shader_level_2^中|idol_dress_btn_shader_level_3^强|idol_dress_btn_set_shader_level^应用设置|idol_dress_btn_not_has_costume^显示未获得的服装|idol_dress_pop_viewer_title_0^没有符合条件的服装|idol_dress_pop_viewer_msg_0^由于指定的偶像未持有支持ANOTHER SHADER的服装
 无法使用本功能|idol_dress_pop_viewer_check_pu0_title^应用设置|idol_dress_pop_viewer_check_pu0_msg^将应用当前的显示状态
 确定吗？|idol_dress_pop_viewer_check_pu0_warning_msg^设置将会应用到在剧场和LIVE等登场的
 偶像・事务员的所有服装
-不支持「阴影效果」的服装会以「未指定」的状态显示|idol_dress_pop_viewer_check_pu0_check_box^下次不再显示|idol_dress_pop_viewer_check_pu1_title^确认|idol_dress_pop_viewer_check_pu1_msg^将不应用设置返回导览界面
+不支持「阴影效果」的服装会以「关闭」的状态显示|idol_dress_pop_viewer_check_pu0_check_box^下次不再显示|idol_dress_pop_viewer_check_pu1_title^确认|idol_dress_pop_viewer_check_pu1_msg^将不应用设置返回导览界面
 确定吗？|idol_dress_pop_viewer_check_pu1_check_box^下次不再显示|idol_dress_pop_viewer_check_pu2_title^ANOTHER SHADER（阴影效果）设置|idol_dress_pop_viewer_check_pu2_msg^通过ANOTHER SHADER（阴影效果）可以更改剧场、LIVE、剧情中服装的阴影强度。
 服装的阴影强度有「关闭」「弱」「中」「强」四挡设置。
 
@@ -7749,7 +7746,7 @@ CENTER效果|idol_unit_stg_pop_label_2^技能|idol_unit_stg_pop_label_3^技能Lv
 要使用此功能，可以在「剧场＞导览＞商店＞活动交换所＞一般活动」中的『Platinum Star Twin Stage Special ～Legit Crossover～』交换附带服装的卡片|idol_dress_btn_anotherkinematics_level_title^ANOTHER KINEMATICS／晃动|idol_dress_btn_anotherkinematics_hair_title^头发<size=16>(呆毛)</size>|idol_dress_btn_anotherkinematics_hair_level_0^关闭|idol_dress_btn_anotherkinematics_hair_level_1^弱|idol_dress_btn_anotherkinematics_hair_level_2^中|idol_dress_btn_anotherkinematics_hair_level_3^强|idol_dress_btn_anotherkinematics_body_title^身体<size=16>(胸部)</size>|idol_dress_btn_anotherkinematics_body_level_0^关闭|idol_dress_btn_anotherkinematics_body_level_1^弱|idol_dress_btn_anotherkinematics_body_level_2^中|idol_dress_btn_anotherkinematics_body_level_3^强|idol_dress_btn_anotherkinematics_costume_title^服装<size=16>(垂在腰部以下的部分)</size>|idol_dress_btn_anotherkinematics_costume_level_0^关闭|idol_dress_btn_anotherkinematics_costume_level_1^弱|idol_dress_btn_anotherkinematics_costume_level_2^中|idol_dress_btn_anotherkinematics_costume_level_3^强|idol_dress_btn_set_anotherkinematics_level^应用设置|idol_dress_btn_warning_anotherkinematics_no_support_idol^当前偶像不支持|idol_dress_btn_warning_anotherkinematics_no_support_hair^当前发型不支持|idol_dress_btn_warning_anotherkinematics_no_support_costume^当前服装不支持|idol_dress_btn_warning_anotherkinematics_hidden_hair^当前服装不支持|idol_dress_btn_set_apply_and_anotherkinematics^<size=24>应用设置并
 前往摇晃设置</size>|idol_dress_btn_set_apply_and_theater^应用设置并前往剧场|idol_gift_title^礼物道具选择|idol_gift_desc^请选择要送给偶像的礼物道具|idol_gift_tab_0^亲密度礼物|idol_gift_tab_1^觉醒pt礼物|idol_gift_button_0^赠送|idol_gift_item_label_00^持有数|idol_gift_item_label_01^效果|idol_gift_item_msg_00^{0}年{1}月{2}日 {3}点{4}分之前可以使用|idol_gift_item_msg_01^没有道具|idol_gift_item_msg_03^{0} {1}|idol_pop_gift_select_title_0^偶像选择|idol_pop_gift_select_title_1^卡片选择|idol_pop_gift_button_sub10^-10|idol_pop_gift_button_add10^+10|idol_pop_gift_item_title^道具个数选择|idol_pop_gift_item_value_00^<color=#FE58AAFF>{0}</color>▶<color=#FE58AAFF>{1}</color><color=#0AA4EAFF>(+{2})</color>|idol_pop_gift_item_msg_00^要赠送{0}吗？|idol_pop_gift_item_msg_01^亲密度 {0}UP|idol_pop_gift_item_result_title^礼物赠送结果|idol_pop_gift_item_result_00^+{0}|idol_pop_gift_item_result_01^回忆解锁！|idol_pop_gift_item_result_10^<color=#FE58AAFF>{0}</color><color=#0AA4EAFF>(+{1})</color>|idol_pop_gift_item_result_11^<color=#FE58AAFF>{0}</color><color=#0AA4EAFF>(+{1}</color><color=#FE58AAFF>×2倍！</color><color=#0AA4EAFF>)</color>|idol_pop_gift_card_title^道具个数选择|idol_pop_gift_card_label_0^当前卡片|idol_pop_gift_card_label_1^要赠送的道具|idol_pop_gift_card_label_2^觉醒槽|idol_pop_gift_card_value_0^{0}▶{1}<size=18>/{2}</size><color=#0AA4EAFF>(+{3})</color>|idol_pop_gift_card_value_1^还需{0}|idol_pop_gift_card_msg_00^要赠送{0}吗？|idol_pop_gift_card_msg_01^觉醒pt {0}UP|idol_pop_gift_card_msg_10^赠送后觉醒槽将会溢出，确定吗？|idol_pop_gift_card_result_title^礼物赠送结果|idol_pop_gift_card_result_button_00^前往觉醒界面|idol_pop_gift_card_result_value_0^{0}<size=18>/{1}</size><color=#0AA4EAFF>(+{2})</color>|idol_pop_gift_card_result_value_1^还需{0}|idol_pop_gift_card_result_msg_10^觉醒槽已累积到上限
 要前往觉醒界面吗？|idol_pop_gift_card_result_msg_10_no_confirm^觉醒槽已达到上限|idol_pop_gift_nds_title^筛选/排序|idol_pop_gift_nds_tab_0^筛选|idol_pop_gift_nds_tab_1^排序|idol_pop_gift_nds_label_0^目标|idol_pop_gift_nds_label_0_0^偶像名|idol_pop_gift_nds_label_0_1^嘉宾名|idol_pop_gift_nds_label_1^排序|idol_pop_gift_nds_label_1_0^亲密度|idol_pop_gift_nds_label_1_1^偶像|idol_pop_card_detail_title^卡片详情|idol_pop_card_detail_tab_0^属性|idol_pop_card_detail_tab_1^资料|idol_pop_card_detail_prof_0^なまえ|idol_pop_card_detail_prof_1^身高|idol_pop_card_detail_prof_2^年龄|idol_pop_card_detail_prof_3^体重|idol_pop_card_detail_prof_4^生日|idol_pop_card_detail_prof_5^血型|idol_pop_card_detail_prof_6^惯用手|idol_pop_card_detail_prof_7^三围|idol_pop_card_detail_prof_8^星座|idol_pop_card_detail_prof_9^出身|idol_pop_card_detail_prof_10^爱好|idol_pop_card_detail_prof_11^特技|idol_pop_card_detail_prof_12^喜好|idol_pop_card_detail_prof_13^CV|idol_pop_card_detail_label_0^还需 {0}|idol_pop_card_detail_label_1^已觉醒|idol_pop_card_detail_status_0^Lv|idol_pop_card_detail_status_1^觉醒槽|idol_pop_card_detail_status_2^CENTER效果|idol_pop_card_detail_status_3^技能|idol_pop_card_detail_status_4^技能Lv|idol_pop_card_detail_status_5^获得日期|idol_pop_card_detail_msg_0^显示的是Lv、技能Lv、MASTER星级最大时的数值
-尚未获得此卡片|idol_pop_card_detail_msg_1^卡片未获得|idol_pop_card_detail_awakening_change_0^觉醒前|idol_pop_card_detail_awakening_change_1^觉醒后|idol_pop_costume_detail_title^服装详情|idol_pop_common_nas_tab_0^筛选|idol_pop_common_nas_tab_1^排序|idol_pop_common_nas_label_0^偶像名|idol_pop_common_nas_label_1^目标|idol_pop_common_nas_label_2^Ex|idol_pop_common_nas_label_3^嘉宾名|idol_pop_common_nas_title^筛选/排序|idol_pop_card_nas_label_0^觉醒状态|idol_pop_card_nas_label_0_0^觉醒|idol_pop_card_nas_label_0_1^未觉醒|idol_pop_card_nas_label_1^CENTER效果|idol_pop_card_nas_label_1_0^所有绽放值上升|idol_pop_card_nas_label_1_1^VOCAL值上升|idol_pop_card_nas_label_1_2^DANCE值上升|idol_pop_card_nas_label_1_3^VISUAL值上升|idol_pop_card_nas_label_1_4^生命值上升|idol_pop_card_nas_label_1_5^技能发动率上升|idol_pop_card_nas_label_2^技能|idol_pop_card_nas_label_2_0^分数上升|idol_pop_card_nas_label_2_1^连击加成|idol_pop_card_nas_label_2_2^生命值回复|idol_pop_card_nas_label_2_3^伤害减免|idol_pop_card_nas_label_2_4^维持连击|idol_pop_card_nas_label_2_5^判定强化|idol_pop_card_nas_label_2_6^双重提升|idol_pop_card_nas_skill_bulk^选择所有{0}类技能|idol_pop_card_nas_label_3^资料|idol_pop_card_nas_label_3_0^身高|idol_pop_card_nas_label_3_0_0^{0}cm以下|idol_pop_card_nas_label_3_0_1^{0}cm～{1}cm|idol_pop_card_nas_label_3_0_2^{0}cm以上|idol_pop_card_nas_label_3_1^年龄|idol_pop_card_nas_label_3_1_0^{0}岁以下|idol_pop_card_nas_label_3_1_1^{0}岁～{1}岁|idol_pop_card_nas_label_3_1_2^{0}岁以上|idol_pop_card_nas_label_3_2^出生月份|idol_pop_card_nas_label_3_2_0^1月|idol_pop_card_nas_label_3_2_1^2月|idol_pop_card_nas_label_3_2_2^3月|idol_pop_card_nas_label_3_2_3^4月|idol_pop_card_nas_label_3_2_4^5月|idol_pop_card_nas_label_3_2_5^6月|idol_pop_card_nas_label_3_2_6^7月|idol_pop_card_nas_label_3_2_7^8月|idol_pop_card_nas_label_3_2_8^9月|idol_pop_card_nas_label_3_2_9^10月|idol_pop_card_nas_label_3_2_10^11月|idol_pop_card_nas_label_3_2_11^12月|idol_pop_card_nas_label_3_3^血型|idol_pop_card_nas_label_3_3_0^A|idol_pop_card_nas_label_3_3_1^B|idol_pop_card_nas_label_3_3_2^O|idol_pop_card_nas_label_3_3_3^AB|idol_pop_card_nas_label_3_4_0^胸围|idol_pop_card_nas_label_3_4_1^腰围|idol_pop_card_nas_label_3_4_2^臀围|idol_pop_card_nas_label_4^类别|idol_pop_card_nas_label_4_0^一般|idol_pop_card_nas_label_4_1^PST|idol_pop_card_nas_label_4_2^FES|idol_pop_card_nas_label_4_3^1st|idol_pop_card_nas_label_4_4^2nd|idol_pop_card_nas_label_4_5^3rd|idol_pop_card_nas_label_4_6^4th|idol_pop_card_nas_label_4_7^SHS|idol_pop_card_nas_label_4_8^5th|idol_pop_card_nas_label_4_9^PR|idol_pop_card_nas_label_4_11^6th|idol_pop_card_nas_label_4_12^LNK|idol_pop_card_nas_label_4_13^7th|idol_pop_card_nas_label_4_14^8th|idol_pop_card_nas_label_4_15^VC|idol_pop_card_nas_label_3_9_99^未指定|idol_pop_card_nas_label_10^排序|idol_pop_card_nas_label_10_0^登场时间|idol_pop_card_nas_label_10_1^获得时间|idol_pop_card_nas_label_10_2^稀有度|idol_pop_card_nas_label_10_3^卡片Lv|idol_pop_card_nas_label_10_4^觉醒pt|idol_pop_card_nas_label_10_5^技能Lv|idol_pop_card_nas_label_10_6^MASTER星级|idol_pop_card_nas_label_10_7^亲密度|idol_pop_card_nas_label_10_8^粉丝数|idol_pop_card_nas_label_10_9^偶像|idol_pop_card_nas_label_10_10^MASTER星级状态|idol_pop_card_nas_label_11_0^MASTER星级5追加|idol_pop_card_nas_label_12^优先|idol_pop_card_nas_label_12_0^团队ABC顺序优先|idol_pop_card_nas_msg_0^仅显示稀有度为SSR的卡片。|idol_pop_costume_nas_label_0^类别|idol_pop_costume_nas_label_0_0^共通|idol_pop_costume_nas_label_0_1^专用|idol_pop_costume_nas_label_0_2^组合|idol_pop_costume_nas_label_0_3^剧场
+尚未获得此卡片|idol_pop_card_detail_msg_1^卡片未获得|idol_pop_card_detail_awakening_change_0^觉醒前|idol_pop_card_detail_awakening_change_1^觉醒后|idol_pop_costume_detail_title^服装详情|idol_pop_common_nas_tab_0^筛选|idol_pop_common_nas_tab_1^排序|idol_pop_common_nas_label_0^偶像名|idol_pop_common_nas_label_1^目标|idol_pop_common_nas_label_2^Ex|idol_pop_common_nas_label_3^嘉宾名|idol_pop_common_nas_title^筛选/排序|idol_pop_card_nas_label_0^觉醒状态|idol_pop_card_nas_label_0_0^觉醒|idol_pop_card_nas_label_0_1^未觉醒|idol_pop_card_nas_label_1^CENTER效果|idol_pop_card_nas_label_1_0^所有绽放值上升|idol_pop_card_nas_label_1_1^VOCAL值上升|idol_pop_card_nas_label_1_2^DANCE值上升|idol_pop_card_nas_label_1_3^VISUAL值上升|idol_pop_card_nas_label_1_4^生命值上升|idol_pop_card_nas_label_1_5^技能发动率上升|idol_pop_card_nas_label_2^技能|idol_pop_card_nas_label_2_0^分数上升|idol_pop_card_nas_label_2_1^连击加成|idol_pop_card_nas_label_2_2^生命值回复|idol_pop_card_nas_label_2_3^伤害减免|idol_pop_card_nas_label_2_4^维持连击|idol_pop_card_nas_label_2_5^判定强化|idol_pop_card_nas_label_2_6^双重提升|idol_pop_card_nas_skill_bulk^选择所有{0}类技能|idol_pop_card_nas_label_3^资料|idol_pop_card_nas_label_3_0^身高|idol_pop_card_nas_label_3_0_0^{0}cm以下|idol_pop_card_nas_label_3_0_1^{0}cm～{1}cm|idol_pop_card_nas_label_3_0_2^{0}cm以上|idol_pop_card_nas_label_3_1^年龄|idol_pop_card_nas_label_3_1_0^{0}岁以下|idol_pop_card_nas_label_3_1_1^{0}岁～{1}岁|idol_pop_card_nas_label_3_1_2^{0}岁以上|idol_pop_card_nas_label_3_2^出生月份|idol_pop_card_nas_label_3_2_0^1月|idol_pop_card_nas_label_3_2_1^2月|idol_pop_card_nas_label_3_2_2^3月|idol_pop_card_nas_label_3_2_3^4月|idol_pop_card_nas_label_3_2_4^5月|idol_pop_card_nas_label_3_2_5^6月|idol_pop_card_nas_label_3_2_6^7月|idol_pop_card_nas_label_3_2_7^8月|idol_pop_card_nas_label_3_2_8^9月|idol_pop_card_nas_label_3_2_9^10月|idol_pop_card_nas_label_3_2_10^11月|idol_pop_card_nas_label_3_2_11^12月|idol_pop_card_nas_label_3_3^血型|idol_pop_card_nas_label_3_3_0^A|idol_pop_card_nas_label_3_3_1^B|idol_pop_card_nas_label_3_3_2^O|idol_pop_card_nas_label_3_3_3^AB|idol_pop_card_nas_label_3_4_0^胸围|idol_pop_card_nas_label_3_4_1^腰围|idol_pop_card_nas_label_3_4_2^臀围|idol_pop_card_nas_label_4^类别|idol_pop_card_nas_label_4_0^一般|idol_pop_card_nas_label_4_1^PST|idol_pop_card_nas_label_4_2^FES|idol_pop_card_nas_label_4_3^1st|idol_pop_card_nas_label_4_4^2nd|idol_pop_card_nas_label_4_5^3rd|idol_pop_card_nas_label_4_6^4th|idol_pop_card_nas_label_4_7^SHS|idol_pop_card_nas_label_4_8^5th|idol_pop_card_nas_label_4_9^PR|idol_pop_card_nas_label_4_11^6th|idol_pop_card_nas_label_4_12^LNK|idol_pop_card_nas_label_4_13^7th|idol_pop_card_nas_label_4_14^8th|idol_pop_card_nas_label_4_15^VC|idol_pop_card_nas_label_3_9_99^未设置|idol_pop_card_nas_label_10^排序|idol_pop_card_nas_label_10_0^登场时间|idol_pop_card_nas_label_10_1^获得时间|idol_pop_card_nas_label_10_2^稀有度|idol_pop_card_nas_label_10_3^卡片Lv|idol_pop_card_nas_label_10_4^觉醒pt|idol_pop_card_nas_label_10_5^技能Lv|idol_pop_card_nas_label_10_6^MASTER星级|idol_pop_card_nas_label_10_7^亲密度|idol_pop_card_nas_label_10_8^粉丝数|idol_pop_card_nas_label_10_9^偶像|idol_pop_card_nas_label_10_10^MASTER星级状态|idol_pop_card_nas_label_11_0^MASTER星级5追加|idol_pop_card_nas_label_12^优先|idol_pop_card_nas_label_12_0^团队ABC顺序优先|idol_pop_card_nas_msg_0^仅显示稀有度为SSR的卡片。|idol_pop_costume_nas_label_0^类别|idol_pop_costume_nas_label_0_0^共通|idol_pop_costume_nas_label_0_1^专用|idol_pop_costume_nas_label_0_2^组合|idol_pop_costume_nas_label_0_3^剧场
 休闲服|idol_pop_costume_nas_label_0_5^便服・训练服|idol_pop_costume_nas_label_1^排序|idol_pop_costume_nas_label_1_0^类别|idol_pop_costume_nas_label_1_1^登场时间|idol_pop_costume_nas_label_1_2^偶像|idol_pop_costume_nas_label_2^喜爱|idol_pop_costume_nas_label_2_0^喜爱|idol_pop_costume_nas_label_3^ANOTHER SHADER|idol_pop_costume_nas_label_3_0^支持阴影效果|idol_pop_costume_nas_label_3_info_title^ANOTHER SHADER|idol_pop_costume_nas_label_3_info_msg^通过ANOTHER SHADER（阴影效果）可以更改剧场、LIVE、剧情中服装的阴影强度。
 
 通过勾选筛选／排序界面ANOTHER SHADER类别的「支持阴影效果」复选框，可以筛选支持ANOTHER SHADER（阴影效果）的服装。
@@ -7851,7 +7848,7 @@ CENTER效果|idol_unit_stg_pop_label_2^技能|idol_unit_stg_pop_label_3^技能Lv
 在剧场和「{1}」进行<color=#FF0098>接触</color>|story_idol_title^偶像剧情|story_idol_desc^可以查看偶像们的剧情|story_idol_00^未解锁|story_idol_01^全部|story_idol_10^回忆|story_idol_11^章节|story_idol_12^其它|story_idol_10_00^与{0}的回忆剧情{1}|story_idol_10_popup_msg_00^亲密度<color=#FF0098>{0}</color>达成|story_idol_10_popup_btn_00^前往LIVE|story_idol_11_00^<color=#FF0098>{0}的觉醒剧情</color>|story_idol_11_popup_msg_00^去<color=#FF0098>觉醒</color>
 「{0}」|story_idol_13^解锁条件
 达成{0}亲密度|story_idol_14^<color=#FF0098>现在公开的剧情到这里为止</color>|story_idol_15^解锁条件 觉醒{0}|story_idol_16^解锁条件 阅读博客并点赞后
-在剧场内与『{0}』进行接触即可解锁|story_idol_17^这是{0}的服装剧情|story_idol_20^语音|story_idol_21^演出|story_idol_22^服装剧情|story_idol_30^语音列表|story_idol_30_detail_00^语音类别1|story_idol_30_detail_01^语音类别2|story_idol_30_detail_02^语音类别3|story_idol_30_detail_03^语音类别4|story_idol_30_detail_04^语音类别5|story_idol_30_detail_05^语音类别6|story_idol_30_detail_06^语音类别7|story_idol_30_detail_07^语音类别8|story_idol_30_detail_08^语音类别9|story_idol_30_detail_09^语音类别10|story_idol_31^播放|story_idol_40^演出一览|story_idol_41^觉醒|story_idol_42^应援pt|story_idol_43^扭蛋|story_idol_44^观看|story_idol_45^需要亲密度|story_idol_46^<color=#FF0098>达成</color>|story_idol_47^未达成|story_idol_48^觉醒演出|story_idol_50^未读一览|story_idol_51^未解锁一览|story_idol_navi_00^选择偶像吧！|story_idol_sort_title^筛选/排序|story_idol_sort_00^升序|story_idol_sort_01^降序|story_idol_sort_op_01^类型|story_idol_sort_op_02^五十音排序|story_idol_sort_op_03^排序|story_idol_sort_op_10^あ～さ|story_idol_sort_op_11^た～は|story_idol_sort_op_12^ま～わ|story_idol_sort_op_13^未指定|story_idol_sort_op_20^五十音排序|story_idol_sort_op_21^粉丝数|story_idol_sort_op_22^亲密度|story_idol2_10^亲密度达到<color=#FF0098>{0}</color>|story_idol2_11^<color=#FF0098>觉醒</color>「{0}」|story_idol2_12^给博客<color=#FF0098>点赞</color>后
+在剧场内与『{0}』进行接触即可解锁|story_idol_17^这是{0}的服装剧情|story_idol_20^语音|story_idol_21^演出|story_idol_22^服装剧情|story_idol_30^语音列表|story_idol_30_detail_00^语音类别1|story_idol_30_detail_01^语音类别2|story_idol_30_detail_02^语音类别3|story_idol_30_detail_03^语音类别4|story_idol_30_detail_04^语音类别5|story_idol_30_detail_05^语音类别6|story_idol_30_detail_06^语音类别7|story_idol_30_detail_07^语音类别8|story_idol_30_detail_08^语音类别9|story_idol_30_detail_09^语音类别10|story_idol_31^播放|story_idol_40^演出一览|story_idol_41^觉醒|story_idol_42^应援pt|story_idol_43^扭蛋|story_idol_44^观看|story_idol_45^需要亲密度|story_idol_46^<color=#FF0098>达成</color>|story_idol_47^未达成|story_idol_48^觉醒演出|story_idol_50^未读一览|story_idol_51^未解锁一览|story_idol_navi_00^选择偶像吧！|story_idol_sort_title^筛选/排序|story_idol_sort_00^升序|story_idol_sort_01^降序|story_idol_sort_op_01^类型|story_idol_sort_op_02^五十音排序|story_idol_sort_op_03^排序|story_idol_sort_op_10^あ～さ|story_idol_sort_op_11^た～は|story_idol_sort_op_12^ま～わ|story_idol_sort_op_13^未设置|story_idol_sort_op_20^五十音排序|story_idol_sort_op_21^粉丝数|story_idol_sort_op_22^亲密度|story_idol2_10^亲密度达到<color=#FF0098>{0}</color>|story_idol2_11^<color=#FF0098>觉醒</color>「{0}」|story_idol2_12^给博客<color=#FF0098>点赞</color>后
 在剧场和「{0}」进行<color=#FF0098>接触</color>|story_idol2_13^「{0}」的觉醒剧情|story_idol2_14^「{0}」的服装剧情|story_idol2_15^CH@T<color=#FF0098>已读</color>后
 在剧场和「{0}」进行<color=#FF0098>接触</color>|story_idol_12_popup_msg_00^CH@T<color=#FF0098>已读</color>后
 在剧场和「{0}」进行<color=#FF0098>接触</color>|story_idol_mem_pu_title_00^回忆剧情追加信息|story_idol_mem_pu_msg_00^以下的偶像追加了新的回忆剧情|story_idol_mem_pu_msg_01^<color=#FF0098>追加到了回忆剧情{0}！</color>|story_idol_mem_pu_wng_00^回忆剧情会在亲密度达到一定值时解锁|story_idol3_10^敬请期待|story_idol_10_popup_btn_10^赠送
@@ -8045,7 +8042,7 @@ LP（Live Point）是根据LIVE结果所得分数计算出的，衡量制作人�
 
              <color=#FF004F>缺少LIVE券 {0}枚</color>|live_songrandom_pendingdata_warning_title^关于选择的难度|live_songrandom_pendingdata_warning_text^由于选择的难度和已决定的难度不同
 将显示所选难度的花费|live_pickupview_button_text^推荐的歌曲|live_pickupview_item_title_00^课题曲|live_pickupview_item_title_01^最近游玩的歌曲|live_pickupview_item_title_02^最新发布|live_pickupview_item_title_03^与喜爱的偶像相关的歌曲|live_pickupview_item_title_04^标记为喜爱的歌曲|live_pickupview_item_title_05^随机|live_pickupview_footer_title^歌曲信息显示切换|live_pickupview_footer_toggle_00^不显示|live_pickupview_footer_toggle_01^基本信息|live_pickupview_footer_toggle_02^游玩记录|live_pickupview_cancel_button_text^关闭|live_pickupview_listempty^没有符合条件的歌曲|live_course_01^单人2MIX|live_course_02^2MIX|live_course_03^单人2MIX+|live_course_04^4MIX|live_course_05^6MIX|live_course_06^MILLION MIX|live_course_07^单人MV|live_course_08^组合MV|live_course_001^单人2MIX|live_course_002^2MIX|live_course_003^单人2MIX+|live_course_004^4MIX|live_course_005^6MIX|live_course_006^MILLION MIX|live_course_007^OVER MIX|live_course_portrait_mv^单人MV|live_course_landscape_mv^组合MV|live_course_release_01^获得奖励|live_course_release_02^解锁新LIVE|live_course_release_03^解锁了{0}的
-{1}|live_song_header_label_00^{0}类型的绽放值提升{0}％|live_song_header_label_01^歌曲Lv|live_song_header_label_02^体力|live_song_header_label_03^票券|live_song_header_label_04^资金|live_song_header_course_00^全体成员均可获得报酬|live_song_header_course_01^CENTER将获得所有报酬|live_song_header_course_02^将无法获得报酬|live_guest_title_00^支援选择|live_guest_desc_00^选择参加LIVE的支援角色|live_guest_label_0^同僚|live_guest_button_0^刷新|live_guest_sort_00^支援筛选/排序|live_guest_sort_01^筛选/排序|live_guest_sort_02^优先的类型|live_guest_sort_03^未指定|live_guest_sort_04^优先的数值|live_guest_sort_05^更改显示|live_guest_sort_06^类型切换|live_guest_sort_07^恢复默认设置|live_guest_sort_08^优先的CENTER效果|live_guest_00^总绽放值|live_guest_01^CENTER效果|live_guest_02^同僚|live_guest_03^生命值|live_guest_04^DANCE|live_guest_05^VOCAL|live_guest_06^VISUAL|live_guest_07^未指定|live_guest_08^未指定|live_guest_09^所有绽放值上升|live_guest_10^VOCAL值上升|live_guest_11^DANCE值上升|live_guest_12^VISUAL值上升|live_guest_13^生命值上升|live_guest_14^技能发动率上升|live_guest_15^双重提升效果UP|live_guest_16^双重增幅效果UP|live_guest_17^可能会出现选不出带有指定CENTER效果的偶像的情况
+{1}|live_song_header_label_00^{0}类型的绽放值提升{0}％|live_song_header_label_01^歌曲Lv|live_song_header_label_02^体力|live_song_header_label_03^票券|live_song_header_label_04^资金|live_song_header_course_00^全体成员均可获得报酬|live_song_header_course_01^CENTER将获得所有报酬|live_song_header_course_02^将无法获得报酬|live_guest_title_00^支援选择|live_guest_desc_00^选择参加LIVE的支援角色|live_guest_label_0^同僚|live_guest_button_0^刷新|live_guest_sort_00^支援筛选/排序|live_guest_sort_01^筛选/排序|live_guest_sort_02^优先的类型|live_guest_sort_03^未指定|live_guest_sort_04^优先的数值|live_guest_sort_05^更改显示|live_guest_sort_06^类型切换|live_guest_sort_07^恢复默认设置|live_guest_sort_08^优先的CENTER效果|live_guest_00^总绽放值|live_guest_01^CENTER效果|live_guest_02^同僚|live_guest_03^生命值|live_guest_04^DANCE|live_guest_05^VOCAL|live_guest_06^VISUAL|live_guest_07^未设置|live_guest_08^未设置|live_guest_09^所有绽放值上升|live_guest_10^VOCAL值上升|live_guest_11^DANCE值上升|live_guest_12^VISUAL值上升|live_guest_13^生命值上升|live_guest_14^技能发动率上升|live_guest_15^双重提升效果UP|live_guest_16^双重增幅效果UP|live_guest_17^可能会出现选不出带有指定CENTER效果的偶像的情况
 此时请更改筛选条件后重试|live_unit_status_button^绽放值详情|live_unit_status_pu_title^绽放值详情|live_unit_status_pu_tab01^支援
 成员|live_unit_status_pu_tab02^总绽放值
 详情|live_unit_status_pu_tab03^特殊技能|live_unit_status_button2^绽放值
@@ -8069,7 +8066,7 @@ ALLSTARS|live_unit_slt_rcm_pop_mode_msg_0^恢复默认状态|live_unit_slt_rcm_p
 模式|live_unit_slt_rcm39_pop_title_0^自动编成 - 团队A|live_unit_slt_rcm39_pop_title_1^自动编成 - 团队B|live_unit_slt_rcm39_pop_title_2^自动编成 - 团队C|live_unit_slt_rcm39_pop_label_0^编成模式|live_unit_slt_rcm39_pop_label_1^排除设置|live_unit_slt_rcm39_pop_msg_0_0^按属性排序|live_unit_slt_rcm39_pop_msg_0_1^随机|live_unit_slt_rcm39_pop_msg_0_2^原唱成员|live_unit_slt_rcm39_pop_msg_1_0^按照优先属性从高到低配置偶像|live_unit_slt_rcm39_pop_msg_1_1^随机重新配置团队ABC的39人|live_unit_slt_rcm39_pop_msg_1_2^重新配置团队ABC的39人为原唱成员|live_setting_chg_popup_00^变更确认|live_setting_chg_popup_01^将变更为高负载的画质
 确定要继续吗？|live_setting_popup_title_01^LIVE设置|live_setting_popup_tab_01^详情|live_setting_popup_tab_02^环境|live_setting_popup_head_00^速度|live_setting_popup_msg_00^设置音符的下落速度|live_setting_popup_msg_01^应用到所有歌曲|live_setting_popup_msg_02^恢复默认设置|live_setting_popup_msg_03^延迟调整|live_setting_popup_msg_04^可以调整音符的判定延迟|live_setting_popup_msg_05^前往调整界面|live_setting_popup_msg_06^重置为0|live_setting_popup_msg_36^％|live_setting_popup_msg_00_b^可以在LIVE组合确认界面的「LIVE设置」中为各个歌曲调整音符下落速度|live_setting_popup_head_01^音符样式|live_setting_popup_msg_07^选择LIVE中显示的音符样式|live_setting_popup_msg_08^TYPE 1|live_setting_popup_msg_09^在所有歌曲中使用相同的颜色|live_setting_popup_msg_10^TYPE 2|live_setting_popup_msg_11^颜色会根据歌曲类型发生变化|live_setting_popup_msg_12^TYPE 3|live_setting_popup_msg_13^使用可读性较高的颜色|live_setting_popup_msg_14^（不使用）|live_setting_popup_msg_15^（不使用）|live_setting_popup_msg_16^显示多押参考线|live_setting_popup_msg_46^将需要多押的音符用线条连接|live_setting_popup_msg_47^判定线间隔调整|live_setting_popup_msg_48^可以配合屏幕宽度，调整6MIX和MMIX的判定线间距|live_setting_popup_head_05^MV播放|live_setting_popup_msg_33^显示歌词|live_setting_popup_msg_34^显示歌曲名|live_setting_popup_head_02^LIVE・MV中的音量|live_setting_popup_msg_17^歌曲|live_setting_popup_msg_18^音效|live_setting_popup_msg_19^按键音|live_setting_popup_msg_20^恢复默认设置|live_setting_popup_msg_79^欢呼声|live_setting_popup_msg_80^应援声|live_setting_popup_head_03^游玩LIVE时的音效|live_setting_popup_msg_21^按键音|live_setting_popup_msg_22^滑动音效|live_setting_popup_msg_35^点击音效{0}|live_setting_popup_head_04^LIVE画质|live_setting_popup_head_07^MV画质|live_setting_popup_msg_23^3D轻量|live_setting_popup_msg_24^以低分辨率渲染3D偶像与背景|live_setting_popup_msg_25^3D超轻量|live_setting_popup_msg_26^以低分辨率渲染3D偶像与背景
 将省略大部分演出与特效|live_setting_popup_msg_27^2D|live_setting_popup_msg_28^以2D偶像为背景进行LIVE
-可以降低渲染压力|live_setting_popup_msg_37^3D标准|live_setting_popup_msg_38^以标准分辨率渲染3D偶像与背景|live_setting_popup_msg_42^3D高画质|live_setting_popup_msg_43^以标准分辨率・高画质渲染3D偶像与背景|live_setting_popup_msg_56^3D标准|live_setting_popup_msg_57^以标准分辨率渲染3D偶像与背景|live_setting_popup_msg_58^3D高画质|live_setting_popup_msg_59^以标准分辨率・高画质渲染3D偶像与背景|live_setting_popup_msg_65^即使禁用，延迟调整界面中也会播放按键音|live_setting_popup_msg_66^禁用返回键|live_setting_popup_msg_67^禁用返回键|live_setting_popup_msg_68^可以禁用LIVE中按下返回键暂停的功能|live_setting_popup_msg_69^可以选择单人LIVE的镜头位置|live_setting_popup_msg_44^背景滤镜|live_setting_popup_msg_45^LIVE画质为2D时，可以压暗背景让音符更显眼|live_setting_popup_msg_49^2D背景滤镜|live_setting_popup_msg_50^压暗背景让音符更显眼|live_setting_popup_msg_51^3D背景滤镜|live_setting_popup_msg_52^音符出现时，压暗背景让音符更显眼|live_setting_popup_msg_53^未指定|live_setting_popup_msg_54^略微压暗|live_setting_popup_msg_55^压暗|live_setting_popup_head_06^单人LIVE镜头|live_setting_popup_msg_39^特写＆全身|live_setting_popup_msg_40^特写|live_setting_popup_msg_41^全身|live_setting_popup_msg_29^SE 播放设置|live_setting_popup_msg_30^这是LIVE中点击或滑动时SE的播放设置
+可以降低渲染压力|live_setting_popup_msg_37^3D标准|live_setting_popup_msg_38^以标准分辨率渲染3D偶像与背景|live_setting_popup_msg_42^3D高画质|live_setting_popup_msg_43^以标准分辨率・高画质渲染3D偶像与背景|live_setting_popup_msg_56^3D标准|live_setting_popup_msg_57^以标准分辨率渲染3D偶像与背景|live_setting_popup_msg_58^3D高画质|live_setting_popup_msg_59^以标准分辨率・高画质渲染3D偶像与背景|live_setting_popup_msg_65^即使禁用，延迟调整界面中也会播放按键音|live_setting_popup_msg_66^禁用返回键|live_setting_popup_msg_67^禁用返回键|live_setting_popup_msg_68^可以禁用LIVE中按下返回键暂停的功能|live_setting_popup_msg_69^可以选择单人LIVE的镜头位置|live_setting_popup_msg_44^背景滤镜|live_setting_popup_msg_45^LIVE画质为2D时，可以压暗背景让音符更显眼|live_setting_popup_msg_49^2D背景滤镜|live_setting_popup_msg_50^压暗背景让音符更显眼|live_setting_popup_msg_51^3D背景滤镜|live_setting_popup_msg_52^音符出现时，压暗背景让音符更显眼|live_setting_popup_msg_53^未设置|live_setting_popup_msg_54^略微压暗|live_setting_popup_msg_55^压暗|live_setting_popup_head_06^单人LIVE镜头|live_setting_popup_msg_39^特写＆全身|live_setting_popup_msg_40^特写|live_setting_popup_msg_41^全身|live_setting_popup_msg_29^SE 播放设置|live_setting_popup_msg_30^这是LIVE中点击或滑动时SE的播放设置
 关闭SE有时可能能让游戏变得更流畅|live_setting_popup_msg_31^-{0}|live_setting_popup_msg_32^+{0}|live_setting_popup_head_08^判定线间隔|live_setting_popup_msg_60^音符大小|live_setting_popup_msg_61^可以扩大LIVE中显示的音符的尺寸|live_setting_popup_msg_62^标准|live_setting_popup_msg_63^略微加宽|live_setting_popup_msg_64^宽|live_setting_popup_head_09^判定线位置|live_setting_popup_msg_70^可以调整横屏（组合LIVE）中判定线的位置|live_setting_popup_msg_71^上移|live_setting_popup_msg_72^可以调整竖屏（单人LIVE）中判定线的位置|live_setting_popup_msg_73^下移|live_setting_popup_head_10^按键音|live_setting_popup_msg_74^可以选择点击音效和滑动音效的组合|live_setting_popup_msg_75^点击音效|live_setting_popup_msg_76^滑动音效|live_setting_popup_se_0^活力（默认）|live_setting_popup_se_1^温和|live_setting_popup_se_2^清新|live_setting_popup_se_3^摇滚|live_setting_popup_head_11^断连音效|live_setting_popup_msg77^LIVE中，Combo中断时播放的音效|live_setting_popup_msg78^播放断连音效|live_setting_popup_head_12^LIVE・MV中的显示区域|live_setting_popup_msg_81^仅可在3D的组合LIVE中改变画面显示区域的宽高比|live_setting_popup_msg_82^全屏|live_setting_popup_msg_83^16:9|live_setting_popup_head_13^技能触发显示|live_setting_popup_msg_84^可以隐藏LIVE中的技能触发显示|live_setting_popup_msg_85^显示|live_setting_popup_msg_86^隐藏|live_setting_popup_head_14^AUTO LIVE画质|live_setting_popup_msg_87^与LIVE画质的设置不同时，在AUTO LIVE中以本设置优先|live_setting_popup_head_15^2D背景图片|live_setting_popup_msg_88^可以选择作为2D背景的SSR卡面图|live_setting_popup_msg_89^SSR+（觉醒后）|live_setting_popup_msg_90^SSR（觉醒前）|live_setting_popup_msg_91^只有在组合编成中编入CENTER位置的卡片为觉醒后状态时，
 才会显示觉醒后的卡面作为2D背景|live_cbc_popup_title^一键切换服装|live_cbc_popup_button_0^一键切换|live_cbc_popup_button_1^服装购买|live_cbc_popup_warning^一键切换持有的服装组
 部分服装可以在商店购买|live_cbc_largescale_another2_popup_title^其它团队的设置确认|live_cbc_largescale_another2_pu_toggle_text^也应用于
@@ -8261,7 +8258,7 @@ CLEAR|live_sr_popup_dtl_04^SCORE <color=#FF0098FF>{0}</color> 以上|live_sr_pop
 以2D的偶像或卡面图作为背景进行LIVE
 ※渲染压力最低|livesetting_screen_quality_live_001^LIVE画质|livesetting_screen_quality_live_002^3D高画质|livesetting_screen_quality_live_003^3D标准|livesetting_screen_quality_live_004^3D轻量|livesetting_screen_quality_live_005^3D超轻量|livesetting_screen_quality_live_006^2D|livesetting_screen_quality_autolive_001^AUTO LIVE画质|livesetting_screen_quality_autolive_002^3D高画质|livesetting_screen_quality_autolive_003^3D标准|livesetting_screen_quality_autolive_004^3D轻量|livesetting_screen_quality_autolive_005^3D超轻量|livesetting_screen_quality_autolive_006^2D|livesetting_screen_quality_mv_001^MV画质|livesetting_screen_quality_mv_002^3D高画质|livesetting_screen_quality_mv_003^3D标准|livesetting_screen_quality_mv_004^3D轻量|livesetting_screen_quality_mv_005^3D超轻量|livesetting_screen_quality_mv_006^2D|livesetting_screen_quality_mv_allsong^将画质调整应用于所有歌曲|livesetting_screen_quality_navi_text^可以在LIVE组合确认界面中的「LIVE设置」调整歌曲各自的画质设置|livesetting_screen_mvplayback_title^MV播放|livesetting_screen_mvplayback_text_001^可以设置MV播放时，「歌词」「曲名」是否显示|livesetting_screen_mvplayback_text_002^MV歌词显示|livesetting_screen_mvplayback_001^显示|livesetting_screen_mvplayback_002^隐藏|livesetting_screen_mvplayback_text_003^MV曲名显示|livesetting_screen_mvplayback_003^显示|livesetting_screen_mvplayback_004^隐藏|livesetting_screen_skill_title^技能触发显示|livesetting_screen_skill_text_001^可以设置LIVE中是否显示技能触发|livesetting_screen_skill_001^显示|livesetting_screen_skill_002^隐藏|livesetting_screen_sololivecam_title^单人LIVE镜头|livesetting_screen_sololivecam_text_001^可以调整单人LIVE的镜头位置|livesetting_screen_sololivecam_001^特写&全身|livesetting_screen_sololivecam_002^特写|livesetting_screen_sololivecam_003^全身|livesetting_screen_backfilter_title^背景滤镜|livesetting_screen_backfilter_text_001^可以调整LIVE中背景的亮度|livesetting_screen_backfilter_msg_001^背景滤镜|livesetting_screen_backfilter_msg_002^可以压暗2D或3D的背景以提高音符可见度。
 3D背景滤镜仅在存在音符时压暗背景。
-同时，勾选「AUTO LIVE中不要压暗背景」时，AUTO LIVE中将不会压暗背景。|livesetting_screen_backfilter_001^3D背景|livesetting_screen_backfilter_002^未指定|livesetting_screen_backfilter_003^略微压暗|livesetting_screen_backfilter_004^压暗|livesetting_screen_backfilter_005^2D背景|livesetting_screen_backfilter_006^未指定|livesetting_screen_backfilter_007^压暗|livesetting_screen_backfilter_008^AUTO LIVE中不要压暗背景|livesetting_screen_2dback_image_title^2D背景图片|livesetting_screen_2dback_image_text_001^可以选择作为2D背景的卡面图|livesetting_screen_2dback_image_msg_001^2D背景图片|livesetting_screen_2dback_image_msg_002^在组合编成中处在CENTER位置的卡片为SSR或VC卡片时，将会把卡面图作为2D背景显示。
+同时，勾选「AUTO LIVE中不要压暗背景」时，AUTO LIVE中将不会压暗背景。|livesetting_screen_backfilter_001^3D背景|livesetting_screen_backfilter_002^未设置|livesetting_screen_backfilter_003^略微压暗|livesetting_screen_backfilter_004^压暗|livesetting_screen_backfilter_005^2D背景|livesetting_screen_backfilter_006^未设置|livesetting_screen_backfilter_007^压暗|livesetting_screen_backfilter_008^AUTO LIVE中不要压暗背景|livesetting_screen_2dback_image_title^2D背景图片|livesetting_screen_2dback_image_text_001^可以选择作为2D背景的卡面图|livesetting_screen_2dback_image_msg_001^2D背景图片|livesetting_screen_2dback_image_msg_002^在组合编成中处在CENTER位置的卡片为SSR或VC卡片时，将会把卡面图作为2D背景显示。
 在这种情况下，此选项可以设置要显示卡片觉醒前还是觉醒后的卡面图。
 
 ※这里指的SSR卡片不包含周年纪念卡片。
@@ -8270,7 +8267,7 @@ CLEAR|live_sr_popup_dtl_04^SCORE <color=#FF0098FF>{0}</color> 以上|live_sr_pop
 ※不在上述范围内的卡片作为CENTER位置编入组合时，将会显示穿着「辉煌一体」的5位偶像的图片。
 对于Ex类型的偶像，这时将会显示穿着Ex类型专用服装的图片。|livesetting_screen_2dback_image_001^觉醒后|livesetting_screen_2dback_image_002^觉醒前|livesetting_screen_randomidol_guestenable_title^偶像的选出|livesetting_screen_randomidol_guestenable_text_001^可以设置选出的偶像是否包含诗花/玲音|livesetting_screen_randomidol_guestenable_msg_001^偶像的选出|livesetting_screen_randomidol_guestenable_msg_002^组合内编入的卡片的偶像重复时，会随机选出别的偶像登台。
 可以设置这时选出的偶像不包含765 MILLION ALLSTARS以外的嘉宾偶像，或是包含诗花/玲音。|livesetting_screen_randomidol_guestenable_001^不包含嘉宾偶像|livesetting_screen_randomidol_guestenable_002^包含诗花/玲音|livesetting_screen_letterbox_title^LIVE・MV中的显示区域|livesetting_screen_letterbox_text_001^仅可在3D的组合LIVE中改变画面显示区域的宽高比|livesetting_screen_letterbox_msg_001^LIVE・MV中的显示区域|livesetting_screen_letterbox_msg_002^可将LIVE‧MV中显示区域的宽高比固定为「全屏」或「16:9」。
-※「LIVE‧MV中的显示区域」设置仅适用于3D的组合LIVE，2D的组合LIVE或2D、3D的单人LIVE中此设置不会生效。|livesetting_screen_letterbox_001^全屏|livesetting_screen_letterbox_002^16:9|livesetting_screen_backkey_title^禁用返回键|livesetting_screen_backkey_text_001^可以禁用LIVE中按下返回键暂停的功能|livesetting_screen_backkey_001^禁用|livesetting_screen_backkey_002^不要禁用|livesetting_screen_anothershader_title^ANOTHER SHADER|livesetting_screen_anothershader_text_001^<size=19>可以调整3D高画质下MV和AUTO LIVE中场景和服装发光部分的强调程度</size>|livesetting_screen_anothershader_001^发光效果|livesetting_screen_anothershader_001_0^未指定|livesetting_screen_anothershader_001_1^弱|livesetting_screen_anothershader_001_2^中|livesetting_screen_anothershader_001_3^强|livesetting_screen_livereportskill_display_title^LIVE报告的技能显示|livesetting_screen_livereportskill_display_text_001^可以选择LIVE报告中技能触发次数界面的显示风格|livesetting_screen_livereportskill_display_001^一般|livesetting_screen_livereportskill_display_002^简化|livesetting_screen_livereportshare_skilldisplay_title^LIVE报告的分享功能|livesetting_screen_livereportshare_skilldisplay_text_001^可以选择是否要在LIVE报告的分享中显示技能|livesetting_screen_livereportshare_skilldisplay_001^不显示技能|livesetting_screen_livereportshare_skilldisplay_002^显示技能|livesetting_screen_livereportshare_skilldisplay_003^显示技能（简化）|livesetting_note_speed_title^下落速度|livesetting_note_speed_text_001^可以更改音符的下落速度|livesetting_note_speed_text_002^将下落速度应用到所有歌曲|livesetting_note_speed_text_003^可以在LIVE组合确认界面的「LIVE设置」中为各个歌曲调整音符下落速度|livesetting_note_speed_text_004^不同模式的下落速度|livesetting_note_speed_text_005^高难度模式更快|livesetting_note_speed_text_006^与MILLION MIX统一|livesetting_note_speed_msg_001^下落速度|livesetting_note_speed_msg_002^可以调整音符的下落速度。
+※「LIVE‧MV中的显示区域」设置仅适用于3D的组合LIVE，2D的组合LIVE或2D、3D的单人LIVE中此设置不会生效。|livesetting_screen_letterbox_001^全屏|livesetting_screen_letterbox_002^16:9|livesetting_screen_backkey_title^禁用返回键|livesetting_screen_backkey_text_001^可以禁用LIVE中按下返回键暂停的功能|livesetting_screen_backkey_001^禁用|livesetting_screen_backkey_002^不要禁用|livesetting_screen_anothershader_title^ANOTHER SHADER|livesetting_screen_anothershader_text_001^<size=19>可以调整3D高画质下MV和AUTO LIVE中场景和服装发光部分的强调程度</size>|livesetting_screen_anothershader_001^发光效果|livesetting_screen_anothershader_001_0^未设置|livesetting_screen_anothershader_001_1^弱|livesetting_screen_anothershader_001_2^中|livesetting_screen_anothershader_001_3^强|livesetting_screen_livereportskill_display_title^LIVE报告的技能显示|livesetting_screen_livereportskill_display_text_001^可以选择LIVE报告中技能触发次数界面的显示风格|livesetting_screen_livereportskill_display_001^一般|livesetting_screen_livereportskill_display_002^简化|livesetting_screen_livereportshare_skilldisplay_title^LIVE报告的分享功能|livesetting_screen_livereportshare_skilldisplay_text_001^可以选择是否要在LIVE报告的分享中显示技能|livesetting_screen_livereportshare_skilldisplay_001^不显示技能|livesetting_screen_livereportshare_skilldisplay_002^显示技能|livesetting_screen_livereportshare_skilldisplay_003^显示技能（简化）|livesetting_note_speed_title^下落速度|livesetting_note_speed_text_001^可以更改音符的下落速度|livesetting_note_speed_text_002^将下落速度应用到所有歌曲|livesetting_note_speed_text_003^可以在LIVE组合确认界面的「LIVE设置」中为各个歌曲调整音符下落速度|livesetting_note_speed_text_004^不同模式的下落速度|livesetting_note_speed_text_005^高难度模式更快|livesetting_note_speed_text_006^与MILLION MIX统一|livesetting_note_speed_msg_001^下落速度|livesetting_note_speed_msg_002^可以调整音符的下落速度。
 如果勾选「应用到所有歌曲」，将把设定的下落速度应用到所有歌曲的全部模式。
 ※「下落速度」仅能在组合确认界面的「LIVE设置」中调整。
 
@@ -14404,7 +14401,7 @@ pt|gasha_ticket_pop_button_0^前往扭蛋|gasha_ticket_pop_msg_0^{0} 年 {1} 月
 新增MASTER星级5的5张卡片为PICK UP对象！
 <color=#FF0098>PICK UP对象的SSR卡片至少出现1张！！</color></size>|gasha_popup_bonus_direct_msg^道具已经直接发放|gasha_popup_convert_title^道具转换|gasha_popup_convert_01^通过「{0}」获得的
 以下道具已进行转换|gasha_popup_convert_02^已经以礼物形式发放|gasha_popup_exchange_title^卡片确认|gasha_popup_exchange_001^使用{1}个{0}
-获得{2}|gasha_popup_exchange_002^持有{0}|gasha_popup_exchange_003^个|gasha_popup_exchange_004^持有的{0}不足|gasha_popup_exchange_005^交换|gasha_popup_exchange_100^目标卡片一览|gasha_popup_exchange_102^SSR|gasha_popup_exchange_103^SR|gasha_popup_exchange_104^R|gasha_popup_exchange_105^没有符合条件的卡片|gasha_popup_exchange_200^优先的类型|gasha_popup_exchange_201^优先的数值|gasha_popup_exchange_202^排除设置|gasha_popup_exchange_203^未指定|gasha_popup_exchange_204^已获得的卡片除外|gasha_popup_exchange_205^<color=#FF0098>卡片
+获得{2}|gasha_popup_exchange_002^持有{0}|gasha_popup_exchange_003^个|gasha_popup_exchange_004^持有的{0}不足|gasha_popup_exchange_005^交换|gasha_popup_exchange_100^目标卡片一览|gasha_popup_exchange_102^SSR|gasha_popup_exchange_103^SR|gasha_popup_exchange_104^R|gasha_popup_exchange_105^没有符合条件的卡片|gasha_popup_exchange_200^优先的类型|gasha_popup_exchange_201^优先的数值|gasha_popup_exchange_202^排除设置|gasha_popup_exchange_203^未设置|gasha_popup_exchange_204^已获得的卡片除外|gasha_popup_exchange_205^<color=#FF0098>卡片
 已获得</color>|gasha_popup_exchange_notice_title^公告|gasha_popup_exchange_notice_msg^{0}
 已达到可兑换卡片所需数量|gasha_exchange_label_msg^可以交换卡片！|gasha_popup_select_convert_title^道具转换确认|gasha_popup_select_convert_01^通过「{0}」获得的
 <color=#757BAB>梦之星</color>达到了300个及以上
@@ -14442,7 +14439,7 @@ pt|gasha_ticket_pop_button_0^前往扭蛋|gasha_ticket_pop_msg_0^{0} 年 {1} 月
 可以在摄影棚的AR模式中使用
 不支持AR模式的机型无法使用此功能</size>|gasha_gashat_warning_btn_00^进行
 扭蛋|gasha_gashav_btn_00^使用票券|gasha_gashav_msg_00^活动期限
-～{0:D2}/{1:D2}/{2:D2} {3:D2}:{4:D2}|gasha_gashav_popup_select_title_00^目标卡片一览|gasha_gashav_popup_select_msg_00^該当するカードがありません|gasha_gashav_popup_sort_title_00^筛选/排序|gasha_gashav_popup_sort_toggle_00^未指定|gasha_gashav_popup_sort_toggle_01^偶像名|gasha_gashav_popup_error_title_00^错误|gasha_gashav_popup_error_msg_00^期間が終了しました
+～{0:D2}/{1:D2}/{2:D2} {3:D2}:{4:D2}|gasha_gashav_popup_select_title_00^目标卡片一览|gasha_gashav_popup_select_msg_00^該当するカードがありません|gasha_gashav_popup_sort_title_00^筛选/排序|gasha_gashav_popup_sort_toggle_00^未设置|gasha_gashav_popup_sort_toggle_01^偶像名|gasha_gashav_popup_error_title_00^错误|gasha_gashav_popup_error_msg_00^期間が終了しました
 もしくはチケットの有効期限が切れました|gasha_gashav_popup_error_msg_01^由于存在因超出使用期限而消失的道具
 操作失败|gasha_gashav_popup_expired_title_00^确认|gasha_gashav_popup_expired_msg_00^使用期限が過ぎて消滅したアイテムがありました|gasha_daily_ticket_button_msg_01^{0}枚|gasha_daily_ticket_popup_msg_01^要使用<color=#FF0098>{1}</color>枚{0}
 进行{2}次扭蛋吗？|gasha_platinum2_buy_costume^服装购买|gasha_platinum2_exchange_label_msg^出現カードと
@@ -14458,7 +14455,7 @@ pt|gasha_ticket_pop_button_0^前往扭蛋|gasha_ticket_pop_msg_0^{0} 年 {1} 月
 報酬を獲得後は再度ポイントを貯めると報酬を獲得できます。
 獲得したフェスポイントは次回開催の復刻ミリオンフェスに引き継がれます。
 フェスポイントの報酬は開催中予告なく変更する場合があります。|gasha_fspoint_reward_pu_title^フェスポイント報酬|gasha_fspoint_reward_pu_present_msg^已经以礼物形式发放|gasha_fspoint_reward_pu_direct_msg^道具已经直接发放|gasha2_common_header_00^付费|gasha2_common_header_01^免费|gasha2_common_button_00^{0}连抽|gasha2_common_button_01^卡片详情|gasha2_common_button_02^扭蛋详情|gasha2_common_button_06^说明|gasha2_common_button_07^详情|gasha2_common_button_08^交换卡片|gasha2_common_button_09^交换服装|gasha2_common_button_10^引き終わりました|gasha2_common_label_00^举办时间|gasha2_common_label_01^持有{0}|gasha2_common_label_02^剩余 {0}天|gasha2_common_label_03^剩余 {0}小时|gasha2_common_label_04^剩余 {0}分钟|gasha2_common_label_05^剩余 {0}秒|gasha2_common_label_06^已结束|gasha2_common_msg_01^{0}/{1}/{2} {3:00}:{4:00}|gasha2_common_msg_02^{0}截止|gasha2_common_msg_03^超出举办时间或票券有效期。|gasha2_common_maintenance^由于现在正在维护中，无法进行购买
-详情请查看公告|gasha2_common_banner_maintenance^维护中|gasha2_common_pu_00_msg_01^要使用{0}抽取|gasha2_common_pu_00_msg_03^吗？|gasha2_common_pu_00_label_00^免费百万宝石|gasha2_common_pu_01_title^扭蛋详情|gasha2_common_pu_01_tab_0^出卡概率|gasha2_common_pu_01_tab_1^注意事项|gasha2_common_pu_01_tab_2^扭蛋说明|gasha2_common_pu_02_tab_1^限定|gasha2_common_pu_02_tab_2^新卡片|gasha2_common_card_list_none^没有符合条件的卡片|gasha2_common_tryon_kinematics_button^摇晃|gasha2_notice_default_0^拍到了大家很开心的样子哦|gasha2_notice_default_1^拍到了大家很棒的表情！|gasha2_notice_default_2^拍到了最棒的一张，请您务必确..|gasha2_mdl_detail_pu_title^扭蛋硬币|gasha2_mdl_detail_pu_tab_0^历史|gasha2_mdl_detail_pu_tab_1^持有|gasha2_mdl_detail_pu_msg_0^距离获得还需 {0}pt|gasha2_mdl_detail_pu_msg_1^由于到达持有数上限，无法获得扭蛋硬币pt|gasha2_mdl_detail_pu_msg_2^{0}年{1}月{2}日 {3:00}点{4:00}分{5:00}秒|gasha2_mdl_detail_pu_msg_3^有效期 {0}|gasha2_mdl_detail_pu_msg_4^在 {0} 使用|gasha2_mdl_detail_pu_msg_5^在 {0} 失效|gasha2_mdl_detail_pu_msg_6^暂无扭蛋硬币历史|gasha2_mdl_detail_pu_msg_7^没有持有中的扭蛋硬币|gasha2_mdl_detail_pu_msg_8^已过期|gasha2_mdl_detail_pu_msg_9^{0} 过期|gasha2_mdl_detail_pu_btn_0^前往扭蛋|gasha2_exchange_card_sort_pu_label_00^类型|gasha2_exchange_card_sort_pu_label_01^排除设置|gasha2_exchange_card_sort_pu_label_02^排序|gasha2_exchange_card_sort_pu_toggle_00^未指定|gasha2_exchange_card_sort_pu_toggle_01^已获得的卡片除外|gasha2_confirm_pu_title^使用确认|gasha2_confirm_pu_msg_00^使用{0}
+详情请查看公告|gasha2_common_banner_maintenance^维护中|gasha2_common_pu_00_msg_01^要使用{0}抽取|gasha2_common_pu_00_msg_03^吗？|gasha2_common_pu_00_label_00^免费百万宝石|gasha2_common_pu_01_title^扭蛋详情|gasha2_common_pu_01_tab_0^出卡概率|gasha2_common_pu_01_tab_1^注意事项|gasha2_common_pu_01_tab_2^扭蛋说明|gasha2_common_pu_02_tab_1^限定|gasha2_common_pu_02_tab_2^新卡片|gasha2_common_card_list_none^没有符合条件的卡片|gasha2_common_tryon_kinematics_button^摇晃|gasha2_notice_default_0^拍到了大家很开心的样子哦|gasha2_notice_default_1^拍到了大家很棒的表情！|gasha2_notice_default_2^拍到了最棒的一张，请您务必确..|gasha2_mdl_detail_pu_title^扭蛋硬币|gasha2_mdl_detail_pu_tab_0^历史|gasha2_mdl_detail_pu_tab_1^持有|gasha2_mdl_detail_pu_msg_0^距离获得还需 {0}pt|gasha2_mdl_detail_pu_msg_1^由于到达持有数上限，无法获得扭蛋硬币pt|gasha2_mdl_detail_pu_msg_2^{0}年{1}月{2}日 {3:00}点{4:00}分{5:00}秒|gasha2_mdl_detail_pu_msg_3^有效期 {0}|gasha2_mdl_detail_pu_msg_4^在 {0} 使用|gasha2_mdl_detail_pu_msg_5^在 {0} 失效|gasha2_mdl_detail_pu_msg_6^暂无扭蛋硬币历史|gasha2_mdl_detail_pu_msg_7^没有持有中的扭蛋硬币|gasha2_mdl_detail_pu_msg_8^已过期|gasha2_mdl_detail_pu_msg_9^{0} 过期|gasha2_mdl_detail_pu_btn_0^前往扭蛋|gasha2_exchange_card_sort_pu_label_00^类型|gasha2_exchange_card_sort_pu_label_01^排除设置|gasha2_exchange_card_sort_pu_label_02^排序|gasha2_exchange_card_sort_pu_toggle_00^未设置|gasha2_exchange_card_sort_pu_toggle_01^已获得的卡片除外|gasha2_confirm_pu_title^使用确认|gasha2_confirm_pu_msg_00^使用{0}
 {1}|gasha2_confirm_pu_msg_01^使用<color=#FF0098>{1}</color>{2}{0}
 {3}|gasha2_confirm_pu_msg_02^要抽取{0}{1}吗？|gasha2_confirm_pu_msg_03^要抽取{2}次{0}{1}吗？|gasha2_confirm_pu_msg_04^要抽取{0}的{1}第{2}阶吗？|gasha2_confirm_pu_warning_00^{0}不足|gasha2_confirm_pu_button_00^进行扭蛋|gasha2_confirm_pu_button_01^购买百万宝石|gasha2_error_pu_title_00^错误|gasha2_error_pu_msg_00^開催期間が終了しました。|gasha2_error_pu_msg_01^開催期間、もしくはチケットの有効期限が終了しました。|gasha2_cos_msg_00^可以获得LIVE、工作、硬币扭蛋中出现的
 偶像的共通服装！|gasha2_cos_msg_01^出現する衣装を
@@ -15375,7 +15372,7 @@ SSRの出現率はなんと<color=#FF0098>39％</color>！
 获得{1}|selection_128^持有{0}|selection_129^持有的{0}不足|selection_130^确定要交换吗？
 
 将使用<color=#FF0098>{0}</color>
-获得<color=#FF0000>{1}</color>「{2}」|selection_131^已全部持有|selection_132^<color=#FF0098>没有可以交换的票券</color>|selection_133^対象の最大レアリティ以外が選択されています|selection_134^期間限定カード以外が選択されています|selection_135^已确认|selection_136^取得済のカードが選択されています|selection_200^优先的类型|selection_201^优先的数值|selection_202^排除设置|selection_203^未指定|selection_204^已获得的卡片除外|selection_300^购买完成|selection_301^{0}  <color=#FF0098>{1}{2}</color>|selection_302^使用期限到{0}/{1:D2}/{2:D2} {3:D2}:{4:D2}:{5:D2}为止|selection_303^没有使用期限|selection_304^已领取票券|selection_400^错误|selection_401^由于存在已失效的票券
+获得<color=#FF0000>{1}</color>「{2}」|selection_131^已全部持有|selection_132^<color=#FF0098>没有可以交换的票券</color>|selection_133^対象の最大レアリティ以外が選択されています|selection_134^期間限定カード以外が選択されています|selection_135^已确认|selection_136^取得済のカードが選択されています|selection_200^优先的类型|selection_201^优先的数值|selection_202^排除设置|selection_203^未设置|selection_204^已获得的卡片除外|selection_300^购买完成|selection_301^{0}  <color=#FF0098>{1}{2}</color>|selection_302^使用期限到{0}/{1:D2}/{2:D2} {3:D2}:{4:D2}:{5:D2}为止|selection_303^没有使用期限|selection_304^已领取票券|selection_400^错误|selection_401^由于存在已失效的票券
 操作失败|selection_402^販売期間が終了しました
 もしくはチケットの有効期限が切れました|selection_500^所持セレクションチケット一覧|selection_501^使用|selection_filter_title^筛选/排序|selection_filter_tab1^排序|selection_filter_tab2^筛选|selection_filter_group_type^目标|selection_filter_group_type_name1^偶像名|selection_filter_group_category^类别|selection_filter_group_category_name1^一般|selection_filter_group_category_name2^期间限定|selection_filter_group_category_name3^FES|selection_filter_group_category_name4^SHS|selection_filter_group_category_name5^プレミアム
 ピックアップSR|selection_filter_group_costume^服装|selection_filter_group_costume_name1^附带服装|selection_filter_group_master_rank^MASTER星级状态|selection_filter_group_master_rank_name1^MASTER星级5追加|selection_filter_group_master_rank_warning1^仅显示稀有度为SSR的卡片。|selection_filter_group_center_skill^CENTER效果|selection_filter_group_skill^技能|selection_sort_group_type^类型|selection_sort_group_status^排序|selection_sort_group_possession^持有状况|selection_sort_group_possession_name1^优先显示未获得的卡片|selection_sort_group_another_kinematics^ANOTHER KINEMATICS／晃动|selection_sort_group_another_kinematics_name1^优先显示附赠相应服装的卡片|selection_sort_group_another_kinematics_info_pu_title^ANOTHER KINEMATICS／晃动|selection_sort_group_another_kinematics_info_pu_msg^本功能可以对剧场、LIVE、剧情等场景中出场的偶像的特定部位，包括「头发（呆毛）」「身体（胸部）」「服装（垂在腰部以下的部分）」进行摇晃度调整。
